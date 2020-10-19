@@ -34,6 +34,17 @@ app.get('/file', (req, res) => {
 })
 
 
+app.get('/catalogue',(req,res)=>{
+  
+
+  // Read all descriptions from products
+
+  // Combine in one Catalogue file
+
+  // Send as response
+})
+
+
 var host = 'localhost'
 var port = 8080;
 
