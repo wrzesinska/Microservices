@@ -13,8 +13,7 @@ async function exportCatalogue() {
   }
   await fs.promises.writeFile(outputFile, '')
 
-  const dir = await fs.promises.opendir(productsDir)
-  dir.
+  // const dir = await fs.promises.opendir(productsDir)
 
   const dirs = await fs.promises.readdir(productsDir)
   // All at once
