@@ -12,4 +12,11 @@ git stash -u
 git pull -t matt master 
 git pull
 
+# Nodemon
+npm i -g nodemon
+set PORT=8080 nodemon start/index.js param123
+PORT=8080 nodemon start/index.js param123
+
+nodemon start/index.js 
+
 
