@@ -4,9 +4,13 @@ var filexplorer = require('./lib/filexplorer.js')
 var app = express()
 
 app.get('/', (req, res) => {
-  res.send(
-    filexplorer.listFiles()
-  )
+  var files = filexplorer.listFiles()
+  res.send(files)
+  
+  // res.write(
+  //   JSON.stringify(filexplorer.listFiles(), 0, 2)
+  // )
+  // setTimeout(()=>res.end(), 2000)
 })
 
 var host = 'localhost'
