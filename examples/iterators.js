@@ -69,3 +69,21 @@ for await(let i of asyncIterator){
   console.log(i)
   if(i>5){ break; }
 }
+
+// as
+
+
+var iter = (max=Infinity) => ({
+    [Symbol.iterator]: function *(){
+        var i = 0;
+        while(i < max){
+            yield ++i
+        }
+           
+    }
+})
+
+for(let i of iter()){
+    console.log(i)
+    if(i>10){ break; }
+}

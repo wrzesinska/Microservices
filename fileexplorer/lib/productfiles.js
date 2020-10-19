@@ -6,6 +6,27 @@ async function exportCatalogue() {
   const outputFile = path.join(__dirname, '../output/placki/catalogue.html')
   const outputDir = path.dirname(outputFile)
 
+  const dirs = await fs.promises.opendir(productsDir)
+
+
+  for await (let dir of dirs) {
+    console.log(dir)
+    const content = await fs.promises.readFile(path.join(productsDir, dir.name, 'description.html'))
+    const data = '<h1>Product ' + dir.name + '</h1> \r\n' + content.toString()
+
+    await fs.promises.appendFile(outputFile, (data))
+    console.log('saved file '+dir.name)
+  }
+
+}
+
+
+/* 
+async function exportCatalogue() {
+  const productsDir = path.join(__dirname, '../data/products')
+  const outputFile = path.join(__dirname, '../output/placki/catalogue.html')
+  const outputDir = path.dirname(outputFile)
+
   try {
     await fs.promises.access(outputDir)
   } catch (err) {
@@ -36,7 +57,7 @@ async function exportCatalogue() {
     outputDir,
     status: 'success'
   })
-}
+} */
 
 /* 
 function exportCatalogue() {
