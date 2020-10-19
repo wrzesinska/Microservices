@@ -32,15 +32,20 @@ const server = http.createServer((req, res) => {
     var max = 10e5;
 
     // for(let i = 0; i < max; i++){
-    const handler = setInterval(() => {
+    // const handler = setInterval(() => {
+    function nextStep() {
+
       if (i++ < max) {
-          let chunk = 'Ala ma kota, ' + i + '<br/> \r\n ';
-          res.write(chunk)
-        } else {
-          clearInterval(handler)
-          res.end()
-        }
-      }, 0)
+        let chunk = 'Ala ma kota, ' + i + '<br/> \r\n ';
+        res.write(chunk)
+        nextStep(handler)
+      } else {
+        // clearInterval(handler)
+        res.end()
+      }
+    }
+    nextStep()
+    // }, 100)
     // }
 
   } else {
