@@ -1,0 +1,68 @@
+{
+  "id": "1380",
+  "name": "Womens Beige Classy Vintage Pants ",
+  "price": 88.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 29,
+    "average": 3.05
+  },
+  "category": {
+    "id": 125,
+    "name": "Pants"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Classy",
+    "Vintage"
+  ],
+  "images": [
+    {
+      "product_id": 1380,
+      "image_url": "https://images.unsplash.com/photo-1595828201560-11d36b6828a8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1380/1.jpg"
+    },
+    {
+      "product_id": 1380,
+      "image_url": "https://images.unsplash.com/photo-1595331174684-3adcb69dbf81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1380/2.jpg"
+    },
+    {
+      "product_id": 1380,
+      "image_url": "https://images.unsplash.com/photo-1595331187203-594837c3c13c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1380/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13800100,
+      "feature_id": 100,
+      "product_id": 1380,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13800100,
+      "feature_id": 100,
+      "product_id": 1380,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13800200,
+      "feature_id": 200,
+      "product_id": 1380,
+      "name": "Color",
+      "value": "Beige"
+    }
+  ],
+  "description": "<h2>Arces ora et hastae gratia</h2>\n<p>Lorem markdownum factum coma passu tellus esset, est rivus truncos animal. Sunt\nnullum in utque procul, aut <a href=\"http://munus.net/illecurvamine.php\">est</a>, dis fies\nvinci Minos <strong>futurus pendentem</strong> suos gurgite. Velociter pariterque est, at\nulli habet exierint sociis inposita effugiam proles.</p>\n<ol>\n<li>Et rector invito ille in ait</li>\n<li>Bacis alia nec coniuge quae sed terra</li>\n<li>Carchesia columbas et longam palluit</li>\n<li>Semper corpora oderat</li>\n</ol>\n<h2>Adfata et animaque nodoso</h2>\n<p>Nondum igne cubitoque. Saxa animi nisi. Illo haec te enumerare passim. Vulnera\ninprudens paratis secabatur sanguine <a href=\"http://motus-scitantibus.org/\">formam</a>;\nsuo per captiva proditione ope <a href=\"http://huc.io/cui.php\">nec novitate</a>, inde facta\nbene. <a href=\"http://placido.com/\">Et Brotean</a> sunt supplex fallit viscera pendebant\naudita, prohibetque tanta indignis levata equis pes tibi inquit Palicorum in\nvias.</p>\n<h2>Hanc torruit tepebat pectore victi toto et</h2>\n<p>Solent stetit rapi ultor deae ambagibus occidimus veluti prodamne perosus ut\nraucum rati, te quidem maior ablata contermina <strong>clausas</strong>. Harena amictus\nStygius mensas et dolor, quaeque, erat otia ille celeberrima antra,\n<a href=\"http://www.iusta.net/toto\">te</a>.</p>\n<h2>Luctibus et futuri moriens erubuere</h2>\n<p>Illic ferali, magni quis sermone est ille soporem studii. <em>Ligo</em> Tityos\ninscriptum, in <strong>vivam non</strong>, ambit! Visam sum aequoris fumi?</p>\n<ol>\n<li>Ferre quam caput magna enim mirabere</li>\n<li>Ante solacia mixta</li>\n<li>Aura ratus adacto</li>\n<li>Collocat erat noster</li>\n<li>Molitur acer incedit</li>\n<li>Picea ex adrides felices operisque agmine femineo</li>\n</ol>\n<p>Neque naufragus potuit, opto Bootes gramina: quis haec vitibus\n<a href=\"http://talis.com/\">Euhan</a>. Promissi lacubus, est et exaudire, per, moriens,\ncornua sine tunc ab utar tangam concepta.</p>\n",
+  "excerpt": "<p>Lorem markdownum factum coma passu tellus esset, est rivus truncos animal. Sunt\nnullum in utque procul, aut <a href=\"http://munus.net/illecurvamine.php\">est</a>, dis fies\nvinci Minos <strong>futurus pendentem</strong> suos gurgite. Velociter pariterque est, at\nulli habet exierint sociis inposita effugiam proles.</p>\n<ol>\n<li>Et rector invito ille in ait</li>\n<li>Bacis alia nec coniuge quae sed terra</li>\n<li>Carchesia columbas et longam palluit</li>\n<li>Semper corpora oderat</li>\n</ol>\n"
+}

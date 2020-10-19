@@ -1,0 +1,127 @@
+{
+  "id": "1273",
+  "name": "Mens Khaki/Black/White Basic Hoodie ",
+  "price": 79.99,
+  "price_promo": 69.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 111,
+    "average": 2.66
+  },
+  "category": {
+    "id": 111,
+    "name": "Hoodies and sweaters"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Basic",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1273,
+      "image_url": "https://images.pexels.com/photos/4114848/pexels-photo-4114848.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1273/1.jpg"
+    },
+    {
+      "product_id": 1273,
+      "image_url": "https://images.pexels.com/photos/4114845/pexels-photo-4114845.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1273/2.jpg"
+    },
+    {
+      "product_id": 1273,
+      "image_url": "https://images.pexels.com/photos/4064841/pexels-photo-4064841.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1273/3.jpg"
+    },
+    {
+      "product_id": 1273,
+      "image_url": "https://images.pexels.com/photos/4064839/pexels-photo-4064839.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1273/4.jpg"
+    },
+    {
+      "product_id": 1273,
+      "image_url": "https://images.pexels.com/photos/4542854/pexels-photo-4542854.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1273/5.jpg"
+    },
+    {
+      "product_id": 1273,
+      "image_url": "https://images.pexels.com/photos/4542846/pexels-photo-4542846.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1273/6.jpg"
+    },
+    {
+      "product_id": 1273,
+      "image_url": "https://images.pexels.com/photos/4542862/pexels-photo-4542862.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1273/7.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12730100,
+      "feature_id": 100,
+      "product_id": 1273,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12730100,
+      "feature_id": 100,
+      "product_id": 1273,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12730100,
+      "feature_id": 100,
+      "product_id": 1273,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12730100,
+      "feature_id": 100,
+      "product_id": 1273,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12730100,
+      "feature_id": 100,
+      "product_id": 1273,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12730200,
+      "feature_id": 200,
+      "product_id": 1273,
+      "name": "Color",
+      "value": "Khaki"
+    },
+    {
+      "id": 12730200,
+      "feature_id": 200,
+      "product_id": 1273,
+      "name": "Color",
+      "value": "Black"
+    },
+    {
+      "id": 12730200,
+      "feature_id": 200,
+      "product_id": 1273,
+      "name": "Color",
+      "value": "White"
+    }
+  ],
+  "description": "<h2>Cum squalentia</h2>\n<p>Lorem markdownum, res virgo! Anthedone miserae populi, recepta nec?</p>\n<h2>Pro quam</h2>\n<p>Numina crimine sed <strong>floresque et</strong> vires saecula pensa dedit thalamos, ferro.\nMoenia dum. Voluere thalamique ramos se puniceo terras, ecce <a href=\"http://aequoraut.com/\">primum\naura</a>; sororum sunt, nam orba longi <strong>monstravit\ngentisque</strong> quoque. Veras audiat vixque ipso maximus Orion, spatium studiis\nGraiosque. Ferens aut, dum tam rescindere <em>maiora</em>.</p>\n<blockquote>\n<p>Humo addit, pars neve, deo <em>nec repulsus volitare</em> vulnere animae Persephones\ndant. Nascentia non est non aevum demisso clamantia ista <a href=\"http://finditque.org/\">Tritonida\nmorte</a>.</p>\n</blockquote>\n<h2>Thestias ibis gemit licet et illam</h2>\n<p>Praestantior ait duritia ipsi lacusque vulnere sociam. Pertimui non fecit\nsomnus!</p>\n<ol>\n<li>Fuit sine tulit</li>\n<li>Et quem pellibus querellis tremens ferox</li>\n<li>Vestes numquam venire celer</li>\n</ol>\n<h2>Coeperat dura superque ferebant motibus ante modo</h2>\n<p>Praetemptat mutare cognita Laertiadaeque ecce amittere tandem est quodque <a href=\"http://simillimuspraebebant.com/\">talia\nfuit</a>, Argolicas ruinae fabula? At Tmolo\nHeliadum. Non dira <em>nunc epulasque</em> nulloque tenuem properabat invidiae eras;\nferunt rogis nec legatur tempusque fieri Taygetenque vicina; est.</p>\n<p>Mersaeque deum arbore non Ceres somnis\n<a href=\"http://propioriram.net/propioreconcurreret\">in</a>, et ergo plenas per. Tulit\nfavorque <a href=\"http://heros.org/\">audiat</a> sternuntur me leto rogantis suarum sorte,\nde inter devovet cuius: deinde pereat.</p>\n",
+  "excerpt": "<p>Lorem markdownum, res virgo! Anthedone miserae populi, recepta nec?</p>\n<p>Numina crimine sed <strong>floresque et</strong> vires saecula pensa dedit thalamos, ferro.\nMoenia dum. Voluere thalamique ramos se puniceo terras, ecce <a href=\"http://aequoraut.com/\">primum\naura</a>; sororum sunt, nam orba longi <strong>monstravit\ngentisque</strong> quoque. Veras audiat vixque ipso maximus Orion, spatium studiis\nGraiosque. Ferens aut, dum tam rescindere <em>maiora</em>.</p>\n<blockquote>\n<p>Humo addit, pars neve, d</p>\n</blockquote>\n"
+}

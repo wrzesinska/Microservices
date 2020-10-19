@@ -1,0 +1,75 @@
+{
+  "id": "1329",
+  "name": "Mens Small Round Straw Summer Hat",
+  "price": 79.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 133,
+    "average": 2.33
+  },
+  "category": {
+    "id": 116,
+    "name": "Caps and hats"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Summer",
+    "Straw"
+  ],
+  "images": [
+    {
+      "product_id": 1329,
+      "image_url": "https://images.pexels.com/photos/2875005/pexels-photo-2875005.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1329/1.jpg"
+    },
+    {
+      "product_id": 1329,
+      "image_url": "https://images.pexels.com/photos/2853533/pexels-photo-2853533.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1329/2.jpg"
+    },
+    {
+      "product_id": 1329,
+      "image_url": "https://images.pexels.com/photos/2849836/pexels-photo-2849836.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1329/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13290100,
+      "feature_id": 100,
+      "product_id": 1329,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13290100,
+      "feature_id": 100,
+      "product_id": 1329,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13290100,
+      "feature_id": 100,
+      "product_id": 1329,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13290200,
+      "feature_id": 200,
+      "product_id": 1329,
+      "name": "Color",
+      "value": "Yellow"
+    }
+  ],
+  "description": "<h2>Bracchia velleribus sinunt Capitolia atque superatus</h2>\n<p>Lorem markdownum ille. Licentia Phoebi.</p>\n<p>Versa more quod et, <strong>potes</strong> poenamque esse palmis, caret. Tamen ubi mutatus\nobliquo crimina <a href=\"http://sub-visa.io/\">simili</a> iaceret adyto lintea defluxere;\nmento, et. Sors poterat mihi Siculique luna sua, quid equos adhuc.</p>\n<h2>Ardor igne</h2>\n<p>Sanguine ignis coniecit malles, me et silicem sic; hac <em>et</em>, frondes in undis de\nest. Et putares candentem Latoius, quarum de venisse <a href=\"http://colubris.com/mihi\">repulsa anteit\nAtlas</a> longa.</p>\n<h2>Pectus tuis disiecit iraque nullique non patrium</h2>\n<p>Manet cum nam <em>tuumque Pleias</em> umet visum. Iam direpta, osse et circumdatus\nhabebat sonantibus genu. Da sororum corpore Egeriae aut Morpheus, torrem, cum\nBaucis est nam, quo. Bucina praevius, <strong>in quod ac</strong> revulsum indueret capillis\ntamen <em>ab</em> Perseus surgit.</p>\n<blockquote>\n<p>Morsu et sisti. Nec secura enim et matres pellitis fundunt virgine remoliri\nputat. Coniectos quem causa pictis unde minor semper heros rexque demptos,\npossunt. Illo relicto antra comitatur, iugo longi nostri opperiuntur dabat\nfamulis bella antiqua una. Deducite aduncos ipsis decolor <a href=\"http://placere.io/\">quasque pennae\nporrigeret</a> rotisque iam <em>collo</em> guttura omnia!</p>\n</blockquote>\n<h2>Gentis armis veniebat</h2>\n<p>Passaque alimenta ictu sunt ubi erat de satos vulnere necat me temploque solent\nte lacerti at sequitur, visurus. Utque posuitque terribiles sua lancea, et\nsilvis redeant. Quam addita super aliis conbibitur pectoribus dixit paulumque\npectus exhalantes altis freta. Solemus e gerit mortalis feruntur perque; libido\nbracchia constitit terram pennis <a href=\"http://transit.org/curvoset\">iunctorum haec</a>:\nusta. Urbi qui <em>radium</em>, clamant; Pagasaeus robustior matrem indignave sibi\ncoeperunt conspiceris velut sub.</p>\n<h2>Reor satus vallis</h2>\n<p>Non tecum; quia duro lucos fremit corde taedis disiunxisse parte; unda tumet,\nmoderamina; si. Esses a poplite magno, Clymeneque motus recepit facitis ea\npennas, est erat unus tonsa agros.</p>\n<ol>\n<li>Pars multum accipite iunget</li>\n<li>Nivibus in tandem iusserat remorum latet</li>\n<li>Canori caelestum vultumque erat tardae aptae simul</li>\n</ol>\n<p>Vehi minus, summoque. In morsa parentis inter? Ut terram, Phoceus cunctos\ntetigit infelix praecipitem quem, quaeque sustollit volucres fibris. Si\ngemmantia ne vox veteris purpura <strong>est opes</strong> valens scitabere intus! Contractus\nmihi audacem negaverit longos ingens.</p>\n",
+  "excerpt": "<p>Lorem markdownum ille. Licentia Phoebi.</p>\n<p>Versa more quod et, <strong>potes</strong> poenamque esse palmis, caret. Tamen ubi mutatus\nobliquo crimina <a href=\"http://sub-visa.io/\">simili</a> iaceret adyto lintea defluxere;\nmento, et. Sors poterat mihi Siculique luna sua, quid equos adhuc.</p>\n<p>Sanguine ignis coniecit malles, me et silicem sic; hac <em>et</em>, frondes in undis de\nest. Et putares candentem Latoius, quarum de venisse [repulsa antei</p>\n"
+}

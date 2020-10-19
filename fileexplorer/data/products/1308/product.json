@@ -1,0 +1,76 @@
+{
+  "id": "1308",
+  "name": "Mens Tricolor Chilled Sports Jacket",
+  "price": 98.99,
+  "price_promo": 78.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 165,
+    "average": 2.92
+  },
+  "category": {
+    "id": 114,
+    "name": "Jackets and coats"
+  },
+  "brand": {
+    "id": 104,
+    "name": "Sportway"
+  },
+  "tags": [
+    "Tricolor",
+    "Sport"
+  ],
+  "images": [
+    {
+      "product_id": 1308,
+      "image_url": "https://images.pexels.com/photos/2364605/pexels-photo-2364605.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1308/1.jpg"
+    },
+    {
+      "product_id": 1308,
+      "image_url": "https://images.pexels.com/photos/2364607/pexels-photo-2364607.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1308/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13080100,
+      "feature_id": 100,
+      "product_id": 1308,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13080100,
+      "feature_id": 100,
+      "product_id": 1308,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13080100,
+      "feature_id": 100,
+      "product_id": 1308,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13080100,
+      "feature_id": 100,
+      "product_id": 1308,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13080200,
+      "feature_id": 200,
+      "product_id": 1308,
+      "name": "Color",
+      "value": "White"
+    }
+  ],
+  "description": "<h2>Mutando carina Monychus</h2>\n<p>Lorem markdownum deprimeret monte, tuorum duxere; quo vultus ferentem conata,\npopulo imitante. Quae nunc reiecit, iuventus vigor, opprimere inquit duobus\nfecit.</p>\n<ul>\n<li>Sit vidi est iunxit semper</li>\n<li>Prosunt amoris e quoque sucis lassata fieri</li>\n<li>Abluit sed terrae vertitis</li>\n</ul>\n<p>Est nuda, <a href=\"http://sinistris-puero.net/nata\">carmina qua</a>: Venulus bello morte;\nnon <em>anxia</em> arcana Iuppiter undis, ecce duro! Nervo constitit calathis at subit?\nOra <em>in inde</em> actusque stipitis est, si tumulos dentes ignemque functus Tereus\npotentia: vel nunc quicquid canentis? Auctorem timidissime tamen pervenit\ncontendere dapes, aliter cum <em>scissaque</em> regia:\n<a href=\"http://inpost.net/orbetuus.aspx\">nec</a> educat, ubi!</p>\n<h2>Pythona maiestas vacuam</h2>\n<p>Coniuge astra! Lupos Belides, Te nivibus quid quae nataeque modo? Quoque vidi,\nferi Arachnes <a href=\"http://estfalce.org/a-sidera\">torsit et</a> excipit viam famularia\nhac aquam urbesque. Adsiduo inermi, accipit laniare, extemplo. Ames ignis,\ncorpus terris.</p>\n<p>Perque canet: est <strong>sub</strong> adlabimur dubitat terga, quae tendunt nomine, nata\nprius <em>Achille</em> corpora putatis Pleiadasque. Cavae revirescere lacertis\nnegabamus utque glorior studio obscenique quo, tum in aggere! Diras in, invidere\npotest stellantibus vestigia Iasonis ferventia haud habebat scopulo iram summo.\nTangit serva fuit iocosa et veniat qui, Hecate ab illa, cum nec, Rutulos dixit\n<strong>coloribus</strong>, cernentem.</p>\n<h2>Continuo honores si ex conveniant te fertur</h2>\n<p>Ira <strong>ursi a habet</strong> repulsa nox omnia <em>testemque</em>, tam digna bono. Quorum et\n<em>sparsit</em> misso, <em>utque</em>? Vero agros fugae et eram suis mihi placido spinae\n<a href=\"http://situm.net/paratur-et\">Hippotadaeque tantique exspectant</a> humum. Eridanus\nvidebit faciesque fratrem mendacem nutrix vestigia hoc ducem quamvis pro rimis.</p>\n<blockquote>\n<p>Crimine reliquit, quoque. Stimulis <strong>perque fatebor</strong> supremis; vituli Tydides\nsuperbum, vincula sic iungi <a href=\"http://accepisseaversae.net/diesnon\">tela prima\net</a> tacitaque litore.</p>\n</blockquote>\n<p>Quondam cornua, <a href=\"http://duram-fugiebant.io/ursos-et\">pietate</a> vero! Mota\nprimaque et fugit palluit usum veluti Ixion parte pavor, se visa, <em>ab</em> novi tuli\ndetinet.</p>\n<p>Proque defrenato eque emisit herbis Libycas quem; haec ille furens eminus sit\narentia. At respiramina spernit. Manu lapis redituraque reponit edidit potentia\nin coire, sic? Memoris forte successu advertere igne ego fata regi motibus sub\nunam. Te equi, vim sensit pelagi arma tulit vobis motis rogat aequo ex fugit\ntotidemque carmen uteroque.</p>\n",
+  "excerpt": "<p>Lorem markdownum deprimeret monte, tuorum duxere; quo vultus ferentem conata,\npopulo imitante. Quae nunc reiecit, iuventus vigor, opprimere inquit duobus\nfecit.</p>\n<ul>\n<li>Sit vidi est iunxit semper</li>\n<li>Prosunt amoris e quoque sucis lassata fieri</li>\n<li>Abluit sed terrae vertitis</li>\n</ul>\n<p>Est nuda, <a href=\"http://sinistris-puero.net/nata\">carmina qua</a>: Venulus bello morte;\nnon <em>anxia</em> arcana Iuppiter undis, ecce duro! Nervo constitit calathis at subit?\nOra <em>in inde</em> actusque st</p>\n"
+}

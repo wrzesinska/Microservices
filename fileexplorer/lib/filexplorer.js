@@ -1,6 +1,5 @@
 
 function listFiles() {
-  privateFunction()
   return ['fakefile.txt']
 }
 

@@ -1,0 +1,76 @@
+{
+  "id": "1325",
+  "name": "Mens Beige Camel Classy Loose Blazer",
+  "price": 148.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 218,
+    "average": 4.59
+  },
+  "category": {
+    "id": 115,
+    "name": "Blazers"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Classy",
+    "Loose",
+    "Camel"
+  ],
+  "images": [
+    {
+      "product_id": 1325,
+      "image_url": "https://images.pexels.com/photos/3095440/pexels-photo-3095440.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1325/1.jpg"
+    },
+    {
+      "product_id": 1325,
+      "image_url": "https://images.pexels.com/photos/3095441/pexels-photo-3095441.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1325/2.jpg"
+    },
+    {
+      "product_id": 1325,
+      "image_url": "https://images.pexels.com/photos/3095442/pexels-photo-3095442.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1325/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13250100,
+      "feature_id": 100,
+      "product_id": 1325,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13250100,
+      "feature_id": 100,
+      "product_id": 1325,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13250100,
+      "feature_id": 100,
+      "product_id": 1325,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13250200,
+      "feature_id": 200,
+      "product_id": 1325,
+      "name": "Color",
+      "value": "Beige"
+    }
+  ],
+  "description": "<h2>Terrena geruntur tibi admonita Nyseus locum Perseus</h2>\n<p>Lorem markdownum mensae satis leaena et nigrior ferro, quem et in si sensit\ntellus nebulas illi; milia. Pugnantem nullique esse virentes alienae solebam\nfunesta illius: ignorans bracchia traduxit duobus frenabas. Intraverat apte\norbem inque verteris, est portat auras plumbum? Esset incursus in sensit magno\nMinervae?</p>\n<blockquote>\n<p><a href=\"http://pendensnon.io/\">Numen pugnabant duorum</a> cognoscite, alter eodem umeri\nmecum adversas dilectus rarissima quae. Pars Picus, sit, non manum siccaeque\nin undis tenentem vultumque tibi quo. Dedantur ego. Observo aqua Poeantia\ntellus praemia amplexus metitur; undas sanguine natus ingenium mitissima\nrursusque nunc. Dextramque neve, fine suos Haemonio puer, tum humi, ille heres\nconsumitis Triopeius ardent penetralia, decus alto.</p>\n</blockquote>\n<h2>Levitate labore ubi</h2>\n<p>Ire corpore est Phrygiae tellus: Aonio tam Amphrysi quantum. Flenti vis quoque\nmutabit et femineae, vulnerat mortis. Pro <em>prece</em> nebulae deprensa, inductas\nVenus <strong>quoque</strong>: nuper cycnus siquidem relinquit paternos villos! Dilaniat\nErebi?</p>\n<h2>Non lacertos quinos medulla hospita deteriorque nulla</h2>\n<p>Pectore quod Hymenaee. Posse duro sua <a href=\"http://parteisto.org/quattuor-reppulit\">mortisque dicere\nAeacideia</a> colli domos ante. Lambebat\nsenior numerandos tostos nequiquam et comites colebat nomine precari, uno per\nillius. Quae inminet reddidit tantum insidere habitat Labitur\n<a href=\"http://regia-sustinuere.com/armaundis.php\">secum</a> tamen: posuere illa.\nTactusque pellibus ille quae, vos hanc, sub te tenebant aesculea parte antemnis.</p>\n<p><a href=\"http://nec-frustra.com/et\">Undae deus quamvis</a> non, sed lacubus matrem, unde,\nCometen, sua petit. Vicit est templis guttura adducere sermone vivax patrioque\n<strong>rapuere</strong>. Nec temptat olivae sanguine et fulvis caelum exierat gerentes;\nsecundi Iuno indignum.</p>\n<h2>Motu nataeque Thybris Pergama</h2>\n<p>Sed inmota lina inmotusque rursus mora et <strong>timet inmisitque illo</strong>. Caesarumque\ncunctae opem albo tectis quaesitisque Saturnia partem sic quicquid bello\nlocutus: nocte ortus hostis vincetur eademque. Vectus potuissent erat nostra nec\nmemor nomen detectique tibi satia dimovit dulci. Lupus persequitur sublime magno\ncontingere comitata, servor verba, me errorem certa radicibus. Formatus rediere\nerres, <em>nec</em> primaque <a href=\"http://et-nota.org/tum.html\">quin quidque ut</a> verso?</p>\n<p>Revertentes incoquit velit fletus perdideris lucoque dum volucrem casus rictus,\nhuc vel ille vagantem rostrum. Sit <strong>cum</strong>: parsque his, caedis viros modo\nLiber, cum poteram anum, est. Proximus alba!</p>\n",
+  "excerpt": "<p>Lorem markdownum mensae satis leaena et nigrior ferro, quem et in si sensit\ntellus nebulas illi; milia. Pugnantem nullique esse virentes alienae solebam\nfunesta illius: ignorans bracchia traduxit duobus frenabas. Intraverat apte\norbem inque verteris, est portat auras plumbum? Esset incursus in sensit magno\nMinervae?</p>\n<blockquote>\n<p><a href=\"http://pendensnon.io/\">Numen pugnabant duorum</a> cognoscite, alter eodem umeri\nmecum adversas dilectus rarissima quae. Pars Picus,</p>\n</blockquote>\n"
+}

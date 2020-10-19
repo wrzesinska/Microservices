@@ -1,0 +1,88 @@
+{
+  "id": "1367",
+  "name": "Womens Blue Thin Summer Top With Cherub Motive",
+  "price": 54.99,
+  "price_promo": 44.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 228,
+    "average": 2.51
+  },
+  "category": {
+    "id": 123,
+    "name": "Tops"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Cherub",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1367,
+      "image_url": "https://images.unsplash.com/photo-1595458649223-8014755c0b59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1367/1.jpg"
+    },
+    {
+      "product_id": 1367,
+      "image_url": "https://images.unsplash.com/photo-1595458649737-b13478795df6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1367/2.jpg"
+    },
+    {
+      "product_id": 1367,
+      "image_url": "https://images.unsplash.com/photo-1595458649157-9e31c278b49c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1367/3.jpg"
+    },
+    {
+      "product_id": 1367,
+      "image_url": "https://images.unsplash.com/photo-1595458650692-07bda3933e04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1367/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13670100,
+      "feature_id": 100,
+      "product_id": 1367,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13670100,
+      "feature_id": 100,
+      "product_id": 1367,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13670100,
+      "feature_id": 100,
+      "product_id": 1367,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13670100,
+      "feature_id": 100,
+      "product_id": 1367,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13672100,
+      "feature_id": 200,
+      "product_id": 1367,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Nec illud clipeus nec legebant nutricis</h2>\n<p>Lorem markdownum in senili retinens suum esse hastis venit tantis coniunctior\nsucis. Reor quoque umor posita at <strong>insilit pectus</strong> cinis cincta. Bracchia\nvocat sequente: spemque times, sub, Vix superi Ixionis, excipit.</p>\n<blockquote>\n<p>Quamquam oscula animo in doque inmittitur subiecit decoris macies stolidarum\nPleuronius vixque. Tenens quae canentis <a href=\"http://non.com/\">serum</a>, vitale non\ncunctis, ramos esse vox locum: visa tum furit posuisse heros sententia. Amnis\nfletque Dianae, revocare furtim qui cedunt oculis sit referebam neque; et\ntamen et herba bracchiaque. Senili corpus?</p>\n</blockquote>\n<p>Summa nec digestum, ait monimenta, est quae matrum pudibundaque pavet percutit\n<em>fecit</em>, citharae ille in. Lunae manus hosti mihi et\n<a href=\"http://marito.net/\">villae</a> naturamque nigris, <strong>ante</strong> natam levitate ille,\ndiva racemifero cvrrvs, onerata. Epota garrula <strong>umbra antiquique</strong> coniecta\nterra, qui at exire abdiderat laedere saepe regnum, iudice.</p>\n<h2>Peti quamvis superi</h2>\n<p>Delere enim, sim audax capit; spes foret femineo terram oras templa Ampycides,\ncervix ab. <a href=\"http://famesolympi.io/\">Passim auctaque</a> utere consequiturque formas\nmecum fors protulit monstris rebus induiturque fecit: anum clamore. Achaemenias\nsanguinis munere alto Phoebus. Erat frena mille naufragus mentem est Haemonii\ntamen, non dedit; aspexit. Dives mixtum.</p>\n<ul>\n<li>Vibrantia malo quae sororum</li>\n<li>Vidisti procumbere</li>\n<li>Nata est carmen quasi</li>\n<li>Nocebant ad potestas</li>\n<li>Ab tigres semine in ita satis sorores</li>\n<li>Ilicet non scissae velut</li>\n</ul>\n<h2>Phrygias Cepheaque moveri dearum popularis meis damnasse</h2>\n<p>Via duo illam, satis donec et super humum locus erit. Dubites iniquus, dura est:\net vagatur crudelia: <strong>datas</strong> ore. Premitur <a href=\"http://gravidae.io/\">alipedis ad\nfuturi</a> Alcimedon et dolor rogabam quaque; loca vomere\nquondam.</p>\n<ul>\n<li>Agamemnona securosque undas</li>\n<li>Victorque Ausonium vere os Danaos coepere</li>\n<li>Se petendi flavus caesa putares monitusque classe</li>\n<li>Supponere horrenda</li>\n<li>Quod adyto tergo</li>\n</ul>\n<p>Adunco petitus latere quascumque candidioribus ratibus praedictaque regem matri:\nde. Omnia quam celeremque: exue parva: tuas confessaque longa <strong>inmissusque</strong>\nsacri insiluit retinens Tempe placabilis non adimit voce. Quas in vestros arcus!</p>\n",
+  "excerpt": "<p>Lorem markdownum in senili retinens suum esse hastis venit tantis coniunctior\nsucis. Reor quoque umor posita at <strong>insilit pectus</strong> cinis cincta. Bracchia\nvocat sequente: spemque times, sub, Vix superi Ixionis, excipit.</p>\n<blockquote>\n<p>Quamquam oscula animo in doque inmittitur subiecit decoris macies stolidarum\nPleuronius vixque. Tenens quae canentis <a href=\"http://non.com/\">serum</a>, vitale non\ncunctis, ramos esse vox locum: visa tum</p>\n</blockquote>\n"
+}

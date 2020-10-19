@@ -1,0 +1,104 @@
+{
+  "id": "1282",
+  "name": "Mens Beige/Blue/Green Flannel Checkered Shirt",
+  "price": 74.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 163,
+    "average": 2.08
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Checkered Pattern",
+    "Flannel",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1282,
+      "image_url": "https://images.pexels.com/photos/3889627/pexels-photo-3889627.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1282/1.jpg"
+    },
+    {
+      "product_id": 1282,
+      "image_url": "https://images.pexels.com/photos/3889624/pexels-photo-3889624.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1282/2.jpg"
+    },
+    {
+      "product_id": 1282,
+      "image_url": "https://images.pexels.com/photos/3889629/pexels-photo-3889629.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1282/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12820100,
+      "feature_id": 100,
+      "product_id": 1282,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12820100,
+      "feature_id": 100,
+      "product_id": 1282,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12820100,
+      "feature_id": 100,
+      "product_id": 1282,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12820100,
+      "feature_id": 100,
+      "product_id": 1282,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12820100,
+      "feature_id": 100,
+      "product_id": 1282,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12820200,
+      "feature_id": 200,
+      "product_id": 1282,
+      "name": "Color",
+      "value": "Beige"
+    },
+    {
+      "id": 12820200,
+      "feature_id": 200,
+      "product_id": 1282,
+      "name": "Color",
+      "value": "Blue "
+    },
+    {
+      "id": 12820200,
+      "feature_id": 200,
+      "product_id": 1282,
+      "name": "Color",
+      "value": "Green"
+    }
+  ],
+  "description": "<h2>Alto sic possent</h2>\n<p>Lorem markdownum, erat abest elisarum sibi; ut nihil; profugam! <strong>Flebat oris</strong>;\nverba nam eram praebet acutior, sua tubae manibus trahit? Sortite puduit, vos\nmiratur capillos palmis monte cruentatis, animae praecingitur iussum;\nterribilesque reor ventura. Phoebo lubrica factura provolvi talibus in spolioque\nmetum curru, morsus <strong>tandem errans</strong> in pluma versus obsessae iras cervice.</p>\n<ul>\n<li>Potes florentis continet miles</li>\n<li>Cum manus</li>\n<li>Plus illis</li>\n<li>Frustra hos non alis superest tremulo thalamoque</li>\n<li>Pingue fecit viscata e domus cepi ruinas</li>\n</ul>\n<p>Iovi iam ire tanti suis inde clipeoque ardua hic etiam forum. Interrita prima\nquinque dicta.</p>\n<h2>Me multum auxilium quae rotae canunt si</h2>\n<p>Natas a victus ferrum; enim <em>colla calathosque</em> per Phaethontis eque dentibus\nvidit nescit inducto. Quas ita vestemque pars excessitque sordida fronte\npostquam faciat <a href=\"http://pectus.net/quid.php\">et</a> ab offensa brevior.</p>\n<ol>\n<li>Sive redit artes vidisti</li>\n<li>Ipse aula</li>\n<li>Dixit pollice nisi inexpleto duobus Cythereide et</li>\n<li>Luna dubitor adimunt patrem et regia forma</li>\n</ol>\n<p>Causam fluminis tepidae commemorare leviter, cur sederat moneri recingor\nAmphiona reccidat, venti. Quae quidem pepercit timenda. Orare postquam ficto, in\nnunc ex percussa infuso sex sub <strong>vix misit</strong> vultus bracchia, Perseus. Manus\nsub, feras sociorum; mihi deducit modo missa.</p>\n<p>Ursa miles: possit mens augebat, Latialis atque. Coactus nisi, est gravidi urbis\ncorpora cruentum dixit in dant! Aut in ab gentis!</p>\n",
+  "excerpt": "<p>Lorem markdownum, erat abest elisarum sibi; ut nihil; profugam! <strong>Flebat oris</strong>;\nverba nam eram praebet acutior, sua tubae manibus trahit? Sortite puduit, vos\nmiratur capillos palmis monte cruentatis, animae praecingitur iussum;\nterribilesque reor ventura. Phoebo lubrica factura provolvi talibus in spolioque\nmetum curru, morsus <strong>tandem errans</strong> in pluma versus obsessae iras cervice.</p>\n<ul>\n<li>Potes florentis</li>\n</ul>\n"
+}

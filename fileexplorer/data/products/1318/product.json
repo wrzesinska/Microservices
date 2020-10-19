@@ -1,0 +1,83 @@
+{
+  "id": "1318",
+  "name": "Mens Mixed Blue Thin Denim Jeans Jacket",
+  "price": 88.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 108,
+    "average": 4.07
+  },
+  "category": {
+    "id": 114,
+    "name": "Jackets and coats"
+  },
+  "brand": {
+    "id": 105,
+    "name": "BlueLabelDenim"
+  },
+  "tags": [
+    "Denim",
+    "Thin",
+    "Jeans"
+  ],
+  "images": [
+    {
+      "product_id": 1318,
+      "image_url": "https://images.pexels.com/photos/4674411/pexels-photo-4674411.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1318/1.jpg"
+    },
+    {
+      "product_id": 1318,
+      "image_url": "https://images.pexels.com/photos/4674404/pexels-photo-4674404.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1318/2.jpg"
+    },
+    {
+      "product_id": 1318,
+      "image_url": "https://images.pexels.com/photos/4674414/pexels-photo-4674414.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1318/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13180100,
+      "feature_id": 100,
+      "product_id": 1318,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13180100,
+      "feature_id": 100,
+      "product_id": 1318,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13180100,
+      "feature_id": 100,
+      "product_id": 1318,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13180100,
+      "feature_id": 100,
+      "product_id": 1318,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13180200,
+      "feature_id": 200,
+      "product_id": 1318,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Negarunt patris capit harundine leto</h2>\n<p>Lorem markdownum facientes patitur freta conplectitur vidit venientesque viros.\nDiu Marte esse. Est novat austro, me, digerit scilicet miseri turbantes aprum\nmeminere sua ambage iunxisse vindex sacra tinguamus de.</p>\n<h2>Regalia eripitur</h2>\n<p>Iusto obstabatque prior quicquam fluctus, sub Rhesi, nulloque ignes aliquid\nmediis, sed Peliden vellere umbrae, procorum. Unca heu hoc Scythicas est et\nilla, nec adlevat natis comparat.</p>\n<ul>\n<li>Homines ad nunc flamine agmine subitis miserum</li>\n<li>Huic Priamum visum</li>\n<li>Mansit Cycneia quem munere pedibus illos maiorque</li>\n<li>Radiis Pholus donec</li>\n<li>Refugit in nati lecto tenuatus quos securi</li>\n<li>Silentia armet</li>\n</ul>\n<h2>Satis expendite unus mergor regi magnumque Turno</h2>\n<p>Idem ille incompta satisque Ionium; edendo doli, quamvis fessos unda. Fumis suis\ninseris vulneribus altior, est at gentis futuri deosque quamvis viro, est loca\nsociis di artus? <a href=\"http://www.maris.net/animoserat.html\">Postquam animis arcet</a>\nquies Scylla aut rorat illa possunt, ego sua, futuro esse.</p>\n<ul>\n<li>Monet probatur at terrore aetate telum puppis</li>\n<li>Cruentae ex aevum</li>\n<li>Tecum spargit canes fecissent</li>\n<li>Perceperat equi</li>\n<li>Cumque nec</li>\n<li>Pedesque nec levi poterat rubefecit sub ostendit</li>\n</ul>\n<h2>Garrula placidi</h2>\n<p>Silentum rebus in Anigrus negatur comitesque, contigerant pello, cum omnia hanc,\nsuo <em>rauco</em>: opem. Habent supremo mandata gratissime ministros resque totiens:\nat mei nosti caelestia, arce, <strong>quod</strong>.</p>\n<p>Ipsa quod videor nona madefecit imperat funeribus sentit ipsa! Est in templo\nauras digitos relevasse auctus cruore.</p>\n",
+  "excerpt": "<p>Lorem markdownum facientes patitur freta conplectitur vidit venientesque viros.\nDiu Marte esse. Est novat austro, me, digerit scilicet miseri turbantes aprum\nmeminere sua ambage iunxisse vindex sacra tinguamus de.</p>\n<p>Iusto obstabatque prior quicquam fluctus, sub Rhesi, nulloque ignes aliquid\nmediis, sed Peliden vellere umbrae, procorum. Unca heu hoc Scythicas est et\nilla, nec adlevat natis comparat.</p>\n<ul>\n<li>Homines ad nunc flam</li>\n</ul>\n"
+}

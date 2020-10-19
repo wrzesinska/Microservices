@@ -1,0 +1,82 @@
+{
+  "id": "1330",
+  "name": "Mens Purple/Red Cotton Summer Turban",
+  "price": 49.99,
+  "price_promo": 39.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 192,
+    "average": 3.11
+  },
+  "category": {
+    "id": 116,
+    "name": "Caps and hats"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Summer",
+    "Cotton"
+  ],
+  "images": [
+    {
+      "product_id": 1330,
+      "image_url": "https://images.pexels.com/photos/2874118/pexels-photo-2874118.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1330/1.jpg"
+    },
+    {
+      "product_id": 1330,
+      "image_url": "https://images.pexels.com/photos/2889921/pexels-photo-2889921.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1330/2.jpg"
+    },
+    {
+      "product_id": 1330,
+      "image_url": "https://images.pexels.com/photos/2889959/pexels-photo-2889959.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1330/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13300100,
+      "feature_id": 100,
+      "product_id": 1330,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13300100,
+      "feature_id": 100,
+      "product_id": 1330,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13300100,
+      "feature_id": 100,
+      "product_id": 1330,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13300200,
+      "feature_id": 200,
+      "product_id": 1330,
+      "name": "Color",
+      "value": "Purple"
+    },
+    {
+      "id": 13300200,
+      "feature_id": 200,
+      "product_id": 1330,
+      "name": "Color",
+      "value": "Red"
+    }
+  ],
+  "description": "<h2>Nec sua convaluit Tityos</h2>\n<p>Lorem markdownum stipes; aut Bootes quarum tuas, est parenti. Trahit de dataque\nnostras silvae parvum Eurystheus aut ora! Cynthus non, <a href=\"http://hyperione.net/satae\">notior terris\nresque</a> verus? Hospes proripit digitis absens\ndefrenato laetis, ad vasti, scopulis in arbor <a href=\"http://et-me.com/\">in</a> viris\n<em>Ephyre pars pudorem</em> gratum Nostra. Accipe Hyaleque dedit pietatis sitim: rudem\ncepit armorum convocat falcata.</p>\n<ul>\n<li>Fessum marito altaribus flamina iniqua scelus Oechalia</li>\n<li>Et maiora tacitorum tradat</li>\n<li>Iste indestrictus pinus rectior</li>\n<li>Huic iam</li>\n<li>Adiit aerane</li>\n<li>Squamigeris femina miserisque ilicet</li>\n</ul>\n<h2>Bracchia protinus abit frustra granum habitantque neque</h2>\n<p>Vidit cruore ferro spissi. Passa ferunt me undarum subsedit ab non turba deos\ndat quem! Vana ut Peleu ponti ferit? Pati est illis, corniger arva, totoque\nexcussae bimarem o illum. Mactatae liceret.</p>\n<p>Omen alter vestibus te parva amore indignanda ab nostris servabunt sermonibus\narbore plura, Cereri mille. Fallit profers fuit, sunt quaeris, ferentem\n<em>imperium</em> sollemni perpetiar multorumque utrumque, at. Tres ulciscor statione\ndisiectum foedera; sua vide fugaeque candida, cum equi amat! Uritur precor et\nCaeneus nocti; anxia te adorat dextra oneri pectus vimque dant? Tellus vidisti\nDesinet, quae, haeret opemque maternaque Aethalion Aurora, clamat et.</p>\n<h2>Sonuit Phaethon illic quandoquidem munere instabilesque mihi</h2>\n<p>Quidem gentibus <a href=\"http://creditindignantem.org/arcetacrisioneas\">Tritona\nexstantem</a>; sanguine tanto\ncarmina. Odium agentis mortale amores succutiturque variarum vale tempore\ntabuerit desilit mater. Pandione meis terras paludem praebere <strong>miseros\nspolieris monendo</strong> ferunt turbatusque pia morientum, fortia, mei.</p>\n<p>Terra in undarum! Ante aliquid tyranni <strong>dum inque</strong> qui alii meaque voce non\ncaespite vulnere deiecerat turba <a href=\"http://vixpro.org/pariter.html\">fluctus\nardentem</a> Medusae, <em>solidumve</em>? Mora bene quid\ndominari ferunt; per aspicit tamen non rogos lumina in erat Cyllenaeo.</p>\n<p>Minus vetus loqui, <em>ut</em> nulla; faciam qui sed ipsi ver soror procubuit <strong>nondum\npan</strong>. Dixi quisquam apertum domus pararet Athamanas distante.</p>\n",
+  "excerpt": "<p>Lorem markdownum stipes; aut Bootes quarum tuas, est parenti. Trahit de dataque\nnostras silvae parvum Eurystheus aut ora! Cynthus non, <a href=\"http://hyperione.net/satae\">notior terris\nresque</a> verus? Hospes proripit digitis absens\ndefrenato laetis, ad vasti, scopulis in arbor <a href=\"http://et-me.com/\">in</a> viris\n<em>Ephyre pars pudorem</em> gratum Nostra. Accipe Hyaleque dedit pietatis sitim: rudem\ncepit armorum convocat fal</p>\n"
+}

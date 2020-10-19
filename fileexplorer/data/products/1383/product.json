@@ -1,0 +1,83 @@
+{
+  "id": "1383",
+  "name": "Womens Light/Dark Blue Jeans Short Summer Shorts",
+  "price": 74.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 58,
+    "average": 3.19
+  },
+  "category": {
+    "id": 126,
+    "name": "Shorts"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Jeans",
+    "Shorts",
+    "Denim"
+  ],
+  "images": [
+    {
+      "product_id": 1383,
+      "image_url": "https://images.unsplash.com/photo-1581213841469-d42a25e94d06?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1383/1.jpg"
+    },
+    {
+      "product_id": 1383,
+      "image_url": "https://images.unsplash.com/photo-1581213841604-24c4843744bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1383/2.jpg"
+    },
+    {
+      "product_id": 1383,
+      "image_url": "https://images.unsplash.com/photo-1581213841919-632f764404bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1383/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13830100,
+      "feature_id": 100,
+      "product_id": 1383,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13830100,
+      "feature_id": 100,
+      "product_id": 1383,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13830100,
+      "feature_id": 100,
+      "product_id": 1383,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13830200,
+      "feature_id": 200,
+      "product_id": 1383,
+      "name": "Color",
+      "value": "Light Blue"
+    },
+    {
+      "id": 13830200,
+      "feature_id": 200,
+      "product_id": 1383,
+      "name": "Color",
+      "value": "Dark Blue"
+    }
+  ],
+  "description": "<h2>Pia arentia distent inconsolabile est fecerat geminata</h2>\n<p>Lorem markdownum Cimoli Ophiusiaque <strong>sanae est</strong>; in moveri undas origo videtur\nore Mopso cum <em>uno hebes agilis</em> Acrisioneas. Hominem fulvis una notae, habebat\n<a href=\"http://minitantiaque.org/orba-iuvant\">alios</a>. Virtus quam vocibus, ursa et\ntecta temptasse saeva vultusque. Fiat pertimuitque bello, sim nox accipit\nprimordia <em>fugisse latebramque porta</em> facienda: venire.</p>\n<h2>Tenore iuvenem</h2>\n<p>Quod terra fera, ait te? Ora et primo, ut illo fugavi aberat in pectoris trahit\net. Pedes fas angustis solusque Esse et, di stimulis primas. Properas in, ut\ntergaque Cilix. Sic ferinae vacuas, nulla ad a Erebi aut nefas illa hospitis\ntamen lucosque aut nam quoniam longaeque.</p>\n<ul>\n<li>Illo cursus flexi</li>\n<li>Meleagros coniuge et et viae altus</li>\n<li>Inponit exit positi adest misit</li>\n<li>Cum tinguit cuius necis</li>\n</ul>\n<h2>Bis voce minax silvis templa</h2>\n<p>Iuvenis Caesarea umeris ter sentit foedera sperando persequitur enixa ictus\ncoeunt, si creatis. Mellis Iunoni sine verba occurret dilectaque prospicio suum\nsollertia lumina somnus, conatibus.</p>\n<blockquote>\n<p>Signant concurrere <a href=\"http://etgeruntur.net/postquam.html\">Proetus resupino in</a>\ncernit, exstat! Cornu transcribere faciat vel: radix posse inhaerebat fata\nsuperbus. Dea toxea vinclis a sacra inconstantia inferias frater genu pararet\nferitatis vulgata debeat. Tibi pars, belli glomerataque matre ministros eris;\nat sed pallor provolvi necopinum negat, feruntque, radicibus.</p>\n</blockquote>\n<h2>Et superum dederam longe Ericthonium fulvae cuius</h2>\n<p>Utque corpora doloris flammis Pallade regis. Increpat Iovisque <em>aera</em>; dea\noculos, spatium in quinque tamquam. Indoctum taedasque in nondum talibus verba.</p>\n<h2>Iaculo Hippomenes sagitta dextra</h2>\n<p>Ille est deducitur; tamen nunc, contemptor nudans; aut caput via. Domus orbem:\ntum ita velantque iubent posse in dixit, Editus cecidisse, cernis deprensus\ndraconem Tellus deflentem, cernis. Ignorat Sicyonius, non amet flammiferis\npossit illam?</p>\n<blockquote>\n<p>Littera languore ad quid satis pectore Lampetide\n<a href=\"http://lacrimavit.org/manus.html\">atque</a>, ablato amor? Inpono dominum\nvolvitur Lucina ferrove: cum ter quantaque pabula latentem; ne removebitur\ncorpus ardor. Ad pilas dum illa me, commune, letum, certe in nuper spes\nsceleris et deducit.</p>\n</blockquote>\n<p>Requievit traxit quid inexpugnabile variat magni, torvis data superata Graecia.\nAures colorem coarguit alimentaque robora Hyadasque altera fugit infans, forma.</p>\n",
+  "excerpt": "<p>Lorem markdownum Cimoli Ophiusiaque <strong>sanae est</strong>; in moveri undas origo videtur\nore Mopso cum <em>uno hebes agilis</em> Acrisioneas. Hominem fulvis una notae, habebat\n<a href=\"http://minitantiaque.org/orba-iuvant\">alios</a>. Virtus quam vocibus, ursa et\ntecta temptasse saeva vultusque. Fiat pertimuitque bello, sim nox accipit\nprimordia <em>fugisse latebramque porta</em> facienda: venire.</p>\n<p>Quod terra fera, ait te? Ora et primo, ut illo fugavi</p>\n"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "1381",
+  "name": "Womens White Jeans Wide Leg Pants",
+  "price": 88.99,
+  "price_promo": 68.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 176,
+    "average": 4.25
+  },
+  "category": {
+    "id": 125,
+    "name": "Pants"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Jeans",
+    "Denim"
+  ],
+  "images": [
+    {
+      "product_id": 1381,
+      "image_url": "https://images.unsplash.com/photo-1589742117142-4c08de5aabcf?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1381/1.jpg"
+    },
+    {
+      "product_id": 1381,
+      "image_url": "https://images.unsplash.com/photo-1589851219978-8853abf02c90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1381/2.jpg"
+    },
+    {
+      "product_id": 1381,
+      "image_url": "https://images.unsplash.com/photo-1589851287595-680777e79fda?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1381/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13810100,
+      "feature_id": 100,
+      "product_id": 1381,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13810100,
+      "feature_id": 100,
+      "product_id": 1381,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13810200,
+      "feature_id": 200,
+      "product_id": 1381,
+      "name": "Color",
+      "value": "White"
+    }
+  ],
+  "description": "<h2>Redeat puellae fidis prodes cornua corpore virum</h2>\n<p>Lorem markdownum, nec nomine cautum aequora fuit non iuvet variis nefas nigris\nda Semeles. <em>Iuvenum nec</em> accedere vulnus oblitis crine mare quae qui; negat,\n<strong>spatium</strong> et ultima dignam obscurum. Est numina ornatos est turis animam minor\nquo tunc igitur: messis utque sub praeferre vinxit! Diversa putaret ego falso,\nveri pia vocavit Achivos ipsosque cornua adapertaque, terras. Quod\n<strong>tremendos</strong>, curvata visceribus nunc.</p>\n<blockquote>\n<p>Esse axis ambiguis. Ture nec quos laudemur ense; sui et domus, in. <strong>Contudit\nfuerat</strong>, in cruento, loquuntur contemptor Lucina quaesitamque freta.\nPugnavique gratesque semine, arce vehebat is Lyrcea Alcandrumque inpetus\n<strong>saevique</strong>.</p>\n</blockquote>\n<p>Traxit flavescere quos vertere sanguine. Comitante tremuloque Pylos per vana\nextulerat consistere et deorum unxit prius, praedivite populi. Prohibetis\nmagnanimi Mulciber, subduxit in vestem monitu quam Hanc pressaeque moenia et.</p>\n<ul>\n<li>Pharetrae turribus in quantus pectora</li>\n<li>Concipe quem mihi nec</li>\n<li>Voce huc diversa velut o est</li>\n<li>Et flores credi celasset et ducumque inserui</li>\n</ul>\n<h2>Fit eris Ianigenam postibus clipeumque</h2>\n<p><strong>Si</strong> lunaria <a href=\"http://macies.net/cingerefuit\">simul</a>; licet et ignes Iuppiter\nregis non preme an nequeunt Argos ferarum adhuc corpus. Tibi totaque quamquam\nmedios vallibus tangit inque. Filius illo corpore tempore, nunc ignes celeri,\nponite, protinus vibrant, et lactente terra respondere prius.</p>\n<blockquote>\n<p>Fama capillos, tota nec habitabilis quae mortisque visus duxere munere;\nvestrae tum nova nec; aselli exhalarunt superis. Laetaque oderit iter summus\ncaelo; nihil sociis <a href=\"http://pariter.io/cum-flectere\">arma</a> cursu clamore.\nQuaecumque atque, primum sudantibus terrena plausit in funere; Amphiona. De\nfuerat, Neptunia et sentire in fudit et cingens capillis, crepitantia prius\nforet ponit. Sive nec quis tenebrisque haurit precantibus canum nactus Pario\nadflat, tibi.</p>\n</blockquote>\n<p>Pacis resistite, ramis legit putatis ait iacet iram, rigescere visu certeque;\nPerseus, croceis. Repellit equidem praemia, includit urbis ferocia marmora\nrabieque rursus. Contentus aperire! Ilia uni, tot falsoque ipso adspergit\ncorpore minus meam memorque, saucius boum nebula sed Pylius postes. Parcite\ntulit vada ripae, dum acta variarum.</p>\n<p>Virtutis et coniunx moenibus nec suae sub hic figuram Oleniae. Circumlitus\niuvenalia, iuncti armenti signis flamma veniet vultu atque ad subire addita\nfactaque urit vario. In prece Andraemon <em>sit</em>. Movere maior qui <a href=\"http://www.essetirynthius.io/ad\">reluxit\nconiunx</a>, fretum Ithaco eandem inhaerentem\ndomus, pharetra. Inpulsu nomine amplexus celatus in celanda deam <em>membris</em>\nobstitit lupi.</p>\n",
+  "excerpt": "<p>Lorem markdownum, nec nomine cautum aequora fuit non iuvet variis nefas nigris\nda Semeles. <em>Iuvenum nec</em> accedere vulnus oblitis crine mare quae qui; negat,\n<strong>spatium</strong> et ultima dignam obscurum. Est numina ornatos est turis animam minor\nquo tunc igitur: messis utque sub praeferre vinxit! Diversa putaret ego falso,\nveri pia vocavit Achivos ipsosque cornua adapertaque, terras. Quod\n<strong>tremendos</strong>, curvata visceribus nunc.</p>\n<blockquote>\n<p>Esse ax</p>\n</blockquote>\n"
+}

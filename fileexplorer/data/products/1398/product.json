@@ -1,0 +1,83 @@
+{
+  "id": "1398",
+  "name": "Womens Yellow&Navy Blue Striped Summer Boho Jumpsuit",
+  "price": 88.99,
+  "price_promo": 74.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 102,
+    "average": 2.93
+  },
+  "category": {
+    "id": 127,
+    "name": "Jumpsuits"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Stripes",
+    "Boho",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1398,
+      "image_url": "https://images.unsplash.com/photo-1559315111-1ae1da7a9831?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1398/1.jpg"
+    },
+    {
+      "product_id": 1398,
+      "image_url": "https://images.unsplash.com/photo-1559315112-6888c7099eb4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1398/2.jpg"
+    },
+    {
+      "product_id": 1398,
+      "image_url": "https://images.unsplash.com/photo-1559315112-abe0cfb5f6dd?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1398/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13980100,
+      "feature_id": 100,
+      "product_id": 1398,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13980100,
+      "feature_id": 100,
+      "product_id": 1398,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13980100,
+      "feature_id": 100,
+      "product_id": 1398,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13980100,
+      "feature_id": 100,
+      "product_id": 1398,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13980200,
+      "feature_id": 200,
+      "product_id": 1398,
+      "name": "Color",
+      "value": "Yellow"
+    }
+  ],
+  "description": "<h2>Non ante tradiderat post circum non mutataque</h2>\n<p>Lorem markdownum, usque semina furialibus nisi, <strong>par genu Dorylas</strong>. Fortia\nmorsu sustulit vestis si tympana quidem litora, horret nunc tuentur ligones\npater. At nefanda ureris Diana morte sedesque recenti pone praecorrumpere talia\nin Cephalum proles.</p>\n<ul>\n<li>Est triumphos novissima metuam</li>\n<li>Sponte surgit Stygiis enixa</li>\n<li>Metuam et calidis</li>\n<li>Ast nate taurus micant redeunt cardine</li>\n<li>Carmina mortalibus auctor</li>\n<li>Naturam siquidem flumen nec petit</li>\n</ul>\n<p>In mundo donis, <em>clam</em> istis redit collis crimine, illa venti rerum quod. Hanc\npater addit, albentibus nova Patraeque pignora; caput!</p>\n<h2>Ad dolens medius tendens labentibus minatur dolor</h2>\n<p>Chromiumque nova <em>abstulit principium nefandas</em> nempe <em>opera ad non</em> placabitis\netiam, ore est adspicis ait. Non dent placuisse diuque; ara Tempe et ego,\nopemque, quae, nil quadrupedantis nunc carmen. Qui in iussus peregrino dedit.\nLocus parte; <em>sine erat</em> secuta discretus incalfacit nihil unum accipe erravit,\ntrabesque efficient Io terras mactatae, quam? Aures ipsa?</p>\n<blockquote>\n<p>Est his annosa potiere. Relinquam iubis vero, actus exire atque ignis digiti\nin conpleat primordia densa stetit.</p>\n</blockquote>\n<h2>Crescere occallescere ultra congressus scelus</h2>\n<p>Quam cum procubuisse similis speciosaque adverti fluctibus Orchomenosque\ncedentes pro exterrita atque locis rubet, o equinis ipsis. Ne <em>ferus ubi</em>\nurbesque exibit atria crudelia tonitrus, simili in arvo referam. Dignus\nvariabant volui: ipso vim heros, fortibus? Sic inquit\n<a href=\"http://fugias.io/mihi\">humus</a> iubar iuvenis fuerant quibus carinam si\nconvertunt vero relinquam virgo adspicit relinque expalluit protecta paciscor.\n<em>Caelo</em> viderunt: turribus credunt; cum <em>Lichae</em>: iussa umbrae pavore pro polo,\nnatamque stipite neque tenet?</p>\n<p>Diva capit coeunt bracchia, auditum, parari ira intima non audistis nulla,\nstetit damno modo clarus. Est adscendit terrore ridet massa tamen sanguine\nanimo, enixa coactus caelumque incidit haerenti? Est crescat magis ut timeo\nnocebit bracchia Iove genitus cognitius turbine, illa et. Andromedan ingemuit\nmelius; creatis silvamque inmensos vultum. Iam si venatibus nocet inductaque\nrediit induit imitabere tecto, nec Amor?</p>\n<p>Semele maternaque, seu alga sibi credis gemit non: quibus. Modo <a href=\"http://suarum.io/\">cognovit\ndatus</a> moribunda Epidaurius signo verendam antiquas navita\nsaepe. Colubrae tendensque cernes. Tectura pars tamen haec vasto aurum Alcmena\nAglauros ultroque <em>in</em> fatalia.</p>\n",
+  "excerpt": "<p>Lorem markdownum, usque semina furialibus nisi, <strong>par genu Dorylas</strong>. Fortia\nmorsu sustulit vestis si tympana quidem litora, horret nunc tuentur ligones\npater. At nefanda ureris Diana morte sedesque recenti pone praecorrumpere talia\nin Cephalum proles.</p>\n<ul>\n<li>Est triumphos novissima metuam</li>\n<li>Sponte surgit Stygiis enixa</li>\n<li>Metuam et calidis</li>\n<li>Ast nate taurus micant redeunt cardine</li>\n<li>Carmina mortalibus auctor</li>\n<li>Naturam siquidem</li>\n</ul>\n"
+}

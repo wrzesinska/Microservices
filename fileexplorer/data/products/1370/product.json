@@ -1,0 +1,70 @@
+{
+  "id": "1370",
+  "name": "Womens Dark Navy Blue Cotton Summer T-shirt With Print",
+  "price": 64.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 172,
+    "average": 4.59
+  },
+  "category": {
+    "id": 124,
+    "name": "T-shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Summer",
+    "Print",
+    "Cotton"
+  ],
+  "images": [
+    {
+      "product_id": 1370,
+      "image_url": "https://images.unsplash.com/photo-1597138298147-69f160cbb7eb?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1370/1.jpg"
+    },
+    {
+      "product_id": 1370,
+      "image_url": "https://images.unsplash.com/photo-1597138298414-a1ad2eb56972?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=332&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1370/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13700100,
+      "feature_id": 100,
+      "product_id": 1370,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13700100,
+      "feature_id": 100,
+      "product_id": 1370,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13700100,
+      "feature_id": 100,
+      "product_id": 1370,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13700100,
+      "feature_id": 200,
+      "product_id": 1370,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Humum vicit nymphae gaudet nocte euntis</h2>\n<p>Lorem markdownum, dubita sinuaverat veteris, est deficis quae. Vincta ut\n<a href=\"http://www.noxilli.io/crimen.aspx\">aera</a> inquit. Ter sed quaerunt inplent; solo\npressa Actaeona geminum humano: movere superbos. Illa quam fugae, illo est, anni\no est suasisse per reges non iacent, vacet hoc turpe, dat.</p>\n<ol>\n<li>Ait lustrat exorata ignes cum teneris gerit</li>\n<li>Vos latus figitur silentia dextris vel est</li>\n<li>Ira hic Quo dictoque maximus tellus hic</li>\n<li>Abeunt nervi virorum</li>\n<li>Incursant templi pariterque haberent Phrygum</li>\n</ol>\n<p>Necem est quae quoque Hesperio talibus tori: animas ora prima, de fero esse ut,\n<strong>primitias</strong>, addita. Sed tuum non, ille iam opus fratris virgo in suos exercet\nnegabat telum teneri in, et Iovi. Verum inambitiosa motis inter nescio quos\nerubuere qualiacumque dixit.</p>\n<ul>\n<li>Volucrem religarat densior quippe manus thalami Centauros</li>\n<li>Aridus nova ultoresque</li>\n<li>In geminos</li>\n<li>Rivi arsuros deum huc tyranni</li>\n<li>Sub longa quanta sine iam non ingentem</li>\n</ul>\n<h2>Certe armo pectus Talia tollere Aside salutant</h2>\n<p>Gaudet eadem inania: quateret nostri candescere sentiat quondam semper. Nec\nfacerent audita te nunc, est herbae clivo, involvite tumulo parilique laetitiae\ntamen dexteriore Atreus repetendus. Sacerdos adclinataque caput inmiti radii\nperdis caelo, quam, referat.</p>\n<ol>\n<li>Dum media tertius ignibus obsistitur lacte Lynceus</li>\n<li>Missisque ducere</li>\n<li>In tecum praecordia tumet faciendus flamine non</li>\n<li>Tamen arto hinc coniunx caelo Invidit esse</li>\n</ol>\n<p><em>Hospitio</em> est ego defenditur plura, turbatum pugnem dolendi qui nos iurasse\noffensa Gigantas lues, et terras. Velles tales sceptra dedit ter prosunt quem\nAnigrus forma nidum rettulit <a href=\"http://www.formae.io/mandatoretroque\">turpes sine\ncalenti</a>? Nec natam <a href=\"http://www.iamque.org/opem-per\">Crathis\nHectoris</a>. Cum saecula per officio presserat\n<em>ducat miserorum</em> usum, <a href=\"http://www.esse-damno.net/uni\">tristis resedit</a> illic\nexempla.</p>\n<ol>\n<li>Iovis lupus</li>\n<li>Retro dicitur arboribus sola navita</li>\n<li>Hoc cum aut aetate ab</li>\n<li>Incola leve rapido contentus mens heres profundi</li>\n<li>Lumina montis iacentem sed</li>\n<li>Profuga ocior hoc credite</li>\n</ol>\n<p>Sollicito libertas <em>vident bracchia cervos</em> lunaria, arma <strong>cum hospita\nagitati</strong> lambendo plura lucifer. Omnipotens latices letiferos illo captatam\nAiax venit prima. Aut lucem motis <em>silet</em> claviger celebravit novas longo saepe\nlacrimae, est deum. Mihi fixa ille tibi nare orbataque futuri! Per digitos:\nvincet relinquent copia <em>sinit ingreditur meritis</em> moenia aut et.</p>\n",
+  "excerpt": "<p>Lorem markdownum, dubita sinuaverat veteris, est deficis quae. Vincta ut\n<a href=\"http://www.noxilli.io/crimen.aspx\">aera</a> inquit. Ter sed quaerunt inplent; solo\npressa Actaeona geminum humano: movere superbos. Illa quam fugae, illo est, anni\no est suasisse per reges non iacent, vacet hoc turpe, dat.</p>\n<ol>\n<li>Ait lustrat exorata ignes cum teneris gerit</li>\n<li>Vos latus figitur silentia dextris vel est</li>\n<li>Ira hic Quo dictoque maximus tellus hi</li>\n</ol>\n"
+}

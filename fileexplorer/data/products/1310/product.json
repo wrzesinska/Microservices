@@ -1,0 +1,76 @@
+{
+  "id": "1310",
+  "name": "Mens Grey Woollen Autumn Basic Coat",
+  "price": 128.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 210,
+    "average": 2.94
+  },
+  "category": {
+    "id": 114,
+    "name": "Jackets and coats"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Woollen",
+    "Autumn"
+  ],
+  "images": [
+    {
+      "product_id": 1310,
+      "image_url": "https://images.pexels.com/photos/4112053/pexels-photo-4112053.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1310/1.jpg"
+    },
+    {
+      "product_id": 1310,
+      "image_url": "https://images.pexels.com/photos/4111990/pexels-photo-4111990.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1310/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13100100,
+      "feature_id": 100,
+      "product_id": 1310,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13100100,
+      "feature_id": 100,
+      "product_id": 1310,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13100100,
+      "feature_id": 100,
+      "product_id": 1310,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13100100,
+      "feature_id": 100,
+      "product_id": 1310,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13100200,
+      "feature_id": 200,
+      "product_id": 1310,
+      "name": "Color",
+      "value": "Grey"
+    }
+  ],
+  "description": "<h2>Mecumque loqui</h2>\n<p>Lorem markdownum secum saxeus in coissent quae Minos gestanda Chromis! Humi\nterritus leves, et sub damnatur est tinxit ira, a. Veretur modo imo, nec ubera\nsaxo mutatus instantes <a href=\"http://in-mota.io/\">valent</a>, et vitae bubo. Infelix tum\ngremio, uni facit tamen strepitu rorantia pulvereamque defuit soror.</p>\n<blockquote>\n<p>Ne mens restitit faciat se <strong>seque tereti</strong>, ita iuro quiescere. Mille ne cum\nait vires sacrorum; pedum is fasque texerat sui.</p>\n</blockquote>\n<p>Acerque sublimibus exiguo suis bacis relictus arboris: timui onus, tanti es\nqualem mento Siphnon. Quae pater vertit non induit spectat <em>pennis pennas\nPolyphemon</em>, concipit bracchia roseum, tela cornua dixi. Dummodo stamine\nobstruat! Caelesti suo commenta inquit pharetratus matre et mihi suo enim vino\nregia poteramus flamina: donec aures, est. Umerus vocant dignatus nulloque\nfuisses Calydonius et dextera venit.</p>\n<h2>Illa tumescunt sortemque nec mollierat mea inquit</h2>\n<p>Non pervia nemus Eurynome. Et quod.</p>\n<p><strong>Ut arcus Pergama</strong>, abluere sitim, qui tam Thoantis aquarum tibi, et date,\nerat. Ipsa sinit ferro adversum virgis, Iuno illa dextra undas inmeriti saepe\nnymphae humum, et radiis inmensos Antiphatae ferrum? Lapillo ambiguo esse\nvelocius Sparte <a href=\"http://foreshabet.com/undis\">dixit facundia</a> quid, facies est\nuteri committi inmaduit quies, pars simul.</p>\n<h2>Umeris sonat paruit admonitu quicumque moriens inficit</h2>\n<p>Poenae at vobis truncoque doctus, nec est consedit <em>in ipsa</em> Ceyx; talis septem\nvomere. Cum nuda aliud mota aspexit certamine aequora; scopulo acta generosior\nadice absumptis natorum. Non non te vim namque vestros ut undis quod nobis\nIuppiter invia: quod tam sequentia tuli adest: Circaeo.</p>\n<p>Gravatos sed nec ipsam feroxque in micant quoque caerulaque semper? Auratis\nisdem temporis Thessala neci deum coniugis, adfuit vestigia, ferro Ecce, e.\nIllae sunt ponite vixque et posituro curam?</p>\n<p>Fuit erat: nostrae tabo, inde mihi ego sive ponderis rogis traiecit, iussis.\nLoqui tantum, penates, ictibus nido est; <a href=\"http://mare-ubera.io/\">Ampyx</a> petis\n<strong>Aetnen</strong> post. Omnia prunaque, Amor tenues haerentem decentia pudorem,\nattonitum canis dicta; prece pariter gemitum montesque natamque laeta Orithyiae.\nDiscurrunt cum temporis; calcat <a href=\"http://pingue.com/\">ter deferri</a> illic,\nconsistere.</p>\n<p>Loca et pennis concipit et nec nihil est tale paternos quis quem crebros, diva,\nquoniam suo modo coniugis. Myconon praeter caput vocat sacri, <em>locutus</em>, et\nIthacis. Meruisse et madidus, fit est nec quoque hominum, <em>torum natae</em>, sua\nquod Palilibus mallet? Frondibus sortita.</p>\n",
+  "excerpt": "<p>Lorem markdownum secum saxeus in coissent quae Minos gestanda Chromis! Humi\nterritus leves, et sub damnatur est tinxit ira, a. Veretur modo imo, nec ubera\nsaxo mutatus instantes <a href=\"http://in-mota.io/\">valent</a>, et vitae bubo. Infelix tum\ngremio, uni facit tamen strepitu rorantia pulvereamque defuit soror.</p>\n<blockquote>\n<p>Ne mens restitit faciat se <strong>seque tereti</strong>, ita iuro quiescere. Mille ne cum\nait vires sacr</p>\n</blockquote>\n"
+}

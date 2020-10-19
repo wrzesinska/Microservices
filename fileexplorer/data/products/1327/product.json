@@ -1,0 +1,82 @@
+{
+  "id": "1327",
+  "name": "Mens Navy Blue Classy Delicate Blazer",
+  "price": 138.99,
+  "price_promo": 118.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 124,
+    "average": 3.67
+  },
+  "category": {
+    "id": 115,
+    "name": "Blazers"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Classy",
+    "Delicate"
+  ],
+  "images": [
+    {
+      "product_id": 1327,
+      "image_url": "https://images.unsplash.com/photo-1585240975817-02c40aa44b97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1327/1.jpg"
+    },
+    {
+      "product_id": 1327,
+      "image_url": "https://images.unsplash.com/photo-1585592049662-9cbefe31668a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1327/2.jpg"
+    },
+    {
+      "product_id": 1327,
+      "image_url": "https://images.unsplash.com/photo-1592246030903-74cf907ca3d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1327/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13270100,
+      "feature_id": 100,
+      "product_id": 1327,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13270100,
+      "feature_id": 100,
+      "product_id": 1327,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13270100,
+      "feature_id": 100,
+      "product_id": 1327,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13270100,
+      "feature_id": 100,
+      "product_id": 1327,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13270200,
+      "feature_id": 200,
+      "product_id": 1327,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Molire Bybli dare</h2>\n<p>Lorem markdownum <em>mutatur neque</em> loquentem addidit iterum <em>possedit cedere</em>\naltera, qua, hostem Telamonius, conplexibus. Dedit deos cunctis, cornua,\nconcutiuntque <em>quae</em> succedere ignis Hodites est, alto similesque votis,\nPalladios.</p>\n<blockquote>\n<p>Omnia fago homines inani, neque fore nominat. Rectum <em>iaculo</em>! Nec ut super.\nTerrae vimque Ampycides infectis; dea umbra laesi Erysicthonis proelia!</p>\n</blockquote>\n<h2>In trahit luctor fatiiuvenescere Quirites</h2>\n<p>Regem et vernos litus mox in agitasse nec cruorem Abarin Aulidaque opemque;\nCereri expediunt inanis. Quae tamen respicit, quin ureris messibus signatum\nhominis ossa vincula pelagi credas. Rapiunt esse <a href=\"http://perque.org/pervianubila\">resolutaque\niungi</a> maturo et narrare traxere, marem timetur.\nOthrys egere, partesque est necetur Phrygiis, partem Agenorides levat; mea sub.</p>\n<blockquote>\n<p>Ignes relatis, praemia nec vestra pontum aevo, et ubi fusus margine? <em>Copia\nire</em> apro, Erysicthonis quam iunctis ument; credi tenuaverat datae dracones\nmea dignissima leves undis <a href=\"http://hinc-adesset.net/eccesibi.aspx\">meritumque triones\nsic</a>. Signis sua insuitur undam, me\ndextra, lata oracla. Via Aonides atrae.</p>\n</blockquote>\n<h2>Exercita praepes invisamque media adsimulat terrigenam</h2>\n<p>Illi melior quas animal quae inter, Thessalidum levis adversaque si persequerer\npositique ingentem. Auctor postquam sceptrum, equos caelo mihi sed vocis ubi\ntangam terrae ille quodsi. Nec nata metum vivere sermonibus, destinat, et\nplacent, non est vincla.</p>\n<ol>\n<li>Agitantia oculos fides labores</li>\n<li>Caede Gorgoneas nullamque vitat nobis</li>\n<li>Per alarum nomina</li>\n<li>Fluminaque fervet secuta et effugit dixit species</li>\n</ol>\n<h2>Hac nec rumpitque tangit genitalia seque humum</h2>\n<p>Voce summaque. Umbra movit caput pudore, sed agnae satiatur, muros te infelix\n<strong>deus</strong>, vidit viribus dictis.</p>\n<h2>Tantum par</h2>\n<p>Possem cinctaque supplex carae! Potentia fundebat est, et Sole.</p>\n<p>Modo sed si vulnera: laberis esse canendi et arvo velocior, <strong>resto tua</strong>\nsagitta quod carpitur flere, est. Patrumque parte gravitate daturum! Iuvenes\ninmurmurat diemque et stagnum alveo cibos ab fore fuit aera lunaribus qui\nsacris, congestaque? Ira vidit corpora. Poenae sine?</p>\n",
+  "excerpt": "<p>Lorem markdownum <em>mutatur neque</em> loquentem addidit iterum <em>possedit cedere</em>\naltera, qua, hostem Telamonius, conplexibus. Dedit deos cunctis, cornua,\nconcutiuntque <em>quae</em> succedere ignis Hodites est, alto similesque votis,\nPalladios.</p>\n<blockquote>\n<p>Omnia fago homines inani, neque fore nominat. Rectum <em>iaculo</em>! Nec ut super.\nTerrae vimque Ampycides infectis; dea umbra laesi Erysicthonis proelia!</p>\n</blockquote>\n<p>Regem et vernos</p>\n"
+}

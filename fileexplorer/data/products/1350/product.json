@@ -1,0 +1,90 @@
+{
+  "id": "1350",
+  "name": "Womens Blue&Grey Midi Classy Floral Dress ",
+  "price": 108.99,
+  "price_promo": 84.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 113,
+    "average": 4.53
+  },
+  "category": {
+    "id": 121,
+    "name": "Dresses"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Floral",
+    "Midi",
+    "Classy"
+  ],
+  "images": [
+    {
+      "product_id": 1350,
+      "image_url": "https://images.unsplash.com/photo-1595797285584-8e97e0df5af2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1350/1.jpg"
+    },
+    {
+      "product_id": 1350,
+      "image_url": "https://images.unsplash.com/photo-1595797284406-d7c44faafd48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1350/2.jpg"
+    },
+    {
+      "product_id": 1350,
+      "image_url": "https://images.unsplash.com/photo-1595797284384-94b77d77a087?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1350/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12500100,
+      "feature_id": 100,
+      "product_id": 1350,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12500100,
+      "feature_id": 100,
+      "product_id": 1350,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12500100,
+      "feature_id": 100,
+      "product_id": 1350,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12500100,
+      "feature_id": 100,
+      "product_id": 1350,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12500100,
+      "feature_id": 100,
+      "product_id": 1350,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12500200,
+      "feature_id": 200,
+      "product_id": 1350,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Corniger proceres ignes ego referente dare proceres</h2>\n<p>Lorem markdownum esse; est notas erat sed ululasse numerandos si <strong>utraque</strong>.\nTyrrhena et iactura tenere rite ad vixque, et quinos fallere. Tu fidum, levat\n<strong>summis Phoenissa</strong> fragmina <em>praecipitem Venerem modo</em> nitidae.</p>\n<blockquote>\n<p>Ait et fortiter sua fatidicus tori, illo unxit datae umeris experiar occulte\nfemina priora spectant. Portus cinximus fratrem, es Hippolytus Pallorque\nsecundum sed animo domo non digitorum dixit? <strong>Repono vati</strong> caeli, est\ncaelebs femina.</p>\n</blockquote>\n<p>Tendebat summa domo viri ipse; ignes esse spatium in carmen, animal. Valuit ita\nnece modus imoque praemia: mihi <a href=\"http://impediet.com/\">dicta haec</a> plenaque\nharenam falsa pallet non ferrove Erycis, <em>hoc</em>. Duos Erasinus caeli clarique\nmanibus matrona indignamque usquam volenti. Diffusum imagine adducor petitur,\nvideri vigilat ne clipei ferro; ad semel meruisse.</p>\n<h2>Qua fluidos</h2>\n<p>Virgo damno, tu carbasa cuius; Venus <em>arboribus tela</em> densis Iuppiter moenibus:\nore. Ossa possunt.</p>\n<blockquote>\n<p>Telorum <strong>resolvo et certet</strong> a vasto Eurotan meae Themin moenia nec ponitque\ncorpus ea ut <em>fuit</em>, nec. Pro venientique illa temptat mortisque Tydides,\nrubet quoque viae? Collo umbraque primos, velit dolet ut spatium iussere\nausus.</p>\n</blockquote>\n<p>Donaverit passa, et dotem foret caedis curae miserae vivacem! Pulveris dextra\nvulnera ponti. Carmine manu; Titani acuta nupta monte commisit gentis aestuat;\nvetustas.</p>\n<p>Sumptas per fecit voce. Satis magni ludit; per oculos, Autolyci res pyrame nulla\nmoras illi ad. Tempestiva se tenes illa <strong>Lucinam</strong> est tamen sancta paulatimque\ntradit! Unda Peleus. Nocturnae adflixit pulvis, fit moram et diro cum aurea\nconiunx paulum, luctus septem, fuerunt.</p>\n<p>Tenentem deceptam sucos; ad ille ait esse plangere? Lunae artus <em>stabam fusum\nanimal</em> dolores nullos: ad levatus satis media capit hanc inque Caenea!</p>\n",
+  "excerpt": "<p>Lorem markdownum esse; est notas erat sed ululasse numerandos si <strong>utraque</strong>.\nTyrrhena et iactura tenere rite ad vixque, et quinos fallere. Tu fidum, levat\n<strong>summis Phoenissa</strong> fragmina <em>praecipitem Venerem modo</em> nitidae.</p>\n<blockquote>\n<p>Ait et fortiter sua fatidicus tori, illo unxit datae umeris experiar occulte\nfemina priora spectant. Portus cinximus fratrem, es Hippolytus Pallorque\nsecundum sed animo domo non digitorum dixit? **Repo</p>\n</blockquote>\n"
+}

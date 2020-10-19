@@ -1,0 +1,84 @@
+{
+  "id": "1283",
+  "name": "Mens Orange&Baby Blue Flannel Checkered Shirt",
+  "price": 78.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 104,
+    "average": 4.33
+  },
+  "category": {
+    "id": 111,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Checkered Pattern",
+    "Flannel",
+    "Chilled"
+  ],
+  "images": [
+    {
+      "product_id": 1283,
+      "image_url": "https://images.pexels.com/photos/3290889/pexels-photo-3290889.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1283/1.jpg"
+    },
+    {
+      "product_id": 1283,
+      "image_url": "https://images.pexels.com/photos/3290887/pexels-photo-3290887.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1283/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12830100,
+      "feature_id": 100,
+      "product_id": 1283,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12830100,
+      "feature_id": 100,
+      "product_id": 1283,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12830100,
+      "feature_id": 100,
+      "product_id": 1283,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12830100,
+      "feature_id": 100,
+      "product_id": 1283,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12830100,
+      "feature_id": 100,
+      "product_id": 1283,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12830200,
+      "feature_id": 200,
+      "product_id": 1283,
+      "name": "Color",
+      "value": "Orange"
+    }
+  ],
+  "description": "<h2>Iovis non sub</h2>\n<p>Lorem <em>markdownum fata sustulerat</em> ibat tenens habet; salutem intremuere.\nNectare versus illa dempserat? Et Bootes habebatur sinitis, Cupido partique\nputatur, Aurorae opem poma telluris <em>mihi forma</em>, et. Femineae voles vis avem\nspectes, flammas negat quaerit medius diu defodit <a href=\"http://terraemetu.io/\">mixta per\nignibus</a>. In a gentis murmur mortisque antris!</p>\n<ul>\n<li>Modo edere</li>\n<li>Timuitque peritura qui pugnat cortinaque nati</li>\n<li>Funereum liquidum cessit illic ast momenta lapsae</li>\n<li>Poterat quorum</li>\n</ul>\n<h2>Si Iovis tu ego reverentia vidistis</h2>\n<p>Et et quam dea Riphea alimenta miserere ramos ad caligine candida, aevo hoc\nIxione; binas anus zona. <strong>Foret magnaque in</strong> vasta est, usae non colles\nbracchia brevis.</p>\n<ul>\n<li>Auctoribus Pedasus imbres dea lumina</li>\n<li>Surgunt Medusaei armis quamvis apte isque fumabant</li>\n<li>Linquit et</li>\n<li>Coniugis licuit iuvenci redimat</li>\n<li>Reverti qui verba exhalat</li>\n</ul>\n<h2>Secum siccat quem ignis mox demit equorum</h2>\n<p>Vellet pes quae nocte maribus sit serpens partu ille coniugis ordine qui,\nflamma. Hunc acceptaque oculorum ira iussa amor cortex dicuntur morte retorsit\nsimul, campus inmotusque. <strong>Mihi maturus</strong>!</p>\n<blockquote>\n<p>Anxia ingratumque simul coloni palaestrae longum Proserpina ipse. Est Issen\nmaestam; diroque dispersa nemus. Secum exhibuit comminus mitte <strong>Semeleia\nambitae</strong>: sepulcro restabat et illis et procedit stringit, mentis, venenis,\nora. Ore infitianda, secum Iovis, maenades genetrix, quo una quo qui.</p>\n</blockquote>\n<h2>Legumque figuras</h2>\n<p>Iamque gravi nulloque, cavae, vasta poterat nostrum distant; cuncta. Conciderant\ndeus evertere separat moenia: artus axes incepti mores. Quoniam est Cinyrae\nauro; unda afuit etiam <strong>mellaque Inachidas decerpserat</strong> in tegebat lavet sit\nconfessus summo, quo. Erat non Troica <em>Aeacides</em> torserat nominibus trahens\nfortissime et facit deponendique praepetis exigit nostram versata <strong>validisne</strong>:\nmaiestatemque.</p>\n<p>Dextraque cedere gente, per spumis temptavit manus laeva lucis. Insula gemuere\ntempla conorque rictus, lacertis prosternit credensque dicitur nares tamen,\nvellem terra: Ida. Ortus nascitur pennis non fugit Thybridis transtra ornatos,\nsemper <a href=\"http://dat-peperi.org/\">onus</a>: ossa matrem sic armis parva super tum.\nDicenti <strong>dominus</strong>, lucis in Venulus generosi, <em>refluitque</em> spatiosa amores\nfibris, in ausa Elinque. Vita taedae sedili pectora namque dicturus in patuit\ncava <em>patres</em> inductus parte tribuitque; <em>ne</em> vacat; sacro <strong>te</strong> puer.</p>\n<p>Inde concursum nunc, ubi docti adfixa patiuntur <em>et ulvis cecidisse</em> ardor: et\nhabebat. Futuri multaque erat ora superata moderamen Olenos, semicaper petis aut\nseque. Verborum vobis pectore, aera <em>cubat Thermodonque</em> sustinuere evitabile\nsibi atque superare denegat, sit mare!</p>\n",
+  "excerpt": "<p>Lorem <em>markdownum fata sustulerat</em> ibat tenens habet; salutem intremuere.\nNectare versus illa dempserat? Et Bootes habebatur sinitis, Cupido partique\nputatur, Aurorae opem poma telluris <em>mihi forma</em>, et. Femineae voles vis avem\nspectes, flammas negat quaerit medius diu defodit <a href=\"http://terraemetu.io/\">mixta per\nignibus</a>. In a gentis murmur mortisque antris!</p>\n<ul>\n<li>Modo edere</li>\n<li>Timuitque peritura qui pugnat cortinaque nati</li>\n<li>Funereum liqu</li>\n</ul>\n"
+}

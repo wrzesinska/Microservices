@@ -1,0 +1,61 @@
+{
+  "id": "1391",
+  "name": "Womens Glamour Multicolor Headscarf Babushka Style",
+  "price": 49.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 215,
+    "average": 3.62
+  },
+  "category": {
+    "id": 231,
+    "name": "Caps and hats"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Elegant",
+    "Glamour"
+  ],
+  "images": [
+    {
+      "product_id": 1391,
+      "image_url": "https://images.pexels.com/photos/3819764/pexels-photo-3819764.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1391/1.jpg"
+    },
+    {
+      "product_id": 1391,
+      "image_url": "https://images.pexels.com/photos/3819759/pexels-photo-3819759.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1391/2.jpg"
+    },
+    {
+      "product_id": 1391,
+      "image_url": "https://images.pexels.com/photos/3819758/pexels-photo-3819758.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1391/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13910100,
+      "feature_id": 100,
+      "product_id": 1391,
+      "name": "Size",
+      "value": "One Size"
+    },
+    {
+      "id": 13910200,
+      "feature_id": 200,
+      "product_id": 1391,
+      "name": "Color",
+      "value": "White"
+    }
+  ],
+  "description": "<h2>Saevumque audax spectantem simul tollensque posse sinit</h2>\n<p>Lorem <em>markdownum</em> dedit admirantibus nostra texerat ille qui nec capioque, tibi\nhabe gravi limina veteremque: quam. Superentur pedem voluptas gnatis cruentatis\ntempla Veneris alimentaque pariter humus; iamque Phlegraeon faciles: sibi ira;\ntantum!</p>\n<h2>Fontesque dixit</h2>\n<p>Volunt residens columnae caecos longum est <strong>agros</strong> primus veniat, egredere ora\nmanus. Ignes adit dominique ingenti, fert discedunt et laesit hac fugit,\nsplendidaque quoque subito adspiciam tremor gaudia mota petentes.</p>\n<p>Temptasse talisque modo torto de quamvis potius fortes <em>cupidine</em>; seu. Adducor\nThisbe manus, vero mater septemflua, vicinia crura medio. Mea heros tu Pelasgi\ntectus in scilicet rugis mollirique et.</p>\n<h2>Inquit parantem quoque foresque Chariclo primis consolenturne</h2>\n<p>Minervae animal dixerat omnis rebar ego crescit carinae iter quod: portas tua.\nTenuere <em>damnum abest iam</em> est sinus inane nunc eos mutua, <strong>fundit</strong> et\nperpetuos brevis, nymphen!</p>\n<h2>Mutati minores</h2>\n<p>Captus diversaque volantes. Tam iura concidit volucri inpediunt prius occupat;\nmea homini natam; socerumque ex desint filis. Thracius quos superosque. Fere sit\nderiguit manusque imagine austro; uno erit poplite tamen. Si nec natum faciat\nrelicto rursus, oranti finem habet lyncum di.</p>\n<ul>\n<li>Mearum in dira</li>\n<li>Paene prohibent nec pressit vobis pugnae avidaeque</li>\n<li>Undis verba</li>\n<li>Tempora in latentis tumidarum victrix scelus undique</li>\n<li>Secundas dulci atque</li>\n<li>Virgineas quercus praemia ripis et videre sola</li>\n</ul>\n<h2>Superesse modo</h2>\n<p>Strictique longis, fugientia virgo in hominem effectu, sed magna insula.\nSonantibus Iovi cum: ossaque in dares luctus. Telephon orba. Ab cui solidumque\nviribus per ferunt et moles Parrhasis atque. Legi matri dextra toto tamen non\nlaborem.</p>\n<p><strong>Serpens inducitur</strong> aequora partu faticinasque Nocte totum parilesque, idem\nest in timeo, adimuntque. <strong>Ossibus</strong> posset et fistula sub super lauroque.</p>\n",
+  "excerpt": "<p>Lorem <em>markdownum</em> dedit admirantibus nostra texerat ille qui nec capioque, tibi\nhabe gravi limina veteremque: quam. Superentur pedem voluptas gnatis cruentatis\ntempla Veneris alimentaque pariter humus; iamque Phlegraeon faciles: sibi ira;\ntantum!</p>\n<p>Volunt residens columnae caecos longum est <strong>agros</strong> primus veniat, egredere ora\nmanus. Ignes adit dominique ingenti, fert discedunt et laesit hac fugit,\nsp</p>\n"
+}

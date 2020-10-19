@@ -1,0 +1,96 @@
+{
+  "id": "1271",
+  "name": "Mens Black Basic Elegant Hoodie ",
+  "price": 78.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 178,
+    "average": 2.32
+  },
+  "category": {
+    "id": 111,
+    "name": "Hoodies and sweaters"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Basic",
+    "Elegant",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1271,
+      "image_url": "https://images.pexels.com/photos/2061881/pexels-photo-2061881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "source_id": 200,
+      "file_path": "api/images/1271/1.jpg"
+    },
+    {
+      "product_id": 1271,
+      "image_url": "https://images.pexels.com/photos/2061887/pexels-photo-2061887.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1271/2.jpg"
+    },
+    {
+      "product_id": 1271,
+      "image_url": "https://images.pexels.com/photos/2061884/pexels-photo-2061884.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1271/3.jpg"
+    },
+    {
+      "product_id": 1271,
+      "image_url": "https://images.pexels.com/photos/2061889/pexels-photo-2061889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "source_id": 200,
+      "file_path": "api/images/1271/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12710100,
+      "feature_id": 100,
+      "product_id": 1271,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12710100,
+      "feature_id": 100,
+      "product_id": 1271,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12710100,
+      "feature_id": 100,
+      "product_id": 1271,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12710100,
+      "feature_id": 100,
+      "product_id": 1271,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12710100,
+      "feature_id": 100,
+      "product_id": 1271,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12710200,
+      "feature_id": 200,
+      "product_id": 1271,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Ambieratque mentis</h2>\n<p>Lorem markdownum volant lumine, steterant esse, vertit, aliis indoluit argumenta\nsigna mactatur, per petitis Coronida? Ad stipite devia; in lapsu repellit paelex\naures circumstetit gaudens. Habenas facta tantum Graiae. Qui ardua credunt.\nRepperit certet propter evulsum <a href=\"http://mandata-rapinae.io/cervisquin\">rupit</a>\nsortitus, tollens orbes Libycas.</p>\n<ol>\n<li>Aura Annus perque Rhoetus noluit</li>\n<li>Sanguineaque tibi</li>\n<li>Viderit cum nec mandasset ortygiam addit</li>\n<li>Tuta cornua velamina illud non fidem Arethusa</li>\n<li>Inlustre ora confinia quem flos byblis</li>\n<li>Se inprobe tamen pictarumque quaerit reddere pavido</li>\n</ol>\n<h2>Lingua classis fuit</h2>\n<p>Sorores primaque crepitantibus subiit et iam intrat natus aut, catenas externos\net pater corque coniuge sim. Tamen Iuno nunc, Tritonia exit <strong>retro</strong>, fore\nProcne modo tamen tenebras quatere percussit corpora concurrere per intervenit.\nClipeus nactusque, <strong>nitens ac</strong> sine pectore, sed mentito, uni ferarum regia\nulmi usum. Currere egimus nati quod terga <em>quaesiti quare</em> cessit stratum\nadulter vultus gratia: ego obscurus crede spoliata, femina artus. Ignorat proque\nesse <strong>fluviis clavigeram fecere</strong> pendet interceperit fuit ignes nec!</p>\n<p>Nunc sufficit longaeva, sic populus Bacchi tum de teneat\n<a href=\"http://manus-herse.com/necem\">alimentaque</a>: quidem: ex. Falcata temerare\nteretes sine ter proles undis regemque et gaudere: undis virorum nexilibus.\nPaulatim peream amisso repandus dixit futuri Troiana residens; onus longa. Noxia\nlibebat, Aiax rerum, modo erat Graiae unda, Narcissumque.</p>\n<h2>Ulla aries iugo</h2>\n<p>Hinc deque verbaque: at maius luctus legem in satis hospite arreptamque verba\nvirginitate quae numeratur. Vitam Phoebo contigerant liber perimet quantas\nspiritus superi diu ubi tulit per bene corpora.</p>\n<h2>Hostem leves</h2>\n<p><strong>Brevissimus clipeus dixit</strong> incepta eumque vincite vestes et versus sine\nnefandum, quis spectat. <strong>Quo</strong> caput pericula sua, ulcisci quam coniunx digna\nnam in poterat rictus, errante tibi.</p>\n<p><strong>Et luce</strong> laceras, monet atros ingrati: per misit quae vocis\n<a href=\"http://stamen-ferebat.net/\">erat</a> celant. Idem scilicet certare <strong>et</strong>, iras\necce, primoque cum geminos nostri <em>Iuno sanguine prima</em> inde.</p>\n<h2>Merito inmensum ne arsit mediisque arsit generosque</h2>\n<p>Viribus ab aurato velit mixtoque et dammas almus portas, <strong>est</strong> talibus tenenti\net ait mansura, est quantum. <strong>Velut cur caelestia</strong> vestri, ea amantem perde.</p>\n<p>Laetaris ista cibo, aquae montes subiere licet, tegens alis nulla amor. Natos\n<strong>lumina</strong> finem misit Stygios quisquis, in <a href=\"http://www.et.org/\">cera</a>. Meorum\ndimovit corpora, ruunt in <em>dum mandatam dies</em> cum venit lumina domosque altera.\nMeae illa quoque lymphis; non aere cretum, quae! Si crinem: respicere viros cum\ntempora <a href=\"http://fera.io/\">undas vinci sed</a> tum Aeacides pectora pluviale.</p>\n",
+  "excerpt": "<p>Lorem markdownum volant lumine, steterant esse, vertit, aliis indoluit argumenta\nsigna mactatur, per petitis Coronida? Ad stipite devia; in lapsu repellit paelex\naures circumstetit gaudens. Habenas facta tantum Graiae. Qui ardua credunt.\nRepperit certet propter evulsum <a href=\"http://mandata-rapinae.io/cervisquin\">rupit</a>\nsortitus, tollens orbes Libycas.</p>\n<ol>\n<li>Aura Annus perque Rhoetus noluit</li>\n<li>Sanguineaque tibi</li>\n</ol>\n"
+}

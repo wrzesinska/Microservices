@@ -1,0 +1,75 @@
+{
+  "id": "1341",
+  "name": "Womens All Black Midi Classy Dress",
+  "price": 98.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 42,
+    "average": 2.9
+  },
+  "category": {
+    "id": 121,
+    "name": "Dresses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Classy",
+    "Elegant"
+  ],
+  "images": [
+    {
+      "product_id": 1341,
+      "image_url": "https://images.unsplash.com/photo-1551862512-aa5cf465bf32?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1341/1.jpg"
+    },
+    {
+      "product_id": 1341,
+      "image_url": "https://images.unsplash.com/photo-1551862581-98892e5503bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1341/2.jpg"
+    },
+    {
+      "product_id": 1341,
+      "image_url": "https://images.unsplash.com/photo-1551862511-c79a15e93508?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1341/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12410100,
+      "feature_id": 100,
+      "product_id": 1341,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12410100,
+      "feature_id": 100,
+      "product_id": 1341,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12410100,
+      "feature_id": 100,
+      "product_id": 1341,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12410200,
+      "feature_id": 200,
+      "product_id": 1341,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Ut tantumque rapto se propius exspirare quod</h2>\n<p>Lorem <strong>markdownum trepidare</strong> semper Rhodope ille: femina vacantem quae; quod\nverba orantemque nigris usquam. Finge <em>Andraemone</em> parva ne Medusae succedere\nmicante Lyncides verbisque: Amphrysi.</p>\n<ol>\n<li>Trabibus et prima candentem limus dextra Tellus</li>\n<li>Et faciam iam cadendum nec veram uterum</li>\n<li>Tremescere patria</li>\n</ol>\n<h2>Occupat igni filum</h2>\n<p>Mihi plaga nati iuves nudabant stant <strong>armentorum</strong> pennis et scopulus Minervae\nhuic. Esset alta misera coeamus pedis corpore est sentiri visum audiat: post\nritu.</p>\n<blockquote>\n<p>In talum servaberis vipereis gressu se vixque <strong>se</strong> aequora crura Ulixes\nnobis. Usta quod: cumque ipsis <a href=\"http://www.ab.com/etpriscum.php\">imagine</a>:\nsigna <a href=\"http://res.io/et-laeti.html\">quam</a> Aeneas! <strong>Canes formae</strong> et credere\nora, Crotonis Cyllenius velatam liquidas ne. Gurgite iungimus supplentur:\ncedere Epidauria ad aras acto amor. Omnia senserunt equae\n<a href=\"http://helopsauris.com/patuitque.html\">concurrere</a> genetrix habendum pyra,\nsic ore felix, cape.</p>\n</blockquote>\n<h2>Igni qui</h2>\n<p>Nataeque utinam exilibus nivosos? Tot volat latique, per <a href=\"http://quod.com/nocent\">nunc sedilia\ntimor</a>. Saepe usus neve me <em>Canopo</em> inpar radiis <a href=\"http://pretium.io/mirabile.html\">ora\nfecerat facta</a> disparibus se tendere nec, sic\ndum. Huic in, <strong>sed</strong> petet accommodat diva solidae sed pontus profundum.</p>\n<p>Lapides sedere! Sed reddit iussos Tritonida.</p>\n<h2>Stagnum dedit merumque pulvere fecere</h2>\n<p>Serta sedem excidit mihi quamvis parente, sententia et colle! Amplexaque quoque\ndivitis, et vestes, Threicius canum? Subducere tuam. Saevae toto: picto viae\nannus novissima felicia; vires <strong>unus</strong>! Ex quoque superos, malas amnes multos!</p>\n<blockquote>\n<p>Illis impleverat retentis turris silvis ulvaeque, iam pulcherrime summo\ninstiterant moris subederat et caeli in pabula rex rustica. Postquam aqua\npostquam dives perque do, qui cum fluctibus animus ducimus inquit, rebus mea.</p>\n</blockquote>\n<p><a href=\"http://enimdeus.org/quod-nata\">Effecisse</a> parte ponto coetum largis, suspirat\ncervina! Sterilis dicta regna, at, iube ille nefasque bubo anxia aliquam\ninmensum Orionis Iunonis arcana.</p>\n",
+  "excerpt": "<p>Lorem <strong>markdownum trepidare</strong> semper Rhodope ille: femina vacantem quae; quod\nverba orantemque nigris usquam. Finge <em>Andraemone</em> parva ne Medusae succedere\nmicante Lyncides verbisque: Amphrysi.</p>\n<ol>\n<li>Trabibus et prima candentem limus dextra Tellus</li>\n<li>Et faciam iam cadendum nec veram uterum</li>\n<li>Tremescere patria</li>\n</ol>\n<p>Mihi plaga nati iuves nudabant stant <strong>armentorum</strong> pennis et scopulus Minervae\nhuic. Esset alta misera coeamus pedis corpore est sentiri visum aud</p>\n"
+}

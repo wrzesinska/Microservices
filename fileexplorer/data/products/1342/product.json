@@ -1,0 +1,89 @@
+{
+  "id": "1342",
+  "name": "Womens Grey Cotton Summer Midi Dress",
+  "price": 69.99,
+  "price_promo": 59.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 70,
+    "average": 3.82
+  },
+  "category": {
+    "id": 121,
+    "name": "Dresses"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Summer",
+    "Cotton",
+    "Frill Edge"
+  ],
+  "images": [
+    {
+      "product_id": 1342,
+      "image_url": "https://images.unsplash.com/photo-1554141220-1d408c71450b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=378&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1342/1.jpg"
+    },
+    {
+      "product_id": 1342,
+      "image_url": "https://images.unsplash.com/photo-1554141186-996eb6b1a09d?ixlib=rb-1.2.1&auto=format&fit=crop&w=378&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1342/2.jpg"
+    },
+    {
+      "product_id": 1342,
+      "image_url": "https://images.unsplash.com/photo-1554141220-aa89d8897b38?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1342/3.jpg"
+    },
+    {
+      "product_id": 1342,
+      "image_url": "https://images.unsplash.com/photo-1554141186-38b57ebad039?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1342/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12420100,
+      "feature_id": 100,
+      "product_id": 1342,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12420100,
+      "feature_id": 100,
+      "product_id": 1342,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12420100,
+      "feature_id": 100,
+      "product_id": 1342,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12420100,
+      "feature_id": 100,
+      "product_id": 1342,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12420200,
+      "feature_id": 200,
+      "product_id": 1342,
+      "name": "Color",
+      "value": "Grey"
+    }
+  ],
+  "description": "<h2>Miraris mea Actaeo</h2>\n<p>Lorem <a href=\"http://www.ventos.net/\">markdownum persequar</a> viris, silvas Somnia\npectora tridentigero ficta rupe vietum. Vicerat sceptri Tritonia, cornibus.\nConcurrere debes.</p>\n<p>Pro furit, perfundere mansit paternum occupat inrequieta timido Athenae\nconcilium exitus senes lusibus tinxi sub echidnae! Et eadem ut modo <a href=\"http://coepti-et.net/et\">illud erit\niam</a> te actus recens <em>Proserpina sola ad</em> quoque, sub\npatruelibus. Quae mihi, tumulos comas: iuverat <strong>privignae et</strong> radice flavam\nvidendi at adhuc foresque! Sed mea, iram servantia densum requiescit tenuatus\nilli; tracto tigridis? Tellus quis axem roger, <a href=\"http://amorem-secundas.net/\">tumidaque non\nsaevoque</a>; in fidem.</p>\n<p>Postquam nata, sine illa: ille quodsi <strong>si</strong> et ego satis et veros ab muneraque:\nalite. Ibi reliquit serta retemptat iactanti furiosaque cupit.</p>\n<h2>Bene ponit illum dumque</h2>\n<p>Cunei ille, quales, causas teque mentes, aquis gemino. Ignis sedit et convicia\nfugavi: o quam eras membra. Est idem <a href=\"http://tacitos.com/vario\">hic</a> aequora\nferro una <em>Cadmi palpitat oculos</em> Salmacis, quam hac, et. Non crescitque pavidam\nvideres Haemonia cessent cervi inmemor esse qui nemus conplexae labare, et.</p>\n<p>Mortis docebat venenis, nolle inplevit. Simul ut coniunx statuistis tenebat\nsuper inmensum arcere, omnipotens sua miseris quaerit, nondum studiumque, comas.</p>\n<p>Troiae <strong>aperire ira saepe</strong> iras fortuna huic, sub quae mea caede dicere\nfuisset trahit. Vincemur dei longa spectari prisco vultusque et colla. Socii\nmota, haesura aditus infecit lumine inmania Saturnia recessit matri.</p>\n<p>A longe <em>victarum</em> quod ponat forma sacris, et illi ramis tegmina, Herculis\nplacidam <strong>abigitque maternas</strong> primordia tacuit. Vilior anni parmam. Hoc pars\ndeos exosus, enim <em>indeploratum</em>, attraxerat igni unda. Silvaque conlegerat\ncaelestia et solvit, anguis pater arvis! Umet quoque incessere simul ora haut\n<em>Chaonis Siculo suique</em> navigat, Troiani fuit, que iussit gemitu totidemque.</p>\n",
+  "excerpt": "<p>Lorem <a href=\"http://www.ventos.net/\">markdownum persequar</a> viris, silvas Somnia\npectora tridentigero ficta rupe vietum. Vicerat sceptri Tritonia, cornibus.\nConcurrere debes.</p>\n<p>Pro furit, perfundere mansit paternum occupat inrequieta timido Athenae\nconcilium exitus senes lusibus tinxi sub echidnae! Et eadem ut modo <a href=\"http://coepti-et.net/et\">illud erit\niam</a> te actus recens <em>Proserpina sola ad</em> quoque, sub\npatruelibus. Quae mi</p>\n"
+}

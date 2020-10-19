@@ -1,0 +1,90 @@
+{
+  "id": "1281",
+  "name": "Mens Lilac Classy Summer Shirt",
+  "price": 74.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 213,
+    "average": 2.14
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Classy",
+    "Summer",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1281,
+      "image_url": "https://images.pexels.com/photos/2853529/pexels-photo-2853529.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1281/1.jpg"
+    },
+    {
+      "product_id": 1281,
+      "image_url": "https://images.pexels.com/photos/2853535/pexels-photo-2853535.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1281/2.jpg"
+    },
+    {
+      "product_id": 1281,
+      "image_url": "https://images.pexels.com/photos/2853527/pexels-photo-2853527.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1281/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12810100,
+      "feature_id": 100,
+      "product_id": 1281,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12810100,
+      "feature_id": 100,
+      "product_id": 1281,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12810100,
+      "feature_id": 100,
+      "product_id": 1281,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12810100,
+      "feature_id": 100,
+      "product_id": 1281,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12810100,
+      "feature_id": 100,
+      "product_id": 1281,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12810200,
+      "feature_id": 200,
+      "product_id": 1281,
+      "name": "Color",
+      "value": "Lilac"
+    }
+  ],
+  "description": "<h2>Et deos tutus celeberrima domos</h2>\n<p>Lorem markdownum dixerat ferro: ait quod, praecordia aptarique in <strong>suspicit\nilla igni</strong> illa deduxit: Telchinas refers et. Armis transierant faciemque enim.</p>\n<h2>Tum patris petiere praesens diversa</h2>\n<p>Non potens adhuc, et paelice <strong>putabat moenia</strong>, in curas Phobetora feriuntque\nlaesit. Pudore vocant innumerosque fugiamus, <em>revelli</em>, detinuit trabibus; est\nerat aliter.</p>\n<h2>Greges turbantes auctor utque corpus summisque ex</h2>\n<p>Senectam de paelice emicat regina, suam color vana tellus et placere accipe.\nNihil caeli, propositique creatus pater; Tartareas lacrimarum.</p>\n<blockquote>\n<p>Solet finire suas et continet Rhodiae invidit fiducia; dum stare et suas in,\nabit. Qui proculcat, rigidi, genetrix proiecto refert: miracula nostro\ncaelarat nec <strong>accipiunt aderant</strong> fieret! Virtuti picea pro cremabis aequore\ngravitate adesset bracchia incertam quorum superest ille spoliare: tu. Bimari\ncuius in prima supremo huc venit trabes expetitur saepe Tyrrhenaque perque\nsacerdotis commentaque velleribus fugam multis gestasset. Poterat init, est\nvoce, capillis <em>patresque</em>, inmunis, <a href=\"http://petit.com/timidumque\">terrae</a>.</p>\n</blockquote>\n<h2>Auras illa modo nec patria tum serta</h2>\n<p>Bene partes bibes draconem iusserat. Efficiet sumptis altera via\n<a href=\"http://www.memorante.com/ubi.html\">meque</a> notabilis habet; copia dixit\n<strong>insidiae prima</strong>, dum fauces cum nec.</p>\n<p>Nivea currum visum patuisse undamque, e anilem colle per. Moratos inponere;\ninsecti iunguntur incerti, sua premis, quae lapis <em>ventis postquam</em> miratur!\nUrguere est cum audet utroque. Umbras sunt; nati miserere visa sic fluctibus\nnoscoque genuisse! Quod recursus, plus dat fortuna rudis violaeque invitam,\ncontemptaque alvum, o esse gravem morientes frequens.</p>\n<h2>Fortemque sideribus reddita</h2>\n<p>Mater Ammon movere et hostile cortice Mnemosynen utque draconem? In solet o\nabesse ova axem? Conprecor cunctis cremabit. Meosque est, te pavent paratibus\nagnus: decorem et silvis cervice, fautrix lateri cumulum timuere curvare\nherbida. Est mihi huic signatur potentior <strong>concursibus ubi guttae</strong> omnia,\nmedio dictis.</p>\n<p>Per usum tenax: infectus animalia bubo dryades? <em>Vos cum monimenta</em> tangit\ninquit invidiae viro suos sontes dolore suadet, valeant illi Alcides. Argolis\nlascive parat sed, et crines indignantesque sed culpa inquit vidit non a currus\numerosque omina. Ergo resupina Plurima <a href=\"http://esset.io/\">nunc</a>, ficti quoque,\nPhilomela Tydides tenet exilio gerit, flecti.</p>\n<p>Ad sed terrae pectore, agnovit, avenis Enaesimus Quirine intrat quam. Et\ninpositum corpora. Laesaque qua culpatque verbis felle corpora oceano easdem\ndedisset, et caput fretaque, terribilesque!</p>\n",
+  "excerpt": "<p>Lorem markdownum dixerat ferro: ait quod, praecordia aptarique in <strong>suspicit\nilla igni</strong> illa deduxit: Telchinas refers et. Armis transierant faciemque enim.</p>\n<p>Non potens adhuc, et paelice <strong>putabat moenia</strong>, in curas Phobetora feriuntque\nlaesit. Pudore vocant innumerosque fugiamus, <em>revelli</em>, detinuit trabibus; est\nerat aliter.</p>\n<p>Senectam de paelice emicat regina, suam color vana tellus et placere</p>\n"
+}

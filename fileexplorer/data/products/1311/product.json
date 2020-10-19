@@ -1,0 +1,76 @@
+{
+  "id": "1311",
+  "name": "Mens Camel&Brown Short Leather Coat",
+  "price": 298.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 164,
+    "average": 4.39
+  },
+  "category": {
+    "id": 114,
+    "name": "Jackets and coats"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Leather",
+    "Camel"
+  ],
+  "images": [
+    {
+      "product_id": 1311,
+      "image_url": "https://images.pexels.com/photos/3933415/pexels-photo-3933415.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1311/1.jpg"
+    },
+    {
+      "product_id": 1311,
+      "image_url": "https://images.pexels.com/photos/3933426/pexels-photo-3933426.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1311/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13110100,
+      "feature_id": 100,
+      "product_id": 1311,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13110100,
+      "feature_id": 100,
+      "product_id": 1311,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13110100,
+      "feature_id": 100,
+      "product_id": 1311,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13110100,
+      "feature_id": 100,
+      "product_id": 1311,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13110200,
+      "feature_id": 200,
+      "product_id": 1311,
+      "name": "Color",
+      "value": "Camel"
+    }
+  ],
+  "description": "<h2>Spectans dura</h2>\n<p>Lorem markdownum iuvenumque fuit emissumque pondus, ministris flumineae negetur,\nquercus: colonus. Defixa bene oraque, optari? Enim <strong>quot longis neque</strong> mutatus\nrear maior <a href=\"http://eurypylique.io/hiems\">duobus</a> despectus tollere Lethes\ndigitosque sanguine captus. Percusso naturae nunc, more famulas esset certos\nsummisque lateri repperit haustus.</p>\n<ul>\n<li>Fraternos cum duro et est alis nexis</li>\n<li>Quem attollens arte candida terres suppressit lata</li>\n<li>Celeberrimus sperne me deprenduntur it primus</li>\n</ul>\n<p>Publica dura casus honorat amantes corpus. Fui verba intus; obliquo parenti\ncremet, nec harundine persequitur Assyrius et utque soporiferam trabes in.</p>\n<h2>Habet sustollit insonet</h2>\n<p>Cum nullisque refers; addere rapta, tela ab annos autumnos: suam vidit nisi\ngutture, abiit non. Saevit <em>non resonabat</em> fides et revelli per ferenda canes\nvidebat pinea; e <em>hospes</em> culpavi, alte, dea auxerunt?</p>\n<p>Caeli totidem inquit denique, verba <a href=\"http://protinus.org/sit\">tonitruque</a>. Saepe\ncomites sed cum sui <em>marmoreamque</em>, perdere, licet.</p>\n<ol>\n<li>Et crines rettulit mota</li>\n<li>Dederant sive ferreus turbatque quibus</li>\n<li>Mirantum mihi et spretis numquam dependebat proprias</li>\n<li>Nocebant solum doloris timor ferrum</li>\n<li>Redeunt effugit repulsa nec nonne praemia Iapygiam</li>\n</ol>\n<p>Condita adhuc Hectoris vosne requiescere mente flores, et heros coniuge.\n<strong>Illum</strong> habitus Subaris patria popularia atque; <em>totis caedibus hospes</em>\nrevocataque nisi, Herculis mea eundem. Audita regia\n<a href=\"http://www.abeuntfacta.org/verbis.aspx\">thalamoque</a> unum pectora uvae huc nunc\no moriens dixit fruge duo illa quae dabat.</p>\n",
+  "excerpt": "<p>Lorem markdownum iuvenumque fuit emissumque pondus, ministris flumineae negetur,\nquercus: colonus. Defixa bene oraque, optari? Enim <strong>quot longis neque</strong> mutatus\nrear maior <a href=\"http://eurypylique.io/hiems\">duobus</a> despectus tollere Lethes\ndigitosque sanguine captus. Percusso naturae nunc, more famulas esset certos\nsummisque lateri repperit haustus.</p>\n<ul>\n<li>Fraternos cum duro et est alis nexis</li>\n<li>Quem attollen</li>\n</ul>\n"
+}

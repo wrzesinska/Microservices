@@ -1,0 +1,82 @@
+{
+  "id": "1304",
+  "name": "Mens White Woollen Elegant Turtleneck Sweater",
+  "price": 88.99,
+  "price_promo": 68.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 214,
+    "average": 3.88
+  },
+  "category": {
+    "id": 111,
+    "name": "Hoodies and sweaters"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Elegant",
+    "Woollen",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1304,
+      "image_url": "https://images.unsplash.com/photo-1569444744140-83c39a75198f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1304/1.jpg"
+    },
+    {
+      "product_id": 1304,
+      "image_url": "https://images.unsplash.com/photo-1569444744140-83c39a75198f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDAxNX0&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1304/2.jpg"
+    },
+    {
+      "product_id": 1304,
+      "image_url": "https://images.unsplash.com/photo-1569444743379-0db6f92c314f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1304/3.jpg"
+    },
+    {
+      "product_id": 1304,
+      "image_url": "https://images.unsplash.com/photo-1569444743503-f11ed614445b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1304/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13040100,
+      "feature_id": 100,
+      "product_id": 1304,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13040100,
+      "feature_id": 100,
+      "product_id": 1304,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13040100,
+      "feature_id": 100,
+      "product_id": 1304,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13040200,
+      "feature_id": 200,
+      "product_id": 1304,
+      "name": "Color",
+      "value": "White"
+    }
+  ],
+  "description": "<h2>Ter membris rudem</h2>\n<p>Lorem markdownum simulat, ferrum verebor fuit. Tendentem circuit ubi tremendos\nVertumnumque amore ipse semina, tibi, <strong>quo</strong>. Positisque pendet, tibi,\ncertaminis <strong>est tumulum quas</strong> donis exire ubi.</p>\n<ol>\n<li>Danti iactatis in dicere ab</li>\n<li>Et novis et mihi hospitis nuda virum</li>\n<li>Eripite Amphrysi</li>\n</ol>\n<h2>Lycaeo nec Tempus infelix at resolvit spectatorem</h2>\n<p>Quoque <strong>es Perseus</strong> Phoebeis superesse sanguine correptus <em>tinctus</em> idem\navidus possent. Quoniamque inque.</p>\n<h2>Tremens didicit dumque exclamat sanguis ut patrias</h2>\n<p>Scit pan mira in fero illa pars est vertere omnes regnabat <strong>heres et sentibus</strong>\ninmensum. A <em>motis</em> decus agebatur eget divamque, qua de gerebant. Utile et\nrupta Phoebus alte: nube dixit mediusque liquidus quid, tanta mihi?</p>\n<ol>\n<li>Iuris quam posset litore</li>\n<li>Matertera vocari cum ter</li>\n<li>Stipata restare laesit liquidas respice eminet</li>\n<li>Fero dea legebant ora devia</li>\n<li>Teloque erat</li>\n</ol>\n<h2>Error in sulcum in vertit mendacia quemque</h2>\n<p>Loquetur Iovis cum ortus innumeras crudelius ad Dianam qui, est. Haud carpebam\net dixit quae utraque medicamine hederis limine? In nostras et manu, mens ecce\niter Calydon vocassent, cruor refert. Quoque alma bracchia!</p>\n<h2>Haec ficta supplex incipiat</h2>\n<p>Ad rursus vulnera, est <a href=\"http://excutis.io/\">per cum ter</a> egreditur dabis\nvirginei uterque Tatiusque exit, moenia Minos pontus Pharosque! Congestaque\npater triste.</p>\n<p>Fatentem Tatiusque pronepos germanae. Nam ferrum tegminis ab illuc et pendeat,\niactantem timidae repente caelataeque stagnare caespite, Iove <em>stipes</em>. Anxia\narma et ambo, leto coniugiumne verborum quin!</p>\n",
+  "excerpt": "<p>Lorem markdownum simulat, ferrum verebor fuit. Tendentem circuit ubi tremendos\nVertumnumque amore ipse semina, tibi, <strong>quo</strong>. Positisque pendet, tibi,\ncertaminis <strong>est tumulum quas</strong> donis exire ubi.</p>\n<ol>\n<li>Danti iactatis in dicere ab</li>\n<li>Et novis et mihi hospitis nuda virum</li>\n<li>Eripite Amphrysi</li>\n</ol>\n<p>Quoque <strong>es Perseus</strong> Phoebeis superesse sanguine correptus <em>tinctus</em> idem\navidus possent. Quoniamque inque.</p>\n<p>Scit pan mira in fero illa pars es</p>\n"
+}

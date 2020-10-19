@@ -1,0 +1,83 @@
+{
+  "id": "1371",
+  "name": "Womens Light Pink Basic \"Creative\" T-shirt ",
+  "price": 59.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 60,
+    "average": 2.34
+  },
+  "category": {
+    "id": 124,
+    "name": "T-shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Basic",
+    "Cotton",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1371,
+      "image_url": "https://images.unsplash.com/flagged/photo-1555728314-2c563accf3f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1371/1.jpg"
+    },
+    {
+      "product_id": 1371,
+      "image_url": "https://images.unsplash.com/photo-1555728313-e1dccb0a8582?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1371/2.jpg"
+    },
+    {
+      "product_id": 1371,
+      "image_url": "https://images.unsplash.com/photo-1555728314-a297b662a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1371/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13710100,
+      "feature_id": 100,
+      "product_id": 1371,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13710100,
+      "feature_id": 100,
+      "product_id": 1371,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13710100,
+      "feature_id": 100,
+      "product_id": 1371,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13710100,
+      "feature_id": 100,
+      "product_id": 1371,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13710200,
+      "feature_id": 200,
+      "product_id": 1371,
+      "name": "Color",
+      "value": "Pink"
+    }
+  ],
+  "description": "<h2>Pes templa</h2>\n<p>Lorem markdownum, campoque taedia. <strong>E duabus coniuge</strong> nomen?</p>\n<ol>\n<li>Pubis hoc lupos quas</li>\n<li>Uda ritu acrior etiamnum poenas consulit sim</li>\n<li>Stetit mihi est Romana inpia templo solitaque</li>\n<li>Cumque ait</li>\n<li>Iam cum</li>\n</ol>\n<h2>Dea famae ripis</h2>\n<p>Posse a dignas pulsat ut domitae fuerat tutos flagrans cacumina etiamnum erat.\nRelinquit innecte, augurio <em>quam agmine</em> animam Phorcidas ipso tua: notis manu\nmedicata esse: nec verba in. Vasta cum gratia rursus.</p>\n<p>Ibi resupino posuere gradu. Te siccata sic continet suarum meus certatimque\ncalamis videres crimen tenues nemus. Seges lugeat.</p>\n<h2>Serpentis equo dedimus esse neque cum a</h2>\n<p>Ales Menoeten Egeriae praeter, alimentaque furores eiectatamque corporibus\nsimulacra nimiique o mundus sorbere, a armenta nate. Ille nymphae, longum sine\nluctus fluunt in facies tecta. Illa fui suos caput dixit arbore quoque foret;\nfalsi harpe audita sonti, Dixerat, nocte sua. Philomela ultimus pirithoi, tenuit\ncollo tota Lelex, leni et gens. Protinus sternit Parnasosque dignos ego\nreligione: cum fine; armarat quod Carmina Denique materno laetissimus vivere?</p>\n<h2>Quod nullam modo Nereida templo laetaris respicit</h2>\n<p>Addidit quidem <strong>de iamque Sicanias</strong> postquam animam conpositum equi; non\nerrans mater. Rursusque heres plenissima inplent, miracula per Anigrus veros\npersequerer.</p>\n<h2>Iunguntur animo</h2>\n<p>Orbem strictumque <em>habebat repetatne profectus</em> procerum tali molimine ipsum\nmontibus et. Vocem veretur hortaturque; <strong>tetendi ut siqua</strong> hanc trepidos? Sed\navibus <a href=\"http://defensus.io/nec.html\">bis</a> praestantior verba frondis ignes.</p>\n<p>Erat in vis, sic et proceres et coeptis iussis! Concita modo restitit oro\nperstas languore inque pompae armaque ingeniosus utque indignante hamo. Ferarum\nmunusque <em>vestrae</em>. Lacertis deum: suos falsae est hoc, iam urbes rebelles. In\nneu sed, Vidi cui erant et parte onerosus femina quinque ponunt?</p>\n",
+  "excerpt": "<p>Lorem markdownum, campoque taedia. <strong>E duabus coniuge</strong> nomen?</p>\n<ol>\n<li>Pubis hoc lupos quas</li>\n<li>Uda ritu acrior etiamnum poenas consulit sim</li>\n<li>Stetit mihi est Romana inpia templo solitaque</li>\n<li>Cumque ait</li>\n<li>Iam cum</li>\n</ol>\n<p>Posse a dignas pulsat ut domitae fuerat tutos flagrans cacumina etiamnum erat.\nRelinquit innecte, augurio <em>quam agmine</em> animam Phorcidas ipso tua: notis manu\nmedicata esse: nec verba in. V</p>\n"
+}

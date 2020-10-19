@@ -1,0 +1,83 @@
+{
+  "id": "1363",
+  "name": "Womens Brown Structured Top",
+  "price": 44.99,
+  "price_promo": 38.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 86,
+    "average": 4.52
+  },
+  "category": {
+    "id": 123,
+    "name": "Tops"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Structure",
+    "Classy"
+  ],
+  "images": [
+    {
+      "product_id": 1363,
+      "image_url": "https://images.unsplash.com/photo-1587209897044-83cd73ecf9ed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1363/1.jpg"
+    },
+    {
+      "product_id": 1363,
+      "image_url": "https://images.unsplash.com/photo-1587211922771-381d0688365e?ixlib=rb-1.2.1&auto=format&fit=crop&w=333&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1363/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13630100,
+      "feature_id": 100,
+      "product_id": 1363,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13630100,
+      "feature_id": 100,
+      "product_id": 1363,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13630100,
+      "feature_id": 100,
+      "product_id": 1363,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13630100,
+      "feature_id": 100,
+      "product_id": 1363,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13630100,
+      "feature_id": 100,
+      "product_id": 1363,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13630200,
+      "feature_id": 200,
+      "product_id": 1363,
+      "name": "Color",
+      "value": "Brown"
+    }
+  ],
+  "description": "<h2>Non cessit nostris sumpsisse vestro lucis tristes</h2>\n<p>Lorem markdownum dilata concumbere mentis. Terrasque nec est <em>reque</em> aethere\n<strong>Parrhasio infamia</strong>; sub, declivis, nec respicit <strong>vecte</strong>! Mihi ac frequens\nabit <em>certet</em>, accessit, deus tunc dixit nisi dixit. Finiat nondum tulit multas\ndiversi corpora, via digna palmae arva! Veteremque sonum, Chirona in faciem\nminus munera nona nymphe, alga et verba.</p>\n<p>Cultu iactatis mea lecte exactus mille inrita lacerata frementi, pari fumante,\nconiuge. Di <strong>illius obtulimus</strong>, suaque orbem mansit melliferarum onerique\nabrumpit quae <strong>foret haemonii curva</strong> rettulit mulcet! Mars dedit digna terras.</p>\n<h2>Quae scribit figuram fecundo orbem</h2>\n<p>Estis promissa Bybli at illam possit! Deam damna et nigra tetigere: et Latonia\ncaelatus crimine aderant <a href=\"http://vaginasuccedere.org/et-iram\">ad</a> videbar foret\nceram religata.</p>\n<h2>Invidit simul</h2>\n<p>Semper sic progeniem ministros modo, religarat aerata vulgarunt trepidare esse\nrex spernit. Acumine quoniam <strong>matrona</strong>, iam barbara verba colitur Iunonem\n<a href=\"http://patre.com/quinon\">terror carmina</a> gravis dubitare pandis.</p>\n<ol>\n<li>Est propago coniuge Denique sermone omine nec</li>\n<li>Ratem Tantalus</li>\n<li>Trahit Marte prole quod pars limine haec</li>\n<li>Ulixis tuae his sonantem</li>\n</ol>\n<h2>Tenens luxuriem mediam invocat tenebat te in</h2>\n<p>Creatis iam Corintho nec flenda si arma saepe et traxere ferro at dum, animam.\n<a href=\"http://iam.io/viri-falsaque.html\">Alta</a> nunc ad velit tremoribus extemplo\ncopula iamdudum annus, glomerari suarum ligones animam avertens.</p>\n<p>Lecta male <em>viroque</em> cumque, ubi Stygia, matris eos fontibus <a href=\"http://www.facit-erant.net/\">ciborum\nlongas</a>: in pignus velis quae, suos. Somni\nsenioribus sibi si nec freto; fiducia ulvam bracchiaque litus <em>Naryciusque\npatri</em>; omne. Supernum vena defuit invalidus omnia manusque ambo: bello,\npraeside laniavit. Et vestes bifidosque praebere dubita.</p>\n",
+  "excerpt": "<p>Lorem markdownum dilata concumbere mentis. Terrasque nec est <em>reque</em> aethere\n<strong>Parrhasio infamia</strong>; sub, declivis, nec respicit <strong>vecte</strong>! Mihi ac frequens\nabit <em>certet</em>, accessit, deus tunc dixit nisi dixit. Finiat nondum tulit multas\ndiversi corpora, via digna palmae arva! Veteremque sonum, Chirona in faciem\nminus munera nona nymphe, alga et verba.</p>\n<p>Cultu iactatis mea lecte exactus mille inrita lace</p>\n"
+}

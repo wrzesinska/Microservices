@@ -1,0 +1,69 @@
+{
+  "id": "1333",
+  "name": "Mens Grey Classy Summer Cap",
+  "price": 48.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 42,
+    "average": 2.17
+  },
+  "category": {
+    "id": 116,
+    "name": "Caps and hats"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Classy",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1333,
+      "image_url": "https://images.pexels.com/photos/2962146/pexels-photo-2962146.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1333/1.jpg"
+    },
+    {
+      "product_id": 1333,
+      "image_url": "https://images.pexels.com/photos/2962147/pexels-photo-2962147.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1333/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13330100,
+      "feature_id": 100,
+      "product_id": 1333,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13330100,
+      "feature_id": 100,
+      "product_id": 1333,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13330100,
+      "feature_id": 100,
+      "product_id": 1333,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13330200,
+      "feature_id": 200,
+      "product_id": 1333,
+      "name": "Color",
+      "value": "Grey"
+    }
+  ],
+  "description": "<h2>Altera de</h2>\n<p>Lorem markdownum herba pervenit patriis, subvolat undis Iuppiter dei dives.\nTenet ferro luco nectaris deus incubuitque cortice siste surdaeque donec ignosce\nmissi tandemque cavas, movimus. Dignus paveant nympham patrios canes liquores\ncrimine rorant Aesoniden, tollit. Dixit fulmine temptaretque formosus flatuque,\nsub umbra cur Cartheia mulces!</p>\n<p>Cum incola voce mater caecisque emoriar! Nervis ignoro ille, tuo!</p>\n<h2>Sequitur dicit orbes nece</h2>\n<p>Dixerat animum intellege sinistra caret steriles. <em>Est</em> et restabat pectore\nlongis virgineum patruelis magnum quibus spatium.</p>\n<ol>\n<li>O terra</li>\n<li>Munus me tibi captam coniugiumne idemque armis</li>\n<li>A virgam inmunis multa est Paraetonium</li>\n</ol>\n<h2>Sub gravidus</h2>\n<p>Vidit volucrem, et conata classe. <em>Qui dubitat</em>, superinposita movet <a href=\"http://quitamen.net/panchaia.aspx\">est\nratis</a> famem solverat! Fas est nec requiescit\net temporis et hastile et ferinis currant et numeri habetur crescendo. Vultus\nvincula tonso, pio eiecit tenebris <strong>et facta</strong> ipsa sanior, tibi herbas sine,\npariter confinia.</p>\n<blockquote>\n<p>Adfuit capessamus Iuppiter; matri non esse etiam, altam voce impelli. Tua\nadnuit <strong>edere nitorem</strong> vos ad inpiger ulla, haud hic, est! Commentaque et\ntamen!</p>\n</blockquote>\n<p>Confessus viris: <em>robore Hecateidos terras</em> avem nos aequore victum recedere\nlacertis! Toto quae, ager foret, et seque.</p>\n",
+  "excerpt": "<p>Lorem markdownum herba pervenit patriis, subvolat undis Iuppiter dei dives.\nTenet ferro luco nectaris deus incubuitque cortice siste surdaeque donec ignosce\nmissi tandemque cavas, movimus. Dignus paveant nympham patrios canes liquores\ncrimine rorant Aesoniden, tollit. Dixit fulmine temptaretque formosus flatuque,\nsub umbra cur Cartheia mulces!</p>\n<p>Cum incola voce mater caecisque emoriar! Nervis ignoro ille, tuo!</p>\n<p>Dixerat</p>\n"
+}

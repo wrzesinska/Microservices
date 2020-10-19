@@ -1,0 +1,90 @@
+{
+  "id": "1277",
+  "name": "Mens Navy Blue Classy Shirt With Big Pockets",
+  "price": 84.99,
+  "price_promo": 69.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 202,
+    "average": 2.19
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Classy",
+    "Pockets",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1277,
+      "image_url": "https://images.pexels.com/photos/3890459/pexels-photo-3890459.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1277/1.jpg"
+    },
+    {
+      "product_id": 1277,
+      "image_url": "https://images.pexels.com/photos/3890445/pexels-photo-3890445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "source_id": 200,
+      "file_path": "api/images/1277/2.jpg"
+    },
+    {
+      "product_id": 1277,
+      "image_url": "https://images.pexels.com/photos/3890442/pexels-photo-3890442.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1277/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12770100,
+      "feature_id": 100,
+      "product_id": 1277,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12770100,
+      "feature_id": 100,
+      "product_id": 1277,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12770100,
+      "feature_id": 100,
+      "product_id": 1277,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12770100,
+      "feature_id": 100,
+      "product_id": 1277,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12770100,
+      "feature_id": 100,
+      "product_id": 1277,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12770200,
+      "feature_id": 200,
+      "product_id": 1277,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Parentum melior</h2>\n<p>Lorem markdownum alto, licet in tenemur remissis mansit et natus. Huic modo\ntalia, passu licet. Nec aequoris <em>figurae</em> dubitare repugnat tanti, <a href=\"http://invideatis-cereris.net/\">fit laboras\net</a> inerti tibi victa leonibus extremas pabula\nspectacula Thisbe umbras?</p>\n<ol>\n<li>Signum vidit videre viva posse est iramque</li>\n<li>Movens postquam ausis praecinctus tua</li>\n<li>Volucris oculis auras infantemque umida caeruleos spem</li>\n<li>Conceptus trahat</li>\n<li>Cyparissus crevit illo</li>\n<li>Inquit cum nuper talia hastam Hippomenes dispositam</li>\n</ol>\n<h2>Aere praemia tantum evitata Hymenaee hunc</h2>\n<p>Amorem captivis pondera manusque; matertera prius Neritiaeque imago dentibus sed\nre in cucurri, ab. Pietatis ipsi contra o partim flectimur fortis et ast est,\nbracchiaque sic. Externasque cum crimina pater plus fama pedum dicit ille fecit\nvenerit debet circumspectis putes praetentaque <a href=\"http://www.in.com/bracchianivibus.html\">videre\nsubiere</a>.</p>\n<ol>\n<li>Indignantia fila</li>\n<li>Flabat nec aratri</li>\n<li>Misso in inania duobus</li>\n<li>Colchide qui sacrum et velle nocte</li>\n<li>Vincere carpere et mentoque caeli</li>\n<li>Caecaque cratem</li>\n</ol>\n<h2>Soceri loquentem moram tibi relictus captat manum</h2>\n<p>Despicit infelix adsere? Laudem armo iras modo omnes\n<a href=\"http://bis-temo.net/laniem-filia\">inertes</a>, Oeclides alto acto armis coeptum\ncolor.</p>\n<ol>\n<li>Quos super specie Phoceus monitusque undas terras</li>\n<li>Templa temeraria gurgite</li>\n<li>Inclinarat altera aegre dissuadere comes</li>\n</ol>\n<p>Mihi venit dempsistis <em>cuspide</em>, dedit opus cuspide futura, non aspicit,\ningenio. Nisi cum, <strong>vituli</strong> Iris; territa ultor eveniunt est <strong>falsi mirabile\namantem</strong> quod.</p>\n",
+  "excerpt": "<p>Lorem markdownum alto, licet in tenemur remissis mansit et natus. Huic modo\ntalia, passu licet. Nec aequoris <em>figurae</em> dubitare repugnat tanti, <a href=\"http://invideatis-cereris.net/\">fit laboras\net</a> inerti tibi victa leonibus extremas pabula\nspectacula Thisbe umbras?</p>\n<ol>\n<li>Signum vidit videre viva posse est iramque</li>\n<li>Movens postquam ausis praecinctus tua</li>\n<li>Volucris oculis auras infantemque umida caeruleos spem</li>\n<li>Conceptus trah</li>\n</ol>\n"
+}

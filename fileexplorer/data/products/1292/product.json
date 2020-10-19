@@ -1,0 +1,88 @@
+{
+  "id": "1292",
+  "name": "Mens Black&White Classy Striped Shirt",
+  "price": 79.99,
+  "price_promo": 62.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 28,
+    "average": 2.24
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Stripes",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1292,
+      "image_url": "https://images.pexels.com/photos/769731/pexels-photo-769731.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1292/1.jpg"
+    },
+    {
+      "product_id": 1292,
+      "image_url": "https://images.pexels.com/photos/769773/pexels-photo-769773.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1292/2.jpg"
+    },
+    {
+      "product_id": 1292,
+      "image_url": "https://images.pexels.com/photos/769732/pexels-photo-769732.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1292/3.jpg"
+    },
+    {
+      "product_id": 1292,
+      "image_url": "https://images.pexels.com/photos/769728/pexels-photo-769728.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1292/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12920100,
+      "feature_id": 100,
+      "product_id": 1292,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12920100,
+      "feature_id": 100,
+      "product_id": 1292,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12920100,
+      "feature_id": 100,
+      "product_id": 1292,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12920100,
+      "feature_id": 100,
+      "product_id": 1292,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12920200,
+      "feature_id": 200,
+      "product_id": 1292,
+      "name": "Color",
+      "value": "White"
+    }
+  ],
+  "description": "<h2>Secura garrulitas est</h2>\n<p>Lorem markdownum te aquae pressique Cycni talibus placido in pudorem\n<a href=\"http://dis.io/qui.html\">nati</a>. Humanas <a href=\"http://agebatquod.com/\">circo</a>, de\nexempta obscurum ex fronde amorem. Sibi corniger?</p>\n<p>Meas carpitur tibi famulas at nisi novitate medio piscosa castaque! Maxima per\nquas ille timet viminaque vestes.</p>\n<ul>\n<li>Movet et feros mea</li>\n<li>Et domui cogitis mortales tempestivus ab sine</li>\n<li>Timido tempusque optime arbitrium exsecrere ecce Aetnam</li>\n</ul>\n<h2>Pollice laurea iactat alter</h2>\n<p>Deus mirata rostro arboribus gemitus naides! Pater dixit <strong>restabat dedecus\nlaevo</strong>: arma calores quique, et ille. Fassaque nec quot pugnem nec, manus tulit\ncacumina fores, Leucon, provolat similis; una Achelous anhelis Cadmo. Nubila\ndeorum temptabat perstat velut, dicta! Prima pudor, ut iamque cervus et nos\nvitamque mente lues Corythi velle.</p>\n<blockquote>\n<p>Vim nova. Falcatus Iuppiter famuli concursibus parte oblitus minus. Quid lotos\nministrarum carpant, propera tendentes Learchum te parte laeva aequora\nfluitque, at agitabitur beatus Sperchios addita deme. Precari crinem iacerent,\nmonte Ecce necopina, obvius mira est efficiens forte, origine, suos in fontes,\ncura.</p>\n</blockquote>\n<h2>Ipsis in perosus</h2>\n<p>Quia nos equis brevibus vulgaris est: membra summis, iacent et horrida. Tellure\nnon nunc tonsa <a href=\"http://meus.com/\">concussa</a>? Vulgus attollere iter, puerpera et\nidem silvisque soleant exteriusque, cura?</p>\n<ol>\n<li>Exarsit ferox utque fontes</li>\n<li>Per resque nymphas Trachasque memorque avibus</li>\n<li>Esset sum tenet</li>\n<li>Erit funda fluctibus</li>\n<li>Consumite numero</li>\n<li>Ut illis muros</li>\n</ol>\n<p>Sed dicta per secreta solet per undas videt inportuna mensam Cnidon ereptus.\nFretum culmen sensibus inquit suo inpune tritis constituit optabile inque\nhominis corruat oris tecto austri, vultum duobus teneris temptat. Liber mulces\nfelicisque dei laborat pars meritis miror.</p>\n<p>Nec per, dominum <a href=\"http://vidit-rexit.io/\">Troia enim Phryges</a>: veri agger\ntemptatum longoque trahar mediamque si tener cruore Iovis passis. Tui gurgite\ncoeamus collocat minus! Nec quam fortis turba lascive illam aut <em>dextra spicula\nac</em> Procne, aura viscera parcum. Sed est roboris quam Thebae moenia spolioque\nmaris fata?</p>\n",
+  "excerpt": "<p>Lorem markdownum te aquae pressique Cycni talibus placido in pudorem\n<a href=\"http://dis.io/qui.html\">nati</a>. Humanas <a href=\"http://agebatquod.com/\">circo</a>, de\nexempta obscurum ex fronde amorem. Sibi corniger?</p>\n<p>Meas carpitur tibi famulas at nisi novitate medio piscosa castaque! Maxima per\nquas ille timet viminaque vestes.</p>\n<ul>\n<li>Movet et feros mea</li>\n<li>Et domui cogitis mortales tempestivus ab sine</li>\n<li>Timido tempusque opti</li>\n</ul>\n"
+}

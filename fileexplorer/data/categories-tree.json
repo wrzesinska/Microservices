@@ -1,0 +1,328 @@
+[
+  {
+    "id": 100,
+    "name": "Clothes",
+    "parent_id": null,
+    "ancestors_path": [],
+    "nesting_level": 0,
+    "products_count": 0,
+    "children_products_count": 124,
+    "children": [
+      {
+        "id": 110,
+        "name": "Mens Clothes",
+        "parent_id": 100,
+        "ancestors_path": [
+          100
+        ],
+        "nesting_level": 1,
+        "products_count": 0,
+        "children_products_count": 64,
+        "children": [
+          {
+            "id": 111,
+            "name": "Hoodies and sweaters",
+            "parent_id": 110,
+            "ancestors_path": [
+              100,
+              110
+            ],
+            "nesting_level": 2,
+            "products_count": 13,
+            "children_products_count": 0,
+            "children": []
+          },
+          {
+            "id": 112,
+            "name": "T-shirts",
+            "parent_id": 110,
+            "ancestors_path": [
+              100,
+              110
+            ],
+            "nesting_level": 2,
+            "products_count": 4,
+            "children_products_count": 0,
+            "children": []
+          },
+          {
+            "id": 113,
+            "name": "Shirts",
+            "parent_id": 110,
+            "ancestors_path": [
+              100,
+              110
+            ],
+            "nesting_level": 2,
+            "products_count": 21,
+            "children_products_count": 0,
+            "children": []
+          },
+          {
+            "id": 114,
+            "name": "Jackets and coats",
+            "parent_id": 110,
+            "ancestors_path": [
+              100,
+              110
+            ],
+            "nesting_level": 2,
+            "products_count": 15,
+            "children_products_count": 0,
+            "children": []
+          },
+          {
+            "id": 115,
+            "name": "Blazers",
+            "parent_id": 110,
+            "ancestors_path": [
+              100,
+              110
+            ],
+            "nesting_level": 2,
+            "products_count": 5,
+            "children_products_count": 0,
+            "children": []
+          },
+          {
+            "id": 116,
+            "name": "Caps and hats",
+            "parent_id": 110,
+            "ancestors_path": [
+              100,
+              110
+            ],
+            "nesting_level": 2,
+            "products_count": 6,
+            "children_products_count": 0,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 120,
+        "name": "Women clothes",
+        "parent_id": 100,
+        "ancestors_path": [
+          100
+        ],
+        "nesting_level": 1,
+        "products_count": 0,
+        "children_products_count": 60,
+        "children": [
+          {
+            "id": 121,
+            "name": "Dresses",
+            "parent_id": 120,
+            "ancestors_path": [
+              100,
+              120
+            ],
+            "nesting_level": 2,
+            "products_count": 22,
+            "children_products_count": 0,
+            "children": []
+          },
+          {
+            "id": 122,
+            "name": "Skirts",
+            "parent_id": 120,
+            "ancestors_path": [
+              100,
+              120
+            ],
+            "nesting_level": 2,
+            "products_count": 6,
+            "children_products_count": 0,
+            "children": []
+          },
+          {
+            "id": 123,
+            "name": "Tops",
+            "parent_id": 120,
+            "ancestors_path": [
+              100,
+              120
+            ],
+            "nesting_level": 2,
+            "products_count": 7,
+            "children_products_count": 0,
+            "children": []
+          },
+          {
+            "id": 124,
+            "name": "T-shirts",
+            "parent_id": 120,
+            "ancestors_path": [
+              100,
+              120
+            ],
+            "nesting_level": 2,
+            "products_count": 8,
+            "children_products_count": 0,
+            "children": []
+          },
+          {
+            "id": 125,
+            "name": "Pants",
+            "parent_id": 120,
+            "ancestors_path": [
+              100,
+              120
+            ],
+            "nesting_level": 2,
+            "products_count": 6,
+            "children_products_count": 0,
+            "children": []
+          },
+          {
+            "id": 126,
+            "name": "Shorts",
+            "parent_id": 120,
+            "ancestors_path": [
+              100,
+              120
+            ],
+            "nesting_level": 2,
+            "products_count": 4,
+            "children_products_count": 0,
+            "children": []
+          },
+          {
+            "id": 127,
+            "name": "Jumpsuits",
+            "parent_id": 120,
+            "ancestors_path": [
+              100,
+              120
+            ],
+            "nesting_level": 2,
+            "products_count": 7,
+            "children_products_count": 0,
+            "children": []
+          },
+          {
+            "id": 128,
+            "name": "Blazers",
+            "parent_id": 120,
+            "ancestors_path": [
+              100,
+              120
+            ],
+            "nesting_level": 2,
+            "products_count": 0,
+            "children_products_count": 0,
+            "children": []
+          },
+          {
+            "id": 129,
+            "name": "Swimwear",
+            "parent_id": 120,
+            "ancestors_path": [
+              100,
+              120
+            ],
+            "nesting_level": 2,
+            "products_count": 0,
+            "children_products_count": 0,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Shoes",
+    "parent_id": null,
+    "ancestors_path": [],
+    "nesting_level": 0,
+    "products_count": 0,
+    "children_products_count": 0,
+    "children": [
+      {
+        "id": 210,
+        "name": "Mens Shoes",
+        "parent_id": 200,
+        "ancestors_path": [
+          200
+        ],
+        "nesting_level": 1,
+        "products_count": 0,
+        "children_products_count": 0,
+        "children": []
+      },
+      {
+        "id": 220,
+        "name": "Women shoes",
+        "parent_id": 200,
+        "ancestors_path": [
+          200
+        ],
+        "nesting_level": 1,
+        "products_count": 0,
+        "children_products_count": 0,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Accesories",
+    "parent_id": null,
+    "ancestors_path": [],
+    "nesting_level": 0,
+    "products_count": 0,
+    "children_products_count": 11,
+    "children": [
+      {
+        "id": 230,
+        "name": "Women accesories",
+        "parent_id": 300,
+        "ancestors_path": [
+          300
+        ],
+        "nesting_level": 1,
+        "products_count": 0,
+        "children_products_count": 0,
+        "children": []
+      },
+      {
+        "id": 231,
+        "name": "Caps and hats",
+        "parent_id": 300,
+        "ancestors_path": [
+          300
+        ],
+        "nesting_level": 1,
+        "products_count": 5,
+        "children_products_count": 0,
+        "children": []
+      },
+      {
+        "id": 232,
+        "name": "Glasses and sunglasses",
+        "parent_id": 300,
+        "ancestors_path": [
+          300
+        ],
+        "nesting_level": 1,
+        "products_count": 6,
+        "children_products_count": 0,
+        "children": []
+      },
+      {
+        "id": 310,
+        "name": "For Men",
+        "parent_id": 300,
+        "ancestors_path": [
+          300
+        ],
+        "nesting_level": 1,
+        "products_count": 0,
+        "children_products_count": 0,
+        "children": []
+      }
+    ]
+  }
+]

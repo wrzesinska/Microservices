@@ -1,0 +1,77 @@
+{
+  "id": "1364",
+  "name": "Womens White Summer Puff-Sleeved Top",
+  "price": 58.99,
+  "price_promo": 44.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 169,
+    "average": 2.19
+  },
+  "category": {
+    "id": 123,
+    "name": "Tops"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Summer",
+    "Organic",
+    "Puffs"
+  ],
+  "images": [
+    {
+      "product_id": 1364,
+      "image_url": "https://images.unsplash.com/photo-1587211923418-09c34ecea244?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1364/1.jpg"
+    },
+    {
+      "product_id": 1364,
+      "image_url": "https://images.unsplash.com/photo-1587213634627-02e4092e34c9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1364/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13640100,
+      "feature_id": 100,
+      "product_id": 1364,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13640100,
+      "feature_id": 100,
+      "product_id": 1364,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13640100,
+      "feature_id": 100,
+      "product_id": 1364,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13640100,
+      "feature_id": 100,
+      "product_id": 1364,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13640200,
+      "feature_id": 200,
+      "product_id": 1364,
+      "name": "Color",
+      "value": "White"
+    }
+  ],
+  "description": "<h2>Tamquam per odoribus manusque remeasse</h2>\n<p>Lorem markdownum nisi seu hunc modo veris potuisse, spargitque nusquam inops\n<a href=\"http://thetidissua.com/placato-tantum\">esset cuius lingua</a> sed studiosius ad.\nInque erat! Amantis fallor medio, sororibus\n<a href=\"http://www.tum.io/delius-deos.html\">indue</a>, suum Lyrnesia et caeli. Annum\ntellure, sermonibus quem <strong>venenis quem fugit</strong> concidit protinus in, vos\nnatorum visaque iuvenalibus regum. Conpressit plus Dianae et violenta ramosam\nmodulata.</p>\n<h2>Aere membris aliis</h2>\n<p>Vatibus tu quid succedit, permaneo a! Inquit ope sic nudos media tamen novem\n<em>ambagibus sanguineam trahens</em>! Meque minari interea timore obliquos blando\niacit; in fuga viribus fit nemorum si domuit.</p>\n<blockquote>\n<p>Pentheus <a href=\"http://praesens.com/prospicitdextraque.php\">quod cresce qui</a> deque\nutraque <a href=\"http://nocturnos.com/et\">flaventi</a> gemitus vellem fidissima celeri!\nAures ad si manu et patrio cum ulcisci arvis spumaque et meque litusque\nsatiantur cerae: vobis.</p>\n</blockquote>\n<h2>Toto Phocus promissa hiscere que dura animo</h2>\n<p>Laboriferi vires. Sibi fias quod perfunditur dubiam tenens finxit grave laedere\nhuic vulnere, qui <a href=\"http://www.argenteus.org/pulcherrime-in\">gerebat oro</a>: nemus.\nIn dum coniunx quos grave nec: reddit remos. Illa quid aura quod mille me error\nperpetuum formae videntur, funereum nec nurus, absolvere est Tartessia aetheris\nmirumque. Excutiunt vestemque tempore non lacrimisque ad limite et iubendo\naltera clipeoque summo!</p>\n<ol>\n<li>Utque terrae tempore tumebat</li>\n<li>Miratur per munera quique redeuntem aspice verticibusque</li>\n<li>Dolor domos facit Achilles meruique eurus</li>\n</ol>\n<h2>Horrentia parabant virtus</h2>\n<p>Despicit specie in tollit argolico tigride, brevissimus <strong>tuumque haesit et</strong>\nsacer cornua paene undis quoque. Dum ait erat tantum sunt reperta submovet flere\nvocatum, dolore: hos leni decidere divinae.</p>\n<p>Isdem suae: portasque certa suus, postibus incinctus minae. Rhodopeius altissima\nhoste rictus istis: summa pestem si interdum?</p>\n",
+  "excerpt": "<p>Lorem markdownum nisi seu hunc modo veris potuisse, spargitque nusquam inops\n<a href=\"http://thetidissua.com/placato-tantum\">esset cuius lingua</a> sed studiosius ad.\nInque erat! Amantis fallor medio, sororibus\n<a href=\"http://www.tum.io/delius-deos.html\">indue</a>, suum Lyrnesia et caeli. Annum\ntellure, sermonibus quem <strong>venenis quem fugit</strong> concidit protinus in, vos\nnatorum visaque iuvenalibus regum. Conpressit plus Dianae et violenta ramosam\nmodulata.</p>\n<p>Vatibus tu quid succedit, p</p>\n"
+}

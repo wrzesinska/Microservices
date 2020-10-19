@@ -1,0 +1,83 @@
+{
+  "id": "1340",
+  "name": "Womens Red Maxi Top-Laced Dress",
+  "price": 98.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 198,
+    "average": 2.49
+  },
+  "category": {
+    "id": 121,
+    "name": "Dresses"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Maxi",
+    "Lace",
+    "Elegant"
+  ],
+  "images": [
+    {
+      "product_id": 1340,
+      "image_url": "https://images.unsplash.com/photo-1551310356-57ef5e2a518d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1340/1.jpg"
+    },
+    {
+      "product_id": 1340,
+      "image_url": "https://images.unsplash.com/photo-1551310355-b0cfa1572b5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1340/2.jpg"
+    },
+    {
+      "product_id": 1340,
+      "image_url": "https://images.unsplash.com/photo-1551310357-b26c1af069c6?ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1340/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12400100,
+      "feature_id": 100,
+      "product_id": 1340,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12400100,
+      "feature_id": 100,
+      "product_id": 1340,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12400100,
+      "feature_id": 100,
+      "product_id": 1340,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12400100,
+      "feature_id": 100,
+      "product_id": 1340,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12400200,
+      "feature_id": 200,
+      "product_id": 1340,
+      "name": "Color",
+      "value": "Red"
+    }
+  ],
+  "description": "<h2>Per inque sustulit viridesque fulgura</h2>\n<p>Lorem markdownum ante curvari ferrumque, suis nec mittere adunco et dederat\ntemerasse <em>locus</em>, capillos. Salignis illi <em>Tartara robusta</em> tremore carinis\n<strong>laeva</strong>, foramina terra, videns capillos Macareus? Ad vix manet ait. Melampus\nexiguus feruntur.</p>\n<blockquote>\n<p>Et quod: via tuetur quam numero velut certumque regemque mater <em>trepidantum</em>\ndicit omnis cupidine habenis nata diduxit procubuere. Qua cupidine calenti\nHippomenen <strong>mare iuvenum</strong>, sed Semina futuri mei valuere auget <a href=\"http://aliqua.org/quoque-et\">dixit\naere</a>! Videam dicere arboreis celanda, sine est\npendebant est numen aena: orbes ite oculis. Totaque memorabile, sine regia et\nmicant tenebrisque pluma sonantia. Librato Diam sua et Hyperionis comes, ne\nduasque Latini: quoque <em>adspicit et Iuppiter</em>, ter.</p>\n</blockquote>\n<p>Manus post licet vita dixi, Pirithoo. Quod Sirenum, nam desine euntem,\ninvidiaque armata venerisque rauco <a href=\"http://www.taceam-secus.com/iuno\">ut vidisse\nPeparethos</a> modo! Attollit caput patientia\ngerat; ait potes partes, litore!</p>\n<ol>\n<li>Est teli est tendens flumine gravi nec</li>\n<li>Senectus ita quam tu facit pericula ministrarum</li>\n<li>Inque Ampyx ara praetincta mariti</li>\n<li>Ait qui effugit quoque</li>\n<li>Ite me confundas quoque montibus</li>\n</ol>\n<h2>Caesis terrae draconem victus et annis latet</h2>\n<p>Ego non vicina refert his fata iactata desperat venit interimo? Multae Iovi\nfidem petis est Ityn arma crines succidere pectore. Visa fuerat nec illis et\naltis adsiduo relicto cecidit cecidere: suoque viri sidereis corpore nullum.</p>\n<ol>\n<li>Abit vel fieri inopes graviore meruisse artior</li>\n<li>Adcubuere stipata</li>\n<li>Retenta nomen vestra Venus mercibus</li>\n<li>Penates erat</li>\n<li>Anguesque neque equo sed solum festaque quoque</li>\n</ol>\n<p>In lingua, <em>res utque</em>, est, spatium, umeros qua exsangues <em>restituit</em> dedit,\nibat. Adest pantherarum secundas Gyaroque distabat nam; arida cavis humo numine\nadeat qualis. Me Phrygiisque quater consumptaque fas nubigenas ardebant, unda\nomnia difficili!</p>\n<p>Conponi deorum lolium temptant corpora afueram; in Aiax inpetus in luctus\nterraeque suspirat mare urbe sustulit, dicunt nec. Comitique ad quos spectabat\nmitior conserto bracchia nomen circumdat forti, mutat! Curam inermi amplexa\nRhoetus moverat veniet Acrisius Sisyphon trunco quo rapidus, malo?</p>\n<p>Prohibebant Cumarum tibi mihi facta, non colla Antissa pugnem id ovantem\n<strong>hoste</strong>, et <em>timorque siquid</em>, illud. Illis transformat audit, et creditur\ndari. Quia sed iram Agenorides modumque celebres nondum fama pignora diemque\nquantum remisit haec tuis est captat nondum; e? Valles ferunt mugitus acta\nequae. Dicar est!</p>\n",
+  "excerpt": "<p>Lorem markdownum ante curvari ferrumque, suis nec mittere adunco et dederat\ntemerasse <em>locus</em>, capillos. Salignis illi <em>Tartara robusta</em> tremore carinis\n<strong>laeva</strong>, foramina terra, videns capillos Macareus? Ad vix manet ait. Melampus\nexiguus feruntur.</p>\n<blockquote>\n<p>Et quod: via tuetur quam numero velut certumque regemque mater <em>trepidantum</em>\ndicit omnis cupidine habenis nata diduxit procubuere. Qua cupidine calenti\nHippomenen <strong>mare iuvenum</strong>, sed Semi</p>\n</blockquote>\n"
+}

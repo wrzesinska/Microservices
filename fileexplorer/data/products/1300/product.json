@@ -1,0 +1,70 @@
+{
+  "id": "1300",
+  "name": "Mens Grey Woollen Basic Sweater",
+  "price": 84.99,
+  "price_promo": 69.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 179,
+    "average": 2.4
+  },
+  "category": {
+    "id": 111,
+    "name": "Hoodies and sweaters"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Basic",
+    "Woollen",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1300,
+      "image_url": "https://images.pexels.com/photos/4674403/pexels-photo-4674403.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1300/1.jpg"
+    },
+    {
+      "product_id": 1300,
+      "image_url": "https://images.pexels.com/photos/4674396/pexels-photo-4674396.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1300/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13000100,
+      "feature_id": 100,
+      "product_id": 1300,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13000100,
+      "feature_id": 100,
+      "product_id": 1300,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13000100,
+      "feature_id": 100,
+      "product_id": 1300,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13000200,
+      "feature_id": 200,
+      "product_id": 1300,
+      "name": "Color",
+      "value": "Grey"
+    }
+  ],
+  "description": "<h2>Dum quies natae incaluit in prima</h2>\n<p><a href=\"http://www.remulus.org/\">Lorem markdownum</a> agri casas nec totumque movere locis\nmentis saltus; Troas Euros: sub celatus disces Maeoniaeque nisi. Petit congelat\ninduruit. Pace sacerdotis ne esse est, tuae ausus, peto. Nomina mutatur: vel dea\nin quippe mearum aequora explevit in firmissimus <strong>illa Styphelumque cantatas</strong>\ndignam; terra?</p>\n<h2>Montes sidera</h2>\n<p>Aequa caelo tellus nomen nocens, coegi cantibus conspicuus sepulcris opto\ngravida. Tellure erat vidit occidimus adero, <strong>ponat</strong> voco fratri, pro?</p>\n<blockquote>\n<p>Gelidis morantia inertes, <strong>alas</strong>, ultorque renovatus passa dixit exstant\nverba tamen animam in fides, professa rore et! Fecerat telis <em>volubilibus is\nuna</em> nondum corpus resupinus puer. Quoslibet duroque latentem oraque Ceycis\noculos, Medusaei fulserunt ad parte inpediit facta venti suos.</p>\n</blockquote>\n<h2>Exit ramis</h2>\n<p>Nunc visa tendit circum; vox tamen alte sinuavi et miserabilis amens. Concussa\nille Tartara infelix terricula, quaeque atque cum tenuis Achille, sacra,\npepercit. Tamen quod totidem, ait in spectans ieiunia transmittere pedibus et\nnovo revocare, in longa ferarum. Vicerat iaculum humum arduus ipsorum.</p>\n<blockquote>\n<p>Viso nato sono altera videt lascivaque lucum. Non cum postulat erat praecordia\nvocato. Ipsa <strong>nostri</strong>, asper, percussis missa, scitis, potentia partu,\ncretosaque. Quid neque, est est qui ambustaque magni formosus Troianaque redde\nnam Aeacides, gentisque. Cum Themin vocas digitis cum fama\n<a href=\"http://www.phoebemaxima.net/umero\">Philomela</a>, facies sidera.</p>\n</blockquote>\n<h2>Sive Taenaria ausis</h2>\n<p>A iubet nocuisse: a terram sancta tibi <a href=\"http://haec-insequeris.com/\">nulli et</a>.\nArbuteos cecidit, levabere querella et auditque nomine magis; placerent\nconsidere. Dicere amanti, mora excuteret conplexus. Contenta mota <em>enim pelle\nquoque</em> obambulat labori mater his fratri per auro credens has ore longo\nrenovare procul videre <a href=\"http://www.succiso-a.org/de.aspx\">partibus</a>. Nec memor\naberat haec <strong>rigore eodem est</strong> satiatur pedem vulnera passis coniunx.</p>\n<p>Reperitur mare sola ad, ait belli, verba, socer felicisque vertuntur. Meruit\nsicco quod dextera, aera, draconibus obsessae iam ulterius Cinyreia simul,\nchori. Radiis fetu: Gangetica poenas splendenti summam sanguine videtque. Quod\nunguibus me isque labentibus descendere solvit fructus medios, est adeunt\ncultusque orbis in.</p>\n",
+  "excerpt": "<p><a href=\"http://www.remulus.org/\">Lorem markdownum</a> agri casas nec totumque movere locis\nmentis saltus; Troas Euros: sub celatus disces Maeoniaeque nisi. Petit congelat\ninduruit. Pace sacerdotis ne esse est, tuae ausus, peto. Nomina mutatur: vel dea\nin quippe mearum aequora explevit in firmissimus <strong>illa Styphelumque cantatas</strong>\ndignam; terra?</p>\n<p>Aequa caelo tellus nomen nocens, coegi cantibus conspicuus sepulcris opto\ngravida. Tellure erat vidit occidimus adero, **pona</p>\n"
+}

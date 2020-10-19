@@ -1,0 +1,83 @@
+{
+  "id": "1343",
+  "name": "Womens Navy Blue Polka Dots Summer Dress ",
+  "price": 69.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 26,
+    "average": 2.72
+  },
+  "category": {
+    "id": 121,
+    "name": "Dresses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Summer",
+    "Polka Dots",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1343,
+      "image_url": "https://images.pexels.com/photos/4725146/pexels-photo-4725146.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1343/1.jpg"
+    },
+    {
+      "product_id": 1343,
+      "image_url": "https://images.pexels.com/photos/4725175/pexels-photo-4725175.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1343/2.jpg"
+    },
+    {
+      "product_id": 1343,
+      "image_url": "https://images.pexels.com/photos/4725170/pexels-photo-4725170.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1343/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12430100,
+      "feature_id": 100,
+      "product_id": 1343,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12430100,
+      "feature_id": 100,
+      "product_id": 1343,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12430100,
+      "feature_id": 100,
+      "product_id": 1343,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12430100,
+      "feature_id": 100,
+      "product_id": 1343,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12430200,
+      "feature_id": 200,
+      "product_id": 1343,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Amarunt socio duobus</h2>\n<p>Lorem markdownum gravitate in pavet, enutrivere maturuit te <a href=\"http://pennis.com/\">pars\naudire</a> nunc. Si terras quaque clavigeram flammas limosoque\ninque, permansit Hibero non miranti. Collo amanti portus vicit, facta humo sed.\nCaptum atque vocari sponsi <a href=\"http://www.vitat-qua.org/illo.html\">curruque</a> ante,\nrobur odioque eripitur et adit tria: obitumque nudaque; subterque.</p>\n<ol>\n<li>Deus esse duo denique nostra Chiae</li>\n<li>Serpens ore herbis quaque</li>\n<li>Caelumque potest incertae figuram et ira deum</li>\n</ol>\n<h2>Excessere nocens inhospita hastis</h2>\n<p>Inritare manibus, nec, ante cibis ait vestem ipsis, Peleus contemne nec conscia.\nIn tamen, si mora funibus steterat, unde sine iamque, adii\n<a href=\"http://criminacoepit.org/mihi\">aera</a>; utraque quattuor mentisque.</p>\n<ol>\n<li>Feritate remittit Hectoris visa tum</li>\n<li>Habetis tu haud</li>\n<li>Concipit lynca eodem et ieiunia sceptra quaerere</li>\n</ol>\n<h2>Tunc aditus illos Aesacon domus</h2>\n<p>Ira non Helenus Stygio indicat verba, sed furori, haec, tibi animo hortatibus.\nEurydicenque flammis! Per venit, totoque filia propinquae utque quem figuris\nstridore cava sidereos. Inque lumina tuta. Quae hortus <strong>intulit distante</strong>\nnihil saltu parente cadet et more nunc per?</p>\n<h2>Non hanc dictas inposita chlamydem parvae pervenit</h2>\n<p>Fugiunt vulnus! Victum virga Memnonis et foret bracchia alium Ichnobatesque\nsunt. Aestuat Cauno et totiens, sublatus atque.</p>\n<p><em>Innumerae rebus vestris</em> pro inundet noctis spatiis. Mite solida Nais, liquor\net robore sanguinis honorat, Amphitryoniadae reddidit. Et ulnis, sum inque vidi\nforumque inritans gaude. Mea <strong>suo</strong> exhortatus hunc dolusque saepe tolli natam\nundis ingenio, saxi. Vota aevo <em>cuncta stagnata</em>, de urbem, legebant heros?</p>\n",
+  "excerpt": "<p>Lorem markdownum gravitate in pavet, enutrivere maturuit te <a href=\"http://pennis.com/\">pars\naudire</a> nunc. Si terras quaque clavigeram flammas limosoque\ninque, permansit Hibero non miranti. Collo amanti portus vicit, facta humo sed.\nCaptum atque vocari sponsi <a href=\"http://www.vitat-qua.org/illo.html\">curruque</a> ante,\nrobur odioque eripitur et adit tria: obitumque nudaque; subterque.</p>\n<ol>\n<li>Deus esse duo deniq</li>\n</ol>\n"
+}

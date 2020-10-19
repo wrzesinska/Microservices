@@ -1,0 +1,83 @@
+{
+  "id": "1305",
+  "name": "Mens Black Cotton Hoodie With White Motive",
+  "price": 79.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 119,
+    "average": 3.21
+  },
+  "category": {
+    "id": 111,
+    "name": "Hoodies and sweaters"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Black&White",
+    "Cotton"
+  ],
+  "images": [
+    {
+      "product_id": 1305,
+      "image_url": "https://images.unsplash.com/flagged/photo-1574876162325-d4c95b4c01bf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1305/1.jpg"
+    },
+    {
+      "product_id": 1305,
+      "image_url": "https://images.unsplash.com/flagged/photo-1574875874606-e207ebb0e691?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1305/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13050100,
+      "feature_id": 100,
+      "product_id": 1305,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13050100,
+      "feature_id": 100,
+      "product_id": 1305,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13050100,
+      "feature_id": 100,
+      "product_id": 1305,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13050100,
+      "feature_id": 100,
+      "product_id": 1305,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13050100,
+      "feature_id": 100,
+      "product_id": 1305,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13050200,
+      "feature_id": 200,
+      "product_id": 1305,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Per periuria fertur</h2>\n<p>Lorem markdownum, coniunx equus: fruges triumphos Tartara aratro in felicia\nvisus. Cingebat Phrygum et dixi speculo hic omnia, turbae mollibus relicta\ntradidit fulvo, sit illa sumpsisse nigra. Acui fuit: mollirique adnuit rigidis\nhostile, manus tamquam; quaere tuus quamque agrestis poplite poenam. Omnia\ntumulo miliaque albus stabat, Hodites absistit inquit iactantem\n<a href=\"http://www.telamoniades-aures.com/\">fugit</a> victricemque <a href=\"http://www.culpamundique.net/\">pia cum\nnatura</a> fecit <strong>longoque</strong>.</p>\n<ul>\n<li>Neu velociter crevit</li>\n<li>Moenia Iuppiter iubas non sequar ut humiles</li>\n<li>Omnis deprimeret nurus ad vagantem inplerat Talia</li>\n</ul>\n<p>Despectat ut non armigerae arguis; <a href=\"http://parum.net/noxia-patriorum\">liberat</a>\ndea, nocte. Tertia seu mihi habenas si nascendi, patior hoc locat exarsit\nconscia caelum est? <strong>Potentia iuranda utque</strong> vaporibus faucibus infractaque\nhabet: adrides mihi. Quo vero ducit penates; per me caelo: est hic, quod.\nTractata iudice.</p>\n<h2>Et ut iacebat manetque</h2>\n<p>Villae tulisset; saevae facie aequora manu, vidit, et. Harenis potenti dilectos\nsublimis nomen in sed vidit Caenea; rore. Bacchum ullo omen inornatos passim in\nidem patiar glacies audacissimus inque admoveam aequore conquesti inmurmurat.\nSua furor sidoniae eduxit fortisque tenet illi factas, abis mihi quadriiugo\ndumque luserit corpus culpa.</p>\n<ol>\n<li>Longa tantum</li>\n<li>Inconsumpta ferret</li>\n<li>Suos ablati ideoque</li>\n<li>Congestos curasque si una morer</li>\n<li>Alter suppressa perque instat distat egredior pullo</li>\n<li>Haec sua pontum</li>\n</ol>\n<p>Quoque Io quam mollierant lumine: <a href=\"http://aequora.com/murrahostisque\">cadunt</a>\ndare Acrisium. Ego singultantem postera liquidarum illic fluctus, est heros\ngradientis inulta.</p>\n<blockquote>\n<p>Aede curis longos fecit dissimiles postquam exspectatas deque, quem homines\ngemuit. Motu istas nisi <em>miseranda abi plangorem</em> aequore terrae pacatum pater\npossem dona fecit suoque carpebam perspicuas reliquit venientesque undis\ntruncaeque. Et ipsa tamen, at timore; terna tulit, tendentemque imago timorque\nconplexae equi? Generoso et incoquit quasi et operire monebat haud cui\nprecari, nec lympha Latialis artes <a href=\"http://sirogat.org/\">Capys in tecti</a>\nardent.</p>\n</blockquote>\n<p>Infestae Semeleia lea fecit aequantur volucrum: adiuro esse prius quot. Revolvor\nin, ripa <em>alis capulo</em>, cum Timoli etiam tota; urbis cape laqueoque: umeris se.</p>\n",
+  "excerpt": "<p>Lorem markdownum, coniunx equus: fruges triumphos Tartara aratro in felicia\nvisus. Cingebat Phrygum et dixi speculo hic omnia, turbae mollibus relicta\ntradidit fulvo, sit illa sumpsisse nigra. Acui fuit: mollirique adnuit rigidis\nhostile, manus tamquam; quaere tuus quamque agrestis poplite poenam. Omnia\ntumulo miliaque albus stabat, Hodites absistit inquit iactantem\n<a href=\"http://www.telamoniades-aures.com/\">fugit</a> victricemque [pia cum\nnatura](http://www.cu</p>\n"
+}

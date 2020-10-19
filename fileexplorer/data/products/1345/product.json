@@ -1,0 +1,83 @@
+{
+  "id": "1345",
+  "name": "Womens Beige Thin Summer Elegant Dress With Pearls ",
+  "price": 108.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 184,
+    "average": 3.23
+  },
+  "category": {
+    "id": 121,
+    "name": "Dresses"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Pearls",
+    "Summer",
+    "Elegant"
+  ],
+  "images": [
+    {
+      "product_id": 1345,
+      "image_url": "https://images.pexels.com/photos/3354902/pexels-photo-3354902.png?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1345/1.jpg"
+    },
+    {
+      "product_id": 1345,
+      "image_url": "https://images.pexels.com/photos/3354903/pexels-photo-3354903.png?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1345/2.jpg"
+    },
+    {
+      "product_id": 1345,
+      "image_url": "https://images.pexels.com/photos/3354905/pexels-photo-3354905.png?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1345/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12450100,
+      "feature_id": 100,
+      "product_id": 1345,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12450100,
+      "feature_id": 100,
+      "product_id": 1345,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12450100,
+      "feature_id": 100,
+      "product_id": 1345,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12450100,
+      "feature_id": 100,
+      "product_id": 1345,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12450200,
+      "feature_id": 200,
+      "product_id": 1345,
+      "name": "Color",
+      "value": "Beige"
+    }
+  ],
+  "description": "<h2>Qua illa tellus</h2>\n<p>Lorem markdownum onerosus, Phrygiae summa. A moriemur trunca; gentis solum utque\nauctor echidnae, est decursa limina!</p>\n<p>Cadme tauri ore dea, nuda torum Baucida <strong>et urbes</strong> coniunx harundinibus data\nmiscuit biiugum. Undis sua nova est <strong>vetetve est</strong> veteris <a href=\"http://etilli.io/idaeo-prima\">finemque aequoribus\ntaurum</a>, super fingam.</p>\n<h2>Pectora mutatur</h2>\n<p>Regione civilia, harena ipse plura caeso tendunt Icarus resque? Per senior\nvotis, fecerit ira ilice citharam vallis, heu ruricolae cuncta duabus materiam\nBoeotia amissam antris!</p>\n<p>Pallidiora quae haec quod, tuos thalamos, trepidumque mora nympha lanugine?\nExululat lacrimis sequeretur sinistro in onus, venit deos nondum? <em>Nec</em> hanc\nveluti cuius agitante <strong>taurorum antiquam</strong> celeres huic!</p>\n<h2>Hic de regis conlegerat ossa superstitibus petens</h2>\n<p>Fraude usque quem aequore mactare caelum. Totiens fer, nec fiunt versat unus\nspatio, quae natarum <strong>comas</strong>. Ipse laniaverat acumine. Duorum progenies\nforabilis clara viri, calcavere, et amor infelix, patriosque. Cupit sibi per est\nin <strong>lacum</strong> cura illa culpavi fama Midan artus, pia angit, hoc.</p>\n<ol>\n<li>At tetigere pedum</li>\n<li>Ipse vilibus depositura</li>\n<li>Delicta pudor rivos nulla</li>\n</ol>\n<p>Puniceo Romana, et <a href=\"http://www.nostri.net/\">Teucer relinque</a> peragat, agri\ngrave, colores. Maneat natura.</p>\n",
+  "excerpt": "<p>Lorem markdownum onerosus, Phrygiae summa. A moriemur trunca; gentis solum utque\nauctor echidnae, est decursa limina!</p>\n<p>Cadme tauri ore dea, nuda torum Baucida <strong>et urbes</strong> coniunx harundinibus data\nmiscuit biiugum. Undis sua nova est <strong>vetetve est</strong> veteris <a href=\"http://etilli.io/idaeo-prima\">finemque aequoribus\ntaurum</a>, super fingam.</p>\n<p>Regione civilia, harena ipse plura caeso tendunt Icarus resque? Per senior\nvotis, fecerit ira ilice citharam v</p>\n"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "1404",
+  "name": "Womens Cotton Jeans Summer Jumpsuit",
+  "price": 88.99,
+  "price_promo": 69.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 192,
+    "average": 3.91
+  },
+  "category": {
+    "id": 127,
+    "name": "Jumpsuits"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Summer",
+    "Jeans",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1404,
+      "image_url": "https://images.unsplash.com/photo-1531439299405-b8f5fa4ae8af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1404/1.jpg"
+    },
+    {
+      "product_id": 1404,
+      "image_url": "https://images.unsplash.com/photo-1531369791472-032b304b443a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1404/2.jpg"
+    },
+    {
+      "product_id": 1404,
+      "image_url": "https://images.unsplash.com/photo-1531439211378-796fe4acab3b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1404/3.jpg"
+    },
+    {
+      "product_id": 1404,
+      "image_url": "https://images.unsplash.com/photo-1531370114630-ea11cde63962?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1404/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 14040100,
+      "feature_id": 100,
+      "product_id": 1404,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 14040100,
+      "feature_id": 100,
+      "product_id": 1404,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 14040100,
+      "feature_id": 100,
+      "product_id": 1404,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 14040100,
+      "feature_id": 100,
+      "product_id": 1404,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 14040200,
+      "feature_id": 200,
+      "product_id": 1404,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Non cacumen nostros formarat lacrimavit duxere</h2>\n<p>Lorem markdownum nervis suorum os seque nubigenas contra serpens agit opus\nrogabam et visam. Dicere modo ferarum formae qui trucis Marte possum nomen\nsatisque tamen vertitur gramina quaerunt! Dubium Hebe\n<a href=\"http://primus-delendaque.com/sceptrum-inrita.html\">spe</a>, quaerensque\n<a href=\"http://www.acheloe-stimulos.io/et-iram\">frementem</a>; pudore illa simul deum\ncrede et creditur deberi est caeruleusque. Instruitur inrita sit orantem: sua\ninducere suae borean et scire et aquis more quodque, saepe, vides. Orbe atris,\nerat memores factura at praedae perdere membris in Saturnus alto?</p>\n<blockquote>\n<p>At ripae tellure Parnasi tenvit specie, noctem, et stirpis tremoribus <em>dixit</em>.\nAptae confecta et quam solet mare, nempe nam vertitur equi adfert robora,\ninterrumpente trux indulgere, inhaeserat, concavat. Et Apis, inposuit adsumit\ntandem, quae cuspis lacrimis numina. Scite moderamen vel nebulas portasse!\nMiserabile coniunx <a href=\"http://paterhac.com/\">moras et</a> tenebras finiat; cetera\noscula germanae, nec.</p>\n</blockquote>\n<h2>Iam sine</h2>\n<p>Enim ultor, postquam recepto prius stabat <strong>paelice cingebant</strong> et rauco;\nAlcidae dat. <a href=\"http://alatur.org/et\">Superos arceat</a> ad\n<a href=\"http://cum.net/nescit-sit\">indoluit</a> admovet et flosque exstanti, iubendo\npennisque demptos deploravit fistula! Sic praesepia, lumina quod fraudare\n<em>terras</em>, lugeat et amplius sanguine. More orbe perstat et ara efferre, est\ncalenti osque; dedit volutant contorta.</p>\n<p>Odit Iolen Dianae, crede, Iovi ipsos ferrumque serpentum partes. Exprimitur\namori.</p>\n<h2>Fuit ales segetes</h2>\n<p>Forabilis homines vivere neve lexque Asterien et obsessa Gangesque; est facinus.\nInundet habentia?</p>\n<ol>\n<li>Tuta loca cadit umbris nostroque fluminis visu</li>\n<li>Gravem montis sit pontus curvamine soceri reppulit</li>\n<li>Hesioneque et ducum obruerat acrior pectore</li>\n</ol>\n<p>Rapidi et sonat irascitur patrios talia: amictu matris meliore commune sentit,\naccendit venenis blandas, Helenus minuit, tempore. Inmensum pullosque, grani,\nplectro aevi, torpet <em>viro</em> ante vaticinos positu ad mira. Ne Iphide hoc magis\nsi sensit in te nunc Perseidos delicta necem. Inutilior erunt, tulit saxa\nabscedit malum fratres medium in exsiliantque Niobe tremulaeque et. Mea pedem\ndissimulat primus, illinc aevo <a href=\"http://nemosimul.org/res\">armos</a> verbisque: nec\net.</p>\n",
+  "excerpt": "<p>Lorem markdownum nervis suorum os seque nubigenas contra serpens agit opus\nrogabam et visam. Dicere modo ferarum formae qui trucis Marte possum nomen\nsatisque tamen vertitur gramina quaerunt! Dubium Hebe\n<a href=\"http://primus-delendaque.com/sceptrum-inrita.html\">spe</a>, quaerensque\n<a href=\"http://www.acheloe-stimulos.io/et-iram\">frementem</a>; pudore illa simul deum\ncrede et creditur deberi est caeruleusque. Instr</p>\n"
+}

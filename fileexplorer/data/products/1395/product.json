@@ -1,0 +1,55 @@
+{
+  "id": "1395",
+  "name": "Womens Classy Black Nerd Sunglasses",
+  "price": 64.99,
+  "price_promo": 54.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 69,
+    "average": 4.93
+  },
+  "category": {
+    "id": 232,
+    "name": "Glasses and sunglasses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Classy",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1395,
+      "image_url": "https://images.pexels.com/photos/4668931/pexels-photo-4668931.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1395/1.jpg"
+    },
+    {
+      "product_id": 1395,
+      "image_url": "https://images.pexels.com/photos/4668934/pexels-photo-4668934.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1395/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13950100,
+      "feature_id": 100,
+      "product_id": 1395,
+      "name": "Size",
+      "value": "One Size"
+    },
+    {
+      "id": 13950200,
+      "feature_id": 200,
+      "product_id": 1395,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Formosus genus ficti saepe Phoebo forma tangere</h2>\n<p>Lorem markdownum in <a href=\"http://lapidum.org/\">locis</a>, iam cui mergeret, duro\nPyracmon, et carinae cognoram. Brevis videntur: et victi sed monedula loqui\nsimul videt ad subito <em>parentes</em>.</p>\n<h2>Longae cum</h2>\n<p>Hospite calido: actis ebur dies <em>urbe</em> veniat et Quirine? Cetera duruerant\ncarissime deprenduntur Diti. Est tota erat tauri diu et <a href=\"http://www.in.io/oranti\">fallacibus pudoris\nconquesti</a> noctes, soror, feram veluti situ obrutus.\nSpatium quisquam; <a href=\"http://et.org/silvas.php\">salute requiras</a> et tibi circuitu\ninducere et fato et, nec tactu ductum caede spectans umbras. Dictas tuos fuit\nsum extis aureus intus flumen fraterque vertere veterem vestigia adflata\nsuperare verba et!</p>\n<h2>Dixi non auras solutis</h2>\n<p>Amantes nulla: amor tolerare? Ingrediorque si ossa tempestiva quidem. Sinunt\nsolutus nocuit <a href=\"http://hisvalet.io/querellas-opemque\">si moenibus carmina</a>\nsolacia Cycnus culta et medios.</p>\n<ul>\n<li>Nuper et diu cum at ausa strigis</li>\n<li>Cervos illi forte erit teli proicit vapore</li>\n<li>Qui fugae repperit amplexas probavit sederat</li>\n</ul>\n<h2>Animi in mugitibus</h2>\n<p>Planissima fluctus incaluisse tulit gelidos sustulerat aurum mutatum capiebat\ngrates timebant. Diruta Paron!</p>\n<h2>Dereptis captum contraxere ulla iusta</h2>\n<p>Et fundunt contraria mihi <em>omnis undis</em> minus culpam, nec dumque, mater. Nova\numquam gravidae <a href=\"http://occiderat.io/adpositas-tempus.php\">quicquam</a> ingemuit,\npia tibi lyraeque istas trepidante mentis coniunx <a href=\"http://www.virgineosque.org/\">et certamen\ntorquent</a>. Parte in dat seducunt ubi illa sacris\nsupplex moderator Phineus, hanc sub, fuisset siccatque vinclis an odoratas.</p>\n<ol>\n<li>Nec Achaia colla at Talibus</li>\n<li>Milite Cancri sponsi Myscelus Iovem se vestigia</li>\n<li>Digna contigerant lenimen brevi</li>\n<li>Defendite fixis</li>\n<li>Enim leto regni insuperabile dura transire carmen</li>\n<li>Arva homines cara cuncti dicit capiam</li>\n</ol>\n<p>Nunc <strong>bis nido</strong> ergo vires lacerta Lyncidae mandat, nymphae quoque induiturque\naestusque faveant sonitum ipsa quo. Marmoreum ablati in euntem te et tauro locis\nvidit curasque turres, est non squalebant raptamque palmis. Pocula secuta, sua\n<a href=\"http://petisset.net/et.aspx\">nodosque</a>! Stygiis exaudire medio ardent petit est\ncape doloris facit matrique iuravimus ad dixit in mentem. Minor carpe at tamen\nrettulit crines gerit fraternos tutela cura subito falsi mutua verebor animum\ncuspidis illis ora ignavus heros.</p>\n",
+  "excerpt": "<p>Lorem markdownum in <a href=\"http://lapidum.org/\">locis</a>, iam cui mergeret, duro\nPyracmon, et carinae cognoram. Brevis videntur: et victi sed monedula loqui\nsimul videt ad subito <em>parentes</em>.</p>\n<p>Hospite calido: actis ebur dies <em>urbe</em> veniat et Quirine? Cetera duruerant\ncarissime deprenduntur Diti. Est tota erat tauri diu et <a href=\"http://www.in.io/oranti\">fallacibus pudoris\nconquesti</a> noctes, soror, feram velut</p>\n"
+}

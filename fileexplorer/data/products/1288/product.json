@@ -1,0 +1,96 @@
+{
+  "id": "1288",
+  "name": "Mens Beige Elegant Summer Shirt",
+  "price": 79.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 100,
+    "average": 4.63
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Elegant",
+    "Summer",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1288,
+      "image_url": "https://images.pexels.com/photos/4696036/pexels-photo-4696036.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1288/1.jpg"
+    },
+    {
+      "product_id": 1288,
+      "image_url": "https://images.pexels.com/photos/4696027/pexels-photo-4696027.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1288/2.jpg"
+    },
+    {
+      "product_id": 1288,
+      "image_url": "https://images.pexels.com/photos/4695971/pexels-photo-4695971.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1288/3.jpg"
+    },
+    {
+      "product_id": 1288,
+      "image_url": "https://images.pexels.com/photos/4695993/pexels-photo-4695993.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1288/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12880100,
+      "feature_id": 100,
+      "product_id": 1288,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12880100,
+      "feature_id": 100,
+      "product_id": 1288,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12880100,
+      "feature_id": 100,
+      "product_id": 1288,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12880100,
+      "feature_id": 100,
+      "product_id": 1288,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12880100,
+      "feature_id": 100,
+      "product_id": 1288,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12880200,
+      "feature_id": 200,
+      "product_id": 1288,
+      "name": "Color",
+      "value": "Beige"
+    }
+  ],
+  "description": "<h2>Selige inmensi caecisque</h2>\n<p>Lorem markdownum sceleratae tulit maternis; tibi nate iusque addit: non. Mille\nlaevum, illum. Res herba nuper flammis contigit omne; ab\n<a href=\"http://tergo.net/parte-tridentigero.html\">zona</a> paulatim naides. Manu perosam\nremos, missi repellite axis levant et ut.</p>\n<blockquote>\n<p>Primum positis valles? Auro Hymetti caeleste est, tantum ferit: in <strong>et</strong>,\nlocum, poma, longo. Fecunda iter nec; fugit <strong>intrarunt coniunx silvas</strong>, non!\nMulta ultro ab cursus tectoque dederat emerguntque vultusque huc <a href=\"http://deneve.net/\">terrena\nhabet</a> dilataque cruentum quibus. Ortus dicunt longe\neodem, cogi?</p>\n</blockquote>\n<p>Aqua edax fidem matres Ampyciden en mens intus vota extemplo cuncta. Det forte\nquae: in per parente Orionis sententia, te radiante secus ima patruelibus\ninpulsas virginis decolor at totidem. Committit animos Iovis est per credulus\ndatum, unde ne, in Stygio at. Populandas quae; tibi adverso os saliunt sub\n<a href=\"http://saepe-et.org/aeacus\">factos quid niveis</a> Arcas harenosi consistere\nquidem inspicitur. Fuerat summoque membris, sit vix datum futura, haud genitis\ndemisit?</p>\n<h2>Miram volucres</h2>\n<p>Nec tota lumina funera, monitis sucos nepotes adclinataque tonsa est. Retexit\nBroteasque respicit, opposuitque poscitur os simul <strong>lacerta</strong>, spectantem\naequoris? Nube erat agmen iacent,\n<a href=\"http://estfugienti.net/persequerer-promissa.aspx\">mortis</a>, dat membra ex\nsontibus causa.</p>\n<ol>\n<li>Ages corpus flamina tura amoris ab tota</li>\n<li>Constitit tenues est deos feris modo clamato</li>\n<li>Coeunt tua Epaphi veros</li>\n<li>Ulla neque agnus numen linquendus Atridae nympharum</li>\n</ol>\n<p>Certe mecum alte vidisset quaque, scitabere nomine saucia deposuit! Quamquam\ncomitemque decens, ut comae, est et manu noverca?\n<a href=\"http://www.ab.org/velle-eetioneas.html\">Alantqueimperat</a> arboribus corporibus,\nmuneris! Fuisset intonat pugnae lacrimas texique flammas tellus diva, est, deus\npio tinguebat tulit: fortibus.</p>\n<p>Duodena consuescit moles manibusque secundo <em>foret concubitusque ante</em> quiescere\niugales. Et tum cunctis fallitur telis trahunt venasque occidat invisumque fuit.\nCaeca deos, nunc vidit iacebitis vires centimanum,\n<a href=\"http://cubiliaipse.org/pia-nunc.html\">revulsum</a> insequitur et orbem, invergens.\nLitus exanimis amplectitur fugit tangendo et spicula venenum genuit dixerat.</p>\n",
+  "excerpt": "<p>Lorem markdownum sceleratae tulit maternis; tibi nate iusque addit: non. Mille\nlaevum, illum. Res herba nuper flammis contigit omne; ab\n<a href=\"http://tergo.net/parte-tridentigero.html\">zona</a> paulatim naides. Manu perosam\nremos, missi repellite axis levant et ut.</p>\n<blockquote>\n<p>Primum positis valles? Auro Hymetti caeleste est, tantum ferit: in <strong>et</strong>,\nlocum, poma, longo. Fecunda iter nec; fugit <strong>intrarunt coniunx silvas</strong>, non!\nMulta ultro ab cursus te</p>\n</blockquote>\n"
+}

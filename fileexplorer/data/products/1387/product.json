@@ -1,0 +1,61 @@
+{
+  "id": "1387",
+  "name": "Womens Pink Velvet Summer Cap",
+  "price": 49.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 164,
+    "average": 2.22
+  },
+  "category": {
+    "id": 231,
+    "name": "Caps and hats"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Velvet",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1387,
+      "image_url": "https://images.pexels.com/photos/3819775/pexels-photo-3819775.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1387/1.jpg"
+    },
+    {
+      "product_id": 1387,
+      "image_url": "https://images.pexels.com/photos/3819793/pexels-photo-3819793.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1387/2.jpg"
+    },
+    {
+      "product_id": 1387,
+      "image_url": "https://images.pexels.com/photos/3819783/pexels-photo-3819783.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1387/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13870100,
+      "feature_id": 100,
+      "product_id": 1387,
+      "name": "Size",
+      "value": "One Size"
+    },
+    {
+      "id": 13870200,
+      "feature_id": 200,
+      "product_id": 1387,
+      "name": "Color",
+      "value": "Pink"
+    }
+  ],
+  "description": "<h2>Egerit cruento manu</h2>\n<p>Lorem markdownum ponderibus oculos Symplegadas ignes Chimaera relinquam\nauditaque quique, mixtam, viri rerum vultus, nec stirpe. <strong>Quos</strong> viae patria\nconsortia fuerim et est caelo aggeribus viscera. Iter ubi viscera profanis a\nrebello fulget, per <strong>lenta</strong> cuspidis excussit. Sceleratus gaudet. <a href=\"http://suaamor.net/est-agros.html\">Sit\nse</a> tuba naturale quam.</p>\n<p>Usus prohibes Morphea qua modo tergoque omnes circumfert iurasse quoque, nec in\nduo vitisque tenui humo non. Ubi placet hanc mea iam sui antra, reposco ait\nterrae Idaeo causamque <a href=\"http://quoque.io/hinc.aspx\">dicit fervet perveniunt</a>.</p>\n<h2>Laborum carinae illa retinacula atro stabat ilia</h2>\n<p><em>Verterit dictis illo</em> litora, admoneo acta ut miseranda Romam. Sit suo genitus\nventis.</p>\n<p>Ursi atria opprobria et Othryn hos puerum finditque, dat illa. Praestat taurorum\nconstitit oscula et parata talia, moderamine premunt tu antiquam recursus optat,\ndominae reparet. Iniqui fera dapibus\n<a href=\"http://www.rogatus.com/fatailiaden\">hasta</a>, visus cristata catenas, ora faciat\nanimos <strong>secus at</strong>? Ultorque dea <strong>de quem</strong> deprendit dum; sic dona,\ngravidamque viderunt dixit.</p>\n<h2>Multi et nec numinis lucum</h2>\n<p>Annos candore populique ante. Quod inter radiabant decidit!</p>\n<p>Non <a href=\"http://tamquam.net/\">venae si</a> alas, nos socio primum sponte: orbem: dixit\ndeducere et. Funus decorata <strong>amissa</strong>. Genitore e <em>perdere potes</em> posuistis\nmemorant e non non zona <a href=\"http://spatiumaquas.net/propiusque\">ardebant</a>, vacca\ncum. Vincula <em>veneni</em> petentem auras calido tantoque adplicor illic illic,\nvicisti plus, iram neque cecidere sub lutea.</p>\n<h2>Amplexus usum</h2>\n<p>Medioque rapiam quae supremumque imago lacrimis fractae saxa, radicibus. <em>Vultus\neo dux</em> quae, ante, quae forte Asbolus.</p>\n<p>Quod cessante aquilam misit redit naresque, viri, ab foribus, dona fatum fagus\ntuba. Utroque unum effecere idcirco alter tura tum tum cum; equas relinquite\naliquis. Invenies murmure vidisti inter comes, est rebar gravem arcet\ncalidumque. Sunt crura iuga reclinis verbis; nec solis cura caelum manu\ncurvamine undas; nec.</p>\n",
+  "excerpt": "<p>Lorem markdownum ponderibus oculos Symplegadas ignes Chimaera relinquam\nauditaque quique, mixtam, viri rerum vultus, nec stirpe. <strong>Quos</strong> viae patria\nconsortia fuerim et est caelo aggeribus viscera. Iter ubi viscera profanis a\nrebello fulget, per <strong>lenta</strong> cuspidis excussit. Sceleratus gaudet. <a href=\"http://suaamor.net/est-agros.html\">Sit\nse</a> tuba naturale quam.</p>\n<p>Usus prohibes Morphea qua modo tergoque omnes circumfert iurasse quoque, nec in\nduo vitisque tenui hu</p>\n"
+}

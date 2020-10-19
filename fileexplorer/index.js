@@ -6,11 +6,6 @@ var app = express()
 app.get('/', (req, res) => {
   var files = filexplorer.listFiles()
   res.send(files)
-  
-  // res.write(
-  //   JSON.stringify(filexplorer.listFiles(), 0, 2)
-  // )
-  // setTimeout(()=>res.end(), 2000)
 })
 
 var host = 'localhost'

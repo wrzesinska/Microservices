@@ -1,0 +1,83 @@
+{
+  "id": "1299",
+  "name": "Mens Khaki Cotton Basic Polo T-shirt",
+  "price": 68.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 83,
+    "average": 4.8
+  },
+  "category": {
+    "id": 112,
+    "name": "T-shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Cotton",
+    "Basic",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1299,
+      "image_url": "https://images.pexels.com/photos/3228891/pexels-photo-3228891.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1299/1.jpg"
+    },
+    {
+      "product_id": 1299,
+      "image_url": "https://images.pexels.com/photos/3228900/pexels-photo-3228900.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1299/2.jpg"
+    },
+    {
+      "product_id": 1299,
+      "image_url": "https://images.pexels.com/photos/3228887/pexels-photo-3228887.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1299/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12990100,
+      "feature_id": 100,
+      "product_id": 1299,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12990100,
+      "feature_id": 100,
+      "product_id": 1299,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12990100,
+      "feature_id": 100,
+      "product_id": 1299,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12990100,
+      "feature_id": 100,
+      "product_id": 1299,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12990200,
+      "feature_id": 200,
+      "product_id": 1299,
+      "name": "Color",
+      "value": "Khaki"
+    }
+  ],
+  "description": "<h2>Vota verba</h2>\n<p>Lorem markdownum piget. Est <a href=\"http://pondere-per.com/tamenmagis\">adhuc</a> hunc\nquibus illi. Secundi nisi, etiam in cervix patuit inornatos; <em>potuit</em> Hectora\ndemit chelydri omnes nemus. Et ab inque; ducit <em>atque aetas fidissime</em> supposito\ninfectus lata.</p>\n<p>Effugit aduncum <strong>signaque veluti</strong> vestigia genus sagitta priori tibi lapsas\narmos momentaque coniunx iuvenalia, qua duo solet membra! Et nova iamque\n<strong>rubent lacu</strong>, est eum populabile tantum terra discedens piceae quaedam\nvirginis tactumque adspicio, igne. <em>Sic Tantalis heu</em> rediit illis ab puto\nlacrimans ramis, visi pocula sustinui. Noctisque liceat, quaerenti, omnes,\nliceret conexa et candida orbes, regnum. Caute et perdite digna fecundaque\naequoris.</p>\n<h2>Ad poterat rigorem utiliter nidi reperta isse</h2>\n<p>Erat iter vacet, quae nisi Procris, quam portis; satis tantos, flenti ad fonte\nspectat rigidis? Ac derexit turribus et ille duorum iactum nemorisque\n<strong>navigat</strong>, terrigenasque <strong>gurgite femineusque terrae</strong>.</p>\n<ol>\n<li>Certumque ille</li>\n<li>Excipis quaerere praedator supplex</li>\n<li>Ferrum ingreditur</li>\n<li>Reliquit regnum</li>\n<li>Achaia piasque conataeque minimas adhuc praemiaque partus</li>\n</ol>\n<h2>Verba mutataeque genetricis exosus nisi cum dolendi</h2>\n<p>Ratis adpellare arvis quid faceres dixit captat fide mitis terrena. Ablata a\nHaemum Haemonii me Danai vultus fera amissa ostia inclita praetereunt tandem\nparentum egreditur erit. Fuerat sit partus putant stetit, hoc venientique\nremugis aguntur animi vivacia crescitque fontis dextra mactare fratrem urbes\nvulnere. Quodcumque ille: natus esse carmina excutiant admotis ibat laudem: te.</p>\n<h2>Nelidae aut est</h2>\n<p>Hectoris merui ore, quod labori clam, <em>suo</em> caput, caeli. Corpore aestus\nolorinis <a href=\"http://agam-hic.net/cum.html\">magnae tuta</a> inmanem furor aequore et\nin!</p>\n<ul>\n<li>Tu Hymenaeus sic faciebat coniunx</li>\n<li>Imagine omni est bonis et cruore signo</li>\n<li>Pirithous omnia caelo</li>\n<li>Non passa plurimus flammam fontis</li>\n</ul>\n<p>Tunc quam iamdudum mirabile eodem Iovemque leaena in ferroque claudere temptare\ndigitis. Dedit deae neve, erit fecit nam capillos fervida letalis, ignes exitus.\nEt parvo vara guttae quid nec; ora per puduitque, venire ipse Clytiumque stirpis\n<em>Venus incaluisse unde</em> sinistrae. Geminis aures, erit frustra. A tremor tantum\nomni quoque iura vidit sic nec moenibus talibus cumque <a href=\"http://ignara.org/\">Giganteis\nulcisci</a> fronde in latuere.</p>\n",
+  "excerpt": "<p>Lorem markdownum piget. Est <a href=\"http://pondere-per.com/tamenmagis\">adhuc</a> hunc\nquibus illi. Secundi nisi, etiam in cervix patuit inornatos; <em>potuit</em> Hectora\ndemit chelydri omnes nemus. Et ab inque; ducit <em>atque aetas fidissime</em> supposito\ninfectus lata.</p>\n<p>Effugit aduncum <strong>signaque veluti</strong> vestigia genus sagitta priori tibi lapsas\narmos momentaque coniunx iuvenalia, qua duo solet membra! Et nova iamque\n**rubent lac</p>\n"
+}

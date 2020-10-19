@@ -1,0 +1,49 @@
+{
+  "id": "1386",
+  "name": "Womens Dark Blue Jeans Denim High-Waist Summer Shorts",
+  "price": 74.99,
+  "price_promo": 54.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 110,
+    "average": 3.39
+  },
+  "category": {
+    "id": 126,
+    "name": "Shorts"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Jeans",
+    "Denim",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1386,
+      "image_url": "https://images.unsplash.com/photo-1551421801-68f9c625244e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1386/1.jpg"
+    },
+    {
+      "product_id": 1386,
+      "image_url": "https://images.unsplash.com/photo-1551421801-fa7c1c7bc707?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1386/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13850200,
+      "feature_id": 200,
+      "product_id": 1386,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Ego cum et leonem hic geminatis et</h2>\n<p>Lorem markdownum deorum, de fixum caligine alternaque veris dixerat quid tamen\nmembris: nisi <strong>ita</strong>, et a quoque! Fer gradu odoratis substiterat silvae\n<strong>faces probant</strong>, haec tempora iam sibi propago vidi spes solvi non Pallas\neodem restagnantis. Undae undas festisque sententia, quam partem flumen referens\ndilatant animae, adfixa sagitta opemque. Curaeque vacuaque altis; fluminis\nconsonus, erat festo clauserat vinctum omnes non tot et alma et. Miserarum\ntraxit, <em>erat</em>, utque morisque; annos fert quos iniqui, gemitu.</p>\n<p>Quoque <em>orabam inpluit et</em> interrita quo fuit <strong>nescimus</strong> se est. Tamen reddit\nneve, sorores carior, secura sic perque fluentum tegi aspicit septem: oculis:\ntellure? Est dic iubet crimine ingentibus in tamen clamor cadentem quotiens.</p>\n<h2>Matris testis</h2>\n<p>Vultusque robora nostri fuit putes, iter, quod peragat inque. Et et Attica\ncontra piceae toto cura pectusque morte.</p>\n<ol>\n<li>Illa sit sim murmure fonte qui</li>\n<li>Mentis sapienter tamquam</li>\n<li>Hinc me cura</li>\n<li>Atris tonitribus quibus caeli quoque adfata os</li>\n<li>Senior in mediis illud tibi nostri</li>\n<li>Per viro</li>\n</ol>\n<h2>Infera maneas tempore deus pacifer invidia labor</h2>\n<p>Ait victus, tamen pede nec piceae si agant impetus segetes contraxerat,\n<em>oculis</em>, vatis <strong>collumque o</strong>. Sapiente si sub et patriosque reddit, solane\nconspicuus artem.</p>\n<ol>\n<li>Calidi turba parens liventia lapidis flamma</li>\n<li>Pedibus Haemus</li>\n<li>Spectant non furtum capillis urbis concutiuntque sunt</li>\n<li>Quoque arma vatis formaeque fore</li>\n<li>Quoque totiens</li>\n</ol>\n<p><a href=\"http://telum.com/multis.aspx\">Sed</a> relinquar <a href=\"http://incautum.com/funere\">clara quaesitae\nquam</a> hostesque visa Taurusque vitis; sic litus qua\nadorant plangebat sortitus! Sociis sit, non bucina coluit Peneidas Rhenum\nsceleratae subcubuisse Tyrrhenaque contentusque luctu.</p>\n",
+  "excerpt": "<p>Lorem markdownum deorum, de fixum caligine alternaque veris dixerat quid tamen\nmembris: nisi <strong>ita</strong>, et a quoque! Fer gradu odoratis substiterat silvae\n<strong>faces probant</strong>, haec tempora iam sibi propago vidi spes solvi non Pallas\neodem restagnantis. Undae undas festisque sententia, quam partem flumen referens\ndilatant animae, adfixa sagitta opemque. Curaeque vacuaque altis; fluminis\nconsonus, erat festo clauserat vinct</p>\n"
+}

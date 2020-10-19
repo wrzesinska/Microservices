@@ -1,0 +1,70 @@
+{
+  "id": "1315",
+  "name": "Mens Blue Chilled Denim Jeans Jacket",
+  "price": 94.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 42,
+    "average": 3.98
+  },
+  "category": {
+    "id": 114,
+    "name": "Jackets and coats"
+  },
+  "brand": {
+    "id": 105,
+    "name": "BlueLabelDenim"
+  },
+  "tags": [
+    "Denim",
+    "Chilled",
+    "Jeans"
+  ],
+  "images": [
+    {
+      "product_id": 1315,
+      "image_url": "https://images.pexels.com/photos/1808387/pexels-photo-1808387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "source_id": 200,
+      "file_path": "api/images/1315/1.jpg"
+    },
+    {
+      "product_id": 1315,
+      "image_url": "https://images.pexels.com/photos/1808390/pexels-photo-1808390.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1315/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13150100,
+      "feature_id": 100,
+      "product_id": 1315,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13150100,
+      "feature_id": 100,
+      "product_id": 1315,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13150100,
+      "feature_id": 100,
+      "product_id": 1315,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13150200,
+      "feature_id": 200,
+      "product_id": 1315,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Feratis inque tergoque</h2>\n<p>Lorem markdownum cacumine stridit angebar quae? Perpetuum minus fratres quem\nvitiaverit laturus arma, ille ictu Teucri. Quamvis condebat aras posuere.</p>\n<ol>\n<li>Die suis missus collis</li>\n<li>Apta dum decipienda numeros de numina Phrygiis</li>\n<li>Volucres iuris simulacra tuli quippe sibi pugnae</li>\n<li>Ovi se paulum volat capreisque</li>\n</ol>\n<h2>Finiat viam</h2>\n<p>Perstat ingemuit; et flavae tenebroso ille tutus clipei postquam veste: <a href=\"http://non.org/plaudat-hominem\">tum\net</a> flere ostendens interea, tu gratissime.\nCerebro modo, sceleratus vix amplexus, forti labens, aspicit?</p>\n<h2>Increscere ubi omnes</h2>\n<p>Titanida coarguit septemfluus cunctis tellus, umeros potestas vinum Astreus! Ad\noptas et ille, cum inmunemque altae, Echo rotatis trepidante plura.</p>\n<h2>Timuit sedet</h2>\n<p>Exhibuit dentibus fama. Et ab horum possis thalamis capillis iunxisse genus\n<a href=\"http://ferre-absens.com/illacum\">dedit</a>; si spreta. Sub pavida gemuit, ista\nleonum; alter alvum haec Achivi dos dicta salutant relinquite Caucason. Sed\nsaxoque tollens imo fervebant!</p>\n<p>Glandibus ibis. Succidit tibi a revolat pertimuit, posse tenet, Laertius precor.</p>\n<p>Fuit Argo, cera bracchia si saecula aequore successu quaeque cupidine et adacto!\nAut laevum dictis illis desilit iniqui tenuerunt sospes; tamen spe qui\n<a href=\"http://www.quaeque-nomen.io/si.html\">potest</a>? Ausi tonitrua parvo mane; in <strong>se\nvana</strong> nunc, veram spectat. Odore et viros se orbi peperi intellectumque tum:\ndici: ensis est miserabilis proxima, <em>matri</em>! Vides victrix: nam ferre quaerunt\n<strong>iunctissima turba</strong>, adsimulavit et ventis ferinos dixerat obortas depositum\nin spatio lymphata barbariam.</p>\n",
+  "excerpt": "<p>Lorem markdownum cacumine stridit angebar quae? Perpetuum minus fratres quem\nvitiaverit laturus arma, ille ictu Teucri. Quamvis condebat aras posuere.</p>\n<ol>\n<li>Die suis missus collis</li>\n<li>Apta dum decipienda numeros de numina Phrygiis</li>\n<li>Volucres iuris simulacra tuli quippe sibi pugnae</li>\n<li>Ovi se paulum volat capreisque</li>\n</ol>\n<p>Perstat ingemuit; et flavae tenebroso ille tutus clipei postquam veste: <a href=\"http://non.org/plaudat-hominem\">tum\net</a> fl</p>\n"
+}

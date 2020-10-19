@@ -1,0 +1,75 @@
+{
+  "id": "1373",
+  "name": "Womens Black Cotton Summer T-shirt With Print",
+  "price": 59.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 156,
+    "average": 2.68
+  },
+  "category": {
+    "id": 124,
+    "name": "T-shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Print",
+    "Cotton"
+  ],
+  "images": [
+    {
+      "product_id": 1373,
+      "image_url": "https://images.unsplash.com/photo-1563228813-1c93b0664422?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1373/1.jpg"
+    },
+    {
+      "product_id": 1373,
+      "image_url": "https://images.unsplash.com/photo-1563228779-d40fbe44a044?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1373/2.jpg"
+    },
+    {
+      "product_id": 1373,
+      "image_url": "https://images.unsplash.com/photo-1563228813-6c2e2a4b3951?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1373/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13730100,
+      "feature_id": 100,
+      "product_id": 1373,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13730100,
+      "feature_id": 100,
+      "product_id": 1373,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13730100,
+      "feature_id": 100,
+      "product_id": 1373,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13730200,
+      "feature_id": 200,
+      "product_id": 1373,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Cum lugenti antris ut illo aliquas artus</h2>\n<p>Lorem markdownum sequendo feci optatos et equus\n<a href=\"http://superataeexternum.org/fiunt.html\">carpat</a>, sed pyropo non, mei omnes.\nFacientibus nulli, Caenis <strong>utar nam</strong> et est, et <strong>hic in</strong>. Letum Peragit\nlicere: volat Agamemnona matutina neglectos peperit, undae. Domini omina idem\npro; ipsis abit laurus; o Acmona recusat latitantia remansit annis viridique\nnihil, Aiax nec.</p>\n<ol>\n<li>Nympham matri nulli</li>\n<li>Expalluit sarisa saepe</li>\n<li>Dulichius mihi stat metum nectare</li>\n<li>Iaculoque fuistis ferit laurus Priamus</li>\n<li>Sub nefandis utque habuere</li>\n<li>Amor olim etiamnum nona retices regit</li>\n</ol>\n<h2>Vides Lelex</h2>\n<p>Non mea habet hostes adulterium conubia adhuc indignata molliter altaria quem?\nInmoriuntur repetito pietas sua minimum aliis carbasa inque <strong>ne</strong> spargere.\nIgnigenamque domus lumina, summa quod legebantur corpus cognoscere Idmoniae\narmis: exit arent crescere, et vitat hoc proxima. Ignibus Castalio hoc lege haec\net data quotiens meas his amorem gemitus ponere: vestes <em>lacrimis</em> amnes mollis\ncaligine. Colla tecum tigno quamvis!</p>\n<h2>Harenis lanianda est</h2>\n<p>Ferro merguntque locis confer <em>urbem audiat</em>, torum Dulichiae Scythiam. Humanum\nnube parte volucres totum classis postquam siccat opposuitque rectum, ultorque\nulterius lapillos audita.</p>\n<ul>\n<li>Modo caelo saxa</li>\n<li>Parabat causam</li>\n<li>Fera aqua Thyesteis coniunx attoniti tamen exitus</li>\n</ul>\n<h2>Est ad consorte Dictys umbrarumque linigera mille</h2>\n<p>Est non hic <a href=\"http://femina.io/\">parte tu</a> telum Sparserat nereides recta\ncornaque vota; mihi una latravit terra; a? Sparsitque laeta cavas Narcissum\ncaptantur ab ferrum videre emisitque pectora, fatis mediaque, potentes! Canum\nferae nam paulatimque saepe per <em>qualis petunt flaventibus</em> frigus Halcyoneus\nesse.</p>\n<ol>\n<li>Potentior dolorem</li>\n<li>Coronae pugnare adflati saepe monet quotiensque lapsas</li>\n<li>Flores perque</li>\n<li>Ferunt levem te nemorum Non oculus</li>\n<li>Piscique obstrepuere adest</li>\n<li>Qua moneo vulnera que respondent haberet occupat</li>\n</ol>\n<p>Perculit interque servabere populo populusque nocte septemplice sparsae\ninhaerentem illi: vela quidem ferrumque demit melior positisque! Murmur id\npremit, <em>auctor eram iuvenem</em> angues memorque more. Supplice nihil idem sic\ncorpus patet: patefecit obsceno magna <a href=\"http://ut-voveas.net/illa\">prehensis</a>?\nDes nil per.</p>\n",
+  "excerpt": "<p>Lorem markdownum sequendo feci optatos et equus\n<a href=\"http://superataeexternum.org/fiunt.html\">carpat</a>, sed pyropo non, mei omnes.\nFacientibus nulli, Caenis <strong>utar nam</strong> et est, et <strong>hic in</strong>. Letum Peragit\nlicere: volat Agamemnona matutina neglectos peperit, undae. Domini omina idem\npro; ipsis abit laurus; o Acmona recusat latitantia remansit annis viridique\nnihil, Aiax nec.</p>\n<ol>\n<li>Nympham matri nulli\n2</li>\n</ol>\n"
+}

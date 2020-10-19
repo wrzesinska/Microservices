@@ -1,0 +1,84 @@
+{
+  "id": "1297",
+  "name": "Mens Black Gold Crown Motive T-shirt",
+  "price": 59.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 39,
+    "average": 2.49
+  },
+  "category": {
+    "id": 112,
+    "name": "T-shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Crown",
+    "Basic",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1297,
+      "image_url": "https://images.pexels.com/photos/3026284/pexels-photo-3026284.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1297/1.jpg"
+    },
+    {
+      "product_id": 1297,
+      "image_url": "https://images.pexels.com/photos/3026283/pexels-photo-3026283.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1297/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12970100,
+      "feature_id": 100,
+      "product_id": 1297,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12970100,
+      "feature_id": 100,
+      "product_id": 1297,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12970100,
+      "feature_id": 100,
+      "product_id": 1297,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12970100,
+      "feature_id": 100,
+      "product_id": 1297,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12970100,
+      "feature_id": 100,
+      "product_id": 1297,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12970200,
+      "feature_id": 200,
+      "product_id": 1297,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Munera sero ossibus nitenti longus pectine nescia</h2>\n<p>Lorem markdownum di eodem cadunt, imas placare, tale Maeandros annos. Herculis\nAegaeo, bracchia, caeli si pectusque, timenda ille alterno. Venisse malo\ntantummodo <em>vincta</em>; Amazone desere femina totumque ut veluti concutit ut totum\nvolebat, ad danda.</p>\n<blockquote>\n<p>Requiris <em>nec ardor dedisset</em> Aiax die flamma probro prendere spatio aut\ndoloris, famulis? Est auroque lotos candore harena hoc, a creatis perque\nconsedere pudibunda iacentem non horum cecidere.</p>\n</blockquote>\n<h2>Petendi at in erat possint pervia</h2>\n<p>Aura tibi <a href=\"http://et.org/intertutaeque\">docendam</a> faciem membra canis fronti\nlabori agri et postquam, sui. Serpens rectum discretus ecquid occumbere Melampus\nulla fugitque infans laticem mala. Cruentis loricamque crepitantia vulnera Iovem\nordine; ossibus accusoque, nec.</p>\n<ol>\n<li>Vultum Ulixe</li>\n<li>Deos inde virtus linquit consistere greges te</li>\n<li>Fuit fugaeque</li>\n</ol>\n<h2>Eodem Pylius duri aede corruit</h2>\n<p>Sumit teneri et ergo geminat; conatur saepe <em>facta aetas</em> o tamen ingenii\nnaidas. Avis redit, clamore ictu, ego animorum pereat nequiquam praesagia\ncelebrabat. Ipse locuta resque pulvis.</p>\n<ol>\n<li>Iniqui modo figuram dubitare Canenti</li>\n<li>Tulit thalamique edendi virgo</li>\n<li>Ac orbe vir</li>\n</ol>\n<p>Ubi cuncta in tam nec quem urget, loquendo dives, eumque vestram summum\nproperabat, miserae ceu, vastarumque. Phoebus animam. Clipeo hara nec edidit\nabstinet tumulatus volenti incendia modo dat variis postes caeruleusque inque et\n<strong>aliquid</strong>. Neque ab tuorum ad puta concursibus venit rector indignanda saucius\nAndraemon, curvantem habuit apertas Hyperione poteratque <strong>altis</strong>.</p>\n",
+  "excerpt": "<p>Lorem markdownum di eodem cadunt, imas placare, tale Maeandros annos. Herculis\nAegaeo, bracchia, caeli si pectusque, timenda ille alterno. Venisse malo\ntantummodo <em>vincta</em>; Amazone desere femina totumque ut veluti concutit ut totum\nvolebat, ad danda.</p>\n<blockquote>\n<p>Requiris <em>nec ardor dedisset</em> Aiax die flamma probro prendere spatio aut\ndoloris, famulis? Est auroque lotos candore harena hoc, a creatis perque\nconsedere pudibunda iacentem non horum cecidere.</p>\n</blockquote>\n"
+}

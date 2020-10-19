@@ -1,0 +1,90 @@
+{
+  "id": "1279",
+  "name": "Mens All Black Classy Elegant Shirt",
+  "price": 88.99,
+  "price_promo": 74.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 228,
+    "average": 3.91
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Classy",
+    "Elegant",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1279,
+      "image_url": "https://images.pexels.com/photos/3754212/pexels-photo-3754212.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1279/1.jpg"
+    },
+    {
+      "product_id": 1279,
+      "image_url": "https://images.pexels.com/photos/3754209/pexels-photo-3754209.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1279/2.jpg"
+    },
+    {
+      "product_id": 1279,
+      "image_url": "https://images.pexels.com/photos/3754199/pexels-photo-3754199.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1279/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12790100,
+      "feature_id": 100,
+      "product_id": 1279,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12790100,
+      "feature_id": 100,
+      "product_id": 1279,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12790100,
+      "feature_id": 100,
+      "product_id": 1279,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12790100,
+      "feature_id": 100,
+      "product_id": 1279,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12790100,
+      "feature_id": 100,
+      "product_id": 1279,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12790200,
+      "feature_id": 200,
+      "product_id": 1279,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Rector pars</h2>\n<p>Lorem markdownum, illinc amore ope litore neque tellure: sub: ferre hunc. Hiems\nbello senectae: haud nacta pendebant miserum, precibus amari bisque, tamquam\ninterserit conspicit domus adiutrixque. Ille Bistoniis aquis vultus illa venam;\ndedisses nati, <a href=\"http://protinuscum.com/\">gemitu</a>, pictam terraeque. Favilla esse\net ignibus, mota linguaque, malis ita <strong>est nota fervidus</strong>.</p>\n<ol>\n<li>Cum duro sed</li>\n<li>Litem sed nexis subruit maestis proles ille</li>\n<li>Tempus pars spes insania</li>\n<li>Choreas in modo</li>\n</ol>\n<h2>Pietatem lateo</h2>\n<p>Proiecerat dilapsa superabat Avernas, mala. Edam dixit marmore, si addere,\ninducta creavit sacro aut. Locum mutarent quaterque dici.</p>\n<ul>\n<li>Illius nescio fulsit ipsa clamabat et Romanum</li>\n<li>Sonantes Mendesius factus crinibus sequitur pressa</li>\n<li>Ad quos eodem dixerat barbam aetatis</li>\n<li>Tibi esse tolle cruorem et Cepheus tantos</li>\n<li>Et Dymantida auster tenui viro dedit</li>\n</ul>\n<h2>Formosus latus pharetrae effecta arcet in horto</h2>\n<p>Sit fieret Euryte gener Iliacos nec est haerentem praecessit senior, est ripis,\npotest felix? Vidi partu Phoebus nondum urbis, profitemur socialis, nec\n<strong>data</strong>. Videre imis, quem regesta sive. Vidi Venusque, ubi circum canna posse;\nsacra maris dira rettulit fatebor quos hanc numen secutum, flentes quoque. Nocet\nlonga flavae resedit silet: Lyciaeque capillis fuit tuo illi <strong>expers distabat</strong>\nferens movet apertos; cum ego.</p>\n<h2>Adurat sequendi latas</h2>\n<p>Vulnera in Thisbes ignes exsultantemque iussit; est veterum tempore. Pomo\ndecerpta motis qui dum, patriam te ales satis mirabile usque utraque; me illa,\nfortissimus, dum. Calculus ante, ante ora, aliis hospes vale, inanis.</p>\n<h2>Me huic ubi luminibus cuncta alto</h2>\n<p>Suas femori gladios odorato cum. Pendere nisi sub, nomine eiecit semifer et\nille, actusque, summa.</p>\n<p>Viderat manu pugnae, te quis simillima, humilem non, saepe, primo. Apta frondes.\nEt vultus rupem; inque alios paulatim ferarum et <em>maduit tua</em> trahens longa,\ntuumque sua. Enim et venientesque facta, a corpus vestros intravit, nec,\nclauduntur sunt Salmaci vultuque tu putes ex quia.</p>\n",
+  "excerpt": "<p>Lorem markdownum, illinc amore ope litore neque tellure: sub: ferre hunc. Hiems\nbello senectae: haud nacta pendebant miserum, precibus amari bisque, tamquam\ninterserit conspicit domus adiutrixque. Ille Bistoniis aquis vultus illa venam;\ndedisses nati, <a href=\"http://protinuscum.com/\">gemitu</a>, pictam terraeque. Favilla esse\net ignibus, mota linguaque, malis ita <strong>est nota fervidus</strong>.</p>\n<ol>\n<li>Cum duro sed</li>\n<li>Litem sed</li>\n</ol>\n"
+}

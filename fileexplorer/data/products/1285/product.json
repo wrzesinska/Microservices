@@ -1,0 +1,84 @@
+{
+  "id": "1285",
+  "name": "Mens Leaves/Palm Trees Motive Summer Shirt",
+  "price": 74.99,
+  "price_promo": 64.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 4,
+    "average": 2.09
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Leaves",
+    "Palm Trees",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1285,
+      "image_url": "https://images.pexels.com/photos/2295748/pexels-photo-2295748.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1285/1.jpg"
+    },
+    {
+      "product_id": 1285,
+      "image_url": "https://images.pexels.com/photos/1853232/pexels-photo-1853232.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1285/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12850100,
+      "feature_id": 100,
+      "product_id": 1285,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12850100,
+      "feature_id": 100,
+      "product_id": 1285,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12850100,
+      "feature_id": 100,
+      "product_id": 1285,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12850100,
+      "feature_id": 100,
+      "product_id": 1285,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12850100,
+      "feature_id": 100,
+      "product_id": 1285,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12850200,
+      "feature_id": 200,
+      "product_id": 1285,
+      "name": "Color",
+      "value": "White"
+    }
+  ],
+  "description": "<h2>Umbrosum festo herbarum sonus</h2>\n<p>Lorem markdownum iuvenis manat, infans, mei me pereat auctam dixit habet, te.\nTantumne manibus o mittentis saevis morientem dicere tantum. Cecropis summo ille\n<em>molimine</em> torum. Ille acrior ipsa videre canibusve Ammon ensem dare, tendere\namantes, caput. Exclamat increpor sonarent arbore comitantibus dubia\nTeuthranteusque lacerans; <a href=\"http://quamvisdementer.com/pedibus\">rudis ambage</a>\nsuberant tacitaque illud Iuno garrulitas: lingua Gorgoneis arma.</p>\n<blockquote>\n<p>Iustamque mearumin parvis, funera adhuc erat, una quod non <a href=\"http://amantisest.org/doceoflavusque\">quarum\nope</a>. Intravimus nec nitente munus\nvulnusque carmina: dictis quae antiqui nec mea. Revertentes <strong>Aetnam iubar</strong>;\ncoit natura minari Asopidos, creatis saxa videri cornua, ad et triplex vati\ntorum.</p>\n</blockquote>\n<p>Autumnus sequens, quos seu nomenque Ulixe <em>in preces</em> montanaque quater maciem\net modo invisa pectus adnuimusque hiscere feruntur. Et gravi, pugnantem virtute\nsupremis aulam ligamina et humano reliquit. Petis lucentis fecere super, ubi nam\npopulos erat agrestes tyranni. Sed <a href=\"http://matrona-penitus.org/ferar-canor\">et Deucalion\nmihi</a>.</p>\n<h2>Sit memorabile conanti foret</h2>\n<p>Enim quo servabant, <em>cruorem priorum</em> ima vulnera et <em>simul numina</em>. Lacrimas\nflet, inposuere scissaque et sparsos et iam est.</p>\n<blockquote>\n<p>Fontes Maeandros dignus, longam pluviale abire quaeras videntem in tempora!\nAnimo voce siquid, <strong>agitataque</strong> fixumque spinae et nefasque carmina?</p>\n</blockquote>\n<h2>Ferro aptato mutatum vetustos mariti Venus regia</h2>\n<p>Fama ille diuque aliter tellus <em>coniuge vixque</em>. Mihi post <em>vidisse</em> tenet\ncomitique concurreret an Iunonia talem tenuitque Macareus Cytherea corpore.</p>\n<blockquote>\n<p>Vultus amnes simillimus quacumque sanguine: aper credit, populum illic\nsummisque decimum <a href=\"http://cultor.io/\">fluminis</a> rector circuitu. Inter rege,\npulsusque. Hunc iter et ulla dextra!</p>\n</blockquote>\n<p>Feruntur corde lumen? Defrenato vis exierint manifestam videntur credi dederant,\nnon Gradivus. Quae deo, et sidera totoque divulsaque deceptam fidem <strong>somnum</strong>\ncuspide neque.</p>\n<p>Ante cecidere, spectare tellusque tamquam a Caeni exemplis habent adhibere\ncornum iuvenum. Tuam Protesilae quod. Omnia digessit gerens, inpune utilis umor\nmiserere est urbs, iners condar. Summam aquarum et fugacem arma <em>nec tinctam\nfugit</em> rudente hoc lustrat Peleus ense violenta dextera taurorum. Seu fraudat,\nnimis ille inducere, arcus suum in nepoti inquit facturus iuvencae.</p>\n",
+  "excerpt": "<p>Lorem markdownum iuvenis manat, infans, mei me pereat auctam dixit habet, te.\nTantumne manibus o mittentis saevis morientem dicere tantum. Cecropis summo ille\n<em>molimine</em> torum. Ille acrior ipsa videre canibusve Ammon ensem dare, tendere\namantes, caput. Exclamat increpor sonarent arbore comitantibus dubia\nTeuthranteusque lacerans; <a href=\"http://quamvisdementer.com/pedibus\">rudis ambage</a>\nsuberant tacitaque illud Iuno g</p>\n"
+}

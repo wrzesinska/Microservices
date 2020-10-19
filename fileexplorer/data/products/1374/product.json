@@ -1,0 +1,75 @@
+{
+  "id": "1374",
+  "name": "Womens White Cotton Summer T-shirt With Yellow Print",
+  "price": 64.99,
+  "price_promo": 54.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 216,
+    "average": 4.07
+  },
+  "category": {
+    "id": 124,
+    "name": "T-shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Print",
+    "Cotton"
+  ],
+  "images": [
+    {
+      "product_id": 1374,
+      "image_url": "https://images.unsplash.com/photo-1586102358078-9418f6b4808f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1374/1.jpg"
+    },
+    {
+      "product_id": 1374,
+      "image_url": "https://images.unsplash.com/photo-1586102901518-ca0f178acb5f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1374/2.jpg"
+    },
+    {
+      "product_id": 1374,
+      "image_url": "https://images.unsplash.com/photo-1586102931834-b14a6c079331?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1374/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13740100,
+      "feature_id": 100,
+      "product_id": 1374,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13740100,
+      "feature_id": 100,
+      "product_id": 1374,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13740100,
+      "feature_id": 100,
+      "product_id": 1374,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13740200,
+      "feature_id": 200,
+      "product_id": 1374,
+      "name": "Color",
+      "value": "White"
+    }
+  ],
+  "description": "<h2>Sortis male replet condas</h2>\n<p><a href=\"http://opus.com/\">Lorem markdownum narret</a> totidem pumice, disces pervenit\naequore. Vultus nupta hoc pectora maxima, loquax ero ut clamore exsangue valet\nsatisque placidum verbis. Restabat accipit est, meri nocte fecerat.</p>\n<ul>\n<li>Rutilis lacrimas testis</li>\n<li>Mentae ac pennis</li>\n<li>Aquas murmur confessus</li>\n</ul>\n<p>Munere via flexit, tamen nomine foret spumas ille est, moriri, atque obstipuere\nIasone. Neque cruentum nigra eunt Iuno qui, et Notus comis et ac virga.</p>\n<h2>Nutantem Tlepolemus in victum ulterius electus</h2>\n<p>Forma quem meo iubebit solet stellarum et portas decipit regemque praesuta <em>a</em>.\nRequiras velatos torum superabit, velles, fuit quam non cinisque ecce felicem\nulcisci venenis galea; ergo. Cursus auras, unus nec, et dis radice omnis et\nfessos facietque pignus abstemius mihi fuissem bellaque reliquit. Inopes primus\n<a href=\"http://iter-numine.com/etest\">leni</a>? Parassent <strong>praeterita</strong>, amores nocte\nquae reliqui.</p>\n<p>Fulgentis tales lilia fertis se Melas redditque parabant deo tibi figuras\npotentes. Et subitarum exsatiata <em>timentem</em> sacrum facundia innectite ipsis:\nexilio specus zonae, doli manu rubore. Dignos mersaeque adacto, <em>ingens</em>, humum,\ncaelestibus apud partim. Per me tuta antro dum possumus moveoque freti ausa.\nIllis capillis Veneri <em>modo ferro</em> nec Somnia <a href=\"http://www.iuvatpoma.io/\">parum requiris\nsolidumve</a> certa nepotem liquidas nostro.</p>\n<ul>\n<li>Acres patri armigerae femur ducit carmine freto</li>\n<li>Est virginei nullaque</li>\n<li>Circes iam mors neque</li>\n<li>Suis inmensos pericli nobilitas tollebat</li>\n</ul>\n<p>Mihi genus? Est Iovis <em>medio cepit genuit</em>, laudat in vocalia. Dum quam: gravis\nposcit nudos profundo iugulare patruo, qua inlato Euboicas.</p>\n<p>O cum fontes memores Miletum, resurgere frigida ipse est; mox regia quos,\ntangendo erroribus dedit dicere. Genetricis intendit intrata. Tergo sunt dicta.\nTetigit iunctisque micantia mea; refers, terrae quoque negare perstat madefient\nsi.</p>\n",
+  "excerpt": "<p><a href=\"http://opus.com/\">Lorem markdownum narret</a> totidem pumice, disces pervenit\naequore. Vultus nupta hoc pectora maxima, loquax ero ut clamore exsangue valet\nsatisque placidum verbis. Restabat accipit est, meri nocte fecerat.</p>\n<ul>\n<li>Rutilis lacrimas testis</li>\n<li>Mentae ac pennis</li>\n<li>Aquas murmur confessus</li>\n</ul>\n<p>Munere via flexit, tamen nomine foret spumas ille est, moriri, atque obstipuere\nIasone. Neque cruentum nigr</p>\n"
+}

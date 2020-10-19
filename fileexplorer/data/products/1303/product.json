@@ -1,0 +1,89 @@
+{
+  "id": "1303",
+  "name": "Mens Black&White Basic Cotton Striped Sweater",
+  "price": 69.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 192,
+    "average": 4.87
+  },
+  "category": {
+    "id": 111,
+    "name": "Hoodies and sweaters"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Black&White",
+    "Cotton",
+    "Stripes"
+  ],
+  "images": [
+    {
+      "product_id": 1303,
+      "image_url": "https://images.pexels.com/photos/4048800/pexels-photo-4048800.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1303/1.jpg"
+    },
+    {
+      "product_id": 1303,
+      "image_url": "https://images.pexels.com/photos/4048799/pexels-photo-4048799.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1303/2.jpg"
+    },
+    {
+      "product_id": 1303,
+      "image_url": "https://images.pexels.com/photos/4048804/pexels-photo-4048804.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1303/3.jpg"
+    },
+    {
+      "product_id": 1303,
+      "image_url": "https://images.pexels.com/photos/4048806/pexels-photo-4048806.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1303/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13030100,
+      "feature_id": 100,
+      "product_id": 1303,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13030100,
+      "feature_id": 100,
+      "product_id": 1303,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13030100,
+      "feature_id": 100,
+      "product_id": 1303,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13030100,
+      "feature_id": 100,
+      "product_id": 1303,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13030200,
+      "feature_id": 200,
+      "product_id": 1303,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Ubi virgo tamen</h2>\n<p>Lorem markdownum testarique prensos amore nutritur Calydonius fugiens <em>penna\nspatium</em> ille ignotas. Vidi fuerat probant praecipue tendite natae; impelli\nAchillis tum neve <a href=\"http://www.papaver.io/nostroque-toto\">inaniter</a>, internodia\nmandabat. Heros pro omnis nervi facilem, quos nostros timore\n<a href=\"http://www.terga.com/exquae\">pace</a> quaerit hora. Credite <strong>certas inque</strong>,\npuerilibus argenteus <em>curru pharetratae manet</em>, sumusve auctoremque delectat,\ndentibus olorinis explorat.</p>\n<p>Ab novo omen, excipis; iras laudabat, liceat. Regionibus pubis, unda quam, forma\nsibi ab ab greges iussisque poterat <em>adstringit</em>! Spectantur crimen sonant.</p>\n<blockquote>\n<p>Summa vocibus seu. Quam dedit tecta deus ille liber tamen nataque recusat.</p>\n</blockquote>\n<p><em>Preces manifesta ducta</em> mixtis et mersura torosa post somno terra? Iove amare:\nmortalia aperto et hiatus concolor catulus concessa dictum.\n<a href=\"http://nec-anxia.org/\">Tertia</a> lora Phrygiae acumine amnicolaeque vultu unum\nsua spectabilis idque Sicanias. Enim patulis pondus prosilit etiam.</p>\n<h2>Mixtusque genetrix nisi</h2>\n<p>Spectat angues, ad malis tantis eadem per sponte puerpera armigerae <strong>ea</strong>\nrarescit procul, vola quae nemorosis auditque omnia! Tempora et candore facta,\necce, saxa erat que latus pietatem. Hanc nomine iuvenco litus rex confesso\nnutricis nomenque canibusve heros est: cursibus boves obstipuere studioque. Suas\nnovae visum et iram. Mente ferar Nemeaeo, iurgia fata ad odit concubitus, aries\nnon solos ambo siluere mea autumnos illos, lactis.</p>\n<blockquote>\n<p>Haut pondus, nec coniuge qui, at lora. Mite numero <em>quoque forsitan</em>. Non erat\nMater, quoque: Quirine miscuerat vota Attonitae, nec parte, ego pulvere\nspectantur deam sui, orta. Fecissem Nereaque Bacchica nostras ferro: unda\ndignos <em>iam</em>. Relatus nec accipit Iovis, rotae per cum suos hoc venantum\n<strong>herbosaque obstitit</strong>.</p>\n</blockquote>\n<p>Audis se perque inminet cupidine Agenore ingenium mutata distantibus atque, esse\ntamen victa volantes arcus, <strong>pax</strong>. Quirine comites fovesque crura rettulit\ntantum, una gradibus et tegit et est facis. Et sub ait oculis relinquunt enim\nfratrum nitentia postibus oscula, dissipat, editus facundia: celeri. Erit quid\nnequiret, deduci dum. Provida timidis conspicuus liberiore, verba usus iter: mox\nmanet.</p>\n<blockquote>\n<p>Theseus est multas, sed erat! Hoc gaudia apta, sic colla inficit videretur\naetate Andron corpore vaticinor, acuto ad peteret timidas. Libratum Ianthe ne\nveniam, <a href=\"http://liquituruna.org/\">maiestatemque</a> modo nam, atque instituit\nmultae armiger est fores fortibus adeo raptaque\n<a href=\"http://cana.org/tela.html\">pressa</a>? Putares teloque sit, inclinat attonitas\ntremulo talia et sua pugna qui omnes opus favillam modulatur. Hunc fas dammis\nvero bis per nefasque pocula cedere a Cereris utque reservant et montanum?</p>\n</blockquote>\n<p>Terga noxque turba; a diuque credant tu voce removete lustrat <em>publica</em>. Habenas\nadstitit! Dum bis animosque dubioque idemque Mater, futura omnemque decus\ntremit!</p>\n",
+  "excerpt": "<p>Lorem markdownum testarique prensos amore nutritur Calydonius fugiens <em>penna\nspatium</em> ille ignotas. Vidi fuerat probant praecipue tendite natae; impelli\nAchillis tum neve <a href=\"http://www.papaver.io/nostroque-toto\">inaniter</a>, internodia\nmandabat. Heros pro omnis nervi facilem, quos nostros timore\n<a href=\"http://www.terga.com/exquae\">pace</a> quaerit hora. Credite <strong>certas inque</strong>,\npuerilibus argenteus <em>curru pharetratae manet</em>, sumusve auctoremque delectat,\ndentibus olorinis</p>\n"
+}

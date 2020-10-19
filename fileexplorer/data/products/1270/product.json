@@ -1,0 +1,96 @@
+{
+  "id": "1270",
+  "name": "Mens Pink Summer Hoodie Face Print",
+  "price": 88.99,
+  "price_promo": 79.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 141,
+    "average": 2.36
+  },
+  "category": {
+    "id": 111,
+    "name": "Hoodies and sweaters"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Summer",
+    "Print",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1270,
+      "image_url": "https://images.unsplash.com/photo-1530691492391-8f89ffc866fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1270/1.jpg"
+    },
+    {
+      "product_id": 1270,
+      "image_url": "https://images.unsplash.com/photo-1530692662486-2d0e8bb0746f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1270/2.jpg"
+    },
+    {
+      "product_id": 1270,
+      "image_url": "https://images.unsplash.com/photo-1530693715100-4b0b186cf454?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1270/3.jpg"
+    },
+    {
+      "product_id": 1270,
+      "image_url": "https://images.unsplash.com/photo-1530692852898-70e17754f957?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1270/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12700100,
+      "feature_id": 100,
+      "product_id": 1270,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12700100,
+      "feature_id": 100,
+      "product_id": 1270,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12700100,
+      "feature_id": 100,
+      "product_id": 1270,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12700100,
+      "feature_id": 100,
+      "product_id": 1270,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12700100,
+      "feature_id": 100,
+      "product_id": 1270,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12700200,
+      "feature_id": 200,
+      "product_id": 1270,
+      "name": "Color",
+      "value": "Pink"
+    }
+  ],
+  "description": "<h2>Inmeritam dictis habitabilis venit cognita in auro</h2>\n<p>Lorem markdownum simulat, nec dedere mortis, nec uror iactanti orbis tangit\nquondam; silva rescierit, putat limite. Esse Clymenen lacerum antiquas soror.\nHarenam cognoscere flammis! Arsit natalis illo! Census tamen venisset premeret\nsonant.</p>\n<ul>\n<li>Agris externasque Theseu geminas</li>\n<li>Turbamve iacerent vacuae quas tria</li>\n<li>Coacervatos arbusta medias Amorque</li>\n<li>Huius deusque fugitque epytus nymphaeque aret convertit</li>\n</ul>\n<h2>Excessere miseram</h2>\n<p>Sede <em>arti Tritonia</em> mira omnes recessus unam letalibus tumens audit <em>canis Me</em>.\nFere comantur Plena undique plangoris <em>maxima</em>, est Chaos e. Canum pariter\ncarebat fuerim, meae Regi precatur maduisse miserum odit.</p>\n<p>Venerat per non cruentatis ruunt <strong>nec</strong>; vestros petunt ergo etiamnum. Et\nhabuit, alieno sed gradu est nil vox classe.</p>\n<h2>Est plangoris quaerit</h2>\n<p>Dummodo trepidante apud! Per ab tui per est errans orbis dedisse Aeolia\n<a href=\"http://turpe.org/alterscinditur\">Caesarea novas</a>, ambit Nec et amnes orbi?</p>\n<ul>\n<li>Levavit liquefactis arbor</li>\n<li>Mallet placet</li>\n<li>Sit ipse et Lenis multo momordi enim</li>\n<li>O aeris vires feroxque ignes</li>\n<li>Formae flamma vertice haec virgineas contigerat ales</li>\n</ul>\n<p>Specus pati si de auctor manant tendere comitemque tota apro. Si viribus sciat\naut vulnera agros tum, tu avem novitatis vindicet garrula corpore mendacibus\ninde putares iniecit potes. Saecula strinxit sed terris; <strong>truncus</strong> tanto,\ninstrumenta mittere rerum licuit alti mente procul, quinquennem. Iras ipsi iugis\nsine offensus stagna fassurae postquam piget isset, causa modo, nec.</p>\n",
+  "excerpt": "<p>Lorem markdownum simulat, nec dedere mortis, nec uror iactanti orbis tangit\nquondam; silva rescierit, putat limite. Esse Clymenen lacerum antiquas soror.\nHarenam cognoscere flammis! Arsit natalis illo! Census tamen venisset premeret\nsonant.</p>\n<ul>\n<li>Agris externasque Theseu geminas</li>\n<li>Turbamve iacerent vacuae quas tria</li>\n<li>Coacervatos arbusta medias Amorque</li>\n<li>Huius deusque fugitque epytus nymphaeque aret conv</li>\n</ul>\n"
+}

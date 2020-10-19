@@ -1,0 +1,61 @@
+{
+  "id": "1393",
+  "name": "Womens Candy Big Summer Glasses",
+  "price": 69.99,
+  "price_promo": 54.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 230,
+    "average": 3.15
+  },
+  "category": {
+    "id": 232,
+    "name": "Glasses and sunglasses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Candy",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1393,
+      "image_url": "https://images.pexels.com/photos/3819810/pexels-photo-3819810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1393/1.jpg"
+    },
+    {
+      "product_id": 1393,
+      "image_url": "https://images.pexels.com/photos/3819813/pexels-photo-3819813.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1393/2.jpg"
+    },
+    {
+      "product_id": 1393,
+      "image_url": "https://images.pexels.com/photos/3819800/pexels-photo-3819800.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1393/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13930100,
+      "feature_id": 100,
+      "product_id": 1393,
+      "name": "Size",
+      "value": "One Size"
+    },
+    {
+      "id": 13930200,
+      "feature_id": 200,
+      "product_id": 1393,
+      "name": "Color",
+      "value": "Pink"
+    }
+  ],
+  "description": "<h2>Fessa rapidae</h2>\n<p>Lorem markdownum precor quondam haec matri terras potitur coniunxque auget. Ossa\nnaribus annis illa genis et pluma bisque tulit fata committere cum hos fando\ntolluntur urbis caput paelice corpore.</p>\n<p>Arduus de pacisci <strong>ille utrumque Minervae</strong> sustulit <a href=\"http://erili-insignis.net/quicquam\">Iolao mea\nille</a>. Pressos queri in <a href=\"http://laniaverat-atra.io/\">mors et\nut</a> dolorem infelix; in tanta leto. Iuguloque e\naversum rigido, voce, <em>haut pollue</em>: deo sibi fidem, mutati.</p>\n<h2>Scylla varios excepit terrae precibus sed desine</h2>\n<p>Iuvenes ferenti corpore. Illius non carmina, frondibus pedum <strong>defensore</strong>, et\norbes vulnera Fortuna nostri? Narrare et grave. Resolutis altis alis medias;\narcus est, in ultima.</p>\n<h2>Illius humo</h2>\n<p>Flet stemus agiturque timeto! Ciborum feras pectus brevis, hic faces inquit: iam\nilla sanguine <a href=\"http://www.in.net/non-equos\">quaesitus gelidos</a>. In corpora\ngrandine veluti! Ite axes cadme ut adit suffuderat oris bracchia!</p>\n<ol>\n<li>Ora honorum</li>\n<li>Simus totidemque dotem</li>\n<li>Inque fraudem potentem ademptae vel quod</li>\n<li>Fratri statuam</li>\n<li>Miracula pectine hanc illam temptare quoque conspicui</li>\n</ol>\n<h2>Minus denupsit sitis sternuntur quid</h2>\n<p>O ferrum magno. Vobis nomen Rhoetus optat nunc ut <em>sinitis</em>, caput tibi. Gravem\ngreges Cecropidum quae Orchamus, arbore, corpore dixit <strong>sequeretur</strong>.</p>\n<ul>\n<li>Vagantem viva imitatur non caput excubias lanigerosve</li>\n<li>Quoque aras Athos effigiem risitque sibi veniret</li>\n<li>Nescio litibus animam</li>\n<li>Militiam uteri</li>\n<li>Sui disertus victrix sed eminus</li>\n</ul>\n<h2>Pectora sistitur</h2>\n<p>Expulit Ilithyiam, causam dextra temporis magni sparsit crinibus suique exanimis\net et caelum longis adsiduis? Sine data fuit; qua et ardor hunc in gutture\nfetibus regina Telamonius corrigit litora ramos <em>fuerat</em>. Exspectant\n<a href=\"http://et.com/faciem\">venit</a> formam quo potitur lugebisque inpendit fore dona,\ncum dignos taurus gestamina: quid artus vultus. Pennis atque hiatu an remanet\nTarpeia causa est et fugam et ipsa et <a href=\"http://timidis.org/signant\">edidit\ncircumfunditur</a>.</p>\n<p>Per ageret vulnera dimittite concepta, formosi huic vulnus oneris! Tenues <a href=\"http://ferrum.io/dare-berecyntia.php\">inque\ninquit precaris</a> pectoraque tenuit, tria\nquos <strong>Nostra ventos visa</strong>? Verso sententia vero, me esset obsessa tumulumque\nvacuas ante unus!</p>\n",
+  "excerpt": "<p>Lorem markdownum precor quondam haec matri terras potitur coniunxque auget. Ossa\nnaribus annis illa genis et pluma bisque tulit fata committere cum hos fando\ntolluntur urbis caput paelice corpore.</p>\n<p>Arduus de pacisci <strong>ille utrumque Minervae</strong> sustulit <a href=\"http://erili-insignis.net/quicquam\">Iolao mea\nille</a>. Pressos queri in <a href=\"http://laniaverat-atra.io/\">mors et\nut</a> dolorem infelix; in tanta leto. Iuguloque e\naversum rigido,</p>\n"
+}

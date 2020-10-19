@@ -1,0 +1,96 @@
+{
+  "id": "1357",
+  "name": "Womens Black&White Maxi Skirt",
+  "price": 69.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 129,
+    "average": 2.79
+  },
+  "category": {
+    "id": 122,
+    "name": "Skirts"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Black&White",
+    "Dalmation Print",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1357,
+      "image_url": "https://images.unsplash.com/photo-1551863082-ee9f49f85015?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1357/1.jpg"
+    },
+    {
+      "product_id": 1357,
+      "image_url": "https://images.unsplash.com/photo-1551863082-4e6c9e2926bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1357/2.jpg"
+    },
+    {
+      "product_id": 1357,
+      "image_url": "https://images.unsplash.com/photo-1551863081-6ab80f1fa3cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1357/3.jpg"
+    },
+    {
+      "product_id": 1357,
+      "image_url": "https://images.unsplash.com/photo-1551863081-8279c56f17e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1357/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12570100,
+      "feature_id": 100,
+      "product_id": 1357,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12570100,
+      "feature_id": 100,
+      "product_id": 1357,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12570100,
+      "feature_id": 100,
+      "product_id": 1357,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12570100,
+      "feature_id": 100,
+      "product_id": 1357,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12570100,
+      "feature_id": 100,
+      "product_id": 1357,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12570200,
+      "feature_id": 200,
+      "product_id": 1357,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Ibimus poena fama sed meaque ut sonuere</h2>\n<p>Lorem <strong>markdownum</strong> mihi! Arsuris coire nisi nec quo: in natae indigenas\nutimur. Summo et videtur concita sustulit omnibus magno gemino Iamque bracchia\ndicta invita, quidem Alba Musae Agenoream persequar mirum <em>alimenta</em>.\nMinisteriis fecit Tantalus <strong>tegitur nubila</strong>, roganti discidium editus. Adest\nclivum Iuno daedalus <a href=\"http://illum-vindicat.com/proserpinarerum\">neque</a> suo\nvulnera iam Phoebum <em>viri est delicuit</em>, hic ratis haud e.</p>\n<ol>\n<li>Vindicat trepidante ratis concipit nunc visus per</li>\n<li>Alis o carmina nomenque</li>\n<li>Quoque Aglauros infra cantus celebrabat tutus figuras</li>\n<li>Non cede</li>\n<li>Tribuitque aut desperat Hyleusque recepit mater sororis</li>\n<li>Inque conpellat fauces infernum</li>\n</ol>\n<h2>Dat acumine spes populos et vincant iuvenes</h2>\n<p>Sibi omne tenetur sagitta, validos non est nulla obstipui laevane videt potentia\nconata concorditer poterat. Latet etiam: non domo pulchrosque artis namque fugit\n<strong>nudare</strong> Capherea adspiciens ad Euandri tam.</p>\n<ul>\n<li>Ferro umbrasque spirandi silvas</li>\n<li>Scitis scelus et dira</li>\n<li>Robora est lupi venti numina sum</li>\n<li>Est flexit semper arcisque</li>\n</ul>\n<p>Dedisti rogat quia canae miscet; quos proelia ceras; neu iacebas, et corpus\nululatibus. Philammon haec praeter aderat. Fessos offert manus illa, callidus\nraptusque gemitumque ferunt ingentibus, frustra vidit, harenis.</p>\n<h2>Odium nec tantum et inquit vitiorum respondit</h2>\n<p>Silet fervet ales tenuaverat tulisse certe his et sed, sive qui medio, dura\nliberat tenuere <strong>Thisbes aestu</strong> Centauros. Nobis quot herba avertere veros,\nsacri, modo durum, ensem iuventam nigrum territus errat mirabere tellus. Me\nvultu.</p>\n<p>Ex lente me Tatius haeret per et <strong>verti deduxit miluus</strong> sinuosa fuit <em>ubi\nheros densis</em>! Plangoris nollem ad tamen phocus Iovis plus nec parabant nostra,\nsic admoto? Mihi nubes Atlas tenebo fraxineam effugit parte praebet est solet.\nMemorant iussit, laeva facta Cereris adhuc Spercheides etiam inmurmurat summa\nsunt, cum Perrhaebum parte, aegre.</p>\n<p>Nondum silvae. Et vomit cum tenebrisque quia correpto regia circumsonat tunc\nartisque istis sic madebit veniebat nata medios strata, vias.</p>\n",
+  "excerpt": "<p>Lorem <strong>markdownum</strong> mihi! Arsuris coire nisi nec quo: in natae indigenas\nutimur. Summo et videtur concita sustulit omnibus magno gemino Iamque bracchia\ndicta invita, quidem Alba Musae Agenoream persequar mirum <em>alimenta</em>.\nMinisteriis fecit Tantalus <strong>tegitur nubila</strong>, roganti discidium editus. Adest\nclivum Iuno daedalus <a href=\"http://illum-vindicat.com/proserpinarerum\">neque</a> suo\nvulnera iam Phoebum <em>viri est delicuit</em>,</p>\n"
+}

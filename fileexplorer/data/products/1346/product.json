@@ -1,0 +1,90 @@
+{
+  "id": "1346",
+  "name": "Womens Black Midi Vintage Retro Polka Dots Dress",
+  "price": 98.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 100,
+    "average": 2.56
+  },
+  "category": {
+    "id": 121,
+    "name": "Dresses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Retro",
+    "Vintage",
+    "Polka Dots"
+  ],
+  "images": [
+    {
+      "product_id": 1346,
+      "image_url": "https://images.pexels.com/photos/3746240/pexels-photo-3746240.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1346/1.jpg"
+    },
+    {
+      "product_id": 1346,
+      "image_url": "https://images.pexels.com/photos/3746242/pexels-photo-3746242.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1346/2.jpg"
+    },
+    {
+      "product_id": 1346,
+      "image_url": "https://images.pexels.com/photos/3746248/pexels-photo-3746248.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1346/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12460100,
+      "feature_id": 100,
+      "product_id": 1346,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12460100,
+      "feature_id": 100,
+      "product_id": 1346,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12460100,
+      "feature_id": 100,
+      "product_id": 1346,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12460100,
+      "feature_id": 100,
+      "product_id": 1346,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12460100,
+      "feature_id": 100,
+      "product_id": 1346,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12460200,
+      "feature_id": 200,
+      "product_id": 1346,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Artibus laticemque imbribus capta sentit cava dedit</h2>\n<p>Lorem markdownum magnae Cyllaron virtus, hanc aera ad loquendo decimum Maeoniam\ninsidiisque narratur pronam et gremio. Quo esse harena, sororibus quoque, tellus\nPeleu Threicius dextra, en <a href=\"http://www.ostelamone.org/scelus\">illos</a> posti!\nCastris clamant dapibus.</p>\n<ol>\n<li>Hymenaee numinis partim</li>\n<li>Fit terra navita dies tamen videbitur ituras</li>\n<li>Non Palatinis</li>\n</ol>\n<p>Vultus et et Ille <strong>mihi gladio et</strong> stant mea colunt patriam nympha <strong>erat\nminimos</strong>. Sterilique traxit et minimo te fecit, quidem, visum. Qua nefas\netiamnum mox, est arduus domos sua <strong>oculos</strong> per.</p>\n<h2>Phaethontis solvit medium invenit in es est</h2>\n<p>Aera agitat famem die, in usque et animalia redis. Volvitur et admonita undas\nvultibus, tua invocat antra, loco in qui minister sinebat regia.</p>\n<p>Ab pronuba clara sacra des sit legendo <a href=\"http://ponderis.io/probat\">fors</a>, ille\nfores petendum. Est iaculum regia infraque specularer ad et carmina vocando,\neheu tempora senex. Oris viguere nate fidae namque exterrita laceranda magna\nrapuere, <em>melius Lyrnesia fortibus</em> annos citharam medicamine subitis. Sub\n<em>alterius</em> suis <strong>adspicit et putares</strong> efflant canum clamore omni animum una,\naut non.</p>\n<p><a href=\"http://cum-vasti.com/similisocciduae\">Resilire pars</a>, nisi terribilem,\npraesensque acta. Probat ensis carmen causa ut cervus, sideraque novissima\ntactumque aurum: notum quos vinctoque loquentem: data inconstantia amens.</p>\n<p>Atridae postibus latus spatiarer iacent ingeniis ut hinc Maenalon agmen Phrygiae\nquae consilioque. Tales placebimus ignoto cui me, cum dabis spicula servat\ndiroque. Amissamque opacae superosque icta duraque videt et animas dapes.</p>\n",
+  "excerpt": "<p>Lorem markdownum magnae Cyllaron virtus, hanc aera ad loquendo decimum Maeoniam\ninsidiisque narratur pronam et gremio. Quo esse harena, sororibus quoque, tellus\nPeleu Threicius dextra, en <a href=\"http://www.ostelamone.org/scelus\">illos</a> posti!\nCastris clamant dapibus.</p>\n<ol>\n<li>Hymenaee numinis partim</li>\n<li>Fit terra navita dies tamen videbitur ituras</li>\n<li>Non Palatinis</li>\n</ol>\n<p>Vultus et et Ille <strong>mihi gladio et</strong> stant mea colun</p>\n"
+}

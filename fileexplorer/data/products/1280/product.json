@@ -1,0 +1,90 @@
+{
+  "id": "1280",
+  "name": "Mens Red&White Elegant Vintage Shirt",
+  "price": 88.99,
+  "price_promo": 69.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 232,
+    "average": 3.47
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Vintage",
+    "Elegant",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1280,
+      "image_url": "https://images.pexels.com/photos/2859374/pexels-photo-2859374.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1280/1.jpg"
+    },
+    {
+      "product_id": 1280,
+      "image_url": "https://images.pexels.com/photos/2849424/pexels-photo-2849424.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1280/2.jpg"
+    },
+    {
+      "product_id": 1280,
+      "image_url": "https://images.pexels.com/photos/2848983/pexels-photo-2848983.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1280/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12800100,
+      "feature_id": 100,
+      "product_id": 1280,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12800100,
+      "feature_id": 100,
+      "product_id": 1280,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12800100,
+      "feature_id": 100,
+      "product_id": 1280,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12800100,
+      "feature_id": 100,
+      "product_id": 1280,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12800100,
+      "feature_id": 100,
+      "product_id": 1280,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12800200,
+      "feature_id": 200,
+      "product_id": 1280,
+      "name": "Color",
+      "value": "Red"
+    }
+  ],
+  "description": "<h2>Et pendere scilicet in umoris</h2>\n<p>Lorem <em>markdownum</em> abeunt permulsit, victores temo exemplo verba, verba longe\nbracchia germanae timor. Noctis quis ergo, cum suo nata precor caelesti, pariter\nartus Sithonios <em>aethere</em> dat. <a href=\"http://www.velaquetellure.net/\">Sed amari\niniustaque</a> scilicet, me <strong>speciem</strong> fluentibus\nmirum, turbatum.</p>\n<ol>\n<li>Fallit deriguere levat condi cur ablatus terra</li>\n<li>Arbore atrorum sagittas in fletus harenam dedit</li>\n<li>Tergo dixerat</li>\n</ol>\n<p>Sunt ausus ora ubere, nova non, pars iam <strong>contremuit</strong> vultum magis. Barbam\nmors dulci iuves saepe victoria, sine quoque edere demittit monimenta certum\nquodque ipse clamor vinxit tutus, hic. Mihi annis cursus Hyadasque fuerat, si\nlyraeque tenuique vocatur corpora quattuor renovatus post ademptis?</p>\n<h2>Fessos navita versat</h2>\n<p>Fortunaeque atque libens iram Lycaeo melliferarum teneas <em>prior deceptaque ut</em>\nduas dextra in anxia parsque, unde longo. Timore vapor illos columbam solus sit\naccipe deduxit lecti, exigere nisi aequoreos, arsit erat concussit est. Mox vis\nturres <a href=\"http://nobis.io/cum-binas\">Priamum</a>, tenuata palladias illa amplexus. Es\nInoosque ad condat exit ignavus quia.</p>\n<blockquote>\n<p>Servabat sororem loca velit arbore nusquam mitisque humiles, nec. Stygiae\ngeminatis edidit <strong>ad amplectitur</strong> caesariem veteremque viris ut hamos\ngemitum inulta. Ego subdit inferias parente standi. Tum illis mihi foret\nsecurus instructa ter iam mitra <em>magis aris quid</em> postera illa: maxime.</p>\n</blockquote>\n<p>Sonum hoc cornibus ferrum avidisque noscoque nec exiliis retro nec. Tamen\namorque iuvenalia tenetur <em>iuvencos</em> nempe, arsit, hoc armo, suis tamen\nsequitur.</p>\n<ul>\n<li>Cuspide est nec</li>\n<li>Vinci in qui tuorum de et heros</li>\n<li>Et orbem</li>\n<li>Iniqua sed ense inmenso Atridae occidit coniunx</li>\n<li>Verbaque miseros magni vires ludere clausit argentea</li>\n</ul>\n<p>Iaculum succedere ventisque saxo, tum vacuosque iaculo copula bracchia\nnymphaeque summis in mihi memorare si dives moenia tendit. Quidem agnovit\nsubtemen Aesonides naturae. Nebulae ego loca populi Rutuli; patiar <em>tactusque\napri de</em>, die laeta tecta et vincere cinguntur rescindere liquor.</p>\n",
+  "excerpt": "<p>Lorem <em>markdownum</em> abeunt permulsit, victores temo exemplo verba, verba longe\nbracchia germanae timor. Noctis quis ergo, cum suo nata precor caelesti, pariter\nartus Sithonios <em>aethere</em> dat. <a href=\"http://www.velaquetellure.net/\">Sed amari\niniustaque</a> scilicet, me <strong>speciem</strong> fluentibus\nmirum, turbatum.</p>\n<ol>\n<li>Fallit deriguere levat condi cur ablatus terra</li>\n<li>Arbore atrorum sagittas in fletus harenam dedit</li>\n<li>Tergo dixerat</li>\n</ol>\n<p>Sunt ausus or</p>\n"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "1360",
+  "name": "Womens Blue Jeans Denim Mini Skirt",
+  "price": 88.99,
+  "price_promo": 69.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 33,
+    "average": 3.98
+  },
+  "category": {
+    "id": 122,
+    "name": "Skirts"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Jeans",
+    "Denim"
+  ],
+  "images": [
+    {
+      "product_id": 1360,
+      "image_url": "https://images.unsplash.com/photo-1582552627316-d3c669319e1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1360/1.jpg"
+    },
+    {
+      "product_id": 1360,
+      "image_url": "https://images.unsplash.com/photo-1587385195620-9b633d0bceb4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1360/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13600100,
+      "feature_id": 100,
+      "product_id": 1360,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13600100,
+      "feature_id": 100,
+      "product_id": 1360,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13600100,
+      "feature_id": 100,
+      "product_id": 1360,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13600100,
+      "feature_id": 100,
+      "product_id": 1360,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13600100,
+      "feature_id": 100,
+      "product_id": 1360,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13600200,
+      "feature_id": 200,
+      "product_id": 1360,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Petunt dum montes patria testis</h2>\n<p>Lorem markdownum siqua, necem erat. Una mero, infra communem committere Pelia.\nEgo cortice: donec quam est <a href=\"http://nunc.com/illa.html\">est nec hostem</a> nec suos\nvirentem habitat omnia relinquunt oceano, et. Deus tum. Pronus ore tamen est in\nconcubitus, sororum vastum Cerealia et, quod aera gaudens!</p>\n<ol>\n<li>Rictus esse vulnere Aurora serius duxit tibi</li>\n<li>Quo tepebat alvum tamen</li>\n<li>Cuique coeptas potiturque vidit cervice Laelapa</li>\n<li>Mihi quae</li>\n</ol>\n<h2>Amantem nervosque facti modo sui</h2>\n<p>Tenera femina diduxit, pulvis oracula mea nostro latere unus, agat,\nconiurataeque fertur. An nam graves <a href=\"http://ferrum-nec.com/in\">at talibus has</a>,\nexul super, gravis inter erat.</p>\n<ol>\n<li>Responsaque cinctum natus praebuit terga per pignus</li>\n<li>Arsit donata in insignia Marte</li>\n<li>Fixo prohibente</li>\n<li>Et hoc luce nubes serpens percutiensque noviens</li>\n</ol>\n<h2>Fauces multa</h2>\n<p>Carinis annos quantus cui iure Iano victu effugies, Sparte per manibus nescio.\nIlle det tunc ulnis argento artus; tenuere, memor retinacula morte partem, iste\nnexaque.</p>\n<ol>\n<li>Florent adspiceres conponere cecini se nutricis summis</li>\n<li>Sed arma nigraque dicta morti confido numen</li>\n<li>Respicere dea sunt relanguit</li>\n</ol>\n<h2>Tum crura et lupus</h2>\n<p>Inguina tenebant partu pavetque? Est nec se extrema Erasinus illis.</p>\n<h2>Pater vidi invita tincta</h2>\n<p>Miserabile villos lumina audierit turba ex iaculatur scisset auctor\n<strong>canescunt</strong> et. Saxa silva curvantem olentes Dianae; dixit nihil <strong>occuluitque\noculos</strong> timido non soror umbris amoris, quid. Putavi et, fuit per viridique\nexcipit destringere ipsae: dolor illos bracchia Iovis iaculum in! Vota venisset\nquoniam dixit concretam <em>regisque</em> trabs novissima inutile medio profitemur.</p>\n<p>Abit Orneus umerique quae umbrae, teque, bracchia admiremur plano: erit?\nReminiscitur illos. Frustra tum: accipimus unda super ad meum rerum Troia, flos\nvires sit hospitio plura puer. Vulnera tenet frustraque, et similis quamvis\nexercita, non aer Cecrope servat labores stupuit parilique, terras.</p>\n",
+  "excerpt": "<p>Lorem markdownum siqua, necem erat. Una mero, infra communem committere Pelia.\nEgo cortice: donec quam est <a href=\"http://nunc.com/illa.html\">est nec hostem</a> nec suos\nvirentem habitat omnia relinquunt oceano, et. Deus tum. Pronus ore tamen est in\nconcubitus, sororum vastum Cerealia et, quod aera gaudens!</p>\n<ol>\n<li>Rictus esse vulnere Aurora serius duxit tibi</li>\n<li>Quo tepebat alvum tamen</li>\n<li>Cuique coeptas potiturque vidi</li>\n</ol>\n"
+}

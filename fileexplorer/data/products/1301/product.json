@@ -1,0 +1,90 @@
+{
+  "id": "1301",
+  "name": "Mens Red Woollen Elegant Sweater",
+  "price": 98.99,
+  "price_promo": 79.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 47,
+    "average": 4.81
+  },
+  "category": {
+    "id": 111,
+    "name": "Hoodies and sweaters"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Elegant",
+    "Woollen",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1301,
+      "image_url": "https://images.pexels.com/photos/2869129/pexels-photo-2869129.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1301/1.jpg"
+    },
+    {
+      "product_id": 1301,
+      "image_url": "https://images.pexels.com/photos/2883278/pexels-photo-2883278.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1301/2.jpg"
+    },
+    {
+      "product_id": 1301,
+      "image_url": "https://images.pexels.com/photos/2883325/pexels-photo-2883325.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1301/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13010100,
+      "feature_id": 100,
+      "product_id": 1301,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13010100,
+      "feature_id": 100,
+      "product_id": 1301,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13010100,
+      "feature_id": 100,
+      "product_id": 1301,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13010100,
+      "feature_id": 100,
+      "product_id": 1301,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13010100,
+      "feature_id": 100,
+      "product_id": 1301,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13010200,
+      "feature_id": 200,
+      "product_id": 1301,
+      "name": "Color",
+      "value": "Red"
+    }
+  ],
+  "description": "<h2>Coniunx quae tumuerunt cervos montibus habebat neve</h2>\n<p>Lorem markdownum secutus vittisconcutiens de nusquam posset: solo iuncti animas.\nAut seque pennis et Atreus contigit tecto, inexpugnabile modus. Dixit vidit!\nAeas nec imperet temeraria e! Vultu et regit pater Arethusae aditus ferro trucis\nexspectatus cultores flammas diffugiunt sua, oris, ambigui.</p>\n<ol>\n<li>Mendacia pietate tendentemque opem quibus opus dixit</li>\n<li>Mortisque votisque retractat regna dilapsa mente inclusaque</li>\n<li>Orbem tota vitam arbor nam</li>\n<li>Non prius</li>\n<li>Solvi passa de utraque taedis iam frena</li>\n</ol>\n<p>Prosilit abominor, sorores, et errore pressus formosus ad tangor verba sumit\nmedio adhuc circumvelatur patres velut. In acciperet mons, potuit felix siquid\ncui suos optima, relictis filo <a href=\"http://denabataeus.net/fors.php\">quod coniciunt</a>\nvia vivit. Tandem Nedymnum in adligat sanguine. <strong>Viderunt unguibus</strong> conantem\namentis, gentisque atque. Viri et neci, quae natam cunctos melius, hunc tenet\nnubigenas fulmina quae.</p>\n<h2>Dextra suis quo quattuor</h2>\n<p>Suo <em>nefas</em> litore milibus Emathides et moror, fac, horrenda. Quodvis sereno\nsuis cum telum pavens novas ora fide <strong>caestibus tertia moves</strong> pugnabo pro\n<a href=\"http://www.causa-heres.org/\">iratus matrisque</a> et deorum ipse. Alto vocis, sibi\ninviti <em>ferarum longae</em> concipit contigit; ante? Manat valido; nam manibus\nperluit surrexit, quod purpureis non suo exstincto.</p>\n<ul>\n<li>Coepta dabis</li>\n<li>Fugato ait ne resolvent manus tacta soror</li>\n<li>Signa nox non agmen nec</li>\n<li>Haeret caruissem fateri in illa Oceano hedera</li>\n<li>Et silvas adunco vis aurea non possint</li>\n<li>Verba opus tantum undis tibi videri virgineus</li>\n</ul>\n<p>Iussi madidisque qua sub crimen pennas pependit, miratur <strong>quisquis deque\nvicimus</strong> sibi hic molitur umerum scelus Iuno. <em>Hoc glandes ita</em>, area, potest\nopaca humus, illa una. <a href=\"http://munerehospes.io/\">Fugit</a> venientia nymphae\ndolorem dabat indicio, luctantemque, se pactique scilicet vincit, quod.</p>\n<p>Sine Oceani, spondet <a href=\"http://alterlapithae.net/tenet-velocius\">credi</a> fuerit\nquaeque volatu et, arce coegi aere veniebat ex. Pirithoi montis praemia stabant\ndecore, nostrumque ipsam modo neptem caietam es et haec est sustinuit Phoebus\nsustulit! Et dederat, mea pro sua: a corpus sollemnia caput? Sua rident ulla\nsonat tumidarum levati Cephenum, copia deae inludens.</p>\n",
+  "excerpt": "<p>Lorem markdownum secutus vittisconcutiens de nusquam posset: solo iuncti animas.\nAut seque pennis et Atreus contigit tecto, inexpugnabile modus. Dixit vidit!\nAeas nec imperet temeraria e! Vultu et regit pater Arethusae aditus ferro trucis\nexspectatus cultores flammas diffugiunt sua, oris, ambigui.</p>\n<ol>\n<li>Mendacia pietate tendentemque opem quibus opus dixit</li>\n<li>Mortisque votisque retractat regna dilapsa mente i</li>\n</ol>\n"
+}

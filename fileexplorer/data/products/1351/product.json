@@ -1,0 +1,96 @@
+{
+  "id": "1351",
+  "name": "Womens Peachy Maxi Thin Summer Polka Dots Dress With Puffs",
+  "price": 108.99,
+  "price_promo": 84.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 133,
+    "average": 4.2
+  },
+  "category": {
+    "id": 121,
+    "name": "Dresses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Polka Dots",
+    "Peach",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1351,
+      "image_url": "https://images.unsplash.com/photo-1595840635587-3bb566bc41ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1351/1.jpg"
+    },
+    {
+      "product_id": 1351,
+      "image_url": "https://images.unsplash.com/photo-1595840635571-5d6abc7d584b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1351/2.jpg"
+    },
+    {
+      "product_id": 1351,
+      "image_url": "https://images.unsplash.com/photo-1594772712197-fb140a56bf7f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1351/3.jpg"
+    },
+    {
+      "product_id": 1351,
+      "image_url": "https://images.unsplash.com/photo-1594772712234-7318f1ade62b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1351/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12510100,
+      "feature_id": 100,
+      "product_id": 1351,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12510100,
+      "feature_id": 100,
+      "product_id": 1351,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12510100,
+      "feature_id": 100,
+      "product_id": 1351,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12510100,
+      "feature_id": 100,
+      "product_id": 1351,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12510100,
+      "feature_id": 100,
+      "product_id": 1351,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12510200,
+      "feature_id": 200,
+      "product_id": 1351,
+      "name": "Color",
+      "value": "Orange"
+    }
+  ],
+  "description": "<h2>Dixit Titania</h2>\n<p>Lorem markdownum Oenides isto eratque tam hunc cristae et carmine recenti tum\npelagoque fontes credit! Repetitaque iuvenale causamque virginitate donec\nterreris, in ego serpentis quis gramine. <em>Feci</em> solo pampineis luctus armentum\nvultum voce est, oravit usum bifurcum, vindicet. <em>Abiit surgente</em> meminisse\nmiseris flumina <strong>trahatur</strong> Cyllene; illam pallentem solent. Deprimeret fulmen.</p>\n<ul>\n<li>Nil habet mors sed</li>\n<li>Cum tormentis sortis quamquam voce addidit sub</li>\n<li>Veniret erubuit</li>\n</ul>\n<h2>Nec tellus poenas pax facies gratissime simul</h2>\n<p>Brevis adveniet habet totidemque illa per; facilis uda aequore nam pulso et est\nadspice consulit. Demittitur tuas honoratas curribus et imagine sacra: ad te\nposita consequitur capillis: fieri discrimine. Pariter ne copia oraque rapinae a\nagros non, per est infamia nubila et Persea thalamoque, nunc petit.</p>\n<ul>\n<li>Nudumque mugitu superas stabat</li>\n<li>Iugulati exspectare dolos</li>\n<li>Nato sororum iubendo quid Titan tenuissima</li>\n<li>Tanta meo medius vagantur una quod superest</li>\n</ul>\n<h2>Agna illi nullam</h2>\n<p>Colophonius quorum arma Dicta detrahat ignorat incidit; aetheriis saxo. Columbas\ncoegi et sub non decentior ter visum Ausoniae merito culpae profuit, ab erant.\nNullaque timuitque candore fronti virum, et quis subsedit, abeunt alumno Aiax\n<em>utque correpta</em>, toto lacrimabile.</p>\n<p>Inde causa de quam magno: hunc qua, nec novi et velle, furta squalidus ignes,\naut. Horrifer huius. Lumine idem venit ancipiti inmemor nymphe tenuissima cum,\nova cor quam; toto fugit sustinet astu! Annis aras reparabat laudando in\npignora, <strong>semimarem</strong>, erit quater! Pro terrae adulter falsus, telae.</p>\n<p>A tulerant, quoque quo longam, <em>humo lymphis</em> mortis! Sed dentes ora. Olim\nnervis telaque iubent cornua si inultae, se iuga adicit, ad umenti bello, ense\nposse imagine?</p>\n",
+  "excerpt": "<p>Lorem markdownum Oenides isto eratque tam hunc cristae et carmine recenti tum\npelagoque fontes credit! Repetitaque iuvenale causamque virginitate donec\nterreris, in ego serpentis quis gramine. <em>Feci</em> solo pampineis luctus armentum\nvultum voce est, oravit usum bifurcum, vindicet. <em>Abiit surgente</em> meminisse\nmiseris flumina <strong>trahatur</strong> Cyllene; illam pallentem solent. Deprimeret fulmen.</p>\n<ul>\n<li>Nil habet mo</li>\n</ul>\n"
+}

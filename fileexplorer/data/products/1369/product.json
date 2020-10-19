@@ -1,0 +1,76 @@
+{
+  "id": "1369",
+  "name": "Womens White Summer \"Not your baby\" T-Shirt ",
+  "price": 59.99,
+  "price_promo": 49.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 34,
+    "average": 2.61
+  },
+  "category": {
+    "id": 124,
+    "name": "T-shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Organic",
+    "Basic",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1369,
+      "image_url": "https://images.unsplash.com/photo-1527628217451-b2414a1ee733?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1369/1.jpg"
+    },
+    {
+      "product_id": 1369,
+      "image_url": "https://images.unsplash.com/photo-1527627864265-f337b988928a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1369/2.jpg"
+    },
+    {
+      "product_id": 1369,
+      "image_url": "https://images.unsplash.com/photo-1527627964160-fc5665e5a374?ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1369/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13690100,
+      "feature_id": 100,
+      "product_id": 1369,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13690100,
+      "feature_id": 100,
+      "product_id": 1369,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13690100,
+      "feature_id": 100,
+      "product_id": 1369,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13690200,
+      "feature_id": 200,
+      "product_id": 1369,
+      "name": "Color",
+      "value": "White"
+    }
+  ],
+  "description": "<h2>Ita flammis sed plebe Iuppiter torpetis quod</h2>\n<p>Lorem markdownum harum, tibi de <em>optat staminaque oscula</em>! Tenuere ture. Sol\nEuippe <a href=\"http://www.tamengemit.io/freto\">scopulis</a> haec ille anne frontem, sub\n<em>fer spectabere satam</em> Achillem. Nos glandes diffamatamque, requie ab sinat\namplecti primi non relecto.</p>\n<ol>\n<li>Doleamne Cycnum</li>\n<li>Dabat id in</li>\n<li>Damnum haesit corpore</li>\n<li>Animal pes huius</li>\n<li>Ferar auditur et bene confusaque digitis</li>\n<li>Est nisi media omnes simul vix Cenchreis</li>\n</ol>\n<p>Potentia et coniunx aquis questuque possit noxque docto est, illo nec Titanida\niuvat. Per meque titulos sensisse amicus iussus. Inmensa vena didicit oculorum\nnondum error, pleno quis, caelo terra ultima, <em>sine</em>? Non per suos vicinia sciat\nDemoleon semel, visa fixis defensae adspergine classe quoque.</p>\n<ul>\n<li>Et salutis saepe hoc erit vultum documenta</li>\n<li>Facitis natumque erectus nodosaque</li>\n<li>Quo vina vadorum tamen adspergit indignabere taurum</li>\n<li>Spernenda sanguine laudem et eligit frena est</li>\n<li>Patris vestes illis ducentem fassusque quot maius</li>\n<li>Ferre nefasque o iurasse perque</li>\n</ul>\n<h2>Auditi mea inopino</h2>\n<p>Centum prole. Et festa <a href=\"http://www.sis-ut.org/\">litora Nesseis et</a> adhuc\ncaelumque salictis nigra!</p>\n<ul>\n<li>Matris agitasse sidere multis</li>\n<li>Vidit scelus cupidine memores</li>\n<li>Sustinet in ardor magis foret</li>\n<li>Tramite paterque et precatur porrigit quoque</li>\n</ul>\n<p>Et dira vultus ratis inmensos capillos quam quid, temptat auras. Non ecquid in\ntamen ut dona haererem matre, et ille, iactat insidere color. Post tergoris\ntuus. Ad talia sua sudor te duris colorem radice dabas ipse nisi his soluto de\npartim faciesque. Et dicta aliquis: <a href=\"http://www.marito-tactusque.org/olentia.html\">aquas\nNycteliusque</a> teque et paterque\ncanitiemque et ligati uberior.</p>\n<blockquote>\n<p>Vultus in dea remissurus clausit, aede Haemonii suo exosae merguntque caput\nvires arcus nec. Inritamenta amans erat, fuit non peragentem molimine.</p>\n</blockquote>\n<p>Corpus et vincula reddidit corpus in Tarpeia Uranie hospes est. In adstas cur\ndeus suscipitur solvit, requieverit eadem et, quae quorum, et patruo illis.</p>\n",
+  "excerpt": "<p>Lorem markdownum harum, tibi de <em>optat staminaque oscula</em>! Tenuere ture. Sol\nEuippe <a href=\"http://www.tamengemit.io/freto\">scopulis</a> haec ille anne frontem, sub\n<em>fer spectabere satam</em> Achillem. Nos glandes diffamatamque, requie ab sinat\namplecti primi non relecto.</p>\n<ol>\n<li>Doleamne Cycnum</li>\n<li>Dabat id in</li>\n<li>Damnum haesit corpore</li>\n<li>Animal pes huius</li>\n<li>Ferar auditur et bene confusaque digitis</li>\n<li>Est nisi media omnes simul vix Cenchreis</li>\n</ol>\n<p>P</p>\n"
+}
