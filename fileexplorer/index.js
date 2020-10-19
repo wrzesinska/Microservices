@@ -5,6 +5,7 @@ var app = express()
 
 // List Files
 app.get('/', (req, res) => {
+  console.log(req.query) // ?q=123 => { q: '123' }
   var files = filexplorer.listFiles()
   res.send(files)
 })
