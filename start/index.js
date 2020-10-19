@@ -38,7 +38,9 @@ const server = http.createServer((req, res) => {
       if (i++ < max) {
         let chunk = 'Ala ma kota, ' + i + '<br/> \r\n ';
         res.write(chunk)
-        nextStep(handler)
+        // setTimeout(() => nextStep(),100)
+        setImmediate(() => nextStep())
+        // process.nextTick(() => nextStep())
       } else {
         // clearInterval(handler)
         res.end()

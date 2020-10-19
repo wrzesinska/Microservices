@@ -19,4 +19,13 @@ PORT=8080 nodemon start/index.js param123
 
 nodemon start/index.js 
 
+# NPM Semver
+https://docs.npmjs.com/about-semantic-versioning
+https://semver.npmjs.com/
 
+npm outdated
+npm update ABC
+// use package.json (can update libs)
+npm i 
+// use package-lock.json (use exact versions)
+npm ci 
