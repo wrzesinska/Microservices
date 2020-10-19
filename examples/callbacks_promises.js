@@ -36,11 +36,13 @@ p3.then(console.log)
 
 Promise.all([
   pecho('User 1'),
-  pecho('User 2').then(u => pecho(u + ' + posts')),
+  pecho('User 2').then(u => {
+    return pecho(u + ' + posts')
+  }),
   pecho('User 3')
 ]).then(console.log)
-Promise {<pending>}
-(3) ["User 1", "User 2 + posts", "User 3"]
-0: "User 1"
-1: "User 2 + posts"
-2: "User 3"
+// Promise {<pending>}
+// (3) ["User 1", "User 2 + posts", "User 3"]
+// 0: "User 1"
+// 1: "User 2 + posts"
+// 2: "User 3"
