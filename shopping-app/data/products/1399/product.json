@@ -1,0 +1,82 @@
+{
+  "id": "1399",
+  "name": "Womens Brown Chilled Summer Jumpsuit With Big Pockets",
+  "price": 88.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 235,
+    "average": 4.04
+  },
+  "category": {
+    "id": 127,
+    "name": "Jumpsuits"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Chilled",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1399,
+      "image_url": "https://images.unsplash.com/photo-1552498756-63e6a8407fd6?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1399/1.jpg"
+    },
+    {
+      "product_id": 1399,
+      "image_url": "https://images.unsplash.com/photo-1552499288-2c86e8584695?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1399/2.jpg"
+    },
+    {
+      "product_id": 1399,
+      "image_url": "https://images.unsplash.com/photo-1552499288-0214e443f7b5?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1399/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13990100,
+      "feature_id": 100,
+      "product_id": 1399,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13990100,
+      "feature_id": 100,
+      "product_id": 1399,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13990100,
+      "feature_id": 100,
+      "product_id": 1399,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13990100,
+      "feature_id": 100,
+      "product_id": 1399,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13990200,
+      "feature_id": 200,
+      "product_id": 1399,
+      "name": "Color",
+      "value": "Brown"
+    }
+  ],
+  "description": "<h2>Pede ille ante neu tardus visa deus</h2>\n<p>Lorem markdownum facta corpora, vimque: esset <em>at restabam</em> natas, instanti. Est\nmota caede poenarum ulterius <a href=\"http://www.vestigia.org/fortes\">materia\nlacrimaeque</a> turba reparet clamoribus hinc?\nRapidisque tegi: qui recto cura, atque ima iacuere ensem. Presso est quod.\nTeneris Mota lanigeris ruricolam ille, retiaque dictis tegit inhibente carissime\ncrurorem.</p>\n<blockquote>\n<p>Arte amplexus! Deperderet adunco. Quae ille vix tibiaque me <a href=\"http://www.illis.io/breveilla\">figuram\ncurrus</a> vertice si dextrum Priamum: est\nfloribus violenta <em>senectus coegit tangi</em> Sigei. Sive iaculum potes corpora\noculis, riget, et debilitaturum.</p>\n</blockquote>\n<p>Lyncides facto, procubuit primus <a href=\"http://epidauria.io/\">latebras emisit nulla</a>,\ngelidos Cinyreius tuum medicamen cum, in! Reppulit queritur en crines fuga\nrudibusque corpore: negat dei aduncis per <strong>aliter pro viros</strong> consequar Terea\nPallada turres.</p>\n<h2>Erat inmotae Thracia tulisti in hic positisque</h2>\n<p>Ipse genibus arboris ait, nos traxit verba induruit prensantem vultu: tua. Mira\nprofundum vaga. Ipso ruborem inpetus. Respondit manes, ultro populante signa\nvolucrem mater per victa minimam nihil, in fatale.</p>\n<blockquote>\n<p>Pergus huic Hymettia ulla herbas. Fiducia intenta, incubuit\n<a href=\"http://florem.org/\">spicula</a>; non ex Stygia aliqua in. Percussit <em>tinctas</em>\nurbis. Soporis atra curvos securiferumque opus arboris armo ego <a href=\"http://www.erat.io/moras.html\">quam nisi\ncaptatur</a> dea, a urbis notavi.</p>\n</blockquote>\n<p>Membrana carmine diem Phoebus vino clementissimus nulla et in vices sidera et\nregnis, cum. Alpes terrore tenebat; ad, comes vetus <a href=\"http://hominemque-lustravit.org/\">tu\net</a>. Adulterio conplevit subiectaque orbis\nadspiceres undis et siste ea quid tenebris?</p>\n<p>Tegi ante sicut omne queri dente pateres, at mactatos, quisquis. O bellum est\nper <a href=\"http://paternam.io/plura-lunae\">urar alioque quam</a>. Mente <em>terga freta\ncape</em> nonne pedes Colchis diversorum suo <em>passa</em> petunt Troiane et <strong>dentes\nnec</strong> et Euryte gaudete. Exorata perculit adeunt vulnera orbe viribus, pro\nadmissi es orbe, alis quem comitesque templa.</p>\n<p>Habet ira uritur semper, et antiqui, suo ibat cecidere, ignes, tacto fugae.\nArgolis viribus colloque saepe si deme pars Indis et quoque; vultu.</p>\n",
+  "excerpt": "<p>Lorem markdownum facta corpora, vimque: esset <em>at restabam</em> natas, instanti. Est\nmota caede poenarum ulterius <a href=\"http://www.vestigia.org/fortes\">materia\nlacrimaeque</a> turba reparet clamoribus hinc?\nRapidisque tegi: qui recto cura, atque ima iacuere ensem. Presso est quod.\nTeneris Mota lanigeris ruricolam ille, retiaque dictis tegit inhibente carissime\ncrurorem.</p>\n<blockquote>\n<p>Arte amplexus! Deperderet adunco.</p>\n</blockquote>\n"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "1291",
+  "name": "Mens Black Aztec Cotton Summer Shirt",
+  "price": 78.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 192,
+    "average": 3.53
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Summer",
+    "Aztec",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1291,
+      "image_url": "https://images.unsplash.com/photo-1515986627277-c1684e973dea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1291/1.jpg"
+    },
+    {
+      "product_id": 1291,
+      "image_url": "https://images.unsplash.com/photo-1515986734571-0e119972cc44?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1291/2.jpg"
+    },
+    {
+      "product_id": 1291,
+      "image_url": "https://images.unsplash.com/photo-1513298666969-adb84fcb4f67?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1291/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12910100,
+      "feature_id": 100,
+      "product_id": 1291,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12910100,
+      "feature_id": 100,
+      "product_id": 1291,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12910100,
+      "feature_id": 100,
+      "product_id": 1291,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12910100,
+      "feature_id": 100,
+      "product_id": 1291,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12910200,
+      "feature_id": 200,
+      "product_id": 1291,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Quid redeat</h2>\n<p>Lorem markdownum et telo crescentesque Aiax terramque quid sanguine, e agrestes\n<a href=\"http://arabat.com/elymumque-ni\">se</a> parva melior, per. Ab aras me non precor\ntellus indicet petiti sanguine, condidit ad cuspide repellite.\n<a href=\"http://et-posce.net/causaora.html\">Ferinae</a> caput arvum trahit, sed sit quod\nossa nitidaeque. Corpora aut falcis vincta pulcherrime iaceret magis\ndeploratosque Bisaltida de flamma potuit patriaeque manus convivia! Accusasse\naere lacrimas mensae voce per famulosque auras crudelesque paret vidisse falsa,\nora!</p>\n<blockquote>\n<p>In Babylonia habuit exhalat aequor, est diu genitus arces consequar, Alcyone\ncrudelis ore <strong>sperne pretium ex</strong> purgamina sacrificos. Nimium et, ut,\nvestrae et si fragore Tagus.</p>\n</blockquote>\n<h2>Movit qui cadit in quoque natas</h2>\n<p>Nec miracula florentia phocen. Vultus nefas dum, glaeba legebantur dimovit icto;\naut si illa nocet, inveniunt veri. <strong>Cum tenentis</strong> venerat est torum quoque\ncaeli est trahit virentes.</p>\n<ul>\n<li>Venisse tempora sinisterior non Hesperiosque distent non</li>\n<li>Nascitur arva prudens</li>\n<li>Terra Caesaris ero nulla dedisse facti</li>\n<li>Bacchi de quam habere dolet mulces erat</li>\n</ul>\n<h2>Achivi qui videoque bracchia proles</h2>\n<p>Fata nostra crimine locum; mox gerit et tenet. Laudatve breviter celebrandaque\nrigidi sumit deus currus tota terras foret.</p>\n<ol>\n<li>Sonent et manu</li>\n<li>Visa nefas verba indicio</li>\n<li>Famulis deae nunc removit hospes adsueta annos</li>\n<li>Monebat messes</li>\n<li>Voco pestis possis diffugiunt pro dextra</li>\n<li>Molem herbarum Thebas renuente aditus</li>\n</ol>\n<p>Libro tectaque, et, dominique Cepheaque <strong>sine sed</strong> ictu fine illa clausis:\n<a href=\"http://quibus.net/utcum.html\">felix ambo</a>; confiteor. Per geratur solent mulcet\nvel diruerent auro. Vix de mihi <a href=\"http://videbamsola.org/iter-rumoribus\">geminam foedataque\nignes</a>, capillos dixit passim Lyctia non\namatum eo dumque scopulo intrat, natura. Scire tectus dextra precibus ab neque\neloquioque et quos orbem candida, et iamque muris undas spectat?</p>\n",
+  "excerpt": "<p>Lorem markdownum et telo crescentesque Aiax terramque quid sanguine, e agrestes\n<a href=\"http://arabat.com/elymumque-ni\">se</a> parva melior, per. Ab aras me non precor\ntellus indicet petiti sanguine, condidit ad cuspide repellite.\n<a href=\"http://et-posce.net/causaora.html\">Ferinae</a> caput arvum trahit, sed sit quod\nossa nitidaeque. Corpora aut falcis vincta pulcherrime iaceret magis\ndeploratosque Bisaltida de flamma potuit patriaeque manus convivia! Accusasse\naere lacrimas</p>\n"
+}

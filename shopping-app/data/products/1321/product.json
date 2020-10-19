@@ -1,0 +1,63 @@
+{
+  "id": "1321",
+  "name": "Mens Light Blue Vintage Denim Jeans Jacket",
+  "price": 108.99,
+  "price_promo": 88.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 240,
+    "average": 4.57
+  },
+  "category": {
+    "id": 114,
+    "name": "Jackets and coats"
+  },
+  "brand": {
+    "id": 105,
+    "name": "BlueLabelDenim"
+  },
+  "tags": [
+    "Denim",
+    "Jeans",
+    "Vintage"
+  ],
+  "images": [
+    {
+      "product_id": 1321,
+      "image_url": "https://images.unsplash.com/photo-1571677523627-f3a2c7b0994c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1321/1.jpg"
+    },
+    {
+      "product_id": 1321,
+      "image_url": "https://images.unsplash.com/photo-1571677449274-8d9ad8441442?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1321/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13210100,
+      "feature_id": 100,
+      "product_id": 1321,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13210100,
+      "feature_id": 100,
+      "product_id": 1321,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13210200,
+      "feature_id": 200,
+      "product_id": 1321,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Sunt luna volucer trahens licet captatam</h2>\n<p>Lorem markdownum lacerto aures, concrescere Sibyllae exigua Aeacide caesis et.\nVerba terram, <strong>arbor</strong> finire simillimus <strong>foramine</strong> admonitu alimentaque\nvertunt studioque draconem da <em>natus</em> vereri gratum. Ignibus convocat bene,\nsuum, Interea nimiumque matris: dolor haec revirescere iter lenire; nos! Erat\nmarem oris patiar ecce nostra: ipse, matri, est furtim vultus latratu osculaque.\nCurru quid Phlegraeis, induiturque hunc polis maris <em>ego</em> genus illius partus,\nsuperi, nostris!</p>\n<blockquote>\n<p>Adsensere <em>remeat</em>, in nullae; Tereo quibus talia corpora. Suos sub unguibus\ncausa; vestras et acumine simul vulnere relinque Pavor? Thalamos pererrant\npuellam mundi.</p>\n</blockquote>\n<p>In caesis sequentia pudet in <strong>potiturque</strong> vincis. <a href=\"http://nonquamvis.com/\">Nec\ntaurus</a>?</p>\n<h2>Longo quaesita</h2>\n<p>Et vulnere vipereasque Ixione <a href=\"http://sudataque.net/currum\">pharetramque\nquercus</a> sunt: ira fuisset, illos videtur\ndomitamque te potest procumbere gravitate illo. Seu mihi primasque fraude Liber\nreferente Iovis? Ille <strong>felicia</strong> artus pereunt sed letum: comes prius teneat.\nConatoque iubent certe dapibus fulmen; est tamen sub iram.</p>\n<blockquote>\n<p>Humumque temptat venerem, et ad patrem aratro constiterant novam intempestiva\ndomus persequitur placuit iugulare sine terras terga: rubra. Huc fluxit\npectore limite vos mentum praecontrectatque credere Pamphagos nobis. Nisi\nfingens sanctae contentus silvis, perque deam aevi aberant manes quas hac\npromissi, terraeque amores corporis habitata.</p>\n</blockquote>\n<p>Induruit relinquam vestris igne. Manus in Anius erat potest, non ait! Nimbi\nlassataque nunc dracones tamen <strong>et</strong> Ceae! Capillis sua ponere inpellitur quod,\ndabat animi <strong>virtute ferro</strong>: suspicor. Et celebravit cuius rerum, vita\ncorpora, talia semianimes lacerata fraterna ense, hoc postes saxa vires, et.</p>\n<p>Thalamos animo cruore et noverit <em>venisset</em>. Fida magis segetes parentum contra?</p>\n",
+  "excerpt": "<p>Lorem markdownum lacerto aures, concrescere Sibyllae exigua Aeacide caesis et.\nVerba terram, <strong>arbor</strong> finire simillimus <strong>foramine</strong> admonitu alimentaque\nvertunt studioque draconem da <em>natus</em> vereri gratum. Ignibus convocat bene,\nsuum, Interea nimiumque matris: dolor haec revirescere iter lenire; nos! Erat\nmarem oris patiar ecce nostra: ipse, matri, est furtim vultus latratu osculaque.\nCurru quid Phlegraeis, induiturque hunc po</p>\n"
+}

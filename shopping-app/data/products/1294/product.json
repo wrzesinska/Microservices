@@ -1,0 +1,77 @@
+{
+  "id": "1294",
+  "name": "Mens Multicolor Ace Summer Shirt",
+  "price": 81.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 120,
+    "average": 2.74
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Multicolor",
+    "Ace",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1294,
+      "image_url": "https://images.unsplash.com/photo-1580712935623-53a6c652e2cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1294/1.jpg"
+    },
+    {
+      "product_id": 1294,
+      "image_url": "https://images.unsplash.com/photo-1580712935715-248666c01db2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1294/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12940100,
+      "feature_id": 100,
+      "product_id": 1294,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12940100,
+      "feature_id": 100,
+      "product_id": 1294,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12940100,
+      "feature_id": 100,
+      "product_id": 1294,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12940100,
+      "feature_id": 100,
+      "product_id": 1294,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12940200,
+      "feature_id": 200,
+      "product_id": 1294,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Auras mecum fundit iacit celebrare exemplum dicere</h2>\n<p>Lorem markdownum amentes, mox actum trahit ora flens funeribus cumque, nostra\ncaptavit capit diu. Qui praebuerat vos arcem nec Aesoniden magnis, nati dolor.\nDeterrere iacet palaestrae digna. Crinem ora properant aut summo tantaque,\nnomine formatus. Nunc quae facta, seu nec.</p>\n<h2>Pulsat laqueosque qui arcuit pudor vibrantia caeli</h2>\n<p>Coronae caelatus tum aula, nec ossa <a href=\"http://pavet.io/\">erit numquam</a> neque\ncontemptus quoque. Et posuisse nec; nate hanc dementia qui praesagia per regia\nterga decidit exequialia opus quicumque miserae. Potente priscis aena,\nindiciique diem aede mixtos pampineae reminiscor caelo Theseos in poscebat\npetito colebat.</p>\n<h2>Inpatiens scire alta nate in tamen autumni</h2>\n<p>Minervae vestem diebus; puppim mecum. In quantum caput; quas divus aut.</p>\n<p>Sit ut hinc vidit, talia prius ades <strong>cuius</strong> et ager crinem. Tamquam in prensam\ndecerpsit, oro vigili verba hasta. <a href=\"http://fugit-mergeret.org/\">Indignatur</a>\ncrede <em>Armeniae</em> cuspidis quae, et pelle: Luna domi. Modo <em>silvae</em> sors non, sic\npositas, vere aequora <em>iunctura</em>, salute <a href=\"http://www.habet-ardua.io/\">longoque</a>!</p>\n<h2>Manus ne muris acies Gange aliis anus</h2>\n<p>Dixit <strong>mihi</strong> inlimis, haustis referuntur et monte albas, et cubat novique, et.\nScopuloque somnique o tamen motusque potentia gemuit, seram aeterno, est aut\nvaticinata vultus annos.</p>\n<blockquote>\n<p>Subito deus pinguis illo rebus barbaque suos ferarum cur ambobus tempora\nHaliumque; cur. Homini non vires agitabilis faciunt: visa quid Leuconoe\nvetustas currum: exit carens.</p>\n</blockquote>\n<h2>Tuum incaluitque</h2>\n<p>Sim luminis meus pan, evectus cautes longa aut aliae cupidine, et falsa. Et dea\nfemina rude, est tantum militis rogantem.</p>\n<p>Unum utque, aut dabat, carmen, non ultus nunc noctes. Oculos duri, viribus et\nvero sit polumque lacus lecti mox expetit supplex meditataque dissipat nidi\nmirabile dixit semper. Dempserat tandem repulsam Idas facta iunxit se arcus.\nViso mihi omnes videt reformet <em>nostris aridus</em>, cum sed Larisaea novabis hoc\ndedecus. Interdum rubenti Leucothoen precor me exclamant aquarum Phrygias haut\neunti luco quis loca <strong>adfligi non virentes</strong> venturi.</p>\n<p>Animos fida pariterque ferrove, ait pars tumulos Aeneas referre rastrique\naliquis iamque votorum probaverat palato errore? Aures <em>opus</em> bella coeptis\nFesta; vox summa toro Scythicas ibat? Fuit non longa, sim proxima garrulitas:\nartus aestus.</p>\n",
+  "excerpt": "<p>Lorem markdownum amentes, mox actum trahit ora flens funeribus cumque, nostra\ncaptavit capit diu. Qui praebuerat vos arcem nec Aesoniden magnis, nati dolor.\nDeterrere iacet palaestrae digna. Crinem ora properant aut summo tantaque,\nnomine formatus. Nunc quae facta, seu nec.</p>\n<p>Coronae caelatus tum aula, nec ossa <a href=\"http://pavet.io/\">erit numquam</a> neque\ncontemptus quoque. Et posuisse nec; nate hanc dementia qui praesagia per regia\nterga decidit exequialia o</p>\n"
+}

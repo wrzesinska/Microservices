@@ -1,0 +1,62 @@
+{
+  "id": "1390",
+  "name": "Womens Red Classy Elegant Beret",
+  "price": 69.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 234,
+    "average": 4.74
+  },
+  "category": {
+    "id": 231,
+    "name": "Caps and hats"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Elegant",
+    "Organic",
+    "Classy"
+  ],
+  "images": [
+    {
+      "product_id": 1390,
+      "image_url": "https://images.pexels.com/photos/3819608/pexels-photo-3819608.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1390/1.jpg"
+    },
+    {
+      "product_id": 1390,
+      "image_url": "https://images.pexels.com/photos/3819624/pexels-photo-3819624.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1390/2.jpg"
+    },
+    {
+      "product_id": 1390,
+      "image_url": "https://images.pexels.com/photos/3819708/pexels-photo-3819708.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1390/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13900100,
+      "feature_id": 100,
+      "product_id": 1390,
+      "name": "Size",
+      "value": "One Size"
+    },
+    {
+      "id": 13900200,
+      "feature_id": 200,
+      "product_id": 1390,
+      "name": "Color",
+      "value": "Red"
+    }
+  ],
+  "description": "<h2>Visus mihi quam facta notatum Oete patris</h2>\n<p>Lorem markdownum propago geminatis propiorque procumbere quas ipse cornibus\ndiuque prona mandat se <strong>veluti</strong>. Est regia regia, ignibus et captus fera\nfugam, suaque murmure bracchia. Perstant pertimui flammas, tela nunc Achelous\nsubest, in cur. <a href=\"http://undisherbis.com/\">Thybris laurus suam</a> cruor <em>namque</em>\nlocus iacit ipse passus avsis trahens <strong>qui</strong>. In talaria luctuque tu intus\nignoscite concita coniuge tu tuae palles <em>sibi</em> altae puerpera tepidum.</p>\n<blockquote>\n<p><strong>Frondibus</strong> huius madent experientia <a href=\"http://www.coniunx.net/rapuere-illa.aspx\">demittit Timoli\ncorpore</a> in delusa sublime spes\nposset voces eripuit <em>tu eratque</em>. Tempora <em>senilem</em> qua urbem promissa,\nconveniunt deus, deus non linguaque prosunt vento vittas, liquidas, est omnia!\nTempora cavatur placuerunt silvis res solum graviore venere supremis, quam me\nterga, fit quo domo, hastam.</p>\n</blockquote>\n<p>Baucis arma nullam quae cum serpit interea\n<a href=\"http://www.urnam-myricae.net/nisi\">siquis</a>, facit conplevit campis, utro illa\nquia reducere quietem, o. Ad aurum et cetera haeserat monendo freta fons\n<a href=\"http://dederat.net/raptaque.aspx\">stantibus conposito</a>. Iniuria tergo admonitu,\nimoque resonantia Amoris, meritorum nec vaga hostisque trahit petit: moti nec:\nfalsae. Nefas post, femina lacerans tremor\n<a href=\"http://magnum.io/idcircorogant\">morientum</a>, cerva, saxa memorique, tanti dum\npressa eligit. Unco fuit, nec quidve at omnibus nervi frustraque erat.</p>\n<h2>Non nam confundere sollicitis adspicit</h2>\n<p>Dolor felix; date, hoc numen haec: audita enim Ampycus mea prodere enim procul\nmaneas perque. Dicentem non gerunt est ieiunia quare Ianthe inter Medusaei\nvivum. Causa saepe illi attritas utraque irascere exemplis natis laesasque\nfatum: pignora rexit Pelea serius reponunt garrula? Semianimem vincere, meri\n<em>dumque dextra</em> mortale adspicit.</p>\n<ol>\n<li>Est et viscera tempora</li>\n<li>Finge haec prementem sui</li>\n<li>Panthoides alios fateri blandaque videri</li>\n<li>Thalamos vera in Cythereia semine</li>\n<li>Capit suspicit lacrimis et cibos sanguis</li>\n<li>Cum ramis membra Oedipodioniae audita omnes moras</li>\n</ol>\n<p>Et et it vetaris meritam tandem Phorcidas, neque ante, illa! Ignibus <strong>ait</strong>\norbis nec <strong>amnis</strong>, erat mundo matri brevissima; copia mortales\n<a href=\"http://addiderim.io/\">c</a> plagis equos vultus saetaeque verus! Spoliat est\nclasse ut creatis <em>cernit</em>: fuit veros, denique. Pinetis multa buxo tellus sors\nPartheniumque spem gauderet te currus totidem mactassent contingit, illo et\nruit. Magno unda cupiens petis petunt erat bracchia matris et unda, Atalanta!</p>\n<p>Faciem <em>natorum et</em> una dona! In Iovis tertia ferebat: mare dum officium foret\noblectamina Lydos, an tenebant iubet liceret; domino longi oculos. Variatus nec,\nadsumptumque arcum sed votis ille est, ante <em>nec</em>.</p>\n",
+  "excerpt": "<p>Lorem markdownum propago geminatis propiorque procumbere quas ipse cornibus\ndiuque prona mandat se <strong>veluti</strong>. Est regia regia, ignibus et captus fera\nfugam, suaque murmure bracchia. Perstant pertimui flammas, tela nunc Achelous\nsubest, in cur. <a href=\"http://undisherbis.com/\">Thybris laurus suam</a> cruor <em>namque</em>\nlocus iacit ipse passus avsis trahens <strong>qui</strong>. In talaria luctuque tu intus\nignoscite concita coniuge tu tuae palles *s</p>\n"
+}

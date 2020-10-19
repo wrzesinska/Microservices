@@ -1,0 +1,76 @@
+{
+  "id": "1401",
+  "name": "Womens Camel Elegant Cotton Jumpsuit ",
+  "price": 98.99,
+  "price_promo": 78.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 120,
+    "average": 4.44
+  },
+  "category": {
+    "id": 127,
+    "name": "Jumpsuits"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Elegant",
+    "Cotton",
+    "Camel"
+  ],
+  "images": [
+    {
+      "product_id": 1401,
+      "image_url": "https://images.unsplash.com/photo-1574648824485-f7b05be6b7c7?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1401/1.jpg"
+    },
+    {
+      "product_id": 1401,
+      "image_url": "https://images.unsplash.com/photo-1543616153-6538f6ae50e3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1401/2.jpg"
+    },
+    {
+      "product_id": 1401,
+      "image_url": "https://images.unsplash.com/photo-1574655500589-2188419c362d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDAxNX0&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1401/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 14010100,
+      "feature_id": 100,
+      "product_id": 1401,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 14010100,
+      "feature_id": 100,
+      "product_id": 1401,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 14010100,
+      "feature_id": 100,
+      "product_id": 1401,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 14010200,
+      "feature_id": 200,
+      "product_id": 1401,
+      "name": "Color",
+      "value": "Camel"
+    }
+  ],
+  "description": "<h2>Exposcere ferebant gaudia</h2>\n<p><strong>Lorem markdownum ignobilitate</strong> infelix sedes, elisa signataque fidem oras!\nQuid clarique venae, delubraque vulnera sedebat <a href=\"http://www.fer.io/humanam.html\">ille\nutinam</a>; reducet ille templisque rus. Undis est\nillic nec taurum vitiantes optavit laturus iudice et, ille? Sive en hanc\niaculabile colla.</p>\n<ul>\n<li>Procul et parares</li>\n<li>Erat non</li>\n<li>Lactentem vallibus comites toto iam dederat hausti</li>\n<li>Omnia fontibus officiis sonantibus saepius ignes</li>\n<li>Utinam erigitur</li>\n</ul>\n<h2>Noli illis ora urbis</h2>\n<p><strong>Penetralia</strong> et aere lumina peteret aequor. Autumnos postera undis: nec imago\ntantus, habet bibit ad tibi. Undas vulgaris dederat: cui sis Cocinthia animam,\nse artior; nam aut rubescere agmen concreta.</p>\n<h2>Milite curas feramus adsere fraternaque lata</h2>\n<p>Fixerat facit nec Cupido, et fruetur est sumpsisse; sibi. Undis rubor primae\nattulerat proque est Byblis! Palato sic, nihil tellus capellae ducit valuisse\nprocedit; carmine ter nubibus dabantur, bina tollit, sine. Illis illis tremuere?\nTibi mota <a href=\"http://quid.io/\">manat</a>, et nescit illiusque numeri iudice, levavit\nhaud.</p>\n<h2>Aedes nec nosse iramque vulgat est</h2>\n<p>Deceperit carmine At alta deposuisse pater tenentibus vela. Subiectis eadem. Hac\ncape res madefactis tenent amat pondera exhalantia conata in dant! In et vacuis\nresponsura et tergusque pater ore fortuna celant. Terrae discedet, arcet\nministrae claudere natum nisi vidit illos inpune.</p>\n<h2>Sedit optat minimo illo dici</h2>\n<p>Minus se ponit, in manibus longe Peloro. Per Colchis visum, aliquid prohibemur\nmetuitque inde et secum sumus inquit subigebant formicas alit: di. Diomede\nrestat concubitus summa: quidem prius cumque corpus illis vestrum pavet iuvenis!</p>\n<ul>\n<li>Amplectitur ridentem nec</li>\n<li>Inque tum iuvenis</li>\n<li>Tulit ut graves umbrae coloni ab suam</li>\n<li>Agmine Pharosque crines frustra dierum stant ulli</li>\n<li>Bella avia mora peraguntque sedilia</li>\n<li>Quod nosset quae nota dux nubis Pelasgi</li>\n</ul>\n<p>Caput ego adhuc, conceptaque actis. Vobis ille colendo et sic crinem tecto sit\nfacitis, destrinxit gaudet ales soleant, me. A palude illis celate ore illis\nrubebant sic?</p>\n",
+  "excerpt": "<p><strong>Lorem markdownum ignobilitate</strong> infelix sedes, elisa signataque fidem oras!\nQuid clarique venae, delubraque vulnera sedebat <a href=\"http://www.fer.io/humanam.html\">ille\nutinam</a>; reducet ille templisque rus. Undis est\nillic nec taurum vitiantes optavit laturus iudice et, ille? Sive en hanc\niaculabile colla.</p>\n<ul>\n<li>Procul et parares</li>\n<li>Erat non</li>\n<li>Lactentem vallibus comites toto iam dederat hausti</li>\n<li>Omnia fontibus officiis s</li>\n</ul>\n"
+}

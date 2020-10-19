@@ -1,0 +1,83 @@
+{
+  "id": "1358",
+  "name": "Womens Gold Mini Elegant Skirt",
+  "price": 59.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 98,
+    "average": 3.83
+  },
+  "category": {
+    "id": 122,
+    "name": "Skirts"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Gold",
+    "Shiny",
+    "Elegant"
+  ],
+  "images": [
+    {
+      "product_id": 1358,
+      "image_url": "https://images.unsplash.com/photo-1591444223342-11595ba8f310?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1358/1.jpg"
+    },
+    {
+      "product_id": 1358,
+      "image_url": "https://images.unsplash.com/photo-1591444245684-e3e7fbec7b5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1358/2.jpg"
+    },
+    {
+      "product_id": 1358,
+      "image_url": "https://images.unsplash.com/photo-1591527289588-d38385ea1788?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1358/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12580100,
+      "feature_id": 100,
+      "product_id": 1358,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12580100,
+      "feature_id": 100,
+      "product_id": 1358,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12580100,
+      "feature_id": 100,
+      "product_id": 1358,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12580100,
+      "feature_id": 100,
+      "product_id": 1358,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12580200,
+      "feature_id": 200,
+      "product_id": 1358,
+      "name": "Color",
+      "value": "Gold"
+    }
+  ],
+  "description": "<h2>Tura commissa fregit</h2>\n<p>Lorem markdownum <em>semine paelicis Nycteliusque</em> agitata miser, cum quod; saxoque\npropinquas septem freta Rhodope. Latius manus. Deum nocuit pudibunda <strong>gestu</strong>!\nEt Argis. Volvuntur quas.</p>\n<h2>Sine aquis quoque te</h2>\n<p>Nec at longis quoque utrumque si avidi spem, si conubia. Petentes multis,\ndilapsa et triceps vulnere, ab solo vulneris, metuit fert sed paratis mirum\ncertas. Non nitor undae ad <em>aliquem dixere temptant</em> errant, certe non Thetidis\nulmo paternis; unica!</p>\n<h2>Nam accipite procul populi</h2>\n<p>Ultimus Herculei murmure hominumque vidit garrula. Carpitur silvas Ausoniae\niuvenemque contingat si optas! <em>Doloris flentes</em> corpus Athenae <a href=\"http://www.sicausis.com/\">explet virgo\nmagnanimo</a> mutentur quae coniunx Pico est enixa non\nvela ubera labore eripitur.</p>\n<h2>Tradidit est</h2>\n<p>Parit Pandiona illa flumina occursu <em>temperat</em> Thracesque glaebis nocet,\ncanitie. Aethera modo abdita consedere nunc nostro moenia sinistra levia fata\nresilire, saepe, abundet: essent.</p>\n<blockquote>\n<p>Tuta <strong>tellus</strong>. Huic morte: vidi et honor ossa oscula, habitandae Pelasgas\nplectrumque auribus agnosse, Dorylas. Frena vultu aquarum laevam vespere ut\ndiscedunt ut dixit.</p>\n</blockquote>\n<h2>Pascere nepotemque proceres</h2>\n<p>Annos ac cum centum laborum Alcides nomen ore acernas munus, pomaque sagittae\nrepulsae. Haec in ficta filia mater manusque aliquam functo aquaticus Phrygum\nsatis tenet mansit: quid lux potestas.</p>\n<p>Adhuc dedit, ut sic umoribus <a href=\"http://nube-exigit.org/sepulcrumflumina\">carmine</a>\niustos. Cum cum recessu hiemem certos nec potest nituntur aderit adyto contra.\nSuccessu hamato mea super aequos arboreis vultusque temptavit vultuque caput\nsuppressis aberat, color!</p>\n<p>Postquam linguae victa, est est conplerunt urbem dederint ut virgo. Nam <a href=\"http://rupit.net/iovi.php\">nocet\npopulos</a> multoque nubilaque Monychus maris; est\npatuit Lydas, Aegides? Manemus <strong>gratia</strong> te, salutem, ut <a href=\"http://hanc.org/munus.html\">eras\nobliquis</a> suntque interea. Vulnera sacra dextram\nest!</p>\n",
+  "excerpt": "<p>Lorem markdownum <em>semine paelicis Nycteliusque</em> agitata miser, cum quod; saxoque\npropinquas septem freta Rhodope. Latius manus. Deum nocuit pudibunda <strong>gestu</strong>!\nEt Argis. Volvuntur quas.</p>\n<p>Nec at longis quoque utrumque si avidi spem, si conubia. Petentes multis,\ndilapsa et triceps vulnere, ab solo vulneris, metuit fert sed paratis mirum\ncertas. Non nitor undae ad <em>aliquem dixere temptant</em> errant, certe non Thetidis\nulmo paternis; unica!</p>\n<p>Ultimus Herculei mur</p>\n"
+}

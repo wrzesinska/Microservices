@@ -1,0 +1,89 @@
+{
+  "id": "1362",
+  "name": "Womens Black Floral Summer Top",
+  "price": 49.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 215,
+    "average": 3.28
+  },
+  "category": {
+    "id": 123,
+    "name": "Tops"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Floral",
+    "Summer",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1362,
+      "image_url": "https://images.unsplash.com/photo-1589935308764-6abbc2ac1dc3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1362/1.jpg"
+    },
+    {
+      "product_id": 1362,
+      "image_url": "https://images.unsplash.com/photo-1589935448101-51d448088c94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1362/2.jpg"
+    },
+    {
+      "product_id": 1362,
+      "image_url": "https://images.unsplash.com/photo-1589935488636-bae123ffcc92?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1362/3.jpg"
+    },
+    {
+      "product_id": 1362,
+      "image_url": "https://images.unsplash.com/photo-1589935630354-10f66681c769?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1362/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13620100,
+      "feature_id": 100,
+      "product_id": 1362,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13620100,
+      "feature_id": 100,
+      "product_id": 1362,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13620100,
+      "feature_id": 100,
+      "product_id": 1362,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13620100,
+      "feature_id": 100,
+      "product_id": 1362,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13620200,
+      "feature_id": 200,
+      "product_id": 1362,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Nunc inponere</h2>\n<p>Lorem markdownum iuvenem. Videt funus nuda coepere. Nam haesura equi subiecto\nradio, venientis esse hanc in monitusque Achilli Aethiopum develat.</p>\n<ol>\n<li>Languentique ponere ac colit est territa pendeat</li>\n<li>Capitis habebat</li>\n<li>Inmurmurat servet</li>\n<li>Nives iussit</li>\n<li>Pars sint</li>\n</ol>\n<h2>Variat mea multa quoque</h2>\n<p>Corpore conreptus putares acta non <a href=\"http://asperte.io/\">incitat temptant digni</a>\nvoluit ingrati vetito meritis. Quae canisve novata.</p>\n<h2>Procne nostra utilis</h2>\n<p>Hoc profuso inmania inconstantia subederat audacia tibi aut, mutatis magnorum\nquo mihi. Tibi neque Lyciaeque fraxinus canis; iam, flammas sparsit Venus, ictus\nimis numero. Palmis luctus non ligno ab non aeternus armo totoque quidque\n<strong>dominum pervenit</strong>, ad verba.</p>\n<h2>Gavisa Thybridis te mediam arbore</h2>\n<p>Nubes pars enim nervi magnae corpus, Lavini urbesque amici; <strong>heu hunc segetes</strong>\nattonitus mactatarumque voracior. Soror per: et poscit, tauri occumbere portus\naper occasus mihi. Visu caesus. Orbem Acheloe, modo gestu longusque develat\nnullius.</p>\n<ul>\n<li>Tectus ferre deae illa nigris ponunt studiisque</li>\n<li>Solo Ianthe atra</li>\n<li>O miscet aliquo</li>\n<li>Fingit ubi</li>\n<li>Caritura in puniceo umquam animas defunctum de</li>\n</ul>\n<h2>Munus imagine sed</h2>\n<p>Epulis coniuge ante. Et vera Sithonios maduere, in vitam, dei et suam <strong>ipsum</strong>.\nRefers Mycale in <strong>illud</strong>. Phoebo dea nebulas nolim dicta et habebat modo. <a href=\"http://www.falsi-si.com/invidiae-loquendo.html\">Si\nperfida</a> semina.</p>\n<blockquote>\n<p>Certam posito area inque foribus, nec curaliis tibi illo canendi Thyoneus\nalbente gurgite gratamque. Laurenti inrequietus ferrum Minturnaeque ferre\nauras, Manto erit, ast stagno varias, bene erat cum vultus. Pinus accipite\nexsulta Stheneleius curru; segetis <strong>non tamen</strong> cucurri mille, pro cura, iam\nHymenaeus silva. Sidera corripuit Aenean potes Tusca super nocturnae stamina.\nAit poenaque quoque tanget multum quod habet sorores: indoluisse, Aetnen\ninfamia vadit aries conditor vi.</p>\n</blockquote>\n<p>Dauno retemptat <strong>me</strong> volui consistuntque totumque iam insequitur urbem. Leve\nterra palmiferos nequeam dixit densi tellus, numeri patria ad fert spectat sole\norbam et novercae sine pedum Italiam. Temporis flamma ventis <strong>satiata</strong>.</p>\n",
+  "excerpt": "<p>Lorem markdownum iuvenem. Videt funus nuda coepere. Nam haesura equi subiecto\nradio, venientis esse hanc in monitusque Achilli Aethiopum develat.</p>\n<ol>\n<li>Languentique ponere ac colit est territa pendeat</li>\n<li>Capitis habebat</li>\n<li>Inmurmurat servet</li>\n<li>Nives iussit</li>\n<li>Pars sint</li>\n</ol>\n<p>Corpore conreptus putares acta non <a href=\"http://asperte.io/\">incitat temptant digni</a>\nvoluit ingrati vetito meritis. Quae canisve novata.</p>\n<p>Hoc profuso inmania inconstantia subed</p>\n"
+}

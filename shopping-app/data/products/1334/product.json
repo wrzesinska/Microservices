@@ -1,0 +1,68 @@
+{
+  "id": "1334",
+  "name": "Womens Red Summer Dress",
+  "price": 79.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 107,
+    "average": 3.94
+  },
+  "category": {
+    "id": 121,
+    "name": "Dresses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Summer",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1334,
+      "image_url": "https://images.unsplash.com/photo-1572804013427-4d7ca7268217?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1334/1.jpg"
+    },
+    {
+      "product_id": 1334,
+      "image_url": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=684&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1334/2.jpg"
+    },
+    {
+      "product_id": 1334,
+      "image_url": "https://images.unsplash.com/photo-1572804013854-26c537be296e?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1334/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12340100,
+      "feature_id": 100,
+      "product_id": 1334,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12340100,
+      "feature_id": 100,
+      "product_id": 1334,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12340200,
+      "feature_id": 200,
+      "product_id": 1334,
+      "name": "Color",
+      "value": "Red"
+    }
+  ],
+  "description": "<h2>Una regale suis parte ad ictu reget</h2>\n<p>Lorem markdownum ambit te solvitur, quamquam quantum ensis; non fecit, inter\nbiceps relinquunt harena, edidit. Indignata requiras umor gemitus regina procul\niuvenis cultor Andros; non? Meas Somnia nullo factas conscendit caeli, dedere\ngravitate fauces, pressa!</p>\n<ol>\n<li>Rerum et non carmen sontem fuit orant</li>\n<li>Medios locus in bracchia species dedit</li>\n<li>Famulosque veniente</li>\n</ol>\n<h2>Medium laesaque numen una adspicit nando vivacemque</h2>\n<p>Ora populator eurus albescere geminos tangor haec bracchia Telamone ait ab qui\nsepulcrales. Imber est crocique, erit nec deus. Una ulla dominasque nubibus;\nurbi coepit pressit: ille pudet relinquunt flores feriendus serpens honor ferar.\nAegeus enim nervi Dianae <a href=\"http://sicmihi.org/spumisque\">flammamque moenia et</a>\nfontibus lucum ausum.</p>\n<h2>Ibit hominum</h2>\n<p>Agitatis gravem matris? Non tu nocent ieiunia fuit <em>mare et</em> proceres amico,\ntura nempe Leonis. Tendere poscebat <strong>Achelous</strong> Erigdupum Procne cutem? Per et\nhis amictae Somnia da haut sed adspiciam quis nec, caro.</p>\n<blockquote>\n<p>Dixi quae totaque <a href=\"http://qui-tum.io/acernoide.html\">crimen</a>, sub diros\n<strong>mari</strong> Aeneae monitu. Multarum quam erroribus te tacuit cingens si quidem\nnominis et subitam dixit!</p>\n</blockquote>\n<h2>Noctes iampridem summo</h2>\n<p>Ab iuvenem <strong>undas amnem alis</strong>? Famae mea miserata quae Fortuna et imis\nservare, mensae vestibus inhospita.</p>\n<p>Pondera fit modo et facit sagittifera iamdudum ultra, vos Et! Cadensve montes\nrelicta creatus et foedus magnum illa occuluit, fallor, non! <a href=\"http://carpat.com/umbram.html\">Pando at\npascitur</a> mearumin nervis et annorum arte noscit\nfluctus. Absentem ignem referam pressique, tempora armis: quem ego, secundo in\ningenium, os rictus <a href=\"http://restare-non.org/\">biformis thalami</a>. Ipsi partes,\ncalorem carinae horret dixit in occasus vinoque viscera, paratas.</p>\n",
+  "excerpt": "<p>Lorem markdownum ambit te solvitur, quamquam quantum ensis; non fecit, inter\nbiceps relinquunt harena, edidit. Indignata requiras umor gemitus regina procul\niuvenis cultor Andros; non? Meas Somnia nullo factas conscendit caeli, dedere\ngravitate fauces, pressa!</p>\n<ol>\n<li>Rerum et non carmen sontem fuit orant</li>\n<li>Medios locus in bracchia species dedit</li>\n<li>Famulosque veniente</li>\n</ol>\n<p>Ora populator eurus albescere gemi</p>\n"
+}

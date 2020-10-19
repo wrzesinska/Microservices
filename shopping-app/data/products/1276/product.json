@@ -1,0 +1,108 @@
+{
+  "id": "1276",
+  "name": "Mens Orange/Red Summer Striped Shirt",
+  "price": 79.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 23,
+    "average": 2.14
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Stripes",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1276,
+      "image_url": "https://images.pexels.com/photos/1850172/pexels-photo-1850172.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1276/1.jpg"
+    },
+    {
+      "product_id": 1276,
+      "image_url": "https://images.pexels.com/photos/1850174/pexels-photo-1850174.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1276/2.jpg"
+    },
+    {
+      "product_id": 1276,
+      "image_url": "https://images.pexels.com/photos/2076754/pexels-photo-2076754.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1276/3.jpg"
+    },
+    {
+      "product_id": 1276,
+      "image_url": "https://images.pexels.com/photos/2635315/pexels-photo-2635315.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1276/4.jpg"
+    },
+    {
+      "product_id": 1276,
+      "image_url": "https://images.pexels.com/photos/2646119/pexels-photo-2646119.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1276/5.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12760100,
+      "feature_id": 100,
+      "product_id": 1276,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12760100,
+      "feature_id": 100,
+      "product_id": 1276,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12760100,
+      "feature_id": 100,
+      "product_id": 1276,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12760100,
+      "feature_id": 100,
+      "product_id": 1276,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12760100,
+      "feature_id": 100,
+      "product_id": 1276,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12760200,
+      "feature_id": 200,
+      "product_id": 1276,
+      "name": "Color",
+      "value": "Orange"
+    },
+    {
+      "id": 12760200,
+      "feature_id": 200,
+      "product_id": 1276,
+      "name": "Color",
+      "value": "Red"
+    }
+  ],
+  "description": "<h2>Terga tum carpere illa tergoris es submota</h2>\n<p>Lorem markdownum quibus dolorque per <strong>inrumpere</strong> volantes destinat pendentia;\nin, <a href=\"http://www.vulneresanguinis.com/accipit-abrepti\">causamque di</a>. Conspecta\nsorores, inulti etiam, pectore sed vetaris capiti prohibebant unxit. Fulmina\ncontrahit fama: exclamat, vulnere horrentia saxumque. Nec Helicen virilem, mihi\ntumulo mentes relatu adeunt illis: duo <em>effuge haec nata</em>. Suam lynca abdita\ninficit, genu pendet gaudia suspenditque est fenestris.</p>\n<ul>\n<li>Quoque etiam tenent ipse noctem leves quod</li>\n<li>Dies est religata dum</li>\n<li>Orbi ultimus solebat posco dicere fixus tepido</li>\n<li>Perque cognoscere quod vineta cetera malis huic</li>\n<li>Tibi reor</li>\n</ul>\n<p>Omnis supremis, pares pars verum sola umbra ipse praedae summae: cuncta terram\nmentita, tenebat magis. Iuno excedere. Poenam quamvis Saturnia, mens tempore\nmadidos, medio efficient monte. Refelli vota niveisque puerilem laevaque, harena\n<a href=\"http://auctoremque.net/ante-fuit.html\">longo</a> cono alte figis memoranda\nmilitiae solus Priamidas territa caligine <strong>idque</strong>! Adcommodat frondibus alma\nmulta, tum est hoc dedit naidas robora.</p>\n<ul>\n<li>Clademque vertit</li>\n<li>Manus et</li>\n<li>Inter bella Zephyro efficiens Ionio</li>\n<li>Ab vult</li>\n<li>Purum haurit utque sintque velut</li>\n<li>Omnia ausa vultus calcat quibus me super</li>\n</ul>\n<h2>Vocant ad Aegides formam</h2>\n<p>Tenemus membris non cuncti nubes sustinui tinus murice corona? Amores obscurum\nflexit sed utinam, at quam capillis perque decipienda frondem danda vox reliquit\nnepos. <em>Inmergere nec surgit</em> celatur. Petitos legeret.</p>\n<blockquote>\n<p>Portabat caruerunt tamen in vulnus quidem, <a href=\"http://persea.org/fecerat.html\">ferrea\nunda</a> aquas colle in quodque. Atra virga\nnumero; Euboicam et placent mittit creatus domant. <em>Te sacra</em> et <strong>cunctae\nvidet</strong> poterat. Humana oraque terrasque.</p>\n</blockquote>\n<p>Alis lucem, desunt nobis cuius passisque Cereris advena sanguine. Illos quas\nLibys ora, diu ova prope colorem.</p>\n<p>Vibrant patriis, debet, sed longa vera amore, umerique, parvae undas interea\narma artus ramosque fientque. Fingant <strong>sanguine</strong> pacis. Dies sortes sibi et\nerat concordant fingant, ab cannas vertor quinque Te et alae. Misi primum.</p>\n",
+  "excerpt": "<p>Lorem markdownum quibus dolorque per <strong>inrumpere</strong> volantes destinat pendentia;\nin, <a href=\"http://www.vulneresanguinis.com/accipit-abrepti\">causamque di</a>. Conspecta\nsorores, inulti etiam, pectore sed vetaris capiti prohibebant unxit. Fulmina\ncontrahit fama: exclamat, vulnere horrentia saxumque. Nec Helicen virilem, mihi\ntumulo mentes relatu adeunt illis: duo <em>effuge haec nata</em>. Suam lynca abdita\ninficit, genu pendet gaudia suspenditque est</p>\n"
+}

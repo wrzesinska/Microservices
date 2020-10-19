@@ -1,0 +1,89 @@
+{
+  "id": "1290",
+  "name": "Mens Black&White Elegant Shirt-Hoodie ",
+  "price": 88.99,
+  "price_promo": 74.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 151,
+    "average": 2.89
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Elegant",
+    "Black&White"
+  ],
+  "images": [
+    {
+      "product_id": 1290,
+      "image_url": "https://images.pexels.com/photos/3754165/pexels-photo-3754165.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1290/1.jpg"
+    },
+    {
+      "product_id": 1290,
+      "image_url": "https://images.pexels.com/photos/3754200/pexels-photo-3754200.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1290/2.jpg"
+    },
+    {
+      "product_id": 1290,
+      "image_url": "https://images.pexels.com/photos/3754159/pexels-photo-3754159.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1290/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12900100,
+      "feature_id": 100,
+      "product_id": 1290,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12900100,
+      "feature_id": 100,
+      "product_id": 1290,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12900100,
+      "feature_id": 100,
+      "product_id": 1290,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12900100,
+      "feature_id": 100,
+      "product_id": 1290,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12900100,
+      "feature_id": 100,
+      "product_id": 1290,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12900200,
+      "feature_id": 200,
+      "product_id": 1290,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Dignas quae</h2>\n<p>Lorem markdownum astra nec vestis Pario: et annis. Iuvenalibus funera limbus\nvoluntas ramos inque exosa nabat fulvo Caesarea disponunt ab aras indelebile\nvidet sic erat ambiguo.</p>\n<blockquote>\n<p>Nympham pascitur pelagi camini gremio; naribus nec falsus fautrix aequora,\ntua! Forum futura cornu ipso hic elementa Ampycus iam duorum ora huic.\n<strong>Achilles</strong> Phoebeos os iusto materiam scelus praemia fulvis, annum. Quem cum\ntori ritusque cornua gaudebat renuente ades iuvenco, longam?</p>\n</blockquote>\n<h2>Quid matris simillimus cives</h2>\n<p>Trabibus sic adfata iamque Desierat Asopida, tamen longas se o excipit! Qua\ngravi quotiens nil Quas dives magna quae <em>procul</em> adest Cleonae et creatis\nfigura. Tempore aderat. Tam sanctis fuisset. Ergo cepi Arcade?</p>\n<blockquote>\n<p>Quae nec <strong>ruptosque</strong> aquis, nobis veros iamque in exciderit silvis\naccipiunt. Fremunt quo pelle pendentem: est illa Sparte: ecce legi. Factum\nilluc: hunc furialiaque levem, portas rerum opis <strong>leto parte</strong>, nam. Ferunt\nforte!</p>\n</blockquote>\n<p>Duroque vultus, vel echidnis subest pars Scylla Ledam, palmite, <em>pulsata\nperfectaque telis</em>, silicem quoque, caelum. Sortita rursus carens ut vultus,\ninsidiaeque fecisse vesci, properas et muros ac isset! Ante quod fortia\nafflatibus senili latitavimus constiterat purpureusque spes sit genetrix fata\npetit solacia inridet quoque! Succedere est curvi macies inque Tusci nequiquam\nvehebat <em>nostrae</em>, sonuere. Iussus recolligis hastam terrent.</p>\n<h2>Tibi di pavidam putares inpulsumque protinus Phaethusa</h2>\n<p>Inlaesas terga adolentur mali uva petebamus rogat pendebat ferendo senis,\nPhilomela tot robora castaque fassura Parcite manus. Non omnibus regnat, telo\nanne bisulco cum facit namque, peremptum Alphenor, sit hoc.</p>\n<blockquote>\n<p>Haec vates ore taurorum, rexit saxa se nocti ferasque flentemque laesi ad\noptastis. Quod macies falsi corpore quisque; ne saltu sic est enim quamquam,\nmota qui.</p>\n</blockquote>\n<p>Est amor atque qua sed quis medius; magni <em>animus</em>, per annos insignis ni nunc\nforsitan. <strong>Frustra</strong> omnesque ad dedere recepto tabulas; Lethaea gravis\naccedere harenam credidit caede. Nova mecum ille licet Lethaea cervix in\nsenectus exanimes requiras ac tauri per gurgite, en acta relevare, aliud.\nSpatiosum illo rotatum?</p>\n<p>Tellusque rogabam nomina <a href=\"http://www.unius-sibi.com/\">quamquam</a>: Thracesque\naltera ferro deus, <em>umbras</em> Cyclopis haesisse. Ara vos liquidis mentita nemus.\nMollita opem. Et tua illi ferunt, huius, ex visa tibi, te.</p>\n",
+  "excerpt": "<p>Lorem markdownum astra nec vestis Pario: et annis. Iuvenalibus funera limbus\nvoluntas ramos inque exosa nabat fulvo Caesarea disponunt ab aras indelebile\nvidet sic erat ambiguo.</p>\n<blockquote>\n<p>Nympham pascitur pelagi camini gremio; naribus nec falsus fautrix aequora,\ntua! Forum futura cornu ipso hic elementa Ampycus iam duorum ora huic.\n<strong>Achilles</strong> Phoebeos os iusto materiam scelus praemia fulvis, annum. Quem cum\ntori ritusq</p>\n</blockquote>\n"
+}

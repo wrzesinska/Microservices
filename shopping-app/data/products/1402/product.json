@@ -1,0 +1,96 @@
+{
+  "id": "1402",
+  "name": "Womens Light Blue Jeans Summer Dungarees Jumpsuit",
+  "price": 99.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 191,
+    "average": 4.5
+  },
+  "category": {
+    "id": 127,
+    "name": "Jumpsuits"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Jeans",
+    "Dungarees",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1402,
+      "image_url": "https://images.unsplash.com/photo-1583292672674-ca4ffa2a6b38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1402/1.jpg"
+    },
+    {
+      "product_id": 1402,
+      "image_url": "https://images.unsplash.com/photo-1538330627166-33d1908c210d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1402/2.jpg"
+    },
+    {
+      "product_id": 1402,
+      "image_url": "https://images.unsplash.com/photo-1538390534205-f2c64a73187d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1402/3.jpg"
+    },
+    {
+      "product_id": 1402,
+      "image_url": "https://images.unsplash.com/photo-1582899739898-aa47386652ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMjF9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1402/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 14020100,
+      "feature_id": 100,
+      "product_id": 1402,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 14020100,
+      "feature_id": 100,
+      "product_id": 1402,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 14020100,
+      "feature_id": 100,
+      "product_id": 1402,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 14020100,
+      "feature_id": 100,
+      "product_id": 1402,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 14020100,
+      "feature_id": 100,
+      "product_id": 1402,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 14020200,
+      "feature_id": 200,
+      "product_id": 1402,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Agros Haemus o inferias obscenae verba habetis</h2>\n<p>Lorem markdownum praeterita iustis si accipitrem nisi. Quoniam sive inplet et\nsalutis portentificisque in paratas crinem in quod tene amentes Ephyren. Aditus\ncadente vel Famemque, aliis tune nam qui; nec nec delusa errorem, meo contineat\nante.</p>\n<ol>\n<li>Nocte qua contigit labentia fatentem circumfunditur tulit</li>\n<li>Misit narratibus custos</li>\n<li>Dixit ut incipiat alta</li>\n<li>Nox pavor cum ut ingemuit cerae aequora</li>\n<li>Uni pariter intus roganti nocendi iussisque magnorum</li>\n<li>Virtute vellentem pariterque rectum subversaque</li>\n</ol>\n<h2>Experiensque excipit</h2>\n<p>Sequeretur <strong>petiere</strong> rapere de metu uritur intravit non, vertice. Et terras\ndiu dedere aliqua et loquendo nec ponite crura modo. Spectantis <em>subigebat\nvirtus revolat</em> praeter. Canes abluere vosque susurra coniciunt fratris, ardent\nCeres nec vitta et doluere <a href=\"http://vitro.net/\">saecula</a> sceptrum dentes, tamen\net? Liquidum Delius fine pedum vocatur victoria totidem, victima fores Othrys\nmediis recessit verba, mentis, a lacrimis ponti.</p>\n<ol>\n<li>Per truncoque narrata locum praecordia me nam</li>\n<li>Remos boves</li>\n<li>Rugosis illa saepe veniam Diomedis quoque nemorosis</li>\n<li>Versae sidereum canna</li>\n<li>Qua cur indignantem gregis avem</li>\n</ol>\n<h2>Exsilit Dixit et a effugit solvit agris</h2>\n<p>Nec dixit at busta, a mater caput praestantior alligat herbas tu protentaque\nAusonia primum, maligne amplexus rotave? Huic mentita uberaque, loquendo? <a href=\"http://alte-mare.org/hucnoxque.html\">Est\nait</a>. Mihi tempora et ire et aegra virorum:\nclipei: dominis.</p>\n<ul>\n<li>Tene vota adhuc in herbis pendere iniit</li>\n<li>Diva reverti vultus</li>\n<li>In corpore</li>\n</ul>\n<h2>Memini de qui</h2>\n<p>Expulsumque tamen, <strong>quos</strong> progenies possum feras oculus: <em>finis</em>! Fuerat at\n<strong>resedit</strong> nata stabis aviti parva abditus ast genus priora erat. Sic ima utque\nper aliquid, edax, sororis <em>adnuit</em>! Et primaque quos. Festa illi animoque; de\nonus; paelicis contraque retegente quae ostia confusaque at talaria ad.</p>\n<p>Perque <em>fabula</em>, cultu. Dura gratia: edita alta Cyllenius, dea sub voce monuit\nper ora et quisque praeceps acumine nataeque. Misit ara dum animae pro undas,\nDamasicthona <strong>loco ne</strong> et loqui venientis, tibi, silentia.</p>\n<p>Alto regis: Tartara quae homines referre acceptaque quicquam inferni copia\ntrepido laevisque sceleris? Pavor et summo communis sic Iove; in moram maxima\nmemores, lente arma nebulas divae fraga. Saevit columnis? Radix formidine\npatriae pater crevit avarae duo enim nostra?</p>\n",
+  "excerpt": "<p>Lorem markdownum praeterita iustis si accipitrem nisi. Quoniam sive inplet et\nsalutis portentificisque in paratas crinem in quod tene amentes Ephyren. Aditus\ncadente vel Famemque, aliis tune nam qui; nec nec delusa errorem, meo contineat\nante.</p>\n<ol>\n<li>Nocte qua contigit labentia fatentem circumfunditur tulit</li>\n<li>Misit narratibus custos</li>\n<li>Dixit ut incipiat alta</li>\n<li>Nox pavor cum ut ingemuit cerae aequora</li>\n<li>Un</li>\n</ol>\n"
+}

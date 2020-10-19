@@ -1,0 +1,77 @@
+{
+  "id": "1323",
+  "name": "Mens Grey Blue Classy Chilled Blazer",
+  "price": 138.99,
+  "price_promo": 119.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 170,
+    "average": 2.08
+  },
+  "category": {
+    "id": 115,
+    "name": "Blazers"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Classy",
+    "Chilled",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1323,
+      "image_url": "https://images.pexels.com/photos/4100241/pexels-photo-4100241.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1323/1.jpg"
+    },
+    {
+      "product_id": 1323,
+      "image_url": "https://images.pexels.com/photos/4100242/pexels-photo-4100242.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1323/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13230100,
+      "feature_id": 100,
+      "product_id": 1323,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13230100,
+      "feature_id": 100,
+      "product_id": 1323,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13230100,
+      "feature_id": 100,
+      "product_id": 1323,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13230100,
+      "feature_id": 100,
+      "product_id": 1323,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13230200,
+      "feature_id": 200,
+      "product_id": 1323,
+      "name": "Color",
+      "value": "Grey"
+    }
+  ],
+  "description": "<h2>Quoque onerosior caput saepe</h2>\n<p><em>Lorem markdownum mixta</em> sui auditis manum miserabile Proreus, arces se perculit\nillis certaminis. Admonitu cardine deum relevare, faunique tamen <em>color litore\nPagasaea</em> equos <strong>aut</strong> illum mortale Booten in distuleratque! Sine aderam de\nlongo Dianae nivosos duxerat avem tenentem vocat auxiliumque prope sociosque\npaventes: iaculatus morientis Tritonia tamen. Radiataque quod admoti Diomede\nColophonius venit plectrumque hastae sumpsitque in admovit. Facinus at volucres\nvenenis et scelus piacula fistula nunc suam Tusci gemmis nec glaebam Cerealia\nmulto.</p>\n<ul>\n<li>Alma est</li>\n<li>Me umquam placidoque cervicem tu fuimus Aricinae</li>\n<li>Ea pecudis caelum</li>\n<li>Quos mihi torquent vulnera</li>\n</ul>\n<p>Vestem ama dea, ablata progenies <a href=\"http://et.com/\">barbara laudis</a>. Tydides sede\nfacit pallor videt constitit uterque, longi, illo percussit, tecto saniemque\ncandida vires irascitur. Triplici volucris ut Myconon vidit.</p>\n<h2>Precando onus tamen satyri me mirum referebat</h2>\n<p>Hominum illa, et <em>visa prope</em>, a risisse vellem? Tutam sibi rupit capillos illam\nreferre, Cyllare et prolesque, moratum opemque; sacrarunt. Ille <em>reccidit\nsorores</em> dixit. Est freta sis vidit degeneras ardent. Iam <a href=\"http://oscula.io/tecta\">possunt creatis\nThebaides</a> artior remanet sculpsit, suis quis carmine.</p>\n<p>Inposita fuit tempore tamque erigite tremula cives dicta, gerit cycnis caputque,\nviri! Est erat demum sive Minervae hunc in infelix feriam et melius nondum\n<strong>quamquam</strong>.</p>\n<blockquote>\n<p>Triptolemo tepidos maturo; nomen dea, et sitim, Iuno patrem Ceyca; spectari\ncomites Semiramio, erat. Nec manifesta te virum ut Anaphen rimas aratri\nlaticesque, ignes radios signataque ecquid. Variare propositumque adnuerant\nadde discrimina utque; nunc enim repugnas fuge nubila, mea et tamen si tristes\nmurmure, <strong>quodque</strong>?</p>\n</blockquote>\n<h2>Deusve regnis</h2>\n<p>Sociorum querellis, heu et pro animos Clymene aptos alas quattuor tremiscens\npascas speciosa. Sunt nec eras abi, silvas imagine mora dolores, illi tellus\nmembra Daedalon contemptor somnusque. Formosior nobis. Num non petis, flamine\nurbes refertque, omne esse toroque olivi una puellis trunco aristis.</p>\n<ol>\n<li>Pignora partem</li>\n<li>Iraque faveas</li>\n<li>Retro per</li>\n<li>Auras est annos trepident vidi cardine meo</li>\n</ol>\n<p>Longa pelle foro quodque maestis <strong>Procnen inmedicabile Iove</strong> nec modo teguntur\ndiu fine patrios dicere expulit posita seque, et? Non ipse velante telum\n<strong>mallem veniamque auctor</strong> orat! Herbas nunc vestrum tenet tribuitque nubibus\nhaec nec a mora lacertis Nise est.</p>\n",
+  "excerpt": "<p><em>Lorem markdownum mixta</em> sui auditis manum miserabile Proreus, arces se perculit\nillis certaminis. Admonitu cardine deum relevare, faunique tamen <em>color litore\nPagasaea</em> equos <strong>aut</strong> illum mortale Booten in distuleratque! Sine aderam de\nlongo Dianae nivosos duxerat avem tenentem vocat auxiliumque prope sociosque\npaventes: iaculatus morientis Tritonia tamen. Radiataque quod admoti Diomede\nColophonius venit plectrumque</p>\n"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "1359",
+  "name": "Womens Light Brown Panther Motive Midi Skirt",
+  "price": 69.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 69,
+    "average": 2.05
+  },
+  "category": {
+    "id": 122,
+    "name": "Skirts"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Panther",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1359,
+      "image_url": "https://images.unsplash.com/photo-1566496895814-6b0c894a2bb5?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1359/1.jpg"
+    },
+    {
+      "product_id": 1359,
+      "image_url": "https://images.unsplash.com/photo-1566497431698-1b0018fb52de?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1359/2.jpg"
+    },
+    {
+      "product_id": 1359,
+      "image_url": "https://images.unsplash.com/photo-1566497432117-74b5994a2b3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1359/3.jpg"
+    },
+    {
+      "product_id": 1359,
+      "image_url": "https://images.unsplash.com/photo-1566497431374-85d71b4b93d5?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1359/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13590100,
+      "feature_id": 100,
+      "product_id": 1359,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13590100,
+      "feature_id": 100,
+      "product_id": 1359,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13590100,
+      "feature_id": 100,
+      "product_id": 1359,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13590100,
+      "feature_id": 100,
+      "product_id": 1359,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13590200,
+      "feature_id": 200,
+      "product_id": 1359,
+      "name": "Color",
+      "value": "Brown"
+    }
+  ],
+  "description": "<h2>Aratos capillos</h2>\n<p>Lorem markdownum Nilus profatur dixerat; vates domus fulva. Ater dubio lapsis\npectora vulnera virginea obstrepuere alis, sub et multaque <a href=\"http://inpete.net/modogiganteis\">narrat et\nerigitur</a> hostis.</p>\n<p>Maioris iam intendens atrae. Quas Hic, ipse; nisi deos, tergusque tepidis.\nSaturnia in virorum fertur, si luctusque liceat tenebat canit? Hinc cum vulnere\nmaxima toto nudae faveant si primus tanti cum, Minos, in? Fumantia hamos\npampineae adspicit: danti dolorem, his quem.</p>\n<h2>Iam umor dilectae</h2>\n<p>Manu dedit, quas, totumque At caper fugit patulis tibi enim medios. In superest\ncuius cladis an altaribus concita Anguem.</p>\n<h2>Urbem extemplo fugitque dicta lanigerosque recordor illis</h2>\n<p>Nos maciem illa equos cum vestes quoque, misit ope, conspecta caeli Sarpedonis\nlapsu abit obortis flamma. Lumina tibi quo gemitus Acheloe manibus cuperem\nCecropios culpavit ingentique cortex cuius. Exit nec pectus ademptis verbaque\nferae nullamque virent, duabus exsecratur et terga lumen\n<a href=\"http://etiam.com/dei\">veniebat</a>: dedisti sex mirae primum. Fundere futurum\nperegrinaeque aevi neque perspicuas haustum! Dixit tamen ingratumque ponto solvo\nregem; visuras squalentia non te insidiosa, est si uno squalidus caput micat\nnubigenasque.</p>\n<ul>\n<li>Forma tardis</li>\n<li>Quod hoc hoc possit</li>\n<li>Incola conicit Mulciber Tmolus iunxit</li>\n<li>Fausto quam</li>\n</ul>\n<h2>Laborem nova parili antiqua absumitur</h2>\n<p>Culpavi non dolenti Aside quaeque currunt Pallada tamen onerosa nostra opportuna\ndominae mihi. Et sinit gaudia lacriment clausus <strong>tempora</strong> tepida cannis\n<strong>nepotemque</strong> honorem, rapto Pindo: siquos leto gratissima, fugias!</p>\n<blockquote>\n<p>Cuncta Turno sata et illi; reor memoranda Thoactes amorem via satis perosus.\nIpsa si fletus furit volentem, viam tela crus umbrae robore sic et dubitare\narcusque. Aequoreos laborum matrem sustulerat modo fatigat: vultus Ecce quid:\npraemia nec auras.</p>\n</blockquote>\n<p>Sanguine asper inferre, vel unda curvo, pars ad <em>tenens</em>, Iunonia rapuit. Ea\nprecibus dextra generique medioque video: agit <strong>quoque</strong>, nare, mihi mox cernit\nmoratus tamen, viae utque.</p>\n",
+  "excerpt": "<p>Lorem markdownum Nilus profatur dixerat; vates domus fulva. Ater dubio lapsis\npectora vulnera virginea obstrepuere alis, sub et multaque <a href=\"http://inpete.net/modogiganteis\">narrat et\nerigitur</a> hostis.</p>\n<p>Maioris iam intendens atrae. Quas Hic, ipse; nisi deos, tergusque tepidis.\nSaturnia in virorum fertur, si luctusque liceat tenebat canit? Hinc cum vulnere\nmaxima toto nudae faveant si primus tanti cum, Minos, in? Fumantia hamos\npampineae adspici</p>\n"
+}

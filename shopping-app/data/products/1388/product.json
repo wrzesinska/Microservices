@@ -1,0 +1,56 @@
+{
+  "id": "1388",
+  "name": "Womens Pink Candy Cotton Turban",
+  "price": 49.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 20,
+    "average": 3.58
+  },
+  "category": {
+    "id": 231,
+    "name": "Caps and hats"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Cotton",
+    "Candy",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1388,
+      "image_url": "https://images.pexels.com/photos/3819813/pexels-photo-3819813.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1388/1.jpg"
+    },
+    {
+      "product_id": 1388,
+      "image_url": "https://images.pexels.com/photos/3819814/pexels-photo-3819814.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1388/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13880100,
+      "feature_id": 100,
+      "product_id": 1388,
+      "name": "Size",
+      "value": "One Size"
+    },
+    {
+      "id": 13880200,
+      "feature_id": 200,
+      "product_id": 1388,
+      "name": "Color",
+      "value": "Pink"
+    }
+  ],
+  "description": "<h2>Cursu novis praecessit laeva solitoque pro ponar</h2>\n<p>Lorem markdownum. Radice addidit silvestre circumdata cacumina. <a href=\"http://natusultimus.io/ab.html\">Sed sensit\nfemina</a> confodit iuvenis subiecto ipsumque me\nfrutex devolvunt color lacertis Veneris pavet passu summus ex? Meis vultus\npatris pro gnato odissem lustrantem surgit, omen vicimus <strong>dum scelus</strong>, ad\naudiat.</p>\n<p>Manus <a href=\"http://mortale.com/ducuntlapillos.php\">ensis</a>. Hamos vincere linquit,\ntecumque vota adnuerat, spumam corpore, pectora dixerat et partes molimine si\nperterritus rarescit. <a href=\"http://www.passim.net/aderatmisit.html\">Barba retinebat</a>\nprocumbere contra ne tectus simul illis, pro!</p>\n<p>Resto arida pavet, detrahitur exclamat sanguine instantiaque manus doceri,\nrefers <a href=\"http://careest.net/\">Acmon</a>, solvi. Minimam colorque incerti formosa ora\naeternum ad ibi est nunc, alis guttura de <em>Pyrrham</em>, ignibus. Ausus tu illuc\norbem.</p>\n<blockquote>\n<p>Inficit <a href=\"http://formis.io/\">et</a> expulit quamquam hoc reflectunt crederet\ngerunt in coit fundere nunc ostendens. Nepoti <strong>femina nescisse</strong>. Aras est.\nOvaque <strong>frustra mens</strong> onusque, mea species glaebam, iactat\n<a href=\"http://times.net/et-sub\">quid</a>. Ni tibi est ora iaculum crura, canescunt\nfacit oblectamina.</p>\n</blockquote>\n<h2>Usu aequor di viri dolor</h2>\n<p>Sententia Argum furta firmo nota, et velles coronatae vocari undis avia Ianthen\nipsa. Reperta iam ardor humum digitis colla ipsa terra: naris non, est te,\ndedisse totidem!</p>\n<ol>\n<li>Latum est diversa certe effigiem Cynthia precibusque</li>\n<li>Nati torum gener vinci</li>\n<li>Carpitur ut differt quercus flammas</li>\n</ol>\n<p>Quam nati terra, et turaque proles. Iam ut aequoris agitant: ac parte Saturnia\npondere et viribus numen giganteis mole erepta effodit. Quod ego axes mille\nNaxoque! Iam rigent meus velle aurae victus, nisi area aequore placet fuit\nfoedere, obruit.</p>\n<blockquote>\n<p>Perpetuos hausti; telo virides; sicut abit superum <strong>longum sociis se</strong>\nsiccam; stella crura cohibentem tutus. Oscula nimbos retinete intulit et\nquaerit referat <strong>dederat sum</strong> ferax tangit pulcherrime putaret sano cum\nterga.</p>\n</blockquote>\n<p>In inque quo Hylaeusque fama iamdudum, erant viro; humo. Petitos fluentum\nfatemur, placare petunt <em>mulcere</em>. Ense tamen fit; formam, <em>invenit gratia</em>\nsexta Iasonis: auras laeva reliquerat divae. Fores <a href=\"http://quo.io/virgoponto.html\">maius\nconde</a>. Convocat genitoris longa tegit petendum\nhoc spatio, et quos Denique cernes, adorant lacrimarum lenimen.</p>\n",
+  "excerpt": "<p>Lorem markdownum. Radice addidit silvestre circumdata cacumina. <a href=\"http://natusultimus.io/ab.html\">Sed sensit\nfemina</a> confodit iuvenis subiecto ipsumque me\nfrutex devolvunt color lacertis Veneris pavet passu summus ex? Meis vultus\npatris pro gnato odissem lustrantem surgit, omen vicimus <strong>dum scelus</strong>, ad\naudiat.</p>\n<p>Manus <a href=\"http://mortale.com/ducuntlapillos.php\">ensis</a>. Hamos vincere linquit,\ntecumque vota adnuerat, spumam corpore, pectora di</p>\n"
+}

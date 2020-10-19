@@ -1,0 +1,62 @@
+{
+  "id": "1397",
+  "name": "Womens White Elegant Cateye Summer Sunglasses",
+  "price": 69.99,
+  "price_promo": 59.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 10,
+    "average": 2.58
+  },
+  "category": {
+    "id": 232,
+    "name": "Glasses and sunglasses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Elegant",
+    "Cateye",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1397,
+      "image_url": "https://images.pexels.com/photos/3819536/pexels-photo-3819536.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1397/1.jpg"
+    },
+    {
+      "product_id": 1397,
+      "image_url": "https://images.pexels.com/photos/3819554/pexels-photo-3819554.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1397/2.jpg"
+    },
+    {
+      "product_id": 1397,
+      "image_url": "https://images.pexels.com/photos/3819553/pexels-photo-3819553.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1397/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13970100,
+      "feature_id": 100,
+      "product_id": 1397,
+      "name": "Size",
+      "value": "One Size"
+    },
+    {
+      "id": 13970200,
+      "feature_id": 200,
+      "product_id": 1397,
+      "name": "Color",
+      "value": "White"
+    }
+  ],
+  "description": "<h2>Coei nec sisti nimium pars est convicia</h2>\n<p>Lorem markdownum omnia <strong>quotiensque mens obviaque</strong> deserit mors. <em>Est</em> comas\npoenas, scilicet dicta; non si cladis micantes sine, Laestrygonis illis, et tela\nserum. Totoque quae decipiet, Alcyone occiderat, hoc silvas, tumuletur summa,\nego spectabat?</p>\n<h2>Colores nutrit tu satis virgineo premebat Syringa</h2>\n<p>Datus sciret ea acclinata Bacchus humus, superos quae <em>densi</em>. Pignora <a href=\"http://et.io/hectoris-sedem\">comitum\net</a> fontis oppositas in dominae illius, et, suas\nvetus quod? Et Peleus lacrimis nostro, ire qua! Sum <em>et</em> caelestia, sono mutum\ntenet niveis petitur.</p>\n<ul>\n<li>Per qua surgit pectore perdere Iliaden abunde</li>\n<li>Dubitare et nec</li>\n<li>Utque muneris Iasonis quae Hippodamen fatemur armiferos</li>\n</ul>\n<h2>Nec viribus me efflant naturamque Calydonia tegemus</h2>\n<p>Monstri is poterat corpora satam: quoque modo roseo semper aliqua! Ab postquam\nnomen Lelegeia de de par dolorque terras. Quam undis, motis. Quemque decipienda\nvenimus illic templo ope repercussae terra, viderunt campus virginitate ipsos\nVenerem, non coniuge, o, alium.</p>\n<ol>\n<li>Delusa firmatque Asopiades gravitate carens rebus motibus</li>\n<li>Mihi ille caeli videri</li>\n<li>Sidereis mare pugnat haerens spissatus denique densumque</li>\n<li>Naidas caelum adamante</li>\n<li>Victorem maris fieri miserarum caede</li>\n<li>Invidiae dat nunc conscia orbem comitum quia</li>\n</ol>\n<h2>Tantum sis lacrimis rapax</h2>\n<p>Petentia aera <a href=\"http://instar.net/\">Ianthe</a>; detrahit detexisse caesae; nato\ndirepta quis exstat protinus indefletaeque profanae et vivaque cretus, ulla?\nPreces deus in dedissent, auras usquam dixerit cum arcuit sic est fugiebant\nerat. Sua tangunt memores progenuit colla superabat o sororis color sub murmure\nmoveant. Membris ab fugere patefecit\n<a href=\"http://www.caeli.io/attonitum.php\">invicti</a> tundit inde.</p>\n<h2>Cum funeris iudex fratresque sonum vocati addit</h2>\n<p>Habet o <strong>talis neque</strong>, intravimus at huic Chaoque amat insidiae, sumo festaque\npalluit: colores sustinet. Cratera qua operis rubenti terres factaque moveri\nrequiro diruerent contentus tua silvisque. Corripiunt tenax, et potes in\n<a href=\"http://et.com/sit.html\">ipsum</a> peregrinaeque baculo.</p>\n<ul>\n<li>Aliquid monitae humo sinamus templa Elysiasque manu</li>\n<li>Tantum solvit apertis proxima guttura</li>\n<li>Nec crimine illo</li>\n<li>Ne nec ramos hortos corpus direpta crura</li>\n<li>Traherent iaculabile faveas Ulixes</li>\n</ul>\n<p>Nil ne in proxima, quaerit est? Ictu illi ubi variarum fraudat. Fuit pectora\nhiems sustinuit inferias sunt morte quae Piscique <em>tale</em>!</p>\n",
+  "excerpt": "<p>Lorem markdownum omnia <strong>quotiensque mens obviaque</strong> deserit mors. <em>Est</em> comas\npoenas, scilicet dicta; non si cladis micantes sine, Laestrygonis illis, et tela\nserum. Totoque quae decipiet, Alcyone occiderat, hoc silvas, tumuletur summa,\nego spectabat?</p>\n<p>Datus sciret ea acclinata Bacchus humus, superos quae <em>densi</em>. Pignora <a href=\"http://et.io/hectoris-sedem\">comitum\net</a> fontis oppositas in dominae illius, et, suas\nvetus quod? Et</p>\n"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "1326",
+  "name": "Mens Light Grey Elegant Thin Blazer",
+  "price": 138.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 119,
+    "average": 4.24
+  },
+  "category": {
+    "id": 115,
+    "name": "Blazers"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Elegant",
+    "Thin",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1326,
+      "image_url": "https://images.unsplash.com/photo-1589832486202-cf43d3c2547b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1326/1.jpg"
+    },
+    {
+      "product_id": 1326,
+      "image_url": "https://images.unsplash.com/photo-1585240976017-edc2473f9ea3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1326/2.jpg"
+    },
+    {
+      "product_id": 1326,
+      "image_url": "https://images.unsplash.com/photo-1592246031300-b47fef8fae2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1326/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13260100,
+      "feature_id": 100,
+      "product_id": 1326,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13260100,
+      "feature_id": 100,
+      "product_id": 1326,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13260100,
+      "feature_id": 100,
+      "product_id": 1326,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13260200,
+      "feature_id": 200,
+      "product_id": 1326,
+      "name": "Color",
+      "value": "Grey"
+    }
+  ],
+  "description": "<h2>In virgine strepitus ad quoque differt invitat</h2>\n<p>Lorem markdownum fibris, probatque iam sinus gratia, aeno quercus palearia\nLycisce Subaris bracchia inmaduit os. Formasque vidit? Ad incaluit raucaque\nadeunt ora! I Cecropis eripe.</p>\n<ol>\n<li>Non obstantia</li>\n<li>Nec in mens meritis iam discordia comitem</li>\n<li>Aliquid raptam quo ignes talia satus meque</li>\n</ol>\n<p>Imagine et caelumque Pelates, semel rugae cum elidunt questus cornua surgere ego\nspatio qui trepidos penetrat. Meae tamen aequora, sui tune, cursu, <strong>me\nvixque</strong>, sollicitae prominet. <em>Cacumine</em> deorum fui fratribus gemitus sonus\nferantur, honorem! Hector quod, nec ibat ibat ille tibi corpora spectavit\nharenam tellus utque <a href=\"http://ametsaxo.io/saetiger-tenuem\">fugacis</a>. Caligine per\naddiderat manet adducto lavere urget habemus est; sucis umbra Sallentinumque\nProcne et <em>nemoris</em> frustra?</p>\n<h2>Sola hoc viscera undas in ferox</h2>\n<p>Alta obnoxius petentem fitque, recepit ira potentes nocte: dicitur per, ruitque\nlacertis potens diem. Non Phoebum a et qui cum cum aliquis aliis insidiosa\nprocul ursaeque vagantur ludat. Haec paenitet, miserque plena tellure Iuppiter\nradios in moris aetas <a href=\"http://timeas.net/\">tecum</a> felix, in et. <a href=\"http://habet.org/unus.aspx\">Raptusque\nnigrum cervi</a>, instare hortatus dicturus quem nunc\nmaneret. Quiete caput, hoc Lethes mensura ambiguis rursusque Iuno.</p>\n<p>Verba Bromiumque, cortice lacrimis <strong>Nyseus</strong> debeat voluisti spatio lumina\ncreditus, tenentibus. <strong>Mens prominet</strong> tantae ullis o potentior sit ulla\nplectrum in illum ingenium. Et adhuc; eundo, tristia exposcere in iterum terra\ngentis ipsa iram: et plus celanda tactu.</p>\n<h2>Homini pariter ferro nomen furori mei flectimur</h2>\n<p>Quid ferri nova stirpem haec agna cadensve tunicis locum hos mea. Dixit perdidit\nlecto avertens inaequales modo nebulas dixerunt dicuntur: notas et veteris illa\nvirtuti, dei generosior dolore contigerat. Lenimen si qui ante, retro colis\nprohibes Circes comitemque fertur medias: gravidi vestes arcus pruinae.</p>\n<ol>\n<li>Aureus mares Fama iactura tuas</li>\n<li>Undis te tormenta magnorum</li>\n<li>Fetum manus homines naris clausit odiumque virgo</li>\n<li>Paterque quo Pallade fugae</li>\n</ol>\n<p>Felix dona praelata se maris sortes animo matris nepotibus <em>inque fine cum</em>\nTethys claudit, velle. Rursusque novas, forent que ad pulsarunt <strong>crepuitque\ntaeda</strong> Panomphaeo desuetas defuit\n<a href=\"http://deaproserpina.org/marisinter\">Olympo</a>.</p>\n",
+  "excerpt": "<p>Lorem markdownum fibris, probatque iam sinus gratia, aeno quercus palearia\nLycisce Subaris bracchia inmaduit os. Formasque vidit? Ad incaluit raucaque\nadeunt ora! I Cecropis eripe.</p>\n<ol>\n<li>Non obstantia</li>\n<li>Nec in mens meritis iam discordia comitem</li>\n<li>Aliquid raptam quo ignes talia satus meque</li>\n</ol>\n<p>Imagine et caelumque Pelates, semel rugae cum elidunt questus cornua surgere ego\nspatio qui trepidos penetrat. Meae tamen aequora</p>\n"
+}

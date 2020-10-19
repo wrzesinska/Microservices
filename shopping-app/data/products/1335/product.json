@@ -1,0 +1,70 @@
+{
+  "id": "1335",
+  "name": "Womens Pink Metallic Party Dress",
+  "price": 94.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 79,
+    "average": 4.91
+  },
+  "category": {
+    "id": 121,
+    "name": "Dresses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Party",
+    "Shiny",
+    "Metallic"
+  ],
+  "images": [
+    {
+      "product_id": 1335,
+      "image_url": "https://images.unsplash.com/photo-1576350591474-56e862d7f79f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=311&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1335/1.jpg"
+    },
+    {
+      "product_id": 1335,
+      "image_url": "https://images.unsplash.com/photo-1576350591619-5f0841c6cab5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=321&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1335/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12350100,
+      "feature_id": 100,
+      "product_id": 1335,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12350100,
+      "feature_id": 100,
+      "product_id": 1335,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12350100,
+      "feature_id": 100,
+      "product_id": 1335,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12350200,
+      "feature_id": 200,
+      "product_id": 1335,
+      "name": "Color",
+      "value": "Pink"
+    }
+  ],
+  "description": "<h2>Cura ubi</h2>\n<p>Lorem markdownum falsi sed, denique florem qui viri et omnia et amissae ne. Tota\nopacae arboreis lacrimis scire thalamoque temeraria pondere saltu Hippomenes in\nin cui admittitur posse Hylaeusque. Et narrare umbris. Retia ab Poemenis\n<strong>alis</strong>, ante rupit: habet monitis.</p>\n<h2>Ceycis maesta captiva et Delphosque atque quamvis</h2>\n<p>Profundum capellas aquatica flavescere annos <strong>dubites</strong>; latus corpus blanditur\ndicite mater ocior, exsultat <a href=\"http://www.sive-tot.io/aetherias-gaudia\">gestu</a>;\nest. Faucesque altis, manum <a href=\"http://orbitenus.net/illum-nini.php\">quarto mortale\nsi</a> acta rapinae, exarsit offensasque\nvestros neque repercusso dicentem, ad illum greges? Pomis enim terrae genuit\nsollicitae dilectu dixit, hunc condi verba funeribus mittantur ad arva paratus\nat centum?</p>\n<ul>\n<li>Sparsus clarissimus nunc optare timorem Tritonidis prolemque</li>\n<li>Milite enixa</li>\n<li>Datis illum ubi exhalat reponit</li>\n<li>Absitque opibus</li>\n<li>An despondet noctis fallis</li>\n<li>Tua iacent sanguinis movi rupibus sepulcrales caput</li>\n</ul>\n<h2>Per omnes tetendi rogantum artus</h2>\n<p>Agit umero, pelle vituli, faciendus dracones <a href=\"http://bello.io/est-nobis.php\">signa trabes\ncustos</a>. Celebres ubi vos hoc bella pingue\ninfice, siquis ille clamor ut liquidas Procne cubitoque frustra, nisi hoc\nIndigetem. Et <strong>fleturi</strong>, dedit, iugis tantus ferarum in fortibus verti, non\nspectes.</p>\n<p>Novum bella laborent caduca pennis ubi nebulas et nomen nymphae omnibus parvum\nhosti pennis viam sumptaque: carior <strong>credulitate</strong>. Precibus tantum, qui tabe\namensque, suo flore regni; indigestaque prodere.</p>\n<h2>Formae iuste et contingere vultus volucrem</h2>\n<p>Inficit erat: est finita, meum plurima se crimina, nasci. Secabant hic oculisque\nauram noctis, cum tu essem Danais reseratque gravi terraeque Aegides contra, <em>et\nabeunt</em>? Canis est ut Pana femina Aegeus fratres herbiferos classe. Ista vino,\nCecropide quidem exorata lecti voce, indicat triennia et lacesse dixerunt\nvivere; et petit forem conplexu. Noxque Idan hostes vultus; est lavit cum illic,\no figuras nescio.</p>\n<p>Tuorum in victima cunctisque minus, viro Iamque <strong>coeperat quoque</strong>, non noscit\nalis dentibus. In et diversa canoro: eadem duraque studiumque orat. Rogata\nconcrevit Aiax congestis.</p>\n<p>Sublatus accessit prohibent quid, periturus, Lucinam iamque! Inplet videbitur\ntosti pendentiaque lupos, cum corpore verso magis merumque; sic iura.</p>\n",
+  "excerpt": "<p>Lorem markdownum falsi sed, denique florem qui viri et omnia et amissae ne. Tota\nopacae arboreis lacrimis scire thalamoque temeraria pondere saltu Hippomenes in\nin cui admittitur posse Hylaeusque. Et narrare umbris. Retia ab Poemenis\n<strong>alis</strong>, ante rupit: habet monitis.</p>\n<p>Profundum capellas aquatica flavescere annos <strong>dubites</strong>; latus corpus blanditur\ndicite mater ocior, exsultat [gestu](http://www.sive-tot.io/ae</p>\n"
+}

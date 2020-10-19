@@ -1,0 +1,89 @@
+{
+  "id": "1272",
+  "name": "Mens Black Basic Hoodie With Motto ",
+  "price": 88.99,
+  "price_promo": 79.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 243,
+    "average": 4.29
+  },
+  "category": {
+    "id": 111,
+    "name": "Hoodies and sweaters"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Basic",
+    "Organic",
+    "Chilled"
+  ],
+  "images": [
+    {
+      "product_id": 1272,
+      "image_url": "https://images.pexels.com/photos/2932731/pexels-photo-2932731.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1272/1.jpg"
+    },
+    {
+      "product_id": 1272,
+      "image_url": "https://images.pexels.com/photos/2932740/pexels-photo-2932740.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1272/2.jpg"
+    },
+    {
+      "product_id": 1272,
+      "image_url": "https://images.pexels.com/photos/2932728/pexels-photo-2932728.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1272/3.jpg"
+    },
+    {
+      "product_id": 1272,
+      "image_url": "https://images.pexels.com/photos/2932802/pexels-photo-2932802.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1272/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12720100,
+      "feature_id": 100,
+      "product_id": 1272,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12720100,
+      "feature_id": 100,
+      "product_id": 1272,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12720100,
+      "feature_id": 100,
+      "product_id": 1272,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12720100,
+      "feature_id": 100,
+      "product_id": 1272,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12720200,
+      "feature_id": 200,
+      "product_id": 1272,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Haec tu quod colligit coniunx artus bis</h2>\n<p>Lorem markdownum ambo Herculis, iuga harena quibus superba annoso. Fluctibus\npariterque hospes suo. <a href=\"http://spatiofera.net/at.php\">Ubi Theseus</a> tecum\nsequitur Calliroe crudele, in clipeus tabo.</p>\n<p>Naides inpetus cum qui: quaerente non iura flectit vultus haec, in mandere quae\nomnia. Edidit promissae mactare, quod, iuranda <em>occuluit utinam</em>, volucresque.\nParenti esse incingitur ille adigitque querellae reddi fulva, dixi quo gravis\nmihi veluti domo pompa tandemque gloria lumina morari. Concustodita lucem cruor\nhabetur virum abdiderat quod Chromin?</p>\n<h2>Caede inque alveus visendae</h2>\n<p>Feram <strong>sunt Non progenuit</strong> divesque: canum eris sed quae relatis refeci umquam\nsequentur esto in iniquus aurea. Amomi omnes bellare captivarumque comas\n<em>Telamonius</em> quem Typhoea caput vel quo tulit <em>spinae</em>; et praedone.</p>\n<blockquote>\n<p>Fronte uno caeco populo sine rotatis coniugium Neritiaeque semina strepitu\nteneat eras, nervosque te movit albus simul. Arvis belli; procul puer,\nmultiplicique dicta aut egreditur se officio lugubris suo.</p>\n</blockquote>\n<h2>Posset at praeda</h2>\n<p>Funes <a href=\"http://www.siquis-rumpe.com/pendulaque\">perfidiae onerique</a> quater:\nnymphe, erubuere est optari moti captato: non. Saturnia pronus, ab habet pondus\ncanescere ad pacis Milete domus cum, de ocior!</p>\n<ol>\n<li>Inpedit hinc Hippodamen pignoribus liceat nempe arbuteos</li>\n<li>Lacertis cecidisse natum terga flamma turbatque repente</li>\n<li>Sed sinus et spatium manus</li>\n</ol>\n<p>Posse arva nec fugacibus deus. Invita insistere, inque indomito viribus cumque;\nnatus iras ille vasta, nec cursus custos.</p>\n<p>Eripere fugit; celebrare dixit caligine factis, lacrimas equae poma uno\n<strong>toroque</strong> resectas perfringit pars. Veniente iaciuntque suo; retinebat tellus\nnisi timor: omne hunc ferae sedem corpus, versi pressaeque, mille. Ora sumit\naquis, Graium Argum. Nam mora iussam nec illius parte cuius dicunt sanguine,\nflexit. Deae intrat mei sapiente simul: pectore, deae funda fletu minas donec\nfaciem retexit minitantem fecundum quid pinetis, eadem.</p>\n",
+  "excerpt": "<p>Lorem markdownum ambo Herculis, iuga harena quibus superba annoso. Fluctibus\npariterque hospes suo. <a href=\"http://spatiofera.net/at.php\">Ubi Theseus</a> tecum\nsequitur Calliroe crudele, in clipeus tabo.</p>\n<p>Naides inpetus cum qui: quaerente non iura flectit vultus haec, in mandere quae\nomnia. Edidit promissae mactare, quod, iuranda <em>occuluit utinam</em>, volucresque.\nParenti esse incingitur ille adigitque querellae reddi fulva, dixi quo gravis\nmihi veluti domo pompa tandemque gloria l</p>\n"
+}

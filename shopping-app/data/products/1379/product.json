@@ -1,0 +1,63 @@
+{
+  "id": "1379",
+  "name": "Womens Red High-Waist Elegant Pants",
+  "price": 78.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 150,
+    "average": 3.96
+  },
+  "category": {
+    "id": 125,
+    "name": "Pants"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Elegant",
+    "Organic",
+    "Classy"
+  ],
+  "images": [
+    {
+      "product_id": 1379,
+      "image_url": "https://images.unsplash.com/photo-1583167460878-be6f241204a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1379/1.jpg"
+    },
+    {
+      "product_id": 1379,
+      "image_url": "https://images.unsplash.com/photo-1583167465109-1a1db796e8d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1379/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13790100,
+      "feature_id": 100,
+      "product_id": 1379,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13790100,
+      "feature_id": 100,
+      "product_id": 1379,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13790200,
+      "feature_id": 200,
+      "product_id": 1379,
+      "name": "Color",
+      "value": "Red"
+    }
+  ],
+  "description": "<h2>Tantus forma dixerat</h2>\n<p>Lorem markdownum pulsat regna sonus culta per. <em>Antiquam</em> victricia candore\naquas <a href=\"http://www.pateramille.com/diras-per.php\">levi haberet</a>: multae cum cunis\nmanus primus pressistis latum: cum nisi non delapsa resupina.</p>\n<ul>\n<li>Super colorem nec vite ad</li>\n<li>Reliquit sit est imagine</li>\n<li>Secum haec</li>\n</ul>\n<h2>Ventusve pallet pollutosque mutata caede ferarum</h2>\n<p><a href=\"http://www.est-ne.net/sumit.aspx\">Eurystheus mensis</a> occallescere quid iungit\ndum iungunt piscem iram magis erit credas sonantes <a href=\"http://www.equorum.com/etsummo\">ipse tendunt\nnymphae</a> tanta undamque redditus. Quater\nrelictus, infernas utere, eas deorum certe radiis pariente lacerto arbor\nplangore. Locoque natura animo diripuit numina.</p>\n<blockquote>\n<p>Ore signa limus, <em>advertens</em> moveri. Cur mitem veniret nomen molarem <em>laetus</em>;\net timidissime tacitus pronepos. Nec crinibus <a href=\"http://de.net/plaga-religata\">rata\nomni</a> exprimit labore lanugine truncoque\nfidissime terrificam scit, aranea. Herba dederat.</p>\n</blockquote>\n<h2>Casu conbiberat sororum</h2>\n<p>Quae <a href=\"http://www.et.org/c\">summoveant rubenti plenos</a> inmisit? Mutet miserarum\nsilentia. Artisque putes adopertaque pallore praeferre radice harenis remansit,\nAcheronta, atque ciet ore in tibi sui quicquid hunc.</p>\n<ol>\n<li>Manus permisit</li>\n<li>Io securi scelus et neve relevare quondam</li>\n<li>Aliquid quales</li>\n</ol>\n<p>Nimium ministri quamquam infantem turbavit somni; et manebat arma, terras ille\narreptamque casus murmure, et solis caudaque. Et <a href=\"http://erant.net/\">sumpto\nexemploque</a> altum in illis populos illinc reverentia potuisse\n<a href=\"http://www.cape-cura.net/\">adspicit</a> intenta esse; certamine.</p>\n",
+  "excerpt": "<p>Lorem markdownum pulsat regna sonus culta per. <em>Antiquam</em> victricia candore\naquas <a href=\"http://www.pateramille.com/diras-per.php\">levi haberet</a>: multae cum cunis\nmanus primus pressistis latum: cum nisi non delapsa resupina.</p>\n<ul>\n<li>Super colorem nec vite ad</li>\n<li>Reliquit sit est imagine</li>\n<li>Secum haec</li>\n</ul>\n<p><a href=\"http://www.est-ne.net/sumit.aspx\">Eurystheus mensis</a> occallescere quid iungit\ndum iungunt piscem iram magis erit credas sonantes [ipse tendunt\nnymphae]</p>\n"
+}

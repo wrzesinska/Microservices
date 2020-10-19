@@ -1,0 +1,75 @@
+{
+  "id": "1306",
+  "name": "Mens Beige Camel Classy Thin Sweater",
+  "price": 69.99,
+  "price_promo": 54.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 133,
+    "average": 2.4
+  },
+  "category": {
+    "id": 111,
+    "name": "Hoodies and sweaters"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Camel",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1306,
+      "image_url": "https://images.unsplash.com/photo-1543539838-6e1cbdb959a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=301&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1306/1.jpg"
+    },
+    {
+      "product_id": 1306,
+      "image_url": "https://images.unsplash.com/photo-1543539838-6e1cbdb959a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1306/2.jpg"
+    },
+    {
+      "product_id": 1306,
+      "image_url": "https://images.unsplash.com/photo-1543609052-99161490f097?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=824&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1306/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13060100,
+      "feature_id": 100,
+      "product_id": 1306,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13060100,
+      "feature_id": 100,
+      "product_id": 1306,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13060100,
+      "feature_id": 100,
+      "product_id": 1306,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13060200,
+      "feature_id": 200,
+      "product_id": 1306,
+      "name": "Color",
+      "value": "Beige"
+    }
+  ],
+  "description": "<h2>Phoebeamque undas iuvenes celebres puppimque</h2>\n<p>Lorem markdownum et donis exhortatus aliquisque tamen, <a href=\"http://www.cornua.com/colubrae.html\">calidusque Asiae\nposita</a> tecta data eduxit verba, trabesque.\nNec et solis rem aspergine, te erit, <a href=\"http://www.prolem-quod.io/\">in</a> animoque\ncupit. Fuerant omen desinere: mortalia merui remoretur mihi laqueo, amne. Cum\nvisaque sorores salutat praemia <a href=\"http://www.patria-icta.org/rigidis.aspx\">adsensibus necis\ncingitur</a> vultum.</p>\n<ol>\n<li>Adversi simulasse nefandas</li>\n<li>Et facit memorant</li>\n<li>Sacris Argis tellure albentia fumabat</li>\n<li>In instrumenta tonitrus</li>\n<li>Secuti placidique haec</li>\n</ol>\n<p>Ac tigres glaebas; sine <em>hausit pulvere</em>: exegi ergo, iuveni. Erat famae, cum\ncornua, superest vaticinata neque longe propositum parce ad nisi Claros spatio\nmiseranda. Exarsit pectora linguae esset! <em>Semine</em> caelitibus inane induta\nrecurvam.</p>\n<p>Sub amori Ausoniae: scelus contrarius litus\n<a href=\"http://liliasacrasque.net/videt\">passi</a>, est tingui; iniquo pugnem. Aquosae\nsaevit <a href=\"http://crescentis.io/\">subdita</a>. Cernit primis; sacra mihi guttas, nec\nramis mater vidisse obscura Stygias videbar. Fert et serosque alit audet\nsuumque; est posuit fuit patria? Et <em>quid auctore quamvis</em> ora, est adhuc audax\nphoenica exceptas secuta et herba trepido moenibus.</p>\n<h2>Montis Polydore si omnia quotiens crimine</h2>\n<p>Nuda Corinthus et color contremuit pelagi, huc iam; optat ille; deus cur. Secum\nillius erat pedes siquidem atque, mundi illac ubi neque marmoreumque quid per\nadest in. Corpora vultu. Aberant alis. <a href=\"http://amandonocet.org/\">Squamamque\nparva</a>, dat gener Phoebum si mali facta hae.</p>\n<ol>\n<li>Serpens regis</li>\n<li>Quoque duo</li>\n<li>Regione petit Phoenix</li>\n</ol>\n<p>Suos <a href=\"http://origo-medias.org/ut.php\">cognita mutare</a> torrentis formosa mihi\nsorores! <a href=\"http://dapes-altius.io/obliquaque.aspx\">Traxere solus</a>.</p>\n<ol>\n<li>Peleus feres usurus atque melior pariter et</li>\n<li>Vomit ter amici rigidos</li>\n<li>Finem est rotae sum usus gessit senili</li>\n</ol>\n<p>Pars <em>admota</em>, levis atria gesserit orbis verba crudelia vinctumque Britannos.\nValuere Bacche flammas tibi ille antiqua repperit; adest sacra orbis sciet meque\ncoepta: silices flavae abundet, actum?</p>\n",
+  "excerpt": "<p>Lorem markdownum et donis exhortatus aliquisque tamen, <a href=\"http://www.cornua.com/colubrae.html\">calidusque Asiae\nposita</a> tecta data eduxit verba, trabesque.\nNec et solis rem aspergine, te erit, <a href=\"http://www.prolem-quod.io/\">in</a> animoque\ncupit. Fuerant omen desinere: mortalia merui remoretur mihi laqueo, amne. Cum\nvisaque sorores salutat praemia [adsensibus necis\ncingitur](http://www.patria-icta.org/rigidis.a</p>\n"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "1372",
+  "name": "Womens Dark Grey Cotton Guns N' Roses Print T-shirt",
+  "price": 64.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 140,
+    "average": 3.74
+  },
+  "category": {
+    "id": 124,
+    "name": "T-shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Print",
+    "Cotton"
+  ],
+  "images": [
+    {
+      "product_id": 1372,
+      "image_url": "https://images.unsplash.com/photo-1519330377309-9ee1c6783348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1372/1.jpg"
+    },
+    {
+      "product_id": 1372,
+      "image_url": "https://images.unsplash.com/photo-1519852208746-9ee7ab07e77c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1372/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13720100,
+      "feature_id": 100,
+      "product_id": 1372,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13720100,
+      "feature_id": 100,
+      "product_id": 1372,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13720200,
+      "feature_id": 200,
+      "product_id": 1372,
+      "name": "Color",
+      "value": "Grey"
+    }
+  ],
+  "description": "<h2>Sustulit deciderant texit</h2>\n<p>Lorem markdownum sunt cadunt rogum, esse rata, tum tenent dextrae ferreus: movet\nte hora parenti. Esse timetque! Tamen ore deus Herculea!</p>\n<ul>\n<li>Dicti nec aera vaccae</li>\n<li>Pressit nova non simul</li>\n<li>Nec si simplex frondes talis verba</li>\n</ul>\n<h2>Invadunt potita flammiferis anser venientem tertia capiti</h2>\n<p>Tempora repetitaque forma; mihi tradat exstat paterque memoranda more, et fide.\nCrantor spumantis extremo devorat, igitur inmixtos taedia; et coeptis humum\ntenuit gaudens efflant ait mater. Sic nisi contra mihi, unus!</p>\n<p><em>Sub non petit</em> sinit Curetida, trahunt nemora anseribus veteres cum sonum\nforsitan humano et numerumque at. Veniente dici relinquunt interdum vincere\neodem: ora validos adiciuntque, exurunt <strong>nec</strong>? Cedere cursus haerentem\ndefendere. Iuro heros nuper manu?</p>\n<h2>Lateque Telamone</h2>\n<p>Parilique in strictique in nempe <em>fatifero</em>, nato sub Colchis oculosque populos.\nPatrio vitat quid bracchia Cephesidas deus ait dicere per quo iam revocata\npassaque modo postquam. Inconsumpta amores silentum et oblitus capillos alios te\nmoresque erat. Resupinoque illis. Caterva <a href=\"http://palmisvires.com/\">prominet\ncuius</a> contudit tegitur: alii trado splendidior numquam\ntecta incurvae, <a href=\"http://hac-cruciatibus.org/capitalios.html\">sub</a>.</p>\n<h2>Aut subit</h2>\n<p>Ligavit deficit ager, cervicem animae sed. Supplex attonitas monstri senectae\nipse, tota <a href=\"http://cretus-attollite.com/argolicolaudatos\">ora erat puer</a>\ntotumque. Corpore est sub, et externis priores nullo saliente miserabile, gaude\nposse. <strong>Imminet</strong> iamque sola detegeret\n<a href=\"http://www.nocuisse.io/vix.html\">natos</a>, nam nuper quot\n<a href=\"http://has.net/\">hostes</a>, sit tempora numina illuc micantia.</p>\n<p><em>Celebrantur regia tu</em> cuique, exigua famae. Obscurum canes est Pisaeae\npostquam.</p>\n<h2>Quo si desierant torus</h2>\n<p>Matri se visus Rhoetei defensae iuncta, mens quondam. Altera artes <strong>prima</strong>\nreversurum Mimasque, fontis secus excoquit petit spatium iter serpit Scorpion:\n<em>vultus sepulcro recepi</em> transitque. Interea <em>coniugis eadem</em> voce exclamat\ncarina.</p>\n<p>Exturbare fessa, concutiuntque <em>ecce in</em>! Notare date micantes cutem urbem;\nMidan dum rosaria costis fiuntque ne. Longius nam, Haud artus videt figuras\nveloxque differt montibus saucia lyncum, fallit.</p>\n",
+  "excerpt": "<p>Lorem markdownum sunt cadunt rogum, esse rata, tum tenent dextrae ferreus: movet\nte hora parenti. Esse timetque! Tamen ore deus Herculea!</p>\n<ul>\n<li>Dicti nec aera vaccae</li>\n<li>Pressit nova non simul</li>\n<li>Nec si simplex frondes talis verba</li>\n</ul>\n<p>Tempora repetitaque forma; mihi tradat exstat paterque memoranda more, et fide.\nCrantor spumantis extremo devorat, igitur inmixtos taedia; et coeptis humum\ntenuit gaudens efflant ait mater. Sic nisi contra mihi, unus!</p>\n<p><em>Sub non petit</em> sinit Cu</p>\n"
+}

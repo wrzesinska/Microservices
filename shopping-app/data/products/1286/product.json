@@ -1,0 +1,76 @@
+{
+  "id": "1286",
+  "name": "Mens Yellow Chilled Striped Summer Shirt",
+  "price": 78.99,
+  "price_promo": 64.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 141,
+    "average": 2.8
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Stripes",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1286,
+      "image_url": "https://images.pexels.com/photos/2114524/pexels-photo-2114524.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1286/1.jpg"
+    },
+    {
+      "product_id": 1286,
+      "image_url": "https://images.pexels.com/photos/2180892/pexels-photo-2180892.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1286/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12860100,
+      "feature_id": 100,
+      "product_id": 1286,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12860100,
+      "feature_id": 100,
+      "product_id": 1286,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12860100,
+      "feature_id": 100,
+      "product_id": 1286,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12860100,
+      "feature_id": 100,
+      "product_id": 1286,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12860200,
+      "feature_id": 200,
+      "product_id": 1286,
+      "name": "Color",
+      "value": "Yellow"
+    }
+  ],
+  "description": "<h2>Ne incursus matre facite in huic potiar</h2>\n<p>Lorem markdownum. Urbem visae Bacchiadae annis incedit <strong>edidit</strong> quod vocibus.\nPomi gelidi corpore radices imago, <strong>oris nefandas</strong>. Ora dapibus supplex quo\nquo, cum ut aliquis conposito fores stupet nec mihi movente. Est nobis nec\nHectora fulgure pectus ab veteres regem videritis.</p>\n<p>Cava longos summisque, induiturque imitata coronae Liber posita admittitur\nconscia pecori dixit. Opus pabula mare miserere tempore sonant fuit si <em>causam\ncognoscenda</em> dies. Festum Iliaden deprendere iras ad\n<a href=\"http://www.vixille.com/alphenor.html\">dolor</a> sceleris; ventorumque ipse: dis.\nLignea credite Apolline Vix carmina o advertite malum: uti iacebat inprudens\nfavet, <a href=\"http://tibi.io/puraque.html\">qua tamen</a> ille signorum.</p>\n<h2>De numen ieiunia vestibus refert cognoscere vellet</h2>\n<p>A regis umbramque tribuitque, liquidas, dum ut si Aethiopesque scripta Python\nmiseros ut agitur revolvor iuvenes. Telamone sit loquax levi, sola sub, in\nrevelli quies contingat rettulit terras, modo grandaevique alios dixit oculos.\nAnimi est est, virgo.</p>\n<h2>Custodia maior Cycladas pennisque iter</h2>\n<p>Cum agmen acumine Priamum positoque partim. Valentes senior sed erat vincis\nrestat vestem solacia, iuvenaliter quid praemonuisse fontis?</p>\n<ul>\n<li>Adspice ire nocti telluris hoc fletu Gorgonei</li>\n<li>Expers rettulit causam</li>\n<li>Huc sensi iussit opus</li>\n</ul>\n<h2>Fuit curvantem in eris</h2>\n<p>In vale spem ademptae <em>insidiaeque</em> vetitum sub cervice quaeque tam vicit faciem\ncrescit, tantum. Vias auratum per puerum tumulatus ostendit cavas in laetis\naurea transitus finita successor vestigia doleam quondam iamdudum. Edidit ab\ninterea astris, fuerant artifices gerentes <a href=\"http://www.ramisspreta.com/\">animam</a>\nposse non aras? Trepidaeque mihi, arte causas: saepe genus. Praeceps multos\nvenere cornibus captum tenens.</p>\n<h2>Quod inulti</h2>\n<p>Stridet dei, ageret, simque habenis nostroque verba me discordia erubuit ille\net! Sanguine aequoris aries praebere corpus in prius cuspide inlustre,\ncontempto, una. Cauda cvrrvs dignatur rursus manusque manuque miserae vidit\ncultum videri <a href=\"http://iustiusrespicere.com/et-dura\">iugo aureus</a> passim.\nFortemque praesentit tamen coniunx ambo furtum, subvolat caesumque fuit\nPirithous: aut.</p>\n<p>Suis cum per; imago saevo mundi metu Phoebe velaque. <strong>Se an</strong> Sisyphon protinus\nvirtute iussitque invida vellere alma <strong>maduerunt</strong> an medio. Hoc <a href=\"http://ioveverba.net/quae.html\">est\nlatarumque</a> sana. Adventuque hac. Ceu plura quem\npuppibus, imbri mihi est iuvenesque\n<a href=\"http://vitatet.com/vidittenentem.html\">colla</a>.</p>\n",
+  "excerpt": "<p>Lorem markdownum. Urbem visae Bacchiadae annis incedit <strong>edidit</strong> quod vocibus.\nPomi gelidi corpore radices imago, <strong>oris nefandas</strong>. Ora dapibus supplex quo\nquo, cum ut aliquis conposito fores stupet nec mihi movente. Est nobis nec\nHectora fulgure pectus ab veteres regem videritis.</p>\n<p>Cava longos summisque, induiturque imitata coronae Liber posita admittitur\nconscia pecori dixit. Opus pabula mare mi</p>\n"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "1312",
+  "name": "Mens Light Camel Long Autumn Classy Coat",
+  "price": 178.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 153,
+    "average": 2.67
+  },
+  "category": {
+    "id": 114,
+    "name": "Jackets and coats"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Camel",
+    "Autumn",
+    "Classy"
+  ],
+  "images": [
+    {
+      "product_id": 1312,
+      "image_url": "https://images.unsplash.com/photo-1553143820-6bb68bc34679?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=323&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1312/1.jpg"
+    },
+    {
+      "product_id": 1312,
+      "image_url": "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1312/2.jpg"
+    },
+    {
+      "product_id": 1312,
+      "image_url": "https://images.unsplash.com/photo-1552783858-1e47edf7898b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1312/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13120100,
+      "feature_id": 100,
+      "product_id": 1312,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13120100,
+      "feature_id": 100,
+      "product_id": 1312,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13120100,
+      "feature_id": 100,
+      "product_id": 1312,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13120100,
+      "feature_id": 100,
+      "product_id": 1312,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13120200,
+      "feature_id": 200,
+      "product_id": 1312,
+      "name": "Color",
+      "value": "Camel"
+    }
+  ],
+  "description": "<h2>Comas nondum circumstant mente secretaque morte in</h2>\n<p>Lorem markdownum oris concubitus pectore et, tyranni enim appellare; cervice me\nmonumentis negare clipeo pectore. In multa, in erubuere natus manibusque\nTaenarides atro placida esse ita prolem. Per vires in solidumve cunasque tamen\narbore declive, illa illa classe. Et pectus, sudataque incaluit habent debita,\nsicut aquas ait vestros plumeus ni, e vocem auguror, ore. Consensu fidem\nserpentis artus.</p>\n<blockquote>\n<p>Illi saltem, murmure innixus. Quid modo est, violenta montis dederant, a\ncorpore fulvae.</p>\n</blockquote>\n<p>Fronde <em>ille</em>, nec repono profani: aut sinuatur, nunc e corpore postquam. Tamen\nmemorantur fragorem per contra deprimeret dignus annis venter; sic saepe in\nTyrrhenus. Sint mihi tibi nostros olivae navis lupum, sic est sustinet, clarus\nlegum. <a href=\"http://parte-retinens.com/ne.html\">Etiam omne</a> sum narratibus saepe\narbitrium arbore est hiatu enim tutaque, solet reminiscor ad care orbes\nmaternaque brevis.</p>\n<h2>Undis ignemque venabula Fames</h2>\n<p>Matri Pylio fateor ligavit iuro <strong>recipit</strong> fugae ictus avellere currunt, in\nCrotonis tum crede puer illi ab nec inde. Cubito <em>iuventus nomine humanis</em>\nmeruere clamanti, me et genitor auctor iusserat agitata emittere nova poscit.\nLinguam et ora Alcyone manum Peleus, Eurydicen decipit! Saepe pati quisve sive\nmonti, iugo Thaumantidos <em>mecum</em> essem sit rursusque vecta longave. Loquendi hic\narvaque retia fessis obstipuere, magis erroresque verba, plurima ferox.</p>\n<ul>\n<li>Ecce mihi indicium pius</li>\n<li>Danaeius blandis</li>\n<li>Et virtus quot cum sororque est quoque</li>\n</ul>\n<p>Mirum dentibus cum fertur unum aut, et subiecta sit mundi. <em>Quales quare\nlaudatissima</em> annos, perque, quoniam fuitque consistere coniugis admotis tandem.</p>\n<p>Fama <strong>flagrantemque usurus</strong> vellet undae, ille belua lucem contra serta,\ntenuata et ille intrat dextra. Excipit testatum gravet: regionibus, capit aper\nsua genus vestem; quam superorum hinc operire alias.</p>\n",
+  "excerpt": "<p>Lorem markdownum oris concubitus pectore et, tyranni enim appellare; cervice me\nmonumentis negare clipeo pectore. In multa, in erubuere natus manibusque\nTaenarides atro placida esse ita prolem. Per vires in solidumve cunasque tamen\narbore declive, illa illa classe. Et pectus, sudataque incaluit habent debita,\nsicut aquas ait vestros plumeus ni, e vocem auguror, ore. Consensu fidem\nserpentis artus.</p>\n<blockquote>\n<p>Illi saltem, murmure innixus. Qu</p>\n</blockquote>\n"
+}

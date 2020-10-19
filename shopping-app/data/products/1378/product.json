@@ -1,0 +1,68 @@
+{
+  "id": "1378",
+  "name": "Womens Blue Jeans Wide Leg High-Waist Pants",
+  "price": 88.99,
+  "price_promo": 68.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 39,
+    "average": 3.16
+  },
+  "category": {
+    "id": 125,
+    "name": "Pants"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Jeans",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1378,
+      "image_url": "https://images.pexels.com/photos/4723532/pexels-photo-4723532.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1378/1.jpg"
+    },
+    {
+      "product_id": 1378,
+      "image_url": "https://images.pexels.com/photos/4725088/pexels-photo-4725088.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1378/2.jpg"
+    },
+    {
+      "product_id": 1378,
+      "image_url": "https://images.pexels.com/photos/4725091/pexels-photo-4725091.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1378/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13780100,
+      "feature_id": 100,
+      "product_id": 1378,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13780100,
+      "feature_id": 100,
+      "product_id": 1378,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13780200,
+      "feature_id": 200,
+      "product_id": 1378,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Ratis inops tamen ille vertere relictum ignota</h2>\n<p>Lorem markdownum pro <strong>dum ferebant</strong> sonus, nam manu post tolli, manus commisso\nsensit parentes alienae gentisque Acrisioniades. Humus huic ne nube, furor,\npraesenserat quem, Iove. Notum nisi hoc: frater summum mirabere formam\ncoquiturque repulsae celeres; ornabant pavidum, nec.</p>\n<ol>\n<li>Habitabilis videtur virago munera Nabataeus pelagi tabuit</li>\n<li>Qui causa dixerat victor</li>\n<li>Amorem dissimilisque fida</li>\n<li>Hanc laurus Mulciber varias audito veneratur tinnitibus</li>\n</ol>\n<h2>Urbem capientibus viro populos pronus renovare</h2>\n<p>Inplacataeque qui silvis corpora inrumpere portare auro procul ac orat fortibus\nmeo de, laceratur indelebile cadet caesaries.\n<a href=\"http://et.io/quarumlingua.html\">Auxilium</a> quem lacubus inque, cavatur mei erit\ncupidoque regem et quos illi <strong>cani</strong>, si deus aures, in. Tecti deorum non\nconiunx pater pabula, accusasse Phoebi quae lecto mutabit; mediis tangi egerit.\nGaudia concordia quaeque, illo funda parvam adgrediare modo acciperet timorem;\net superi et. Sic qui tangit <strong>protinus</strong> conferat spectat, deus parum paritura\nconexis.</p>\n<ol>\n<li>Nimiumque possent formam</li>\n<li>Nemus dixit et terras Pyracmon terrae navem</li>\n<li>Haemoniae et quaque hinc sollicitive ignes felix</li>\n<li>Adest quam</li>\n<li>Ab et factum in certe Di ardua</li>\n</ol>\n<p>Et oculos, cum petatur renovata tantae <a href=\"http://victima.net/\">Laestrygonis\nsicut</a>; inque serpit laboribus habebat. Concita praesentia\nconcipit mirantibus rima; manu caedis eodem, origo, callidus ipsa illas requiris\ndea. Est tuo mihi iura rerum Iphin et saeva satiaque dextra ingentibus perstant\nIove, carpere atria duorum <strong>adfixa restabam</strong>.</p>\n<h2>Narrat tunc simul quae</h2>\n<p>Aspexit possent, cornuaque maiora novo litus: demum aper illius senior\n<em>sumpsisse quoque</em> incidit et. Unum per lacrimantem castris metam animi\npraebebatque nescio in et precantem numine mugitibus vero. Fuit possis revulsos\nmunere, non sineres verbis mihi mansit ita ferarum <strong>inguine</strong> et excipit.</p>\n<ul>\n<li>Accendit deos fuit perosus</li>\n<li>Movere Spartana corpore ferarum</li>\n<li>Illud digerit fraudate procul caelum audacia onerata</li>\n</ul>\n<p>Ora Est primis, meo omnes varios; mariti summum: his fons, Seriphi mens habet\ntrahit, est. Territus durus, deas venit iussere mittit, succedat gerit polo,\ncanum et apertum factum! <em>Me tellure iamque</em> condebat adspexere: meum omnipotens\nsuperest, a? Ingrate nequiquam in dant Aonidum figuris aliter puer sucos\npolenta; <a href=\"http://e.io/manusque.html\">fugere successit</a>.</p>\n",
+  "excerpt": "<p>Lorem markdownum pro <strong>dum ferebant</strong> sonus, nam manu post tolli, manus commisso\nsensit parentes alienae gentisque Acrisioniades. Humus huic ne nube, furor,\npraesenserat quem, Iove. Notum nisi hoc: frater summum mirabere formam\ncoquiturque repulsae celeres; ornabant pavidum, nec.</p>\n<ol>\n<li>Habitabilis videtur virago munera Nabataeus pelagi tabuit</li>\n<li>Qui causa dixerat victor</li>\n<li>Amorem dissimilisque fida</li>\n<li>Hanc laurus Mulc</li>\n</ol>\n"
+}

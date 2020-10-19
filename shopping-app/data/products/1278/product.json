@@ -1,0 +1,84 @@
+{
+  "id": "1278",
+  "name": "Mens Orange&Navy Blue Summer Striped Shirt",
+  "price": 79.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 67,
+    "average": 4.46
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Summer",
+    "Stripes",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1278,
+      "image_url": "https://images.pexels.com/photos/2112728/pexels-photo-2112728.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1278/1.jpg"
+    },
+    {
+      "product_id": 1278,
+      "image_url": "https://images.pexels.com/photos/2112723/pexels-photo-2112723.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1278/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12780100,
+      "feature_id": 100,
+      "product_id": 1278,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12780100,
+      "feature_id": 100,
+      "product_id": 1278,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12780100,
+      "feature_id": 100,
+      "product_id": 1278,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12780100,
+      "feature_id": 100,
+      "product_id": 1278,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12780100,
+      "feature_id": 100,
+      "product_id": 1278,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12780200,
+      "feature_id": 200,
+      "product_id": 1278,
+      "name": "Color",
+      "value": "Orange"
+    }
+  ],
+  "description": "<h2>Quo gravis tristis Ceyca</h2>\n<p>Lorem markdownum et nisi, iram astra letalibus spem consequitur illuc eripuit\ncoeperunt locuti. Laudatos in mendaci petunt noviens. Esse duabus cuspis!</p>\n<ol>\n<li>Dispar muros</li>\n<li>Divesque et quam est quoque</li>\n<li>Manus ita hominum tamen crudelis functa</li>\n<li>Quodsi inter hoc paritura non mota aethera</li>\n<li>Odit nisi est meminisse nec audiat iacent</li>\n</ol>\n<p><em>Pennis idem</em> sustollit cum Phoebeius, <em>natas</em>: in spolium longis et suis barba\nprimum: sacrorum subsunt silva. Qua non cum, haec visum in pontum moderantur\nexempla mea fugit testemque nova removente silvis garrula in mirum.</p>\n<h2>Addidit conspicit</h2>\n<p>Calydonius clausas spreta. Nec decimae et soror argentea tam munere, aut si per\nmihi; quidem et aurum nisi voto tempore. Non Echo est; misit crinem motus et\npudore titulos nulla et dare meritis. Effugimus arboreis umeris. Tyranni\nTisiphone classis rapidissima tamen cingebat, et inania taedae; iudicis sinus\nhaesit.</p>\n<ol>\n<li>Ense quantum</li>\n<li>Unus est favillae Hylonome in silet indignis</li>\n<li>Labores plaudenda perque</li>\n<li>Suis montis viget lavere est nectare tum</li>\n<li>Adest illo</li>\n<li>Haec creatis angue Aiax</li>\n</ol>\n<h2>Orbem frustra aut duos</h2>\n<p>Caespite latus Plena longa gelidi; non incepto munera rursus Venus herba nostra.\nIllius Trachinius temporis aliudve moveoque proceres mihi fugabitur, quoque\nsummo. Vates datque, recepit, illi saxa.</p>\n<ul>\n<li>Pati dei stamine freta</li>\n<li>Ingentem tollens rosave caput conferat artes</li>\n<li>Incursu ictus imago suorum tenebrae nequeo semper</li>\n<li>Herculis Lucifer labores</li>\n<li>Mille membris bracchia mutet habitabat amara</li>\n</ul>\n<p>Bellatricemque famulis lacrimarum infestaque pilas dei pretium tactis et amantem\numidus cetera, quoque nivea poena opprobria circum regia? Gaudet tam gyrum,\nexcussit arma. <strong>In laeva manibus</strong> genitor specularer fossas, <a href=\"http://cesserunt.io/tenerum-fuit\">cur traxit\nrogantem</a> Achille plaga. Oscula <strong>dignus\nverbere</strong>, excussa. <a href=\"http://morientepependit.org/somno.php\">Potiere</a> facto\npraeferre lacrimis nubibus Bubasides axes, in locatas, cecidere, <a href=\"http://nec-omnes.io/mulciberesse.aspx\">nulloque\nvos</a>; relinquo!</p>\n",
+  "excerpt": "<p>Lorem markdownum et nisi, iram astra letalibus spem consequitur illuc eripuit\ncoeperunt locuti. Laudatos in mendaci petunt noviens. Esse duabus cuspis!</p>\n<ol>\n<li>Dispar muros</li>\n<li>Divesque et quam est quoque</li>\n<li>Manus ita hominum tamen crudelis functa</li>\n<li>Quodsi inter hoc paritura non mota aethera</li>\n<li>Odit nisi est meminisse nec audiat iacent</li>\n</ol>\n<p><em>Pennis idem</em> sustollit cum Phoebeius, <em>natas</em>: in spolium longis et suis barba\nprimum: sacrorum subsunt s</p>\n"
+}

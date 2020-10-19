@@ -1,0 +1,69 @@
+{
+  "id": "1320",
+  "name": "Mens Camel Brown Denim Jacket",
+  "price": 98.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 129,
+    "average": 3.62
+  },
+  "category": {
+    "id": 114,
+    "name": "Jackets and coats"
+  },
+  "brand": {
+    "id": 105,
+    "name": "BlueLabelDenim"
+  },
+  "tags": [
+    "Denim",
+    "Camel"
+  ],
+  "images": [
+    {
+      "product_id": 1320,
+      "image_url": "https://images.pexels.com/photos/4069119/pexels-photo-4069119.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1320/1.jpg"
+    },
+    {
+      "product_id": 1320,
+      "image_url": "https://images.pexels.com/photos/4069117/pexels-photo-4069117.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1320/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13200100,
+      "feature_id": 100,
+      "product_id": 1320,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13200100,
+      "feature_id": 100,
+      "product_id": 1320,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13200100,
+      "feature_id": 100,
+      "product_id": 1320,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13200200,
+      "feature_id": 200,
+      "product_id": 1320,
+      "name": "Color",
+      "value": "Camel"
+    }
+  ],
+  "description": "<h2>Delicta huius Iuppiter</h2>\n<p>Lorem markdownum laurus balistave acutae ultima vero, optatos tibi tamen\npropiore credere. Magis mendaci relinquam tamen, morari erit maeret aconiton. Ne\nlevis precatur subsedit. Venisses Camenae per quodcumque optima humanam horret\n<a href=\"http://vittas.net/manu\">est caducum</a> prima. Constitit non, et veneno, Romanae\nvestem subit, <strong>quid inde agitante</strong> sonant.</p>\n<h2>Monte redditur vetustas pendens fruges humum</h2>\n<p>Simulat viro vultusque: quoque quae Latios gravem vale. Ullo facies hic,\ncommittitur tantorum pariter poplite o ex in at ipsum sistitur crudelibus,\nforesque, seriemque <strong>est</strong>! Aut nodoso per nec, urget inquit.</p>\n<h2>Dea Troiam oculos victum frondibus</h2>\n<p>Motamque et dixit, lege idem primum, est tum! Sic geratur interea gravem, per et\ninpia poscentem annos.</p>\n<h2>Felix e Colcha iuventus votique notam nisi</h2>\n<p>Os verbisque morari; de tunc non conlapsosque <a href=\"http://amoriquod.io/\">omnibus</a>\ncomitumque! Care simulac frangitur haec, iam auribus, ore capiat taurum Nestora,\nceleres cognoscere. Lateri partes nec inter; Nec mea negata fidumque natus.</p>\n<ol>\n<li>Minervae usu aristas voce</li>\n<li>Ipsum ora</li>\n<li>Esse optat</li>\n<li>Dubiis summo supereminet edita</li>\n<li>Sinus et absumere in videtur tenus longius</li>\n</ol>\n<h2>Domus teneris</h2>\n<p>Possumus <strong>ne</strong> plura fortius Ammon, regina illis rettulit. <strong>Naris quam\ncultores</strong>, tenentem tegebat quoque tibi flores ignes.</p>\n<blockquote>\n<p>Defectos fieri os Aurorae fecerat Tarpeias. Vidi nec pia amore oculos\nsterilique sublimis precatur fecit, <a href=\"http://ut.org/edax\">et</a> Romulus pulsa,\nnocte. Hippomenes abiit, humo ore angustis, ceu <strong>retinete undis</strong>, duarum,\nipsi Dianae, cultu est magna iungit!</p>\n</blockquote>\n<p>Lacertis cornua rursusque quidem, tegitur animalia et dat harenis. Ensem\ncommissa currere sensit sustinet et thalamosque cesserunt spatioso illa Gryneus.</p>\n",
+  "excerpt": "<p>Lorem markdownum laurus balistave acutae ultima vero, optatos tibi tamen\npropiore credere. Magis mendaci relinquam tamen, morari erit maeret aconiton. Ne\nlevis precatur subsedit. Venisses Camenae per quodcumque optima humanam horret\n<a href=\"http://vittas.net/manu\">est caducum</a> prima. Constitit non, et veneno, Romanae\nvestem subit, <strong>quid inde agitante</strong> sonant.</p>\n<p>Simulat viro vultusque: quoque quae Latios gravem vale. Ullo facies hi</p>\n"
+}

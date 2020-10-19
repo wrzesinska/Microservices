@@ -1,0 +1,62 @@
+{
+  "id": "1331",
+  "name": "Mens Green White Dots Motive Summer Cap",
+  "price": 69.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 187,
+    "average": 4.35
+  },
+  "category": {
+    "id": 116,
+    "name": "Caps and hats"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Dots",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1331,
+      "image_url": "https://images.pexels.com/photos/2975404/pexels-photo-2975404.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1331/1.jpg"
+    },
+    {
+      "product_id": 1331,
+      "image_url": "https://images.pexels.com/photos/2975405/pexels-photo-2975405.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1331/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13310100,
+      "feature_id": 100,
+      "product_id": 1331,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13310100,
+      "feature_id": 100,
+      "product_id": 1331,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13310200,
+      "feature_id": 200,
+      "product_id": 1331,
+      "name": "Color",
+      "value": "Green"
+    }
+  ],
+  "description": "<h2>Nati utque cuius</h2>\n<p>Lorem markdownum tectus Hippomenes arbore, genus <em>dixit</em>? Trahat dent ossa iubet\nsi nisi genibus fugae vidit Philoctete fata mutant conpellat volat digitis\nspectacula extremas leves creatis utque. Ne cura iunctum templis praerupit flos,\nAsida et increvit in erat, habebunt ille. Est est iuro alimenta vulgusque\nimpetus semina, <a href=\"http://omnes-egesto.org/deus\">neve</a> manus!</p>\n<ul>\n<li>Miratur ad erunt</li>\n<li>Munus misero matri</li>\n<li>Coactus celatos cuius ille Sabinis sunt confluat</li>\n<li>Fragiles soluti</li>\n<li>Cingere exhalat Iphigenia cum aut omne pariter</li>\n</ul>\n<h2>Inter quam erat optatis captae mentis</h2>\n<p>Sitim ait gere maiora, peregrina at, et nomine fulvis addidit, de. Una piceumque\nalumno confusura relanguit <em>canoro</em> ignaroque pectine Tantalides neque infregit?\nEt aures mirabile si, infuso aetas temptasse germana quoque volucres quod; suum.</p>\n<p>Euntem has <a href=\"http://iuvenco.org/nec.html\">tenaci proxima detur</a> multa. Tamen\ninaniter equo quo contactu repulsa inductas, <a href=\"http://www.in.com/ex.php\">anne viasque\nsola</a> non ordine tua prensam moles, per? Caede\ndamnatque verba <strong>arcus arguis</strong> serpentis anxia, superest caput, vaccae,\nexanimem faciebant vivitur laetis oris petam!</p>\n<h2>Collemque aere regna</h2>\n<p>Iam cum quae verba! Ut dubites: quaeritur et salus furtum hactenus scopulis, sic\nnymphisque parantes conspexit notitiam colunt: a, sed! Petebat ille hac.</p>\n<blockquote>\n<p>Quam est sub haud nec primo, est hoc sedes est: capiant lacertis quae tecta\npateat ara eadem. Et in Phoebe <a href=\"http://tibieunti.io/nomen\">ossa quoque</a>.</p>\n</blockquote>\n<p>Et vertuntur auro: cadunt tangi, sumere celatos at prius locumque morientum\npinguescere tibi, nemus formasque aede. Effuge alii! Nunc dea tibi agebat,\naegram ait conplexi motis repressit fugaverat illo. Virilem promissaque illam\nlacertis revolet parte essem Ceyce <em>oscula sanguine</em> guttura.</p>\n<p>Sororibus teneras locis exclamatque longus potentis, Gorgone officium <em>precari</em>.\nLuxit hirtus suum naiadum simili!</p>\n",
+  "excerpt": "<p>Lorem markdownum tectus Hippomenes arbore, genus <em>dixit</em>? Trahat dent ossa iubet\nsi nisi genibus fugae vidit Philoctete fata mutant conpellat volat digitis\nspectacula extremas leves creatis utque. Ne cura iunctum templis praerupit flos,\nAsida et increvit in erat, habebunt ille. Est est iuro alimenta vulgusque\nimpetus semina, <a href=\"http://omnes-egesto.org/deus\">neve</a> manus!</p>\n<ul>\n<li>Miratur ad erunt</li>\n<li>Munus misero mat</li>\n</ul>\n"
+}

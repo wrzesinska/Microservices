@@ -1,0 +1,61 @@
+{
+  "id": "1389",
+  "name": "Womens Gold Glamour Summer Hat",
+  "price": 69.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 210,
+    "average": 4.46
+  },
+  "category": {
+    "id": 231,
+    "name": "Caps and hats"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Glamour",
+    "Gold"
+  ],
+  "images": [
+    {
+      "product_id": 1389,
+      "image_url": "https://images.pexels.com/photos/2837748/pexels-photo-2837748.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1389/1.jpg"
+    },
+    {
+      "product_id": 1389,
+      "image_url": "https://images.pexels.com/photos/3021592/pexels-photo-3021592.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1389/2.jpg"
+    },
+    {
+      "product_id": 1389,
+      "image_url": "https://images.pexels.com/photos/3021595/pexels-photo-3021595.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1389/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13890100,
+      "feature_id": 100,
+      "product_id": 1389,
+      "name": "Size",
+      "value": "One Size"
+    },
+    {
+      "id": 13890200,
+      "feature_id": 200,
+      "product_id": 1389,
+      "name": "Color",
+      "value": "Gold"
+    }
+  ],
+  "description": "<h2>Sinuosa sit viso</h2>\n<p>Lorem markdownum quid dumque tradidit decoram. Diva difficili tibi, voce retro\nferrumque magni et haerentem dedit natorumque minor lunae repugnat fere inposito\naera.</p>\n<blockquote>\n<p>Glandiferam <em>fauces</em> paludem cognosceret ille; utque una mediis modo origo cum\noris herbae, manu lumina fateri. Carens ab transcribere conata aequor poena\nEleleusque vertitis habent umbrosa nitidum pereat Troezenius Circe texebas\nAgenorides lacerum iunctissima? Vulnera longa extenuatur <strong>ne</strong>, quod fugerat\ntutus de exhibet nomine sine Iovis <a href=\"http://platanus.com/\">ipsi vasto</a> oculos\net.</p>\n</blockquote>\n<h2>Orbe Thebas cito</h2>\n<p>Saxumque stetit, nubes horto regemque cohibentem plura, pariterque undis; deam\ncura tetigit, ora animas estque. <a href=\"http://www.pavens.org/\">Quid imis</a> care: quod\nin quicquam: aversus Arethusae vereri corpore. Vix cum <a href=\"http://mihi.net/sedinposito.php\">arbor\narbore</a> facti.</p>\n<ol>\n<li>Convocat communicat mihi clauditur qua alarum</li>\n<li>Confessis succedit</li>\n<li>Sua remis caput augustae</li>\n<li>Telethusa invergens vinoque alto tertia ubi</li>\n<li>Et medio</li>\n</ol>\n<h2>Vultus tamen pater ausim Titani sibi</h2>\n<p>Laudare tegebat et animum cessisse apium iustissimus Phoebes pacis, nec. Atram\npruinosas coit ventis penates filia; Cecropis minas sceleris excussis\n<a href=\"http://in-anser.io/\">locus</a> Oresitrophos, vulnera catenas. Haerebat ruunt certa\ntotiens est lacrimaeque rerum tamen sed suorum non ante arma\n<a href=\"http://tibi.com/unius\">verbenis</a>, equina.</p>\n<blockquote>\n<p>Quidem miserabile fuit enim obverterat se mollia quo Castore. Reconditus\nHector castris cadunt et carmina convicia iuvenes, corpore\n<a href=\"http://corpora.io/nascentur.php\">hoc</a> sua dicere pugnant neve. Soror et\nignis, fortuna videbor, nec oraque, per negaretur minax; qui fidere sumus\nsupersunt. Egeriae Megareius protectus media arma: dum erat inicere morte\nspatio et hoc si nomina sua, obvia. Taciturna notas sanguine, <strong>sub et\ntenebras</strong> manuque enim indestrictus mea.</p>\n</blockquote>\n<p>Ceae marmoreamque diris vectabantur Phiale coegi, contendere, at <em>vimque\nstramine</em> Zephyro sanguine. <a href=\"http://arida.com/cervice.html\">Nostrum visaque</a>\nfiducia eluserat, in sed vos tendit, sed! Patefecit picem <strong>erat</strong>, imbres,\nCapitolia vagatur vestri Diomedeos labori, te <a href=\"http://www.atreus-illa.com/quid-cruentas\">fecerat\nvanaque</a> abiit invitam pharetras\n<strong>quamvis</strong>! Melius damnans dabatur aurora hebeti, positas enim flammis\ndeplorata salignis tetigere quamlibet nullumque velis. Animam erat esse esse nec\nmeis, me novorum triones exterrita a honorem, cape: est volucrem optima admovet.</p>\n",
+  "excerpt": "<p>Lorem markdownum quid dumque tradidit decoram. Diva difficili tibi, voce retro\nferrumque magni et haerentem dedit natorumque minor lunae repugnat fere inposito\naera.</p>\n<blockquote>\n<p>Glandiferam <em>fauces</em> paludem cognosceret ille; utque una mediis modo origo cum\noris herbae, manu lumina fateri. Carens ab transcribere conata aequor poena\nEleleusque vertitis habent umbrosa nitidum pereat Troezenius Circe texebas\nAgenorides lacer</p>\n</blockquote>\n"
+}

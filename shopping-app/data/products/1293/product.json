@@ -1,0 +1,102 @@
+{
+  "id": "1293",
+  "name": "Mens Black Floral Vintage Summer Shirt",
+  "price": 78.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 119,
+    "average": 3.27
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Floral",
+    "Summer",
+    "Vintage"
+  ],
+  "images": [
+    {
+      "product_id": 1293,
+      "image_url": "https://images.pexels.com/photos/2778822/pexels-photo-2778822.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1293/1.jpg"
+    },
+    {
+      "product_id": 1293,
+      "image_url": "https://images.pexels.com/photos/2897525/pexels-photo-2897525.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1293/2.jpg"
+    },
+    {
+      "product_id": 1293,
+      "image_url": "https://images.pexels.com/photos/2897531/pexels-photo-2897531.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1293/3.jpg"
+    },
+    {
+      "product_id": 1293,
+      "image_url": "https://images.pexels.com/photos/2897520/pexels-photo-2897520.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1293/4.jpg"
+    },
+    {
+      "product_id": 1293,
+      "image_url": "https://images.pexels.com/photos/2897519/pexels-photo-2897519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1293/5.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12930100,
+      "feature_id": 100,
+      "product_id": 1293,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12930100,
+      "feature_id": 100,
+      "product_id": 1293,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12930100,
+      "feature_id": 100,
+      "product_id": 1293,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12930100,
+      "feature_id": 100,
+      "product_id": 1293,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12930100,
+      "feature_id": 100,
+      "product_id": 1293,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12930200,
+      "feature_id": 200,
+      "product_id": 1293,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Flentes loca certa nostri culpa Dianae non</h2>\n<p>Lorem markdownum pallae <em>stant</em> superbus et undique frugiferas regisque, prodis,\npendentia aetatem. Fixit nec alma, et in amplexa sparsis querno, meliore.\nCoeptaeque solane in vocamus meruit erat <em>nubila</em>, gaudet ipse!</p>\n<p>Quod et ponit si iuppiter Rhodon omnia, aura signa cetera, quae tetigit. Nemo\ninsultavere labor, axes illa pondera sanguine tu fumo tecum metusque: aper\ncultus laesit. <em>Pars qua</em>.</p>\n<ol>\n<li>Dum felix factus verberis erat gerit precamur</li>\n<li>Hospitibus Aenea hortaturque mox coniunx carpebam ora</li>\n<li>Genibus etiam pendere torvo</li>\n<li>Cyllene ipsosque vimine</li>\n<li>Tota cumque Iovis</li>\n<li>Repulsa admovit Clara quaeque nox ferro unus</li>\n</ol>\n<h2>Est turget falsa</h2>\n<p>Sua laetus. <strong>Rigidis fuerat</strong>, carina sic <a href=\"http://curvamine.org/\">horrent opemque\nprimus</a>, latronis paenitet, placet sufficiunt suos;\nparuit, fert!</p>\n<ol>\n<li>Et nocte</li>\n<li>Neque hanc</li>\n<li>Arsit cursus haeret de contigerant anus venerantur</li>\n<li>Colunt nulla matrem ire Latialis dotem et</li>\n<li>Pulsa contigit tympana doctis si</li>\n<li>Est tibi inridet vipereos</li>\n</ol>\n<p>Orpheus dixit promissa haerentem. Quis suarum praerupit auro\n<a href=\"http://aliquis.io/dominumclarique.php\">et</a> quem iugulo annisque malis, sola\nire: aperite et trahatur nate?</p>\n<p>Supplice cruore septimus et utraque, iterque quique dixit longo latices fluit,\nvia qui? <a href=\"http://invasit.io/orbes-illa\">Pondere biiugum</a> polenta ianua: nec\ntergo est captivis peritura laesi legebant potest Nasamoniaci offensa tela\naltissima. Caelo salva futuris iuvenem Hebrum donis inclusas, sua erat Cynthi\ndegener animo animo.</p>\n",
+  "excerpt": "<p>Lorem markdownum pallae <em>stant</em> superbus et undique frugiferas regisque, prodis,\npendentia aetatem. Fixit nec alma, et in amplexa sparsis querno, meliore.\nCoeptaeque solane in vocamus meruit erat <em>nubila</em>, gaudet ipse!</p>\n<p>Quod et ponit si iuppiter Rhodon omnia, aura signa cetera, quae tetigit. Nemo\ninsultavere labor, axes illa pondera sanguine tu fumo tecum metusque: aper\ncultus laesit. <em>Pars qua</em>.</p>\n<ol>\n<li>Dum felix fac</li>\n</ol>\n"
+}

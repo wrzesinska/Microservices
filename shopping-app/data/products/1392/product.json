@@ -1,0 +1,56 @@
+{
+  "id": "1392",
+  "name": "Womens Vintage Retro Summer Sunglasses",
+  "price": 74.99,
+  "price_promo": 59.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 109,
+    "average": 3.88
+  },
+  "category": {
+    "id": 232,
+    "name": "Glasses and sunglasses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Vintage",
+    "Retro",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1392,
+      "image_url": "https://images.pexels.com/photos/4725143/pexels-photo-4725143.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1392/1.jpg"
+    },
+    {
+      "product_id": 1392,
+      "image_url": "https://images.pexels.com/photos/4725147/pexels-photo-4725147.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1392/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13920100,
+      "feature_id": 100,
+      "product_id": 1392,
+      "name": "Size",
+      "value": "One Size"
+    },
+    {
+      "id": 13920200,
+      "feature_id": 200,
+      "product_id": 1392,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>In in domus raptor et Haud percussit</h2>\n<p>Lorem markdownum naturae et patrios trepidus, crate saltu, caperet virgineosque\ncrinibus cum rebus illa ambitiosus annorum tersis. Sed quam confer. Usus Ide\nTrinacriam posset, in modo negare utuntur sonitu in status culpa. Tori in sed\nIovi forti Phoebus consistere continet viventi: tuetur mox. Foedantem <a href=\"http://est.com/\">urbes\ndixerat forsitan</a> submisit crimen?</p>\n<h2>Dignior et sine sanguine procul meae frondes</h2>\n<p>Per alter Cnosiaci rursus: referam tu quamquam tendebat matres despicit petis.\nAthis Telethusa, illa dispar saevis.</p>\n<h2>Qua Euboea veri successibus nunc hic novandum</h2>\n<p>Multi nisi: mea <a href=\"http://crediderisalter.net/crinem\">saepe recondidit</a> iugulati\nenim, patientia colores advertens altae audieris! In agisque herbarum fuit,\nreclinis et facis et semel Hyleusque inpervius exanimem cantibus. Nymphae quoque\nsceptri succrescere quod opem stridore ornatos Latoidos?</p>\n<ul>\n<li>Ducta dea fientque Pheretiade tauri linguae</li>\n<li>Aiacis cumque ulvaeque contemptrix varios abit alimenta</li>\n<li>Duorum victus caeli vox mandata</li>\n</ul>\n<h2>Stupet et reverentia pugnas timeas et spinosis</h2>\n<p><em>Diremit</em> qui secura dictis ignota piceae, <a href=\"http://atlasfacto.com/\">precesque</a>\nretenta corpora, medius, sequor laetus. Pars comites, sub ponit\n<a href=\"http://est-est.io/\">stat</a> Te tuum.</p>\n<ul>\n<li>At Laertes mille partu cubilia iners inseritur</li>\n<li>Ponit simillimus</li>\n<li>Clytien inplevit repressit Tiberinus quam dicere pectus</li>\n<li>Gerebant genu</li>\n<li>Iubet deductas vulnus</li>\n<li>Talia secum et novavit linguas enim ante</li>\n</ul>\n<h2>Patet multa toto Somni promptum refert clausit</h2>\n<p>Fatum ubera cervice, an odioque vir fontis accedat, ortus causa vestrum\nfestisque fer viro. Nec aer hastam opibus; et pars, novum factum, militia\n<em>dignatus in illis</em> minimae iudicis.</p>\n<p>Prospicit una ille moresque ex patris si ducit, conscendit invenit fungis. Undae\nvani tribuente fortunae Perseus totiens, nec sub flecti aethera.</p>\n",
+  "excerpt": "<p>Lorem markdownum naturae et patrios trepidus, crate saltu, caperet virgineosque\ncrinibus cum rebus illa ambitiosus annorum tersis. Sed quam confer. Usus Ide\nTrinacriam posset, in modo negare utuntur sonitu in status culpa. Tori in sed\nIovi forti Phoebus consistere continet viventi: tuetur mox. Foedantem <a href=\"http://est.com/\">urbes\ndixerat forsitan</a> submisit crimen?</p>\n<p>Per alter Cnosiaci rursus: referam</p>\n"
+}

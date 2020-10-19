@@ -1,0 +1,62 @@
+{
+  "id": "1332",
+  "name": "Mens Orange Cotton Beanie ",
+  "price": 69.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 235,
+    "average": 3.73
+  },
+  "category": {
+    "id": 116,
+    "name": "Caps and hats"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Cotton",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1332,
+      "image_url": "https://images.pexels.com/photos/2801538/pexels-photo-2801538.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1332/1.jpg"
+    },
+    {
+      "product_id": 1332,
+      "image_url": "https://images.pexels.com/photos/2112508/pexels-photo-2112508.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1332/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13320100,
+      "feature_id": 100,
+      "product_id": 1332,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13320100,
+      "feature_id": 100,
+      "product_id": 1332,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13320200,
+      "feature_id": 200,
+      "product_id": 1332,
+      "name": "Color",
+      "value": "Orange"
+    }
+  ],
+  "description": "<h2>Ausam causa sed timeas clauserat nubibus</h2>\n<p>Lorem markdownum, ferunt usque currum imagine inmensum volenti amentia virgo\nAesacon tempora; Iris cedere et sic. Et etiamnum senis domos animosus, ut\ntonitrua corpus, et <a href=\"http://elementa.io/omihi\">alieni</a>? Eiectat rogus in matre\nsparsit ver dextris celanda potuit, ut.</p>\n<p>Et Hac dissociata illos, nate quem <strong>ullus</strong> medios, postquam fert sole est\nfrondibus ei loqui fulsit morsu et. Non siquis tardos, <em>flumina</em> restant\nvalidum; deus <em>utque est hunc</em>, pomis spem laudat.</p>\n<h2>Es dicit</h2>\n<p>Ille sum maximus capaci me praerupta liceat nitentes et dicite aegide addit quo\net orbem Tonantis vidit ab relictis, conreptus. <strong>Pollice eundo</strong> cum revolet\nsolus fecerat ergo limite illi caelo sum, in enim dura <em>viribus stridores</em>\nquodam <a href=\"http://amantem.io/illa.html\">successerat</a>. Caput Procne it regno, domus\nrepercussae cape Faunigenaeque post Phoebe Oileos Aglauros, inposuit sui profugi\npossent.</p>\n<ol>\n<li>Retentis in nec vestes</li>\n<li>Fetum soror sumpserat licet hunc carpitur femina</li>\n<li>Oculos quondam</li>\n<li>Dixerat Ciconum domus Prothoenora condat sanguine</li>\n</ol>\n<h2>Et me pennas</h2>\n<p>Volentem diu et <strong>eripitur</strong>, marisque pars. Sagitta non visa, deterrere cornua\nproperant Aetnen inopes.</p>\n<blockquote>\n<p>Fuit ipsa omnia forma serpentis Hyaleque dixerat Antiphatae clamavit uberior\nconantem septemque rorantia. Non nimbis, pauperque ferrum fuerat Crocon et\nperbibit, montibus? Sperne laevo praelate invitas concipit vultus, plenaque\ncum: iussae. Colla perpetuos metuens, oris multaque curae, et poscenti odit\nTroiae Demoleonta audire aduncis Pario\n<a href=\"http://www.addiderim.org/videns\">Ancaeo</a>!</p>\n</blockquote>\n<h2>Excussit iubent protinus limina</h2>\n<p>Suo vires dant vagantem et protentaque <strong>venit</strong>, omni noctem spargere volatu\numeris, cumque qui. Votorum corpora tellus possidet nequeunt pulchraque fama.</p>\n<ol>\n<li>Metuunt sub fata precor consistuntque vidisse texerat</li>\n<li>Luctibus adimunt</li>\n<li>Centum notis furtum et refelli mundus quas</li>\n<li>Turba nec</li>\n</ol>\n<p>Tegi pictas iunxit redit! Umbras est incognita tam sepulcris mihi inmedicabile\nesse, dextra unde. Clamant incubat requies terra, nempe sucos est, in suos\nmatertera duo iuvencos. Adversaque verba prostravit tamquam solo adimuntque.</p>\n",
+  "excerpt": "<p>Lorem markdownum, ferunt usque currum imagine inmensum volenti amentia virgo\nAesacon tempora; Iris cedere et sic. Et etiamnum senis domos animosus, ut\ntonitrua corpus, et <a href=\"http://elementa.io/omihi\">alieni</a>? Eiectat rogus in matre\nsparsit ver dextris celanda potuit, ut.</p>\n<p>Et Hac dissociata illos, nate quem <strong>ullus</strong> medios, postquam fert sole est\nfrondibus ei loqui fulsit morsu et. Non siquis tardos, <em>flumina</em> restant\nvalidum; deus <em>utque est hunc</em>, pomis spem</p>\n"
+}

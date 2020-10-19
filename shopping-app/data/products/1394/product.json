@@ -1,0 +1,56 @@
+{
+  "id": "1394",
+  "name": "Womens Vintage Retro Summer Lemon Sunglasses",
+  "price": 72.99,
+  "price_promo": 59.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 158,
+    "average": 4.59
+  },
+  "category": {
+    "id": 232,
+    "name": "Glasses and sunglasses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Vintage",
+    "Retro",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1394,
+      "image_url": "https://images.pexels.com/photos/2989689/pexels-photo-2989689.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1394/1.jpg"
+    },
+    {
+      "product_id": 1394,
+      "image_url": "https://images.pexels.com/photos/2989688/pexels-photo-2989688.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1394/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13940100,
+      "feature_id": 100,
+      "product_id": 1394,
+      "name": "Size",
+      "value": "One Size"
+    },
+    {
+      "id": 13940200,
+      "feature_id": 200,
+      "product_id": 1394,
+      "name": "Color",
+      "value": "Yellow"
+    }
+  ],
+  "description": "<h2>Est nec</h2>\n<p>Lorem markdownum calet. Ipso vita odit gravi rupit videt lugendae pondere acies\nOrithyiae lupum pars? Turbata ubi quae mors atra matris iram etiamnum magnis et\nnunc manet moveres. Aut Styga de <em>toto is latratibus</em> umbras et media arcisque\nPhoebo nec quoque si iusta.</p>\n<ol>\n<li>Pro patrem</li>\n<li>Oscula timebant neque commentaque fratribus iunctisque inhonoratae</li>\n<li>Rhodopeius arida patens possederat populi Cinyphiumque intus</li>\n<li>Nubes cuncta mirum iaculum aede</li>\n</ol>\n<h2>Patraeque locis</h2>\n<p>Aera caeruleas tremescere genus, captivo et nam angues membra sustinui harenosae\nmentique nulla este habet euntes ferrumque neget laterumque. In rerum flectere\naere vertit; unus ut figit <strong>tanto medere</strong>, deus fusus. Sonitusque undique\n<em>animalia petendi noctis</em> freti corpore, ore dum tibi: videns de Pallade\n<em>speciosa ad</em>. <em>Rura per succedit</em>, clamoribus Thybris regna ex misit lacertis\npondera. Frustra cinerem fata luce ista, <strong>concordes lumen cremat</strong> subiectis\nsaevit domus.</p>\n<p><a href=\"http://www.ponit-super.net/hecateiavictores.php\">Et</a> magna subposuere ante,\nnullae domo <a href=\"http://penitus.com/\">dixit</a> lingua belli in! Lenis me <strong>nomen</strong>\ndissidet! Et certe fugiens faciemque parvo simulat, feros alis Luna honore\ngemina capacibus, una dum. Gravidis reliquerat remos gravis rupes per nam de\nAscaniumque <em>pondus coetu</em>, pedibus quove.</p>\n<h2>Frondes Cyclopum</h2>\n<p>Inque ait et gravitas: haustae crepitantibus Herse fauni fecerat <em>in nam in</em>\nquoque Ioles adstringit porrigitur inque, tinnitibus. A iaceres quippe videbatur\ndatis, volubile, utve auctor <em>est quae</em> posse. Dixerat cruentum. <strong>Incessere</strong>\namor. Sidera virtus Pallante emissumque rubet primisque, veste vultus altos.</p>\n<ul>\n<li>Subibat Babylonia locus in vili spectatas ursos</li>\n<li>Murra ille male veteris</li>\n<li>Res simul non</li>\n</ul>\n<h2>Nec corpore tuorum</h2>\n<p>Et centum, vix sinistra Proetum stabat aliquis. Luctibus nec, posset, nec\nthalamos referam cessastis nate, <a href=\"http://longo-crevisse.com/pererrant-parte\">intempestiva nocens\nItyn</a> licet manus nil conscia.</p>\n<p>Secum fore postquam tempora remis illa colubris pugnat in famam quod. Nymphe\ninstructa terrore populare resecare: <a href=\"http://ferttibi.io/decorisitque.php\">numquam\naevi</a> cum paratis brevem sanguine et seque\nvidi.</p>\n",
+  "excerpt": "<p>Lorem markdownum calet. Ipso vita odit gravi rupit videt lugendae pondere acies\nOrithyiae lupum pars? Turbata ubi quae mors atra matris iram etiamnum magnis et\nnunc manet moveres. Aut Styga de <em>toto is latratibus</em> umbras et media arcisque\nPhoebo nec quoque si iusta.</p>\n<ol>\n<li>Pro patrem</li>\n<li>Oscula timebant neque commentaque fratribus iunctisque inhonoratae</li>\n<li>Rhodopeius arida patens possederat populi Cinyphiumque intus</li>\n<li>Nubes</li>\n</ol>\n"
+}

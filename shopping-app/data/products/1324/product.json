@@ -1,0 +1,70 @@
+{
+  "id": "1324",
+  "name": "Mens Navy Blue Classy Elegant Blazer",
+  "price": 148.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 109,
+    "average": 3.29
+  },
+  "category": {
+    "id": 115,
+    "name": "Blazers"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Classy",
+    "Elegant",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1324,
+      "image_url": "https://images.pexels.com/photos/4100245/pexels-photo-4100245.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1324/1.jpg"
+    },
+    {
+      "product_id": 1324,
+      "image_url": "https://images.pexels.com/photos/4100244/pexels-photo-4100244.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1324/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13240100,
+      "feature_id": 100,
+      "product_id": 1324,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13240100,
+      "feature_id": 100,
+      "product_id": 1324,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13240100,
+      "feature_id": 100,
+      "product_id": 1324,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13240200,
+      "feature_id": 200,
+      "product_id": 1324,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Undis fuit ait demersit si visa silvae</h2>\n<p>Lorem markdownum <em>superis per</em> similem quisque mearum, animoque dextra isdem\n<em>cum</em> corpora boves confusa. Armisque sine promere, <em>deum nec remos</em> ferro domos\nlumina miserere matutina in mandat navigat enim locuti! Aere ergo bovis ter\nauxilium addidit Achilles <em>pondere putes vellera</em> primum in tamen.</p>\n<ol>\n<li>Semina Solis parte monte Cyane pendent Oriente</li>\n<li>Rude orandus concidere remittas Ixionis perque primos</li>\n<li>Capax pater enim feretro Acrisioneas tura restabam</li>\n<li>Ordine exercent resonant pocula greges praeter disque</li>\n<li>Suspicor sumere pectus Propoetidas prima errat poenae</li>\n<li>Exercent alia lampadibus quas</li>\n</ol>\n<h2>Cura Hyperborea misit</h2>\n<p>Illa Phoebo auctor numen. <strong>Me ponit</strong> artificem falce.</p>\n<blockquote>\n<p>Hoc post lacerto, ignavo Iovi ablatum spes; remisso terris fluitque clamant\nquibus celeremque <em>tori</em> lacrimis, huc egredere. Ratis quo; Haemonias villos\nest secus porto undis, ab usum. Ingrederis posset capiat capro, est petis ego\niunctura ab parte, dicit postquam iubet, acu. Forti Mopsum, et magicae! Et\nlactente umor faciem ore aliquid carcere illud patrium umbraque te tyranni\nprimo, et sceleris <em>quicquid sparsitque</em>.</p>\n</blockquote>\n<h2>Parte nigrumque</h2>\n<p>Aureus Procne naias. Quae <em>hic saliunt umida</em> fama funda, Nyctimene est ferre,\n<strong>et</strong> levi Scythiae non Hippotades vires.</p>\n<blockquote>\n<p>Tam sine novandi inductae caecis poena merguntque lassa, ipse cum. Illa quam\nillum prohibete tu fortuna ingens chrysolithi <em>tutum</em>, vincula et gerere erat.</p>\n</blockquote>\n<h2>Est mundo procerum pudor</h2>\n<p>Ministri tui me serpens linguae; medullas neque postquam preces, <strong>magis\nfauces</strong> carmine silent! Vox vos et suo renarrant, anum armat indiciumque quod;\nubi. Timide fugiebant <em>occidit vagi</em>.</p>\n<p>Ubi aper meruit tendebant tendere talibus centum amat nulla, illa per victoque\nantris Alcyonen. Vomeribus inde, quod <strong>missa en</strong> quod tristia vincula obest,\nsuae busta vivosque et novum Phaethon subiectis postquam! In soletur, ut rima\ncurae nigrum hebes.</p>\n",
+  "excerpt": "<p>Lorem markdownum <em>superis per</em> similem quisque mearum, animoque dextra isdem\n<em>cum</em> corpora boves confusa. Armisque sine promere, <em>deum nec remos</em> ferro domos\nlumina miserere matutina in mandat navigat enim locuti! Aere ergo bovis ter\nauxilium addidit Achilles <em>pondere putes vellera</em> primum in tamen.</p>\n<ol>\n<li>Semina Solis parte monte Cyane pendent Oriente</li>\n<li>Rude orandus concidere remittas Ixionis perque primos</li>\n<li>Capax pater enim feretro Acrisioneas</li>\n</ol>\n"
+}

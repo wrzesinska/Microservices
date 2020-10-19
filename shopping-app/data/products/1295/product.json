@@ -1,0 +1,76 @@
+{
+  "id": "1295",
+  "name": "Mens Light Blue Classy Elegant Shirt",
+  "price": 88.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 115,
+    "average": 3.12
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Classy",
+    "Elegant"
+  ],
+  "images": [
+    {
+      "product_id": 1295,
+      "image_url": "https://images.unsplash.com/photo-1588359348347-9bc6cbbb689e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1295/1.jpg"
+    },
+    {
+      "product_id": 1295,
+      "image_url": "https://images.unsplash.com/photo-1585592049155-6642b799ab3b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1295/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12950100,
+      "feature_id": 100,
+      "product_id": 1295,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12950100,
+      "feature_id": 100,
+      "product_id": 1295,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12950100,
+      "feature_id": 100,
+      "product_id": 1295,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12950100,
+      "feature_id": 100,
+      "product_id": 1295,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12950200,
+      "feature_id": 200,
+      "product_id": 1295,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Ominibus queat Olympo sit at inde pectebant</h2>\n<p>Lorem markdownum, haec <em>e pectore lupo</em> attritas recingitur deam trepidat causa\ndicebat titubantis tota furit Cerealia incurvis deiecto\n<a href=\"http://ostendunt.com/nostris-adstitit\">scilicet</a>. Annosque et Troiana sustinet\nguttura, in excutis, et nuda. Sorbere licet repulsae mitissima et dryadas dicere\net articulos illos insanis: valvis perque carmine et haud! Tum te et anguem, vel\n<strong>laudes culpetne</strong> adesse creavit constabat, canities. Malis occidat super\nagitur <em>est</em>.</p>\n<ol>\n<li>Omnes at ipsa est inpediunt pugnare tibia</li>\n<li>Iussere Hymen miserabile effuso</li>\n<li>Clamor verba</li>\n</ol>\n<p>Pallidiora et causa sub infelix dextra, curia prosiliunt non virginibus, anum\nherbas indignatur fugit, humum. Egregius <a href=\"http://retronoctisque.org/\">quae pondera\nmaior</a>, corpus vis dea quod est <strong>corpore Pythona</strong>\nspretor: vel. Pleni verendus ad terras victrices vitae in habebit: increpuit,\nquaecumque undae.</p>\n<h2>Aquarum rapuere</h2>\n<p>Cum promissa et male viso graciles Arcadiae hos iurat gelidum odorato instat,\nluserit; sic <strong>sitvs</strong> crinales. Minus loquuntur gerere eligit di ne cibos mori\n<a href=\"http://genus.io/\">sunt</a>, curvo ut praecipitata nihil: ut sentire progenies. Cum\nBoebes texta matri rogum pressanda cum.</p>\n<p>Hic ignibus a ducis eminet inspiciunt fratres, <a href=\"http://www.meliore.org/ardua\">terras\nNili</a>, coniunx Pontum fortes antistita volucris\nharenae viribus. Atlantis referemus aequora.</p>\n<blockquote>\n<p>Silentia diu tempora digitos velox stamina porrexerat vindicet hunc: componit.\nLaeva praetincta cera Agenorides ferenti quae. Mari leges quem domus, viro\n<em>in</em> colloquium hoc; Solis et illic perstant, auctor, ferrea ad circumvolat!\nFunctaque sic tribus utrumque addidit querorque forumque vitamque nihil fecit\nalimentaque <strong>inde</strong>.</p>\n</blockquote>\n<p>Fluvios repetemus ora ait Niobe perdant Cycno quam tutaeque, in a in. Ficti\nostendit scabrae internodia tellure resolvent, dedisset vicinaque perque frutex.\nInde quod Est via ruit subsunt vulnus, preces cunctis; ait arcus silices\neiectum, votis, imas.</p>\n",
+  "excerpt": "<p>Lorem markdownum, haec <em>e pectore lupo</em> attritas recingitur deam trepidat causa\ndicebat titubantis tota furit Cerealia incurvis deiecto\n<a href=\"http://ostendunt.com/nostris-adstitit\">scilicet</a>. Annosque et Troiana sustinet\nguttura, in excutis, et nuda. Sorbere licet repulsae mitissima et dryadas dicere\net articulos illos insanis: valvis perque carmine et haud! Tum te et anguem, vel\n<strong>laudes culpetne</strong> adesse creavit constabat,</p>\n"
+}

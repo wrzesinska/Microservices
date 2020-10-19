@@ -1,0 +1,82 @@
+{
+  "id": "1377",
+  "name": "Womens Black Floral Culotte Summer Pants",
+  "price": 78.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 20,
+    "average": 3.36
+  },
+  "category": {
+    "id": 125,
+    "name": "Pants"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Floral",
+    "Summer",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1377,
+      "image_url": "https://images.unsplash.com/photo-1591473692114-dfd4fd90f839?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1377/1.jpg"
+    },
+    {
+      "product_id": 1377,
+      "image_url": "https://images.unsplash.com/photo-1591473695663-06951e915115?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1377/2.jpg"
+    },
+    {
+      "product_id": 1377,
+      "image_url": "https://images.unsplash.com/photo-1591473699159-a852e213f9e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1377/3.jpg"
+    },
+    {
+      "product_id": 1377,
+      "image_url": "https://images.unsplash.com/photo-1591473697919-1f04bf243251?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1377/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13770100,
+      "feature_id": 100,
+      "product_id": 1377,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13770100,
+      "feature_id": 100,
+      "product_id": 1377,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13770100,
+      "feature_id": 100,
+      "product_id": 1377,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13770200,
+      "feature_id": 200,
+      "product_id": 1377,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Stantem hac nunc quae iter adloquitur terra</h2>\n<p>Lorem markdownum virginibus rigidi dextra. <em>Nefandis</em> lepores o milibus,\nAusoniae dabat oneris thalamumque praeceps illos, nam pharetra tamen, et.\nComparat dixit nubibus, <em>ut Atridae</em> abest <strong>pulsabant dignamur</strong> rediit pars.\n<em>Quae est</em>, mansura quibus coierunt adsiluit.</p>\n<h2>Rhoetus ab pascua</h2>\n<p>Fuit insilit tepido quam miratur utilis tetigisse tenent passa vetustas, vos!\nNec et vobisque reliquit: per quis <em>pars</em> inpius Isi plangor adfligi\n<strong>conveniens</strong> cavas: fontis inane. Corpore vocari sine, in <em>comes</em> inpressa.\nTegit insigne galea conparentis movent est <a href=\"http://navigatcorpus.io/sequuntur\">temptanti geminat\nobstas</a> tu secundi equo nec sed rudente\nsudore curvae trepido.</p>\n<h2>Et aetas ille limine</h2>\n<p>Hunc et tauri <a href=\"http://motu-mediae.io/in.html\">pereunt</a>, bis tua exclamat uti\nforma <strong>novantur inmenso genibusque</strong> Solis. Isto exspirat Tarentum arma.\nRetinens corpusque, quantum inde ter nam scindere, <strong>parsque</strong>. Ad doluere\navidum, superi, glacies dixit.</p>\n<p>Maeandri mihi catenis via dolore? Et ait Ethemon. Parnasi pontus petit Astyages\naequali. Et nubibus <a href=\"http://domus-eripe.com/oppositumque-armos\">deflexi</a> iungit,\n<a href=\"http://et-et.io/moenia\">cape ut</a> humum aquas, excidit.</p>\n<h2>Medius formosa volucres intravit de saepe</h2>\n<p>Tetigisse in dolores redit spectatam vita; suras pavidum narretque dummodo\nadeunt. Et papilione superi! Mitis ille quo <a href=\"http://protinusin.io/\">Perseus\nCephalum</a>; ne est tuta cum forte rore sic purpureum.\nSimul addere rapax vulnus ad latet; cernentem intravimus quam, saxa per torquet\nnec, parte? Poma ait domat retusa latrantibus neque aetas rogari formaeque\ndonec, eripienda pericula illa, flavescere Nereaque.</p>\n<p>Tanta bicorni? Quam et piceae et est vultum Insania et utque tangere Iuppiter:\nEryx est, laurea. Simul imitantia disiecit fere inmansuetumque tamen excutior\nlingua radices simul, unda non innumerae <strong>referre</strong>.</p>\n<p>Aetnam <strong>conlectae rupit sanguineam</strong> pelle coepta ex Baccho linquit convivia\ndecepto caespite. Et adest esse, modo nulla telaque Lacinia ut quoque turis\nfulgentem capta defendit. Timori adspexit fueris aureus: tandem Eetioneas magna\net potest erat apertas: <em>parantem</em>. Se quidem telae marmorea poenamque supersunt\nvulnera illum; est ademi vomentem, Troiana sanguine oris. Amo mens feris dicere,\nvicta, in quater innitens, et carere.</p>\n",
+  "excerpt": "<p>Lorem markdownum virginibus rigidi dextra. <em>Nefandis</em> lepores o milibus,\nAusoniae dabat oneris thalamumque praeceps illos, nam pharetra tamen, et.\nComparat dixit nubibus, <em>ut Atridae</em> abest <strong>pulsabant dignamur</strong> rediit pars.\n<em>Quae est</em>, mansura quibus coierunt adsiluit.</p>\n<p>Fuit insilit tepido quam miratur utilis tetigisse tenent passa vetustas, vos!\nNec et vobisque reliquit: per quis <em>pars</em> inpius Isi plangor adfl</p>\n"
+}

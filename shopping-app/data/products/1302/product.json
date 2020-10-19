@@ -1,0 +1,84 @@
+{
+  "id": "1302",
+  "name": "Mens Orange Woollen Chilled Sweater",
+  "price": 84.99,
+  "price_promo": 69.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 202,
+    "average": 2.19
+  },
+  "category": {
+    "id": 111,
+    "name": "Hoodies and sweaters"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Chilled",
+    "Woollen",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1302,
+      "image_url": "https://images.pexels.com/photos/4110882/pexels-photo-4110882.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1302/1.jpg"
+    },
+    {
+      "product_id": 1302,
+      "image_url": "https://images.pexels.com/photos/4110929/pexels-photo-4110929.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1302/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13020100,
+      "feature_id": 100,
+      "product_id": 1302,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13020100,
+      "feature_id": 100,
+      "product_id": 1302,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13020100,
+      "feature_id": 100,
+      "product_id": 1302,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13020100,
+      "feature_id": 100,
+      "product_id": 1302,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13020100,
+      "feature_id": 100,
+      "product_id": 1302,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13020200,
+      "feature_id": 200,
+      "product_id": 1302,
+      "name": "Color",
+      "value": "Orange"
+    }
+  ],
+  "description": "<h2>Eris dictae dumque</h2>\n<p>Lorem markdownum famulas; sic <em>vana etiam</em> ingreditur pectus Venerem parentem,\nagrestem. E <strong>pater Macedoniaque</strong> gerat consurgere <strong>mitte nec</strong>, est aderat\neducat comites moratos. Neptune <strong>forma</strong> auctoribus remansit, colitur spatio\ndeceptaque Pallene Chaos; <strong>tua coniunx erat</strong> inplet humi, ore Aetolius\nobsessos?</p>\n<ul>\n<li>Oceanum pectora Vesta gratia</li>\n<li>Summum laevum</li>\n<li>Posceret anni est quaeque genua nec Tritonidis</li>\n<li>Et radix semicremoque accipit quod silvae est</li>\n<li>Post mille</li>\n<li>Spectabat invenies in mare</li>\n</ul>\n<h2>Puerum quid</h2>\n<p>Ficto periclis, retro. Aera hunc refers, in <strong>arma monstra</strong>? Qui Troes merui,\n<strong>faciat erat</strong>; hic cessit orant.</p>\n<h2>Taedia habet Semeleia</h2>\n<p>Flumina quibus dum velle erat? Doloris visaeque freta, me quam mare habes!</p>\n<p>Est es versabat isse; crescens licebit\n<a href=\"http://www.pondere-exiguis.com/\">relinquit</a> ferarum aliqua illi. Illi viguere\nintima sequentis tamen. Eram festinant qui tecta exercent aether in nec qui diu\nsua colloque resque <a href=\"http://supra.io/notissima-fecit\">vitta sic</a>, Marte.</p>\n<h2>Antraque et sunt utrumque meus currum de</h2>\n<p>Quae deorum ad digna revirescere tuus flagrant aspergine quantas domos formosus\nplangore <em>Phaethonta in</em> foedari! Periturus armatur, morientibus illi silvarum,\nsuperest positis tenebrae lucis, Phoebeos capillos: vertit referens verso Troum\nvultu. Pindumve et cervice natae Nereaque inque, at altae, cauda. Constitit\ninsons Paesti, baculum pelle. Artes petiitque Delos et germana sicut frugum\nnulla facinusque inquit pariter in terram.</p>\n<h2>Nubes extremas in pietas orbem et vult</h2>\n<p>Agitque aranea, <em>quale ramos et</em> et aliter exemplo longo, intrata in adiit\n<a href=\"http://sedecrinales.com/\">pontifici</a>. Simul in Colchide furibunda dedere curis,\nnec nos quisquam! Gerentem in hanc petisses, nec <a href=\"http://visuraque-admovet.net/carosper\">me\nquateret</a> nec pennas tua nunc commentaque\ndabit brevissima eademque bella nam: portabat. Non umeris, lacrimantia digitis\ndistantes ab dixit membrana Troada; iam centum, ubere? Modo nec domus moraque\nhunc Tyros platanum infelix, et nata.</p>\n<p>Et vidisse animo hac ora saltumque Quirino nullus, igni pictasque. Et detinet\nflexos <em>praedator dedisti</em> ingenium pedumque ut furtum ille, vulnus torvo\nadverso nemus, nactusque! <em>Te</em> habitant, tot fletus genus lauro cruore probat\nignorant neque. Fuit qui eadem fuit, ad posito consenuere virtus; per Sidonide\nmelioribus pectora dumque contemptrix. Altius et natus excidit Phoebe, adhuc\n<a href=\"http://spes.io/\">Argis quo</a> plus rex cedentique.</p>\n",
+  "excerpt": "<p>Lorem markdownum famulas; sic <em>vana etiam</em> ingreditur pectus Venerem parentem,\nagrestem. E <strong>pater Macedoniaque</strong> gerat consurgere <strong>mitte nec</strong>, est aderat\neducat comites moratos. Neptune <strong>forma</strong> auctoribus remansit, colitur spatio\ndeceptaque Pallene Chaos; <strong>tua coniunx erat</strong> inplet humi, ore Aetolius\nobsessos?</p>\n<ul>\n<li>Oceanum pectora Vesta gratia</li>\n<li>Summum laevum</li>\n<li>Posceret anni est quaeque genua nec Tritonidis</li>\n<li>Et radix semicremo</li>\n</ul>\n"
+}

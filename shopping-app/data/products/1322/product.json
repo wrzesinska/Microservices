@@ -1,0 +1,75 @@
+{
+  "id": "1322",
+  "name": "Mens Grey&Orange Thin Sports Jacket With Removable Sleeves",
+  "price": 118.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 172,
+    "average": 3.36
+  },
+  "category": {
+    "id": 114,
+    "name": "Jackets and coats"
+  },
+  "brand": {
+    "id": 104,
+    "name": "Sportway"
+  },
+  "tags": [
+    "Sport",
+    "Thin"
+  ],
+  "images": [
+    {
+      "product_id": 1322,
+      "image_url": "https://images.pexels.com/photos/2779631/pexels-photo-2779631.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1322/1.jpg"
+    },
+    {
+      "product_id": 1322,
+      "image_url": "https://images.pexels.com/photos/2767612/pexels-photo-2767612.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1322/2.jpg"
+    },
+    {
+      "product_id": 1322,
+      "image_url": "https://images.pexels.com/photos/2779628/pexels-photo-2779628.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1322/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13220100,
+      "feature_id": 100,
+      "product_id": 1322,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13220100,
+      "feature_id": 100,
+      "product_id": 1322,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13220100,
+      "feature_id": 100,
+      "product_id": 1322,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13220200,
+      "feature_id": 200,
+      "product_id": 1322,
+      "name": "Color",
+      "value": "Grey"
+    }
+  ],
+  "description": "<h2>Omnes visa furca mundus carent sudore felix</h2>\n<p>Lorem markdownum suco perstat nos deus et subduxit pigra clementia stet Nereius\nfoliis venerat fistula, mea. Genus vultum: ait alios! Biformis sonum, et si\nhosti obsita, et di fuerat locum <em>deseret</em>. <em>Discede</em> in esset, qui verba spes\nprimordia cupido duorum. Hic <strong>cava</strong> duro fugant, saevior mater vulgata,\nquaeris manu stupet.</p>\n<h2>Tempora virili</h2>\n<p>Pensa auxiliaria parens, et hac modus postquam; illic sidera! Adpellatque eminet\numida arae!</p>\n<p>Ait silva <em>silet</em>. Capi iamque meritoque, Eurylochum solverat possis. Opus saepe\nequo demisere mihi caesariem faventibus dixit, Aeas stant, saeva quam dedit\nignes coepere et patria.</p>\n<h2>Iubent anili ictus ad</h2>\n<p>Primo et <a href=\"http://rudi-dederis.net/\">invicti palmas placuisse</a> iamdudum!\nVelamenta conlegerat per! Per nuntius fulvo curia caeli ora eodem sanguine\nPhaethon Forsitan illo alis quos. Cum si laetaris locumque inritat et diremit\ncandidus et veluti Aurora me et nomen aer; ore.</p>\n<blockquote>\n<p>Quique quos tangi vocat falcatus precor avidi lacrimaeque ni ratione parentis\nhabebat animosa. Mitte tulit licet; alter enim: illius in acceptos mecum,\nadeunt rutilasque auras moderantum valuit. <strong>Est</strong> in ingemit molles. Agmen\ncepi fidesque nec, quos <a href=\"http://terrae-cum.com/arida\">ante cum fateor</a>\ndeciperetur caeruleas est tenues auras.</p>\n</blockquote>\n<h2>Et solida erat per hanc et cape</h2>\n<p>Pulvere missum curribus ad regina <strong>fecit</strong>? Ora barbam stemus timor contraque\nsolebat: arma lacus aprorum quidem duri. Moderamine sitvs. Toto poste, reperitur\nvixque forcipe munera spissatus adsumus etiam tum carpserat, optastis, in\ndeserto deprensa decimo foedera.</p>\n<p>Taceam sitim non Aethon cum <em>abit tum nec</em>, fuit fert etiam; mixta unda ire\npraecordia humano plura Circe. Citra inaequales dicturus Laestrygonis cornu, nec\nparens cum, et <em>unum</em>. Et terras virgo dixit adfuit sanguis, <strong>mensis</strong>, est\nrecepta sive pariterque, <em>aut ille</em>. <em>Crura infelix ululatibus</em> septem\nadmonitorque facie <em>quoque</em> devexaque harena vi munus quamvis, auro plurima\nPhocaico agitasse.</p>\n",
+  "excerpt": "<p>Lorem markdownum suco perstat nos deus et subduxit pigra clementia stet Nereius\nfoliis venerat fistula, mea. Genus vultum: ait alios! Biformis sonum, et si\nhosti obsita, et di fuerat locum <em>deseret</em>. <em>Discede</em> in esset, qui verba spes\nprimordia cupido duorum. Hic <strong>cava</strong> duro fugant, saevior mater vulgata,\nquaeris manu stupet.</p>\n<p>Pensa auxiliaria parens, et hac modus postquam; illic sidera! Adpellatque eminet\numida arae!</p>\n<p>Ait silva <em>silet</em>. Capi iamque meritoque, Euryloc</p>\n"
+}

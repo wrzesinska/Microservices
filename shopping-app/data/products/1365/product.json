@@ -1,0 +1,82 @@
+{
+  "id": "1365",
+  "name": "Womens Black&Grey Top In Stripes",
+  "price": 54.99,
+  "price_promo": 39.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 6,
+    "average": 4.53
+  },
+  "category": {
+    "id": 123,
+    "name": "Tops"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Stripes",
+    "Basic",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1365,
+      "image_url": "https://images.unsplash.com/photo-1530816735136-2ea32281ba3f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1365/1.jpg"
+    },
+    {
+      "product_id": 1365,
+      "image_url": "https://images.unsplash.com/photo-1530981785497-a62037228fe9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1365/2.jpg"
+    },
+    {
+      "product_id": 1365,
+      "image_url": "https://images.unsplash.com/photo-1531072691779-e63bed04bd6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1365/3.jpg"
+    },
+    {
+      "product_id": 1365,
+      "image_url": "https://images.unsplash.com/photo-1531502687822-e39bc1b57be9?ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1365/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13650100,
+      "feature_id": 100,
+      "product_id": 1365,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13650100,
+      "feature_id": 100,
+      "product_id": 1365,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13650100,
+      "feature_id": 100,
+      "product_id": 1365,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13650100,
+      "feature_id": 200,
+      "product_id": 1365,
+      "name": "Color",
+      "value": "Grey"
+    }
+  ],
+  "description": "<h2>Ex adspicit posco arboribus caligine quid</h2>\n<p>Lorem markdownum nuda. Iam commota solidum minimum undis stupet.</p>\n<blockquote>\n<p>Hac vestigia, Siculaeque mihi. Ante cum <em>novissima satum thymo</em> loqui\ntumulatus quoque nitar ignarum Menephron memorabile gemma; <a href=\"http://est.net/illis-in\">cepi haud\nres</a> Thereaque transit, non. Posse maternae laetitiam\nDenique <a href=\"http://stemus.io/\">loca</a>! Mihi recessit auro novissima\n<a href=\"http://duos.net/alcyonen\">alumnae</a> dabat.</p>\n</blockquote>\n<h2>Ante aeris</h2>\n<p>Manus unguibus curia removere; essem adire indoluit ullus <strong>Procnen cauda</strong>,\nSusurri. Que sic vox; cruore pax tonitrua utque motu non prima uterum. Mediaque\narida nullus Perseu admonitus inplebo vipereas quid medere contigit <a href=\"http://cepere.net/occupat.html\">longior\ndona flamine</a> de lucem sollicitis turres.</p>\n<h2>Palmae sperne</h2>\n<p>Mihi cacuminat, terras, viderit nemo haerent omnia languida; ubi caecaque et\n<a href=\"http://primum.net/noceat.aspx\">opem</a>! Deus haerentem admoto. Inposuit Delonque\nenim excutit aut. Hoc <em>pomo dederint</em> micat paludem causa deposuit, o marmore\nnunc hoc dira adnuit adsueta, indigenae! Furcas retinens collesque erat\nfaticinasque alium, silvis cana dixit convertit balatum orbem stabantque, tandem\nperque.</p>\n<p>Vestros est ambas Danais nuntiet propiore ardua videntur cum facta vota rigidas\nsopitus est quam pulveris. Laeva loca laeva nescia poscimur operi, ab ipse\ntales; firma bracchia; manifesta coeperunt. Calcitrat stratum nunc!</p>\n<h2>Novi rapta adnuat vim gravemque sint</h2>\n<p>Firmas comes Iovis culpam cycnorum pendebat: rescindere ferebat, adnuimusque.\nQuodque videre animo dum, et illi: fetibus aper. Procul non, falsis ne quicquid\nsoror arisque accessit vultu <a href=\"http://suos.net/\">ut undaeque</a>. Adulantum levabas\npelagi non potest et exacta precaris infra morsibus in praemia morte. Cum ilia\nadultera fuit per tandem sollicita natus ferrugine cortice ramis.</p>\n<ol>\n<li>Dederant et iustissimus velox silices potuisse</li>\n<li>Membra tinguamus squalidus illa ipsamque ibat sospes</li>\n<li>Et maturae Aiaci</li>\n<li>Quod fuso sine cum grave aventi canna</li>\n</ol>\n<p>Aurum suis satis, ceris tuta saepe ad gere <a href=\"http://per.org/seque-tali.html\">in retro\ncomprenditur</a> veste; primasque positos! Fallaces\nnomine candida restantem ex fagus, e columbis ferum, via iste <em>Scirone</em> quoniam,\nesse dicta, in! Desubito dextra fiunt: parte auras inpavidus frustra <a href=\"http://www.blandita.org/annumme\">vocari\nsumpsitque amavit</a> nec <strong>lacusque sole</strong>\ntransmittere facinus ara. Ruborem et obusta gradu potestas gelidumque super\nmuneris: pietatem morer Calydonia certum veniente recumbere poenas matrum.\nCaelesti lingua.</p>\n",
+  "excerpt": "<p>Lorem markdownum nuda. Iam commota solidum minimum undis stupet.</p>\n<blockquote>\n<p>Hac vestigia, Siculaeque mihi. Ante cum <em>novissima satum thymo</em> loqui\ntumulatus quoque nitar ignarum Menephron memorabile gemma; <a href=\"http://est.net/illis-in\">cepi haud\nres</a> Thereaque transit, non. Posse maternae laetitiam\nDenique <a href=\"http://stemus.io/\">loca</a>! Mihi recessit auro novissima\n<a href=\"http://duos.net/alcyonen\">alumnae</a> dabat</p>\n</blockquote>\n"
+}

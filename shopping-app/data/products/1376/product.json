@@ -1,0 +1,77 @@
+{
+  "id": "1376",
+  "name": "Womens Black Cotton Organic T-shirt With Beauty Magazine Print",
+  "price": 64.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 54,
+    "average": 3.63
+  },
+  "category": {
+    "id": 124,
+    "name": "T-shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Cotton",
+    "Organic",
+    "Print"
+  ],
+  "images": [
+    {
+      "product_id": 1376,
+      "image_url": "https://images.unsplash.com/photo-1591562421702-5d010c4c9ba5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1376/1.jpg"
+    },
+    {
+      "product_id": 1376,
+      "image_url": "https://images.unsplash.com/photo-1591562421634-026d31c2eebf?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1376/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13760100,
+      "feature_id": 100,
+      "product_id": 1376,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13760100,
+      "feature_id": 100,
+      "product_id": 1376,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13760100,
+      "feature_id": 100,
+      "product_id": 1376,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13760100,
+      "feature_id": 100,
+      "product_id": 1376,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13760200,
+      "feature_id": 200,
+      "product_id": 1376,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Erat ede debere</h2>\n<p>Lorem markdownum ipsum, et Phoebus Babylonia Thracum medio, poma mihi, regio.\nDefendere sudem, Euphrates radiis, utque cui ignemque et scire frangunt; ut.</p>\n<p>Me lacrimantia nupta spiritus baculi prodest omnes rerum pennisque remansit\n<em>motae</em>. Tollite ratem <strong>quoque</strong>. Non sibi utque auditaque longe pugnantemque\nfera, est mihi nidum se mihi, gaudens de pondus facta.</p>\n<h2>Taxo illi tellus animam</h2>\n<p>Dabant suadet, aevi praeferre exspectat quia, ante suae solet ad coitusque\nvincit murmure Venulus. Te meis velamina, viderunt coronatae oves parsque\nsistunt Cinyphiumque rapax. Inferias amissos <em>Phrixeaque</em> alii gaudet orba ossa\nPhoebus tempore Achilles quibus.</p>\n<p>Sine spes matre ibi <em>facinus carmina media</em>, sapiente que. Fuga Imbreus <em>nunc</em>!\nPartu membra <strong>iste</strong> necis inpleratque aliter constitit niveis: onere fuit\ntenet, et aristas armis auctor minoribus qui. Casu funere ipse iuvenem operum\nfortiter <a href=\"http://etmites.net/parant\">ripae ruris</a>, roges nota hoc: apri. Et <a href=\"http://www.divamanusque.com/est\">qui\nclamanti</a> sive viribus.</p>\n<p>Litus talia: virginitas victae laudemque utrimque dat auctor virum. Cui Iulius\ntamen accessit, coniunx.</p>\n<h2>Urbe pronus movere</h2>\n<p>Optat quorum carinam retinentia nemus, me corpora bracchia materna queri et\nvocisque, erubui. Velaturque ligo viae factum non vultu restabat Pygmalion\nsedens <em>in</em> exegit quaecumque, fluctusque. Poteram simul cuperet melior aliquos\ndeclivis neque fulminis, mentem proiecerat. Potest Laestrygonis flumina fatorum,\nest te pallorem diffudit aris.</p>\n<p>Unius et matris in Amor in, apte hunc frequentat tellus. De accipe fer ipsumque\nagitant vara numina aetas <em>tibi parilique</em> sive iniecit velocius deo. Deficiunt\nquoque, recesserat est vix, Ophias: fuerat et arbor squalentia procellamnos\nRhoetei dedit, saevisque inque. Pessima Pallade.</p>\n<p>Ultorque oculos sis illo vix, turea. In clamat sua, mutet, infans rutilum\nrigescunt statuo, quod, domus. Decebat per. Trunci aut argenti, est inposuit\nsecum fert abstulit sulphure disque fudit, iam?</p>\n",
+  "excerpt": "<p>Lorem markdownum ipsum, et Phoebus Babylonia Thracum medio, poma mihi, regio.\nDefendere sudem, Euphrates radiis, utque cui ignemque et scire frangunt; ut.</p>\n<p>Me lacrimantia nupta spiritus baculi prodest omnes rerum pennisque remansit\n<em>motae</em>. Tollite ratem <strong>quoque</strong>. Non sibi utque auditaque longe pugnantemque\nfera, est mihi nidum se mihi, gaudens de pondus facta.</p>\n<p>Dabant suadet, aevi praeferre exspectat qu</p>\n"
+}

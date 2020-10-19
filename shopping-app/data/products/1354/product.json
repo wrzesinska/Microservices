@@ -1,0 +1,83 @@
+{
+  "id": "1354",
+  "name": "Womens White&Violet Off-shoulder Floral Summer Dress",
+  "price": 108.99,
+  "price_promo": 88.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 116,
+    "average": 2.11
+  },
+  "category": {
+    "id": 121,
+    "name": "Dresses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Floral",
+    "Off-shoulder",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1354,
+      "image_url": "https://images.unsplash.com/photo-1560869532-046871e213c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1354/1.jpg"
+    },
+    {
+      "product_id": 1354,
+      "image_url": "https://images.unsplash.com/photo-1560869545-7918f2d4f1a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1354/2.jpg"
+    },
+    {
+      "product_id": 1354,
+      "image_url": "https://images.unsplash.com/photo-1560869532-6d9c4e43e97f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1354/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12540100,
+      "feature_id": 100,
+      "product_id": 1354,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12540100,
+      "feature_id": 100,
+      "product_id": 1354,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12540100,
+      "feature_id": 100,
+      "product_id": 1354,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12540100,
+      "feature_id": 100,
+      "product_id": 1354,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12540200,
+      "feature_id": 200,
+      "product_id": 1354,
+      "name": "Color",
+      "value": "White"
+    }
+  ],
+  "description": "<h2>Illos tulit isto sancta</h2>\n<p>Lorem markdownum vacuosque rector indignantia nullam Ionium prohibet demisere!\nSim tamen percussit ultusque inque pater pallae tactuque an abit decoris potiar\ndies et fata trahunt agant praedator\n<a href=\"http://concrescere.org/amphrysi.aspx\">decolor</a> rapidi.</p>\n<ol>\n<li>Se vir notissima</li>\n<li>Atque amor levi te admonitu vultu et</li>\n<li>Et conscia conbibit</li>\n</ol>\n<h2>Posuit displicet premis</h2>\n<p>Inmisitque alterius census Polydegmona tutus spemque iterum Liternum mactatos\nmulcebant lustra: <strong>Cepheni bella parte</strong> tumulo oraque Ulixes; iuvenis. Tu\nmirabile custodit cinnamaque stet, nisi, <strong>succiduo Iuno una</strong> Cernis crederet\nreseminet carmen. Quamquam victor mentior enim armis filia: opus dixit, dei\nconsistere <strong>audent</strong>. Quae fixo <a href=\"http://quodcaelo.com/\">enim</a>: vocavit forma,\nita nihil poena levavit saucia <em>mea</em>, et sparsa.</p>\n<blockquote>\n<p>Inponit per nivibus exceptas; moram ait aures laticem. Nunc multaque supplice\nconfertque si cum, egere, Timoli silentum et lapidum, tenuit et aversum.\nHercule dabitur capillos, te sub genitoris et septem pennas mea manus Apolline\nThreicio fletumque! Sceleri venerit os quem tenebris, usus vocavit Iason alte\npater: mea multo quaeri abest <strong>monstrique</strong>, violentaque campus. Divitior\npectebant <a href=\"http://dilectae.org/fit\">ista testatum</a>, incursu damnatus, quaerit\net.</p>\n</blockquote>\n<h2>Harenam promittuntque ausum</h2>\n<p>Pars Solem mihi tingui pio: sibi iam cum, et aera.\n<a href=\"http://iustius.net/utque.html\">Inplacataeque</a> flores eo ablata quodam in\ntalibus de frontem <a href=\"http://perluitur.io/\">Turnus</a> nec aliquem. Cernis adhuc\nsustineant, et duodena Acrisio; redeunt tradita, natus brevissimus umbras\nPhaethonteos ecce, adspicit? Morsu <em>dubio</em> ergo solita ventos delapsa o verba\nqui solet indurata cervice. Quos et etiam, vulneribus lustrat pronumque ora solo\nvidet clara fugatas.</p>\n<ol>\n<li>Summas ecce eripuit</li>\n<li>Dedit quae damnasse frequens premuntur meum illi</li>\n<li>Cava robora iussa stridore praecipiunt nascitur potentia</li>\n<li>De aura vestigia unam agros noxque tergora</li>\n</ol>\n<p>Volucrem in viae caudas dulce post, languida numen scelerata. Corpore\nbracchiaque ante, et Agre vaticinos continet tollere.</p>\n",
+  "excerpt": "<p>Lorem markdownum vacuosque rector indignantia nullam Ionium prohibet demisere!\nSim tamen percussit ultusque inque pater pallae tactuque an abit decoris potiar\ndies et fata trahunt agant praedator\n<a href=\"http://concrescere.org/amphrysi.aspx\">decolor</a> rapidi.</p>\n<ol>\n<li>Se vir notissima</li>\n<li>Atque amor levi te admonitu vultu et</li>\n<li>Et conscia conbibit</li>\n</ol>\n<p>Inmisitque alterius census Polydegmona tutus spemque iterum Liternum mactatos\nmulcebant lustra: <strong>Cepheni bella parte</strong> tumulo or</p>\n"
+}

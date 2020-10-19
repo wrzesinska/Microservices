@@ -1,0 +1,76 @@
+{
+  "id": "1313",
+  "name": "Mens Light Beige Long Thin Autumn Elegant Coat",
+  "price": 168.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 158,
+    "average": 2.23
+  },
+  "category": {
+    "id": 114,
+    "name": "Jackets and coats"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Autumn",
+    "Elegant"
+  ],
+  "images": [
+    {
+      "product_id": 1313,
+      "image_url": "https://images.pexels.com/photos/3027173/pexels-photo-3027173.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1313/1.jpg"
+    },
+    {
+      "product_id": 1313,
+      "image_url": "https://images.pexels.com/photos/3027176/pexels-photo-3027176.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1313/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13130100,
+      "feature_id": 100,
+      "product_id": 1313,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13130100,
+      "feature_id": 100,
+      "product_id": 1313,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13130100,
+      "feature_id": 100,
+      "product_id": 1313,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13130100,
+      "feature_id": 100,
+      "product_id": 1313,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13130200,
+      "feature_id": 200,
+      "product_id": 1313,
+      "name": "Color",
+      "value": "Beige"
+    }
+  ],
+  "description": "<h2>Torum mediaque pervenit formae Arcadiae Memnonis</h2>\n<p>Lorem markdownum postera erroribus velleribus <strong>lingua simul</strong>, o, onus\nHesperiosque vasta: ubi. Bis <em>pro</em>! Nec pater plangi <strong>enim sumere</strong> iuvenes,\nictus erat: Iovis neque cupiens aequora tam inquit, arce. Regimen ac grator\nparentis et minimae decutit. Aere adest enim aethere arcus tamen arva <a href=\"http://nutrix.net/verba\">est iura\nut</a> viva coeperat quam tum violentus aut.</p>\n<p>Miserabilis vinci volucres debes. Ora iam probabant guttura vocisque, ego quem\nadveniens armos numen siccata addidici laceranda adhaerent Cumaea: agros. Currus\ntacito, condidit vacuo probavit questuque illam <strong>indignis est</strong> ipse dicar\npugnantem an iniquis tanta; tibi.</p>\n<h2>Parari spatium et ignarus mihi</h2>\n<p>Usus manes possent. Nostra Oleniae. Ventura templa vellere, volucrum a clara\n<em>fidelius legem</em> participes herbis Hylaeusque rictus nihil possent requiris.</p>\n<p>Sententia Astyages super, ille generis, non corde praelata se recenti et adest\ncum prolem. Si imis enim, at figuram tacto mediis! Sed finis, aequore te\ndesectum ossibus solvere commissaque, ecce. Caput Danaen teneras ponunt thalamos\nTyphoea rurisque: litora procumbere tabuit vidisse ignara mollis litusque; per\nlocus nec id. Redit per quid, per oculos quos, <a href=\"http://www.aevised.com/atrides-amoris\">per aethere\ndolor</a> per epulas vernat nec sanguis\nTalibus Lacon.</p>\n<h2>Caput letalem bacchaeque</h2>\n<p>Modo nec Tarentum lucoque. Quo <a href=\"http://succincta.io/utque\">quod</a>, mota <em>crimine\ntotum indignantia</em> deus <em>derexit meliore chrysolithi</em> prodit: in fraternos\nquamquam! Mare Bacchi morte, auctam! Sanguine et quae <strong>quoque</strong>, imagine, sub\noperum et femina inmotus. Tenet lancea sinuantur et est.</p>\n<ol>\n<li>Auras victu tribuam praecipuum vota</li>\n<li>Non vocis tacitus Iuppiter</li>\n<li>Thoantis factis nequiquam dura</li>\n</ol>\n<p>Vincite nupta mente, ad victum moenia inbellibus, tamen orbam hortus grata\numeris et invaserat. Deus erit haesit me prohibetque grata Aquilone\n<a href=\"http://aglauros.com/ventos\">odoriferae</a> nondum, tu. Seniles nullo, negavit\nderant; secundo viribus non et per fiat iugulum.</p>\n",
+  "excerpt": "<p>Lorem markdownum postera erroribus velleribus <strong>lingua simul</strong>, o, onus\nHesperiosque vasta: ubi. Bis <em>pro</em>! Nec pater plangi <strong>enim sumere</strong> iuvenes,\nictus erat: Iovis neque cupiens aequora tam inquit, arce. Regimen ac grator\nparentis et minimae decutit. Aere adest enim aethere arcus tamen arva <a href=\"http://nutrix.net/verba\">est iura\nut</a> viva coeperat quam tum violentus aut.</p>\n<p>Miserabilis vinci volucres debes. Ora iam probaba</p>\n"
+}

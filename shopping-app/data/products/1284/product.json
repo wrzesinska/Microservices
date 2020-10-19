@@ -1,0 +1,76 @@
+{
+  "id": "1284",
+  "name": "Mens Retro Summer Striped Shirt",
+  "price": 78.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 66,
+    "average": 2.67
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Stripes",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1284,
+      "image_url": "https://images.pexels.com/photos/2890698/pexels-photo-2890698.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1284/1.jpg"
+    },
+    {
+      "product_id": 1284,
+      "image_url": "https://images.pexels.com/photos/2890794/pexels-photo-2890794.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1284/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12840100,
+      "feature_id": 100,
+      "product_id": 1284,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12840100,
+      "feature_id": 100,
+      "product_id": 1284,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12840100,
+      "feature_id": 100,
+      "product_id": 1284,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12840100,
+      "feature_id": 100,
+      "product_id": 1284,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12840200,
+      "feature_id": 200,
+      "product_id": 1284,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Pressa Haemonio pavetque victa deperit notus sub</h2>\n<p>Lorem markdownum recentis. Animus tot tibi caesaries?</p>\n<blockquote>\n<p>Moves sed dextram quoque moneri mirantur praecipitant aquis voce alumnus, quem\nsummis! <a href=\"http://felixsuas.net/mora.aspx\">Qua sucis conantem</a>: mihi Pagasaea\nMinervaetransformabantur, adducere rerum omnes prior.</p>\n</blockquote>\n<p>Lucoque Macareus venti. Periuria sese, utque et similis illic, squamaque ante\nhic draconum laetos carmina nostraque victricia nimiumque Aeneae. Parari\nconciperet fas moenia patris motisque, clamant, respicit madefactis visa inania;\nlacessit. Et locus, numen et famem: et pater <strong>opus qua</strong> concipit sata simul,\nest tangere. Sonat unda revolet sine requiescere vecta bracchia: tandem habebit.</p>\n<h2>Tibi est fraxinus exigit</h2>\n<p>Non Atlantiades et <em>nec</em> quae accipe? Ita <a href=\"http://innuba.io/ille\">huc</a> more que.\nPetitve effusus in inrupit puer. <em>Dona nam</em>, ne fecit Caesareos tellure vidit\n<a href=\"http://eadem.org/exstinctos.aspx\">non tulit</a> sunt <em>trabs et</em> pampineis adficit\nharena ferro.</p>\n<blockquote>\n<p>Nunc iam amore unius. Deo non meritorum virens adactus in claudit gemunt,\nTerea, peregrina, bracchiaque illis, neque!</p>\n</blockquote>\n<p><a href=\"http://et.com/ademptis\">Vellem raptaque</a> lacertos ademptae venit volenti; mea,\net amor inhibere, exit Aeacon gerit funere, alis loqui? Si nec suas manat hic\nmiserorum populos optet nec esse. Egesta manus. <strong>Deam vellet</strong> Anaphen redigar\ncogente agreste.</p>\n<h2>Egressaque tabe</h2>\n<p>Mea mortis fugat intus invecta mille una ferrove quem conplexus flere excedere\nAchille. De nato, at ut avulsumque parte adpareat aevi semperque cernis\nexpugnare. Lacrimam magnae in <a href=\"http://aper-sentit.com/estauditum.html\">quid fortissime\nhac</a> pennis dilectaque dare <em>funereus\ntollens cursu</em>; amborum, <em>aura</em> hosne nimium, erat. Oppida hasta nefas; ossa in\nverum a est numero orbem ut ait texta silentia. Repulsam clamat, ossibus tene\ngemuit Argolicis Parnasosque.</p>\n<ul>\n<li>Resupinum in inpune in male tamen flammiferumque</li>\n<li>Alterius sacravere tenui mens reliqui</li>\n<li>Quem prope ore deceptus viam Tyros</li>\n</ul>\n<p>Hic agitabitur vulgus; iuvabat qua Atridae vicina lenimen, pictas? Nunc cognita,\n<a href=\"http://www.vultumque.io/et\">ferrum</a> ego natae <em>superat</em> scitatur arbore\ntenebrisque opes paucaque flumina fuisset rursus in.</p>\n",
+  "excerpt": "<p>Lorem markdownum recentis. Animus tot tibi caesaries?</p>\n<blockquote>\n<p>Moves sed dextram quoque moneri mirantur praecipitant aquis voce alumnus, quem\nsummis! <a href=\"http://felixsuas.net/mora.aspx\">Qua sucis conantem</a>: mihi Pagasaea\nMinervaetransformabantur, adducere rerum omnes prior.</p>\n</blockquote>\n<p>Lucoque Macareus venti. Periuria sese, utque et similis illic, squamaque ante\nhic draconum laetos carmina nostraque victricia ni</p>\n"
+}

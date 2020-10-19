@@ -1,0 +1,62 @@
+{
+  "id": "1396",
+  "name": "Womens Retro Cateye Summer Sunglasses",
+  "price": 74.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 58,
+    "average": 4.64
+  },
+  "category": {
+    "id": 232,
+    "name": "Glasses and sunglasses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Retro",
+    "Cateye",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1396,
+      "image_url": "https://images.pexels.com/photos/2741059/pexels-photo-2741059.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1396/1.jpg"
+    },
+    {
+      "product_id": 1396,
+      "image_url": "https://images.pexels.com/photos/2733614/pexels-photo-2733614.png?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1396/2.jpg"
+    },
+    {
+      "product_id": 1396,
+      "image_url": "https://images.pexels.com/photos/2733614/pexels-photo-2733614.png?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1396/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13960100,
+      "feature_id": 100,
+      "product_id": 1396,
+      "name": "Size",
+      "value": "One Size"
+    },
+    {
+      "id": 13960200,
+      "feature_id": 200,
+      "product_id": 1396,
+      "name": "Color",
+      "value": "Pink"
+    }
+  ],
+  "description": "<h2>Seditio poenaeque lacusque glomerata mandata</h2>\n<p>Lorem markdownum foramine mellis. Pauper colla, me, ille celer tetigit pro\nsocerumque longi <em>vulgique</em>? Hector haererem adclivis obscurus, trunca <strong>pia\nTitaniacis</strong> esset litoris Asopidos primisque sentit <strong>factaque poscit</strong>!</p>\n<p>Te Aenea et morantur plura salute securosque, rosaria voces! Novissima est tu\npetebar ab queri <em>fatisque</em>.</p>\n<h2>Amores vulnera humo et patiere paulum tenebat</h2>\n<p>Pectora cacumen me edidit se ut quae poteratque haut. Nil excussit dis\ninconcessaeque fuso flammis sanguine summo sapiente iam nam bicorni sibi\nsollicitis! Prima vera, iacta, pugnaeque novat: temploque albida flamine:\nobstante angues oculos.</p>\n<ol>\n<li>Digna satia manes vertit cum flumine Graecia</li>\n<li>Male vocant me vincendo rebellant stratum modo</li>\n<li>Talia agat nec more piget</li>\n<li>Terras ineunt</li>\n<li>Iuvenale nostro</li>\n<li>Quam gelido</li>\n</ol>\n<p>Vestro tradere contactu cumque moves, flumine ad petita: tarda, cumque lateat in\nreiecit efficiet putes; vultibus. Lato conceptaque Molpeus? Petit tollens etiam\ntremulis, defensus; at moriens corpora. Sociorum cur; verberat petitos lexque,\npuris At terret testatus <strong>magica</strong> inarata.</p>\n<h2>Qua Oceanumque mirum</h2>\n<p>Iuppiter postquam enutrivere ab <em>gente concipit</em> ab iniit reseratis amat. Quae\ntamen lumen secundo in atrae cautus et rupibus duri; nec quem complexa dolet non\nsic opus iacuere pulcherrimus. Fluctus removerat Hecateidos tibiaque sub si\nmihi, amplexa vincla discrimine potest vaticinos fixit meque, nil temperat\ncervi.</p>\n<ul>\n<li>Patulis funera fert ademit oscula ora mora</li>\n<li>Aderat potes vulnere locum tempore</li>\n<li>Vero erat</li>\n<li>Rastrique es agilis</li>\n<li>Pirithoi sanguine aere omnem</li>\n<li>Pinnis aequora mortali iram nodosa verba radiantia</li>\n</ul>\n<p>Concursum magni narret cum ipso coeunt; tribus prompsit forma, mors foliis.\nMontani habe infelix fugit! Altae aera mens arbor sum spe celer adhuc telis\noblitis mansit, mihi nubila, recingunt, ebori ipse.</p>\n<p>Carmina sed tamen iurant, in cantatas te derexit: contingit umor lintea grandia\ninducere inmemor densa cum. Mulciber ungues Cereremque moras certamine\nstatuitque enim det gratia aethere venitis invidiosior precesque ipse, truncoque\ntorum radiantia! Cepit aut deos tulerant quaeque spectes; cantibus discite\nverbis! Cupido est.</p>\n",
+  "excerpt": "<p>Lorem markdownum foramine mellis. Pauper colla, me, ille celer tetigit pro\nsocerumque longi <em>vulgique</em>? Hector haererem adclivis obscurus, trunca <strong>pia\nTitaniacis</strong> esset litoris Asopidos primisque sentit <strong>factaque poscit</strong>!</p>\n<p>Te Aenea et morantur plura salute securosque, rosaria voces! Novissima est tu\npetebar ab queri <em>fatisque</em>.</p>\n<p>Pectora cacumen me edidit se ut quae poteratque haut. Nil excussit dis\ninconcessaeque fuso fl</p>\n"
+}

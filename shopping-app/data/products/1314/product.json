@@ -1,0 +1,74 @@
+{
+  "id": "1314",
+  "name": "Mens Light Blue Denim Jeans Jacket",
+  "price": 98.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 138,
+    "average": 2.75
+  },
+  "category": {
+    "id": 114,
+    "name": "Jackets and coats"
+  },
+  "brand": {
+    "id": 105,
+    "name": "BlueLabelDenim"
+  },
+  "tags": [
+    "Denim",
+    "Jeans"
+  ],
+  "images": [
+    {
+      "product_id": 1314,
+      "image_url": "https://images.pexels.com/photos/3130659/pexels-photo-3130659.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1314/1.jpg"
+    },
+    {
+      "product_id": 1314,
+      "image_url": "https://images.pexels.com/photos/3130655/pexels-photo-3130655.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1314/2.jpg"
+    },
+    {
+      "product_id": 1314,
+      "image_url": "https://images.pexels.com/photos/3130656/pexels-photo-3130656.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1314/3.jpg"
+    },
+    {
+      "product_id": 1314,
+      "image_url": "https://images.pexels.com/photos/3130652/pexels-photo-3130652.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1314/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13140100,
+      "feature_id": 100,
+      "product_id": 1314,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13140100,
+      "feature_id": 100,
+      "product_id": 1314,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13140200,
+      "feature_id": 200,
+      "product_id": 1314,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Movimus simul terris bracchia mihi consequitur gener</h2>\n<p><strong>Lorem</strong> markdownum ipsos, <strong>oculos</strong> dicere suspiciens loqui, ubi adeo. Quibus\nfontibus, non erat velox racemifero venis loqui sideraque et foret omnes\nscilicet quodque! Et fateamur multi consistuntque tecta; de sacrum concita\ncredere felix pruniceum segetes distinctus saevorum, aures Venus. Animum fessas\nnoster totoque; decidere nostros magnis, mihi an hoc luce vota ubera lurida, et.\nIubae trepidantem ilia coniuncti natalis; cavo consule, Nam ede: blandimenta\nerant sepulcris.</p>\n<p>Longo visus in natus nunc ante nescit, splendidior gratia alium, inlustre\nextulit. Licuit exiluit. Alis casus agnus quem captus, aliquis manus torsit haud\n<strong>murmura illa hostem</strong> velocior ventis. Inpresso quem iram pressit matris\nmittantur, praesagaque cava agitataque. Tyrrhenus invida <em>circumfluus atque</em>,\nIovis cani muro!</p>\n<h2>Domum lucis vulnera</h2>\n<p><em>Dicemur</em> Mulciber nec dum agit segnis orbem: ieiunia esse suasit, manu. Clara\niuvenali, trahebat in litore piscem fastus tecta <a href=\"http://www.spectabat-danaas.io/quaehaut.aspx\">noxque terras\net</a> triplici misso sit regesta;\nfaciendae.</p>\n<blockquote>\n<p>De tractaque supplex inter <strong>cognoscenda breve</strong> decimo, conbiberat orbem. Per\nausa aura, <strong>hoc</strong> cum quid Idomeneus Iuppiter est multi contraria per fuit\nlitora, Maenaliosque aequor nefas. Adimit aduncae aevo, mecum, gurgite, non\nnomina aliquid ab de, at. Vel occasus atque poplite, aequore saevaque ciconia\ncognata exempla malo femina deprensa venae amoris conligit dignum pectore.</p>\n</blockquote>\n<h2>Vires aut</h2>\n<p>Tum petit Thracum, natas haud hoc sum petentia sequitur ignes petunt hos, <a href=\"http://cura-cicatrix.org/\">tanti\nadsilientis potes</a>: que. Mulcet consumptaque aestu,\net fugerat fronte attrahit deae est. Dat filia deterritus mirantum, formidine\niuvencae audacia.</p>\n<h2>In dea Atrides tempora</h2>\n<p>Inpetus ipsos Marte: sortis arbore. Tu miserum <a href=\"http://fulminased.io/profuso\">ut Diomede\nablato</a>; iam pectusque terris loquendi iam\n<a href=\"http://www.adhuc.io/\">semel</a> silvas plus vocatur. Esses sed populi levat amare\net atria urbes, <em>modicisque</em> velit aberat obstipuit limina me. <a href=\"http://huc-fecit.net/arcuit-nereis\">Iove et\nfecit</a> Latreus abstemius famem carior uncos\nmeorum inhibere.</p>\n<blockquote>\n<p>Adicit ut celare unus ante ora, adiuvet puerum sollicitive intexto miles nemus\nrepetebam quasque! Orbe sine ibi veniens iustis sua si quid ore lacrimis\nTemesesque succumbere tulerit exstinctos alite, Io! Ibit indignantia Pallade\ngenus, et via deberi est, solvit sed. Flumina Pindo quod sulphura spernentem\npendentibus gentis magno tibi cursuque glandes spectant; fratris interea\nhasta.</p>\n</blockquote>\n<p>Incaluitque illi <strong>vinci sibi</strong>, Aiax cernis opem iubeatve paelex attenuatus.\nVult obrue lignoque tulit, conantemque levitate visum erant salute super sedit\nnon Iovem reseret. Revertentes Aurora inplevi superbia effulget Aetnen alvo\ntelluris Iuppiter cruore, leonibus Auroram renuente viae, nec Iovis, est.</p>\n",
+  "excerpt": "<p><strong>Lorem</strong> markdownum ipsos, <strong>oculos</strong> dicere suspiciens loqui, ubi adeo. Quibus\nfontibus, non erat velox racemifero venis loqui sideraque et foret omnes\nscilicet quodque! Et fateamur multi consistuntque tecta; de sacrum concita\ncredere felix pruniceum segetes distinctus saevorum, aures Venus. Animum fessas\nnoster totoque; decidere nostros magnis, mihi an hoc luce vota ubera lurida, et.\nIubae trepidantem ilia coniuncti natalis; cavo consule</p>\n"
+}

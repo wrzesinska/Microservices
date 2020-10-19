@@ -1,0 +1,89 @@
+{
+  "id": "1352",
+  "name": "Womens Black Maxi Floral Summer Dress",
+  "price": 98.99,
+  "price_promo": 84.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 95,
+    "average": 4.83
+  },
+  "category": {
+    "id": 121,
+    "name": "Dresses"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Floral",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1352,
+      "image_url": "https://images.unsplash.com/photo-1595444539570-8ad9b9825f58?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1352/1.jpg"
+    },
+    {
+      "product_id": 1352,
+      "image_url": "https://images.unsplash.com/photo-1595444616208-27b6b5df1875?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1352/2.jpg"
+    },
+    {
+      "product_id": 1352,
+      "image_url": "https://images.unsplash.com/photo-1595444663884-820ed8a41e0a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1352/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12520100,
+      "feature_id": 100,
+      "product_id": 1352,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12520100,
+      "feature_id": 100,
+      "product_id": 1352,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12520100,
+      "feature_id": 100,
+      "product_id": 1352,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12520100,
+      "feature_id": 100,
+      "product_id": 1352,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12520100,
+      "feature_id": 100,
+      "product_id": 1352,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 12520200,
+      "feature_id": 200,
+      "product_id": 1352,
+      "name": "Color",
+      "value": "Black"
+    }
+  ],
+  "description": "<h2>Metum nimium animo</h2>\n<p>Lorem markdownum quis: clavae imis sorores fraude e arces properas causa. Nomine\net et metuaris tradita. Desuetudine cultros et fugit Cerealia pedibus coniunx\nsic spes contulit in diversa! Citharaque Lycia <a href=\"http://piceiscernit.net/calamus\">corpora exierat\nadacto</a> thalamosque umor\n<a href=\"http://www.tenderetut.io/\">quam</a>, nam, anno. Sequemur miles caelestia ex\npraeter pudore, bibulas latus.</p>\n<p>Meque et ulla removit locum <em>plurima</em> Parin: sentite aurea. Solacia cecidit\ngeneratus salus quod et nec Lacon concurrere curre triumpha, pectora non oracula\ntamen ipse? Mutavit ratem sic mihi. Qui arma, nos pretium vinci ad me ferarum\nCrantor de volans aequore repulsae carinas nymphe prohibebar mediis Serpens\n<strong>fallere</strong>. Melanchaetes dolet onusque disiectisque neve mea genetrixque deum\nsubdita inprobe; autem esse quod pia calidis.</p>\n<h2>Necemque translata nunc</h2>\n<p>Et <strong>hoc pietas</strong> illius Alcyonen, <em>nebulas</em> quibus, Atlas ait semper si sub,\ncristae vile, ira! Exsangue urbesque ignis conticuere audentem!</p>\n<h2>Favet toto iam quaerunt inpulsu et habeto</h2>\n<p>Quo vocis Tyros! Iaculo Tempe haec dum negarent aspera Aiacis tremit, inminet\ndura, pontus!</p>\n<h2>Ista et inludens saepe ex levatus solo</h2>\n<p><strong>Somniferam solutum</strong>! Sed arbor, miserabilis tuta anhelis frigus verba: salus\ntremor. Favillam ei votis, abit notavi tacuit aliis pars vivo portas Metione.\nPrimus non totidem ait haeserat secreta ventre foedusque mota; nec <strong>spes sum</strong>.</p>\n<blockquote>\n<p>Nutricibus Aurorae, fera nemorisque et male saepe filia magnum mea rabiemque.\nEbur mirantem fas.</p>\n</blockquote>\n<h2>Navalibus mandata ad corpus</h2>\n<p>Contraque sine agri laborem pendentem quo cum, non premuntur comes parvae\nextemplo, terram haud. Laborant in semel; datura, formaeque vomens finem.\nExpulit potestas exstantem intervenit <em>fortiter</em> solebat. Virginea ergo letique\nexperiar missus temperie suorum. Et faciem inquit quatiens modo, cera qui\nadpellavere potuit et, digitoque Aiax omnes illi feruntur notam, moveant.</p>\n<blockquote>\n<p>Rutilos cursu albaque. Sic <a href=\"http://votisneptunus.org/foedo-scythides.php\">Fortuna\nfraterno</a>, praesens tellure,\naliquid in suadeat. Intendit vulnerat a plurima Tethys frustra dedit auras.\n<strong>Sensi</strong> ille silvas et repulsa, abit dabat illo est.</p>\n</blockquote>\n<p>Munera vetabant traiecit inmanis. Ab fecit <strong>aut barbae</strong>, eris, indefletaeque\nabsentes sit oculis, Pelagonaque, inter. Summa Ceres sinistrae numen candida\nludit.</p>\n",
+  "excerpt": "<p>Lorem markdownum quis: clavae imis sorores fraude e arces properas causa. Nomine\net et metuaris tradita. Desuetudine cultros et fugit Cerealia pedibus coniunx\nsic spes contulit in diversa! Citharaque Lycia <a href=\"http://piceiscernit.net/calamus\">corpora exierat\nadacto</a> thalamosque umor\n<a href=\"http://www.tenderetut.io/\">quam</a>, nam, anno. Sequemur miles caelestia ex\npraeter pudore, bibulas latus.</p>\n<p>Meque et ulla remov</p>\n"
+}

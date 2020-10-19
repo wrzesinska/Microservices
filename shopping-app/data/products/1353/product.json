@@ -1,0 +1,88 @@
+{
+  "id": "1353",
+  "name": "Womens White Delicate Floral Dress",
+  "price": 108.99,
+  "price_promo": 94.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 242,
+    "average": 3.01
+  },
+  "category": {
+    "id": 121,
+    "name": "Dresses"
+  },
+  "brand": {
+    "id": 101,
+    "name": "SHINEE"
+  },
+  "tags": [
+    "Floral",
+    "Delicate"
+  ],
+  "images": [
+    {
+      "product_id": 1353,
+      "image_url": "https://images.unsplash.com/photo-1552753849-308a0a28c21c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1353/1.jpg"
+    },
+    {
+      "product_id": 1353,
+      "image_url": "https://images.unsplash.com/photo-1552753849-adf3bb6f5212?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1353/2.jpg"
+    },
+    {
+      "product_id": 1353,
+      "image_url": "https://images.unsplash.com/photo-1552753848-422abc9f17da?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1353/3.jpg"
+    },
+    {
+      "product_id": 1353,
+      "image_url": "https://images.unsplash.com/photo-1552753849-370b6a0fadf5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1353/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12530100,
+      "feature_id": 100,
+      "product_id": 1353,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12530100,
+      "feature_id": 100,
+      "product_id": 1353,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12530100,
+      "feature_id": 100,
+      "product_id": 1353,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12530100,
+      "feature_id": 100,
+      "product_id": 1353,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12530200,
+      "feature_id": 200,
+      "product_id": 1353,
+      "name": "Color",
+      "value": "White"
+    }
+  ],
+  "description": "<h2>Coniunx nostro nosterque Nestora</h2>\n<p><strong>Lorem markdownum menses</strong> Tyrios aliquid Lycia, perhorruit nec litora quoque\nobstrepuere nec, caelum nos modo flavescere ulmo. Epiros lacrimas sed cur sibi\nper?</p>\n<ul>\n<li>In quae omnia summam Pygmaeae parente celebrandaque</li>\n<li>In dare celebrabant suae Antiphataeque arcus fruticosa</li>\n<li>In nec Colchis gloria</li>\n</ul>\n<h2>Ignes curvos et alta aqua aut</h2>\n<p>Fallaciter quondam. Dubito iura atque taceam divino missi, nescio facies uno\n<strong>mensas</strong> simus vates. Odoratas nec demissaque locum. Nec marmore foret quid\nfama iam; utrumque gavisus: hi forte. Lymphis omnia qua recentes pulveris a\nfilia nurusque: reliquit more quidque.</p>\n<p>Medusa usum veri alter invita <strong>sospite</strong> sideribus opibus fallaciter vires\ndominum latratus quamvis sui crimine. Sonitum Delonque, quae deo matre qua dum\nat ignem at insuper, et.</p>\n<h2>Dixit nam numen quoque calathis et corniger</h2>\n<p>Verique liquidis sine tamen, et sata optastis. Vidi per saepe da nocte rettulit\nad motis ut <strong>cuius</strong>! Praemiaque poenas fervebant toro damnavit nimia, <a href=\"http://est.io/requiescereaera\">abi\nliquidas</a> alba. Non vitam, supplex miserabile\naltis. Concessit inops, sub tamen, amori si tempora robore iuvenisque sua!</p>\n<h2>Sed mea non clamore spoliis</h2>\n<p>Confusura Boreas silvarum dederis bella eluvie et ius, ora Solis tu tibi.\n<a href=\"http://etvisa.io/quibusomnes.html\">Profundi distuleratque natus</a> niveum\nEchidnaeae radicibus receptus vultu Pterelas! Tandem procul, Helenus lacunabant\nfrontem Byblida indignantesque Alcyone. Unguis iram crudele verba; sit agitur\nmater caelataeque in usum habet per videre <em>vel crine</em>. In numine, cornu,\niuvenesque, suum induitur <strong>dulcedine Penthea</strong>!</p>\n<p>Conplecti deus fiducia aliquid lanigerosve quod Sibyllae quater paterque\ngenitor, quod inhaesi adhibere ponderibus ferax Helicona obiectat. Suum dedit\nfuit <em>trahit</em> quae illic, <a href=\"http://praenuntia-pelagoque.com/pugnam\">planxitque\narcu</a>; sicut nisi novaque. Methymnaeae\nvultus commentaque olim saevitiae degenerat, est habet; Thestorides aetas: male\nfugant. Doloris fuit quo? Concubitu frangunt maius.</p>\n",
+  "excerpt": "<p><strong>Lorem markdownum menses</strong> Tyrios aliquid Lycia, perhorruit nec litora quoque\nobstrepuere nec, caelum nos modo flavescere ulmo. Epiros lacrimas sed cur sibi\nper?</p>\n<ul>\n<li>In quae omnia summam Pygmaeae parente celebrandaque</li>\n<li>In dare celebrabant suae Antiphataeque arcus fruticosa</li>\n<li>In nec Colchis gloria</li>\n</ul>\n<p>Fallaciter quondam. Dubito iura atque taceam divino missi, nescio facies uno\n<strong>mensas</strong> simus vates. Odoratas nec demissaque locum. Nec marmore</p>\n"
+}

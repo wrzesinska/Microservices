@@ -1,0 +1,75 @@
+{
+  "id": "1385",
+  "name": "Womens Beige&Brown Boho High-Waist Summer Shorts",
+  "price": 68.99,
+  "price_promo": 54.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 201,
+    "average": 3.56
+  },
+  "category": {
+    "id": 126,
+    "name": "Shorts"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Boho",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1385,
+      "image_url": "https://images.unsplash.com/photo-1561384357-18d59612ea56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1385/1.jpg"
+    },
+    {
+      "product_id": 1385,
+      "image_url": "https://images.unsplash.com/photo-1561384357-94b15c823dfb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1385/2.jpg"
+    },
+    {
+      "product_id": 1385,
+      "image_url": "https://images.unsplash.com/photo-1560392781-9dc2a4eb78e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1385/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13850100,
+      "feature_id": 100,
+      "product_id": 1385,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 13850100,
+      "feature_id": 100,
+      "product_id": 1385,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13850100,
+      "feature_id": 100,
+      "product_id": 1385,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13850100,
+      "feature_id": 100,
+      "product_id": 1385,
+      "name": "Size",
+      "value": "L"
+    }
+  ],
+  "description": "<h2>Marmora sentiet morsu artus</h2>\n<p>Lorem markdownum negat: inmotos labefactum lupus, ille unde si honorat primum\n<strong>inventum</strong>, non. Plexippi quem, esse aut utrumque igne humo abit sic, damnum,\nplacere.</p>\n<blockquote>\n<p>A et non descendat <em>fassura</em>, crescentemque stantia est pars tulit pro est?\nProceres pyram lina equam nostri licet Acheloe relatus invocat me! Videtis\nprimi horrescere <a href=\"http://www.ferarum-ne.org/se-portus\">imagine</a>, in lumina,\n<a href=\"http://threicio.org/\">agat unco</a> et turres crinem, caede. Vixque lupi socios\nsocero nisi rogarem erat sumpsisse pluma me tuae Thebas qui dumque, interdum.</p>\n</blockquote>\n<p>Canis differtis Alpino errare! Et deum, aut urbem <strong>Macareida</strong>; ut duc modestos\nvariis; silet currant lapillis, exit de quis! <strong>Contortum alis Dardanio</strong> matre\nministrarum Ascanii ergo inque pandos infestaque. Torum <em>et</em> quod est enim in\nmors, alvo et Phineus rupit quid arce <a href=\"http://www.aureaoracula.net/\">corpus\nille</a> erat abeunt! <a href=\"http://oraque-et.com/persea\">Quo\nStyga</a>: illis geminaverat sedet quoniam lunaria nec\ndummodo eurus mariti est capit <strong>dant servat cessura</strong> ferro, mea.</p>\n<h2>Humus lemnius</h2>\n<p>Quater nudaque; nec tamen quae, vinci: esse igitur; et! Toto me o omnes montis\n<em>agricolam</em> tempora dabat cum vidit quaeque priores gerunt teneri. Nodosaque et\nmoribundum quid mediam, per umquam in variis membra Phrygiae vimque.</p>\n<blockquote>\n<p>Praetereo Phocaico, dis victa caeruleas haec non est obstipuere quoque,\nspectes amplexus Chrysenque ore. Est est perque, et statque sciat est variatus\ndivesque tanti vulgus ingratus, ipse tuae tum.</p>\n</blockquote>\n<p>Fortibus confesso, caecus villosa innitens timendi amens euntem? <em>Arachnes\nexcipiuntur cantus</em> posita certe perque duro iustamque dixere metuendus\n<strong>color</strong>. In opemque: satus dies instructa ardua in iuvenes coepit vincit?</p>\n<ol>\n<li>Patruique manebat</li>\n<li>Meditata ipsos cum en est sanguinis vulnera</li>\n<li>Inplevit posse patentis et mihi candidus freta</li>\n<li>Bella nitet abominor viso trepidumque teque victor</li>\n<li>Non tecta facies quoquam</li>\n<li>Ipsius dilectae virgine functa annus abstemius digitis</li>\n</ol>\n<p>Leto et <strong>pervenit at ab</strong> accipe populo luctisono et memores utraque fuerat et.\nNavigat hic aut alii Tyriis solum, ceu aratri dicere patet.</p>\n",
+  "excerpt": "<p>Lorem markdownum negat: inmotos labefactum lupus, ille unde si honorat primum\n<strong>inventum</strong>, non. Plexippi quem, esse aut utrumque igne humo abit sic, damnum,\nplacere.</p>\n<blockquote>\n<p>A et non descendat <em>fassura</em>, crescentemque stantia est pars tulit pro est?\nProceres pyram lina equam nostri licet Acheloe relatus invocat me! Videtis\nprimi horrescere <a href=\"http://www.ferarum-ne.org/se-portus\">imagine</a>, in lumina,\n[agat unco](http://threicio</p>\n</blockquote>\n"
+}

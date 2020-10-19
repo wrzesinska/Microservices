@@ -1,0 +1,82 @@
+{
+  "id": "1382",
+  "name": "Womens Blue Jeans Denim Boyfriend Pants",
+  "price": 88.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 240,
+    "average": 4.06
+  },
+  "category": {
+    "id": 125,
+    "name": "Pants"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Jeans",
+    "Denim",
+    "Boyfriend"
+  ],
+  "images": [
+    {
+      "product_id": 1382,
+      "image_url": "https://images.unsplash.com/photo-1580713898569-c1685b54dae2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1382/1.jpg"
+    },
+    {
+      "product_id": 1382,
+      "image_url": "https://images.unsplash.com/photo-1580713898273-15acaf8c3143?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1382/2.jpg"
+    },
+    {
+      "product_id": 1382,
+      "image_url": "https://images.unsplash.com/photo-1580713899267-c94b79eeee0a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "source_id": 100,
+      "file_path": "api/images/1382/3.jpg"
+    },
+    {
+      "product_id": 1382,
+      "image_url": "https://images.unsplash.com/photo-1580713899940-9667fa5bb047?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1382/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13820100,
+      "feature_id": 100,
+      "product_id": 1382,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13820100,
+      "feature_id": 100,
+      "product_id": 1382,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13820100,
+      "feature_id": 100,
+      "product_id": 1382,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13820200,
+      "feature_id": 200,
+      "product_id": 1382,
+      "name": "Color",
+      "value": "Blue"
+    }
+  ],
+  "description": "<h2>Cepheus de lexque navita fines fecundum</h2>\n<p>Lorem markdownum senecta verba illam terra caput perspicit, opem, hoc aliter\nregia, recepit iura inpia. Fecerat spectant! Tam de tamen me suo hoc ait partim?\nQua erit rursus sublime nigrumque ostendit nec. Usus tenus semper pulsabant\ninsurgens induruit repperit <em>silvis in</em> ulla, sua positus, non pulvere.</p>\n<blockquote>\n<p>Neque pectora sub, vicisti, factis vidit laetissimus operire. Nec frondis\nabsit fatigant partibus ipsis et captivo excusare genitor. Litore amans. Iram\nalto ignemque dracones, nos genitor <strong>quid</strong> mensis violatus urbis Ithacis\nmersis, et.</p>\n</blockquote>\n<h2>Vacca amat artes digitis</h2>\n<p>Quae <a href=\"http://www.idque-cape.io/in-premunt\">clamoribus</a> oscula, consumpserat\nurbem requiescit omnia carinae, metuam enim posse tumida prospiciunt fateri si\ndesierat ter Cyparissus. <strong>Invidiosa imagine porrigar</strong> committitur iram face,\nmirae gestumque aestu.</p>\n<blockquote>\n<p>Ne tolle est fulva subiectas possem, sub tuta magna iubeatve pavet, validos.\nUterum emicat. Ingenio et gemitum durus neve illi movetur locum ac saxo, est\niam, dea tuta utrumque Achivae, <a href=\"http://www.ergo-aere.net/quemferrumque\">ne</a>.</p>\n</blockquote>\n<h2>Dum Mithridateisque centum nitor tantum iactatibus calcat</h2>\n<p>Corythus et omnes me faverat ignoto; et ponere oblita imagine horriferamque\nvocavit errat tenebrisque lacte tot praeteriit Daphnidis. Statione tergo; patrem\nmala pecudumque monte <strong>Thisbaeas</strong>, educta telae timor umbras et tu. Silentum\nrepetunt quotiens vivere spissa, nec incumbens nemus inclitus umida agmenque,\ntuo iugum et <strong>illo</strong>. Potuit raptoresque urbem, nostri nunc vigil iam eluvie\ninponit scitetur <a href=\"http://tempore-molliter.io/medios.html\">populos non</a>. Agmen\nadspiceres: hosti <em>ad iuvenem</em>, Bubastis?</p>\n<ol>\n<li>Artus conponere alii</li>\n<li>Mergor ligno eripui tribus quis hastilia messis</li>\n<li>Nebulae Chaonis tum rostro percussere te Euagrus</li>\n<li>Marmore discedite cultro aevo cultosque</li>\n</ol>\n<h2>Est nomen lumina coloribus amnis</h2>\n<p>Polypemonis medullas pignus tubas sine <strong>fontem autumni</strong> pulsat redunco iubet,\nnec. Cum sulphura tanto; <a href=\"http://atsolet.net/obitsimul.php\">pectora se</a> videt\ndelenit praestem ab ferox marmoreas, soleo <a href=\"http://caelo.net/pyrrha.php\">senes atque\nvae</a> pendentia subitae! At deo; vita haud tantum.</p>\n<ol>\n<li>Fiunt neque</li>\n<li>Mea et huc functa non</li>\n<li>Nomine non nigras</li>\n<li>Lumina quam finire defendit populi Baccho nihil</li>\n</ol>\n<p>Vix illum nepoti tu et caesis, hinc testes modo, cum. Alma clipei restant\ntacetve vulnus. Est laeva: suum! Tendens ad gentisque ista <strong>tum calido</strong>\nexhalat; enim hac bina, quo qui quae quoque namque: cedentique.</p>\n",
+  "excerpt": "<p>Lorem markdownum senecta verba illam terra caput perspicit, opem, hoc aliter\nregia, recepit iura inpia. Fecerat spectant! Tam de tamen me suo hoc ait partim?\nQua erit rursus sublime nigrumque ostendit nec. Usus tenus semper pulsabant\ninsurgens induruit repperit <em>silvis in</em> ulla, sua positus, non pulvere.</p>\n<blockquote>\n<p>Neque pectora sub, vicisti, factis vidit laetissimus operire. Nec frondis\nabsit fatigant partibus ipsis et captiv</p>\n</blockquote>\n"
+}

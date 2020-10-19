@@ -1,0 +1,77 @@
+{
+  "id": "1309",
+  "name": "Mens Orange Woollen Autumn Vintage Coat",
+  "price": 138.99,
+  "price_promo": 98.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 105,
+    "average": 3.98
+  },
+  "category": {
+    "id": 114,
+    "name": "Jackets and coats"
+  },
+  "brand": {
+    "id": 103,
+    "name": "simple&comfy"
+  },
+  "tags": [
+    "Woollen",
+    "Autumn",
+    "Vintage"
+  ],
+  "images": [
+    {
+      "product_id": 1309,
+      "image_url": "https://images.pexels.com/photos/2693621/pexels-photo-2693621.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1309/1.jpg"
+    },
+    {
+      "product_id": 1309,
+      "image_url": "https://images.pexels.com/photos/2706265/pexels-photo-2706265.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1309/2.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13090100,
+      "feature_id": 100,
+      "product_id": 1309,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13090100,
+      "feature_id": 100,
+      "product_id": 1309,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13090100,
+      "feature_id": 100,
+      "product_id": 1309,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13090100,
+      "feature_id": 100,
+      "product_id": 1309,
+      "name": "Size",
+      "value": "XL"
+    },
+    {
+      "id": 13090200,
+      "feature_id": 200,
+      "product_id": 1309,
+      "name": "Color",
+      "value": "Orange"
+    }
+  ],
+  "description": "<h2>Quam sed</h2>\n<p>Lorem markdownum vitam <em>est canet</em>, pater maculavit quae tempora turpes\ninclinavit Penei Triopeius praemia saepe <strong>tamen</strong>. Vincla in et conamine milite\npater augur mota iam umbras <a href=\"http://enimnoxque.org/modulata\">finire</a>; videt. De\naudisse Pelops deos, fer hoc Ceyce <strong>inarata</strong> aratri sceptra opportuna pulvere\norbem ossa.</p>\n<ul>\n<li>Sororem et ereptaque tollit deos ceu fracta</li>\n<li>Consistere luctus</li>\n<li>Sed dixerat</li>\n<li>Ligavit luctuque virtus dixit Sigea iubeas tenemus</li>\n</ul>\n<h2>Annis manum inmanemque ab desperat fugamque vitae</h2>\n<p>Bracchia si, illa loco squamigeris lingua agrestes, positus munere ferrum,\ndicunt, incustoditae. Tori Region, nec levibus apte; quoque <strong>dolor</strong> vestri\nquodcumque bracchia ventis nomenque sucos, vero et. Minata pretiumque, alios\naura feras, uno crudelis maculas Autolyci oneratos exerceor. Mille <em>viam</em>\nsenemque flammas cumque, mirata inter; et rauco separat pinus si miseris modo.\nVolucrumque felicia freta maxima et te corna undis loqui voces clausum dulcique;\nest.</p>\n<ol>\n<li>Nunc adfuit aras</li>\n<li>Lacerti evolvere me reclusi fretoque</li>\n<li>Sic qui vultus neque praevius Iunonis</li>\n<li>Salignis si ignifero dixerat</li>\n<li>Nostri aestuat in robora capiunt manus vacuo</li>\n</ol>\n<h2>Inpia nube aptos iam animos solio ferventibus</h2>\n<p><em>Volucresque virgine</em> idem? Lucem non fugavi <em>saecula</em> usus declivia et quam\nfinitimi cervice. Hoc haemonii <a href=\"http://puerum.net/visuparte\">taurum</a> forma\npectore dolorem quemque, Erebi, <a href=\"http://conscia.io/coniecit\">scopulum</a>!</p>\n<ol>\n<li>Ergo nisi quoque graves sit patrios gurges</li>\n<li>Fulvum fertilis hos memor tenet census in</li>\n<li>Cum quod tenderet rapuit haeserat ad remotis</li>\n<li>Hostis feci natum</li>\n<li>Ammon agros</li>\n<li>Facies et Clyton</li>\n</ol>\n<p>Planguntur et tangere, medullas. Nullisque da pedibus priori, nymphae et medio\nquod est hostem.</p>\n",
+  "excerpt": "<p>Lorem markdownum vitam <em>est canet</em>, pater maculavit quae tempora turpes\ninclinavit Penei Triopeius praemia saepe <strong>tamen</strong>. Vincla in et conamine milite\npater augur mota iam umbras <a href=\"http://enimnoxque.org/modulata\">finire</a>; videt. De\naudisse Pelops deos, fer hoc Ceyce <strong>inarata</strong> aratri sceptra opportuna pulvere\norbem ossa.</p>\n<ul>\n<li>Sororem et ereptaque tollit deos ceu fracta</li>\n<li>Consistere luctus</li>\n<li>Sed dixe</li>\n</ul>\n"
+}

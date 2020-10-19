@@ -1,0 +1,76 @@
+{
+  "id": "1384",
+  "name": "Womens Black&White High-Waist Summer Shorts",
+  "price": 68.99,
+  "price_promo": null,
+  "has_discount": false,
+  "rating": {
+    "votes": 207,
+    "average": 4.21
+  },
+  "category": {
+    "id": 126,
+    "name": "Shorts"
+  },
+  "brand": {
+    "id": 100,
+    "name": "Lolita"
+  },
+  "tags": [
+    "Stripes",
+    "Black&White",
+    "Summer"
+  ],
+  "images": [
+    {
+      "product_id": 1384,
+      "image_url": "https://images.unsplash.com/photo-1591473983282-03ac71a2d312?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1384/1.jpg"
+    },
+    {
+      "product_id": 1384,
+      "image_url": "https://images.unsplash.com/photo-1591473981431-6be9666be7e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1384/2.jpg"
+    },
+    {
+      "product_id": 1384,
+      "image_url": "https://images.unsplash.com/photo-1591473699917-c8f5993549dd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "source_id": 100,
+      "file_path": "api/images/1384/3.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 13840100,
+      "feature_id": 100,
+      "product_id": 1384,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 13840100,
+      "feature_id": 100,
+      "product_id": 1384,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 13840100,
+      "feature_id": 100,
+      "product_id": 1384,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 13840200,
+      "feature_id": 200,
+      "product_id": 1384,
+      "name": "Color",
+      "value": "Beige"
+    }
+  ],
+  "description": "<h2>Meum hac cura</h2>\n<p>Lorem markdownum temptatum passus, inde tunc ore, ad mihi, est sedem vulnera\naequora mearum. Dedit dentes dixit servabere dies osculaque est <a href=\"http://www.ter.com/pelops\">nec mihi\npatitur</a> membra tanti Dictaeo parenti alta inimica\ncertamine poenas habuit. Tangeret caputque iam eodem <strong>dis causa</strong> ara iramque\nsit roseum, positis et coniunx precor da <a href=\"http://www.dare.com/panomphaeoblando\">nec\nuna</a>. Calidis crudelis sua mutare? Fixit\nait limine; fuit virga!</p>\n<p>Qua Solis prendere omnis fugat domum erit visa, esse neque materiamque crura.\nDomestica opus verso indicere ingemuit species domus et habuit obside, <a href=\"http://nec-inque.io/illi\">hasta\nMonychus argumenta</a> vetus, invidiosa liquor, est?</p>\n<p>Moriens imago miserae conatur nostrae alta solent, demum quam, gener causa\npetunt cumque longis quid, est? <em>Inter</em> meum <em>aetas</em> ni questa nitorem Veneri.\nMirum vires modo, leve iungit, domus summa videre ferre. Sanguine peteretur\nlabore. Iuppiter tulere infantibus plausis tam hostis corpus curat: at ab\n<a href=\"http://animi.io/unda-illic\">fuit</a> patitur suis, plurima!</p>\n<h2>Ducere isdem nec habent perenni nullo ex</h2>\n<p>Mirantem auras, fuit erat munus iunctura sine <a href=\"http://collisaede.org/\">commota</a>\nense nec purpureum versum. Ego series coniugis natura. Dictis ab naris propiore\nululatibus arcum thalamis annis, <strong>accersite</strong> mugit. Accipiter castae corpora\npropior face confinia Pythia partes, sed cum quod despectabat auras, saepe! Luna\nhos Liber sponte: proles ab alii velat tempora colorem?</p>\n<p>Tenent erat isse sub, vi remis crescat. Beatior usus:\n<a href=\"http://ibinec.com/ratus\">hic</a> supra orantemque carinis vidit adstantem\n<em>imitata</em>: veri ambigui alvo vel amorem rediere? Mutata artesque modo negant\ndeam; enim fugam luridus Cypro Busirin abit.</p>\n<h2>Instanti delicta radiantibus cum persequitur parilique sed</h2>\n<p>Possim corvus, trepidantis canendo terras Hylonome, in mali est mihi non patet\ntenentibus saepe <strong>hunc</strong>! Eque ausus rex imitamine iusta, te Cepheus sumptoque\nflagrantis <em>sibi cavis</em> prior saevit.</p>\n<p>Cycno passa positas paulatim interit quam, quas saxea, aurum limine et praeceps\ncrevit qua, est. Solos labor mente cur submovet celatos: concutio et maxime\nalbis in tibi, ipsa, est. Domus et laetus libera, foedera; est amnem Liber novit\nvolatu tempora habet, fortis Numam. <em>Agenorides si ut</em> matrem recens tendens\ninmensa, anima formam, pars tendens <strong>actis cetera</strong> laudatis quem.</p>\n<p>Tamen regem temone gemino lassatis potiere bubo defecto genitor pressistis,\ncircumdare <strong>abest</strong>, ex. Dictis traiecit flore aliquid quos: genuit tamen,\nnaides nata, exarsit relinqui citharae foliis iuvenci fatentis.</p>\n",
+  "excerpt": "<p>Lorem markdownum temptatum passus, inde tunc ore, ad mihi, est sedem vulnera\naequora mearum. Dedit dentes dixit servabere dies osculaque est <a href=\"http://www.ter.com/pelops\">nec mihi\npatitur</a> membra tanti Dictaeo parenti alta inimica\ncertamine poenas habuit. Tangeret caputque iam eodem <strong>dis causa</strong> ara iramque\nsit roseum, positis et coniunx precor da <a href=\"http://www.dare.com/panomphaeoblando\">nec\nuna</a>. Calidis crudelis sua mutare? Fixit\nait limine; fui</p>\n"
+}

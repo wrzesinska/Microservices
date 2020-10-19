@@ -1,0 +1,89 @@
+{
+  "id": "1287",
+  "name": "Mens Orange Classy Summer Shirt With Big Pockets",
+  "price": 78.99,
+  "price_promo": 63.99,
+  "has_discount": true,
+  "rating": {
+    "votes": 230,
+    "average": 4.36
+  },
+  "category": {
+    "id": 113,
+    "name": "Shirts"
+  },
+  "brand": {
+    "id": 102,
+    "name": "B&C"
+  },
+  "tags": [
+    "Classy",
+    "Summer",
+    "Organic"
+  ],
+  "images": [
+    {
+      "product_id": 1287,
+      "image_url": "https://images.pexels.com/photos/4696157/pexels-photo-4696157.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1287/1.jpg"
+    },
+    {
+      "product_id": 1287,
+      "image_url": "https://images.pexels.com/photos/4696142/pexels-photo-4696142.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1287/2.jpg"
+    },
+    {
+      "product_id": 1287,
+      "image_url": "https://images.pexels.com/photos/4696096/pexels-photo-4696096.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "source_id": 200,
+      "file_path": "api/images/1287/3.jpg"
+    },
+    {
+      "product_id": 1287,
+      "image_url": "https://images.pexels.com/photos/4696142/pexels-photo-4696142.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "source_id": 200,
+      "file_path": "api/images/1287/4.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 12870100,
+      "feature_id": 100,
+      "product_id": 1287,
+      "name": "Size",
+      "value": "XS"
+    },
+    {
+      "id": 12870100,
+      "feature_id": 100,
+      "product_id": 1287,
+      "name": "Size",
+      "value": "S"
+    },
+    {
+      "id": 12870100,
+      "feature_id": 100,
+      "product_id": 1287,
+      "name": "Size",
+      "value": "M"
+    },
+    {
+      "id": 12870100,
+      "feature_id": 100,
+      "product_id": 1287,
+      "name": "Size",
+      "value": "L"
+    },
+    {
+      "id": 12870200,
+      "feature_id": 200,
+      "product_id": 1287,
+      "name": "Color",
+      "value": "Orange"
+    }
+  ],
+  "description": "<h2>Modo obsita dumque</h2>\n<p>Lorem markdownum quoque Diomede est habebat situsque fiat consequiturque miles?\nCur manus nuntia quo numen suo verba coniuge: iurantem et terque omnia. Auras\ngrani prospexit profectu sustinet colatur terrebant cumque Threicius inpetus.\nMagis ubi! Haut est gelidumque vagans est dentibus <em>cavatur aurea</em>, videtur\nprofundi <em>viro</em>.</p>\n<blockquote>\n<p>Nulla nec: exul simul sanguis, c deprenderat, orbe bello non formae. Ore\nviribus addunt vestigia probatum raptae cum datum aura est. Relatis <strong>erat\nnon</strong>; demas uno frondibus pudorem. Tibi <strong>lyra</strong> profanos sua externis\nIllyricos <strong>patremque</strong> iuventae parantes!</p>\n</blockquote>\n<h2>Pallentem quoque regoque mentior rupit</h2>\n<p>Fuerat neque iamque nulla, cum sole qui? Toto corpore est fortes mediae\npoterisne faciem: ille Ulixes tamen portus pars sollertius lumina.</p>\n<p>Nisi celeri pervenit deo, <em>et hac sed</em> medios curvamine colla nec. Bicolor\nmeorum videbor si sic atque terram in veniat cristae; coniuge in ponunt Ulixem\niraeque, et illic.</p>\n<h2>Caespite anima dedit</h2>\n<p>Habuit secuta suis vulnera albus vectabantur artes quoque saepe, sternit me\npollice amantem atque de turba meos et. Mater colle auctor precantibus audit\nlumen socerum felix turba artes! Per per populos dextroque iuvenem fecit cuncta,\nvalvae Cecropidae penates!</p>\n<ul>\n<li>Simul augere nostrae natura</li>\n<li>Inattenuata tela</li>\n<li>Videre tamen</li>\n<li>Miserrima Sigei</li>\n</ul>\n<p>Omnis vertitur <strong>mittuntque veniam</strong>, Lyciaeque et, credi contentus amorem secum\nhuius amore me pacali regia aeterna rursusque. Quid potes iunctis, freta decet\nharundine hac terras saevitiae Aestas mortis posset; gemma. Ipsa fiducia sed una\nfuit scelus digitos; quam decus. Extulit <a href=\"http://positoque.org/dexterior-formosa\">ibi fama\noppida</a> optat lacu aquarum prohibent, me\nmihi.</p>\n<p>Ait ecce etiam ego ossibus: eurus: equo tum rapto. Nescio et quae incipiens est\niuvenem, <a href=\"http://falsifulgentia.net/\">et malo</a> ab. Figis plangente totumque\nvicit nobilitate rubori mortalia ducemque gerentem sanguine caeleste.</p>\n",
+  "excerpt": "<p>Lorem markdownum quoque Diomede est habebat situsque fiat consequiturque miles?\nCur manus nuntia quo numen suo verba coniuge: iurantem et terque omnia. Auras\ngrani prospexit profectu sustinet colatur terrebant cumque Threicius inpetus.\nMagis ubi! Haut est gelidumque vagans est dentibus <em>cavatur aurea</em>, videtur\nprofundi <em>viro</em>.</p>\n<blockquote>\n<p>Nulla nec: exul simul sanguis, c deprenderat, orbe bello non formae. Ore\nviribus addunt ves</p>\n</blockquote>\n"
+}
