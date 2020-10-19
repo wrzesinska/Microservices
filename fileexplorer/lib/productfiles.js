@@ -1,7 +1,45 @@
 const path = require('path')
 const fs = require('fs')
 
+async function exportCatalogue() {
+  const productsDir = path.join(__dirname, '../data/products')
+  const outputFile = path.join(__dirname, '../output/placki/catalogue.html')
+  const outputDir = path.dirname(outputFile)
 
+  try {
+    await fs.promises.access(outputDir)
+  } catch (err) {
+    await fs.promises.mkdir(outputDir, { recursive: true })
+  }
+  await fs.promises.writeFile(outputFile, '')
+
+  const dir = await fs.promises.opendir(productsDir)
+  dir.
+
+  const dirs = await fs.promises.readdir(productsDir)
+  // All at once
+  // await Promise.all(dirs.map( async (dir) => {
+  //   const content = await fs.promises.readFile(path.join(productsDir, dir, 'description.html'))
+  //   // ...
+  // }))
+
+  // In sequence
+  for (let dir of dirs) {
+    const content = await fs.promises.readFile(path.join(productsDir, dir, 'description.html'))
+    data = '<h1>Product ' + file + '</h1> \r\n' + content.toString()
+    await fs.promises.appendFile(outputFile, (data))
+  }
+  console.log('Success - file ready!')
+
+  return ({
+    dirs: dirs,
+    outputFile,
+    outputDir,
+    status: 'success'
+  })
+}
+
+/* 
 function exportCatalogue() {
   const productsDir = path.join(__dirname, '../data/products')
   const outputFile = path.join(__dirname, '../output/placki/catalogue.html')
@@ -37,7 +75,7 @@ function exportCatalogue() {
   })
     .catch((error) => { console.log('Error' + error.message) })
 }
-
+ */
 
 /* 
 function exportCatalogue() {
