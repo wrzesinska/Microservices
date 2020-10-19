@@ -22,15 +22,27 @@ const server = http.createServer((req, res) => {
     now = Date.now()
     while (now + 5000 > Date.now()) {/* CPU intensive task */ }
     res.end(String('done!'))
-    
-  }else if (req.url.includes('bigfile')) {
-    
-    var bigfile = ''
-    for(let i = 0; i < 10e5; i++){
-      bigfile += 'Ala ma kota, ' + i + '\r\n';
-    }
-    res.end(bigfile)
-    
+
+  } else if (req.url.includes('bigfile')) {
+    // var bigfile = Buffer.alloc(2048)
+    // var bufferview = bigfile.slice(5,10)
+    // bigfile[6] = 'x'
+    res.setHeader('Content-Type', 'text/html')
+    res.write('<html>')
+    var max = 10e5;
+
+    // for(let i = 0; i < max; i++){
+    const handler = setInterval(() => {
+      if (i++ < max) {
+          let chunk = 'Ala ma kota, ' + i + '<br/> \r\n ';
+          res.write(chunk)
+        } else {
+          clearInterval(handler)
+          res.end()
+        }
+      }, 0)
+    // }
+
   } else {
     res.end('Hello World!\n')
   }
