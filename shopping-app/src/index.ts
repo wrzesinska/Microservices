@@ -1,10 +1,11 @@
 import express from 'express'
-import { productsRoutes } from './routes/products'
+import { cartRoutes } from './routes/cartRoutes'
+// import { productsRoutes } from './routes/products'
 
 // console.log(process.cwd(),__dirname)
 
 const app = express()
-app.use('/products', productsRoutes)
+app.use('/carts', cartRoutes)
 // app.use('/users', usersRoutes)
 
 // Pawel
@@ -40,7 +41,8 @@ app.use('/products', productsRoutes)
 
 
 
-const PORT = parseInt(process.env.PORT || '8080')
+const PORT = parseInt('3000' || '8080')
+
 const HOST = process.env.HOST || 'localhost';
 
 app.listen(PORT, HOST, () => {
