@@ -6,6 +6,7 @@ import { usersRoutes } from './routes/users'
 import { blogRoutes } from './routes/blogRoutes'
 import { pagesRoutes } from './routes/pages'
 import { orders } from './routes/orders'
+import { categoriesRoutes } from './routes/categories'
 
 // console.log(process.cwd(),__dirname)
 
@@ -16,7 +17,7 @@ app.use('/addresses', addressesRoutes)
 
 
 // Pawel
-// app.use('/categories', categoriesRoutes)
+app.use('/categories', categoriesRoutes)
 
 // Jakub
 app.use('/orders', orders)
@@ -54,3 +55,4 @@ app.listen(PORT, HOST, () => {
   console.log(`Listening on http://${HOST}:${PORT}`)
 })
 
+export {}
