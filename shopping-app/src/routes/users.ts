@@ -1,6 +1,7 @@
 import * as express from "express";
 import { UserCreatePayload } from "../interfaces/users";
 import * as usersService from "../services/users";
+import { body, validationResult } from 'express-validator'
 
 export const usersRoutes = express.Router();
 
@@ -29,11 +30,20 @@ usersRoutes.get('/:user_id', async (req, res) => {
 })
 
 // Add New Users
-usersRoutes.post<{}, { ok: boolean }, UserCreatePayload>('/', async (req, res) => {
-  const createUserPayload = req.body
+usersRoutes.post('/', [
+  body('name').exists(),
+  body('email').isEmail().exists(),
+], async (req, res) => {
 
-  const user = await usersService.createUser(createUserPayload)
-  res.status(201).send({ ok: true })
+  const errors = validationResult(req);
+  if (!errors.isEmpty()) {
+    return res.status(400).json({ errors: errors.array() });
+  }
+
+  const createUserPayload: UserCreatePayload = req.body
+
+  const user_id = await usersService.createUser(createUserPayload)
+  res.status(201).send({ ok: true, id: user_id })
 })
 
 // Update existing User

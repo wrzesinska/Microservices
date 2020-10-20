@@ -26,7 +26,7 @@ export const createUser = (userPayload: UserCreatePayload) => {
   }
   usersData.push(user)
 
-  return Promise.resolve(userPayload)
+  return Promise.resolve(user.id)
 }
 
 export const updateUser = () => { }
