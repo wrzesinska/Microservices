@@ -48,3 +48,6 @@ npm i -g typescript
 tsc --init
 
 tsc
+
+# 12 Factor Cloud app - Scaling
+https://12factor.net/
