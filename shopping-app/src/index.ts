@@ -1,11 +1,12 @@
 import express from 'express'
 import { productsRoutes } from './routes/products'
+import { usersRoutes } from './routes/users'
 
 // console.log(process.cwd(),__dirname)
 
 const app = express()
 app.use('/products', productsRoutes)
-// app.use('/users', usersRoutes)
+app.use('/users', usersRoutes)
 
 // Pawel
 // app.use('/categories', categoriesRoutes)
@@ -46,3 +47,5 @@ const HOST = process.env.HOST || 'localhost';
 app.listen(PORT, HOST, () => {
   console.log(`Listening on http://${HOST}:${PORT}`)
 })
+
+export {}
