@@ -59,7 +59,7 @@ app.use('/pages', pagesRoutes)
 asert(process.env.PORT, 'Missing env PORT variable')
 asert(process.env.HOST, 'Missing env HOST variable')
 
-const PORT = parseInt(process.env.PORT)
+const PORT = parseInt(process.env.PORT);
 const HOST = process.env.HOST;
 
 app.listen(PORT, HOST, () => {
