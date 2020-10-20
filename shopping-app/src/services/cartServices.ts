@@ -4,6 +4,7 @@ import { CartItem } from "../interfaces/cart";
 const carts = [
     {
         id: 1,
+        user_id: 1,
         items: [
             { itemId: 1, desc: 'item1', qty: 3 },
             { itemId: 2, desc: 'item2', qty: 1 },
@@ -12,28 +13,34 @@ const carts = [
     },
     {
         id: 2,
+        user_id: 2,
         items: []
     },
     {
         id: 3,
+        user_id: 3,
         items: []
     }
 ];
 
 export const getCarts = async () => {
-    return await carts;
+    return carts;
 }
 
 export const getCartById = async (cartId) => {
     const cart = await getCarts();
-    const filteredCart = await cart.filter(c => c.id === parseInt(cartId))
-    return filteredCart[0]
+    const filteredCart = cart.find(c => c.id === parseInt(cartId))
+    return filteredCart
+}
+
+export const getCartByUserId = async (userId) => {
+    const cart = await getCarts();
+    const filteredCart = cart.find(c => c.user_id === parseInt(userId))
+    return filteredCart
 }
 
 export const addToCart = async (cartId, product: CartItem) => {
-    const cart = await getCarts();
-    const filteredCart = await cart.filter(c => c.id === parseInt(cartId))
-    filteredCart[0].items.push(product);
-    console.log(filteredCart);
-    return filteredCart
+    const cart = await getCartById(cartId)
+    cart.items.push(product);
+    return cart
 }

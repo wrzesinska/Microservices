@@ -6,7 +6,7 @@ export const pagesRoutes = express.Router();
 
 // Get product details
 pagesRoutes.get('/', async (req, res) => {
-    const answer = pagesService.productArticles();
+    const answer = await pagesService.getPages();
     res.send(answer)
 })
 

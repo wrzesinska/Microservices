@@ -5,24 +5,26 @@ import * as cartServices from '../services/cartServices'
 
 export const cartRoutes = express.Router()
 
-cartRoutes.get('/', async (req, res) => {
-    const carts = await cartServices.getCarts()
-    res.send(carts[0])
+// Get current user cart 
+cartRoutes.get('/my', async (req, res) => {
+    const currentUser = req.query.userId // FIXME: Auth middleware
+    const carts = await cartServices.getCartByUserId(currentUser)
+    res.send(carts)
 })
 
-cartRoutes.get('/all-carts', async (req, res) => {
+cartRoutes.get('/', async (req, res) => {
     const carts = await cartServices.getCarts()
     res.send(carts)
 })
 
-cartRoutes.get('/all-carts/:cart_id', async (req, res) => {
+cartRoutes.get('/:cart_id', async (req, res) => {
     const cartId = req.params['cart_id']
     const cart = await cartServices.getCartById(cartId)
     res.send(cart)
 });
 
 cartRoutes.post('/', [
-    body('cartId').exists(),
+    // body('cartId').exists(),
     body('itemId').exists(),
     body('desc').exists(),
     body('qty').exists(),
@@ -31,13 +33,16 @@ cartRoutes.post('/', [
     if (!errors.isEmpty()) {
         return res.status(400).json({ errors: errors.array() });
     }
-    const { cartId } = req.body;
+    
+    const currentUser = req.query.userId // FIXME: Auth middleware
+    const cart = await cartServices.getCartByUserId(currentUser)
+
     const createNewItem: CartItem = {
         itemId: parseInt(req.body.cartId),
         desc: req.body.desc,
         qty: req.body.qty
     }
-    const updatedCart = await cartServices.addToCart(cartId, createNewItem)
+    const updatedCart = await cartServices.addToCart(cart.id, createNewItem)
 
     res.status(201).send({ ok: true, updatedCart })
 });
