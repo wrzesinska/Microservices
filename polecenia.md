@@ -29,3 +29,9 @@ npm update ABC
 npm i 
 // use package-lock.json (use exact versions)
 npm ci 
+
+# Typescript
+npm i -g typescript
+tsc --init
+
+tsc
