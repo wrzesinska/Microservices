@@ -1,4 +1,5 @@
 import express from 'express'
+import { cartRoutes } from './routes/cartRoutes'
 import { productsRoutes } from './routes/products'
 import { usersRoutes } from './routes/users'
 
@@ -15,7 +16,7 @@ app.use('/users', usersRoutes)
 // app.use('/orders', ordersRoutes)
 
 // Tomek
-// app.use('/cart', cartRoutes)
+app.use('/cart', cartRoutes)
 
 // Rafał
 // app.use('/wishlist', wishlistRoutes)

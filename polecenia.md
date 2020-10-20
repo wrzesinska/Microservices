@@ -13,6 +13,18 @@ git pull -t matt master
 git pull
 git stash apply
 
+# INstalllacje
+docker desktop
+node 12/14
+chrome (node debugger)
+JSON viewer
+https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh
+
+VS CODE
++ docker ext
+Postman
+https://www.postman.com/downloads/
+
 # Nodemon
 npm i -g nodemon
 set PORT=8080 nodemon start/index.js param123

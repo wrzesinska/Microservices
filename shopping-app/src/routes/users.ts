@@ -5,6 +5,12 @@ export const usersRoutes = express.Router();
 // Get Users
 usersRoutes.get('/',(req,res)=>{})
 
+// Get Current User
+usersRoutes.get('/me',(req,res)=>{})
+
+// Get Current User cart
+usersRoutes.get('/me/cart',(req,res)=>{})
+
 // Get User by id
 usersRoutes.get('/:user_id',(req,res)=>{})
 
