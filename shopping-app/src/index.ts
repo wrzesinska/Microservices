@@ -1,6 +1,7 @@
 import express from 'express'
 import { productsRoutes } from './routes/products'
 import { usersRoutes } from './routes/users'
+import { pagesRoutes } from './routes/pages'
 
 // console.log(process.cwd(),__dirname)
 
@@ -36,7 +37,7 @@ app.use('/users', usersRoutes)
 // app.use('/newsletter', newsletterRoutes)
 
 // Julia
-// app.use('/pages', pagesRoutes)
+app.use('/pages', pagesRoutes)
 
 
 
