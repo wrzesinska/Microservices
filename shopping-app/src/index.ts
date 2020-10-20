@@ -8,6 +8,7 @@ import { blogRoutes } from './routes/blogRoutes'
 import { pagesRoutes } from './routes/pages'
 import { orders } from './routes/orders'
 import { categoriesRoutes } from './routes/categories'
+import { couponRoutes } from './routes/coupons'
 
 // console.log(process.cwd(),__dirname)
 
@@ -35,7 +36,7 @@ app.use('/payments', paymentsRoutes)
 // Asia
 // 
 // Bartek
-// app.use('/coupons', couponsRoutes)
+app.use('/coupons', couponRoutes)
 
 app.use('/blog', blogRoutes)
 
