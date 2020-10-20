@@ -11,6 +11,7 @@ git remote add matt https://bitbucket.org/ev45ive/node-micro-gsk.git
 git stash -u
 git pull -t matt master 
 git pull
+git stash apply
 
 # Nodemon
 npm i -g nodemon
