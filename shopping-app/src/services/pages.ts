@@ -16,11 +16,16 @@ export const getPages = async () => {
     return pages
 }
 
-// export const productArticles = () => {
-//     const articleObject = {
-//         testObject: 'true',
-//         testQuote: 'awesome'
-//     }
-//     return articleObject
-//
-// }
+export const checkIfPageExists = async (pageId) => {
+
+    let filteredPages =  pages.filter(function(page) {
+        return page.id == pageId;
+    });
+
+    if (filteredPages.length !== 0) {
+        return filteredPages
+    } else {
+        return `Sorry the page under ${pageId} id doesn't exist`
+    }
+}
+

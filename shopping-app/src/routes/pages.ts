@@ -11,13 +11,16 @@ pagesRoutes.get('/', async (req, res) => {
     res.send(answer)
 })
 
-//Get description of a given product
-pagesRoutes.post('/savepage', [
-    // body('id').exists(),
-    // body('name').exists,
-], async (req, res) => {
+//Save page to memory
+pagesRoutes.post('/savePage', [], async (req, res) => {
     const createdPage = {id: req.body.id, name: req.body.name};
-
     const answer = await pagesService.savePages(createdPage);
-    res.status(200).send(answer)
+    res.status(201).send(answer)
 })
+//Search memory for a given page Id
+pagesRoutes.post('/searchPage', [], async (req, res) => {
+    const idToSearch = req.body.id;
+    const answer = await pagesService.checkIfPageExists(idToSearch);
+    res.status(201).send(answer)
+})
+
