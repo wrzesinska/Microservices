@@ -40,23 +40,23 @@ paymentsRoutes.get('/status/:id', async (req, res) => {
   res.send(await paymentsService.getPaymentStatus(paymentId))
 })
 
-paymentsRoutes.put('/:id/status/:status',/*  [
-  param('status')...
-], */async (req, res) => {
-    const paymentId = req.params['id']
-    const paymentStatus = req.params['status']
+paymentsRoutes.put('/:id/status/:status', [
+  param('status').isIn(['pending', 'failed', 'success'])
+], async (req, res) => {
+  const paymentId = req.params['id']
+  const paymentStatus = req.params['status']
 
-    switch (paymentStatus) {
-      case 'pending':
-      case 'failed':
-      case 'success':
-        res.send(await paymentsService.changeStatus(paymentId, paymentStatus))
-        break;
-      default:
-        res.status(400).send({ error: 'bad status' })
-    }
+  switch (paymentStatus) {
+    case 'pending':
+    case 'failed':
+    case 'success':
+      res.send(await paymentsService.changeStatus(paymentId, paymentStatus))
+      break;
+    default:
+      res.status(400).send({ error: 'bad status' })
+  }
 
-  })
+})
 
 
 
