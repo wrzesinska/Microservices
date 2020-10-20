@@ -2,6 +2,7 @@ import express from 'express'
 import { cartRoutes } from './routes/cartRoutes'
 import { productsRoutes } from './routes/products'
 import { addressesRoutes } from './routes/addresses'
+import { paymentsRoutes } from './routes/payments'
 import { usersRoutes } from './routes/users'
 import { blogRoutes } from './routes/blogRoutes'
 import { pagesRoutes } from './routes/pages'
@@ -29,7 +30,7 @@ app.use('/cart', cartRoutes)
 // app.use('/wishlist', wishlistRoutes)
 
 // Szymon M
-// app.use('/payments', paymentsRoutes)
+app.use('/payments', paymentsRoutes)
 
 // Asia
 // 
