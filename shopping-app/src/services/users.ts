@@ -17,7 +17,12 @@ export const getUserById = (id: string) => {
   return Promise.resolve(usersData.find(u => u.id == id))
 }
 
-export const createUser = () => { }
+export const createUser = (userPayload) => { 
+  usersData.push(userPayload)
+  userPayload.id = Date.now();
+  
+  return Promise.resolve(userPayload)
+}
 
 export const updateUser = () => { }
 

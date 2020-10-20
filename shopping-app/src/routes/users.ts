@@ -30,9 +30,9 @@ usersRoutes.get('/:user_id', async (req, res) => {
 // Add New Users
 usersRoutes.post('/', async (req, res) => {
   const createUserPayload = req.body
-  debugger
 
-  const user = await usersService.getUserById(createUserPayload)
+  // const user = await usersService.createUser(createUserPayload)
+  res.status(201).send({ ok: 1 })
 })
 
 // Update existing User
