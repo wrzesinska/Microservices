@@ -1,6 +1,7 @@
 import express from 'express'
 import { cartRoutes } from './routes/cartRoutes'
 import { productsRoutes } from './routes/products'
+import { addressesRoutes } from './routes/addresses'
 import { usersRoutes } from './routes/users'
 
 // console.log(process.cwd(),__dirname)
@@ -8,6 +9,8 @@ import { usersRoutes } from './routes/users'
 const app = express()
 app.use('/products', productsRoutes)
 app.use('/users', usersRoutes)
+app.use('/addresses', addressesRoutes)
+
 
 // Pawel
 // app.use('/categories', categoriesRoutes)
@@ -25,8 +28,7 @@ app.use('/cart', cartRoutes)
 // app.use('/payments', paymentsRoutes)
 
 // Asia
-// app.use('/addresses', addressesRoutes)
-
+// 
 // Bartek
 // app.use('/coupons', couponsRoutes)
 

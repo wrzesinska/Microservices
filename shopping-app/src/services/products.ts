@@ -10,7 +10,7 @@ export const getProducts = (filter) => {
 
 export const getProductById = (product_id) => {
 
-  // const product = require('../../data/products/${product_id}/product.json`))
+  // const product = require('../../data/products/${product_id}/product.json`)
 
   // return product
 }
