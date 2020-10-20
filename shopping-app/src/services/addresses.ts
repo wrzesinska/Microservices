@@ -1,7 +1,24 @@
 
-export const getAddress = (filter) => {
+const addresses = [  
+  {
+  "address" : "john.q.public@example.com",
+},
+{
+  "address" : "mary@example.net",
+},
+]
 
-    const addresses = require('../../data/addresses-list.json')
+
+export const getAddress = () => {
+  return Promise.resolve(addresses)
+}
+
+  // //create new addres 
+  export const createAddress= () => {
+    const newAddress = {
+      address: "test@test.com",
+    }
+    addresses.push(newAddress)
   
-    return (addresses.filter(p => p.address.includes(filter)))
+    return Promise.resolve(newAddress)
   }
