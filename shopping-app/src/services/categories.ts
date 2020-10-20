@@ -1,21 +1,33 @@
-const categories = [
+import { Category, CategoryCreatePayload } from "../interfaces/categories"
+import {UserCreatePayload} from "../interfaces/users";
+
+const categories:Category[] = [
   {
-    id: 1,
-    name: 'test1'
+    id: '1',
+    name: 'test1',
+    desc: 'desc1'
   },
   {
-    id: 2,
-    name: 'test2'
+    id: '2',
+    name: 'test2',
+    desc: 'desc2'
   },
 ]
 
 export const getCategories = () => {
-  return categories
+  return Promise.resolve(categories)
 }
 
-export const getCategoryById = (category_id) => {
+export const getCategoryById = (id: string) => {
+  return Promise.resolve(categories.find(c => c.id == id))
+}
 
-  return categories.filter(category => {
-    return category.id === category_id
-  })
+export const createCategory = (categoryPayload: CategoryCreatePayload) => {
+  const category = {
+    id: Date.now().toString(),
+    ...categoryPayload
+  }
+  categories.push(category)
+
+  return Promise.resolve(category)
 }
