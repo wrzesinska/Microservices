@@ -16,7 +16,7 @@ export const getAddress = () => {
   // //create new addres 
   export const createAddress= () => {
     const newAddress = {
-      address: "test@test.com",
+      address: "test@test.com"
     }
     addresses.push(newAddress)
   

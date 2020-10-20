@@ -12,5 +12,5 @@ addressesRoutes.get('/', async (req, res) => {
 addressesRoutes.post('/', async (req, res) => {
   const createAddress = req.body
   const newAddress = await addressesService.createAddress()
-  res.status(201).send({ ok: true, address: "newAddress"})
+  res.status(201).send({ ok: true , newAddress })
 })
