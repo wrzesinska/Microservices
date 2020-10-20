@@ -1,5 +1,6 @@
 import express from 'express'
 import { productsRoutes } from './routes/products'
+import { paymentsRoutes } from './routes/payments'
 import { usersRoutes } from './routes/users'
 
 // console.log(process.cwd(),__dirname)
@@ -21,7 +22,7 @@ app.use('/users', usersRoutes)
 // app.use('/wishlist', wishlistRoutes)
 
 // Szymon M
-// app.use('/payments', paymentsRoutes)
+app.use('/payments', paymentsRoutes)
 
 // Asia
 // app.use('/addresses', addressesRoutes)
