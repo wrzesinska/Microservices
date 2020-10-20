@@ -1,4 +1,5 @@
 import * as express from "express";
+import { UserCreatePayload } from "../interfaces/users";
 import * as usersService from "../services/users";
 
 export const usersRoutes = express.Router();
@@ -28,11 +29,11 @@ usersRoutes.get('/:user_id', async (req, res) => {
 })
 
 // Add New Users
-usersRoutes.post('/', async (req, res) => {
+usersRoutes.post<{}, { ok: boolean }, UserCreatePayload>('/', async (req, res) => {
   const createUserPayload = req.body
 
-  // const user = await usersService.createUser(createUserPayload)
-  res.status(201).send({ ok: 1 })
+  const user = await usersService.createUser(createUserPayload)
+  res.status(201).send({ ok: true })
 })
 
 // Update existing User

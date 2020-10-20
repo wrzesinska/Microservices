@@ -1,5 +1,7 @@
+import { User, UserCreatePayload } from "../interfaces/users"
 
-const usersData = [
+
+const usersData:User[] = [
   {
     id: '123', name: 'admin', password: 'admin'
   },
@@ -17,10 +19,13 @@ export const getUserById = (id: string) => {
   return Promise.resolve(usersData.find(u => u.id == id))
 }
 
-export const createUser = (userPayload) => { 
-  usersData.push(userPayload)
-  userPayload.id = Date.now();
-  
+export const createUser = (userPayload: UserCreatePayload) => {
+  const user = {
+    id: Date.now().toString(),
+    ...userPayload
+  }
+  usersData.push(user)
+
   return Promise.resolve(userPayload)
 }
 
