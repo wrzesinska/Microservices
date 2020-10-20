@@ -22,7 +22,11 @@ usersRoutes.get('/:user_id', async (req, res) => {
 })
 
 // Add New Users
-usersRoutes.post('/', (req, res) => { })
+usersRoutes.post('/', async (req, res) => {
+  const createUserPayload = req.body
+
+  const user = await usersService.getUserById(createUserPayload)
+})
 
 // Update existing User
 usersRoutes.put('/:user_id', (req, res) => { })

@@ -8,12 +8,16 @@
   "scripts": {
     "build": "tsc",
     "start": "node ./dist/index.js",
+    "== Dev ":"----------------------------------------",
     "build:dev": "tsc --watch",
     "dev": "nodemon -- -r dotenv/config dist/index.js",
     "start:debug": "node --inspect-brk ./dist/index.js",
+    "== Dev Typescript ":"----------------------------------------",
     "dev:ts": "nodemon --watch \"src/**\" --ext \"ts,json\" --exec \"ts-node -r dotenv/config ./src/index.ts\" ",
-    "dev:ts2": "nodemon -- -r dotenv/config -r ts-node/register ./src/index.ts ",
+    "dev:ts:debug": "nodemon --watch \"src/**\" --ext \"ts,json\" --exec \"ts-node --inspect -r dotenv/config ./src/index.ts\" ",
+    "== Test ":"----------------------------------------",
     "test": "echo \"Error: no test specified\" && exit 1",
+    "== Admin tasks ":"----------------------------------------",
     "inny_port": "cross-env PORT=3000 node ./dist/index.js"
   },
   "repository": {
