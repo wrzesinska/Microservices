@@ -3,6 +3,12 @@ import * as usersService from "../services/users";
 
 export const usersRoutes = express.Router();
 
+// Middleware
+// usersRoutes.use((req, res, next) => {
+//   req.body = { name: 'nowy' }
+//   next()
+// })
+
 // Get Users
 usersRoutes.get('/', async (req, res) => {
   const users = await usersService.getUsers()
@@ -24,6 +30,7 @@ usersRoutes.get('/:user_id', async (req, res) => {
 // Add New Users
 usersRoutes.post('/', async (req, res) => {
   const createUserPayload = req.body
+  debugger
 
   const user = await usersService.getUserById(createUserPayload)
 })

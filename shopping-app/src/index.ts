@@ -10,10 +10,19 @@ import { pagesRoutes } from './routes/pages'
 import { orders } from './routes/orders'
 import { categoriesRoutes } from './routes/categories'
 import { couponRoutes } from './routes/coupons'
-
+import cors from 'cors'
+import errorhandler from 'errorhandler'
+import morgan from 'morgan'
 // console.log(process.cwd(),__dirname)
 
 const app = express()
+
+app.use(express.json({}))
+app.use(cors())
+app.use(errorhandler())
+app.use(morgan(':method :url :status :res[content-length] - :response-time ms'))
+
+
 app.use('/products', productsRoutes)
 app.use('/users', usersRoutes)
 app.use('/addresses', addressesRoutes)
