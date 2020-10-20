@@ -2,6 +2,7 @@ import express from 'express'
 import { cartRoutes } from './routes/cartRoutes'
 import { productsRoutes } from './routes/products'
 import { usersRoutes } from './routes/users'
+import { blogRoutes } from './routes/blogRoutes'
 
 // console.log(process.cwd(),__dirname)
 
@@ -30,8 +31,7 @@ app.use('/cart', cartRoutes)
 // Bartek
 // app.use('/coupons', couponsRoutes)
 
-// Cristian
-// app.use('/blog', blogRoutes)
+app.use('/blog', blogRoutes)
 
 // Szymon P
 // app.use('/newsletter', newsletterRoutes)
