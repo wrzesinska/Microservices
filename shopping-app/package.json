@@ -12,7 +12,7 @@
     "build:dev": "tsc --watch",
     "dev": "nodemon dist/index.js",
     "start:debug": "node --inspect-brk ./dist/index.js",
-    "dev:ts": "nodemon --exec \"ts-node ./src/index.ts\" ",
+    "dev:ts": "nodemon --watch \"src/**\" --ext \"ts,json\" --exec \"ts-node ./src/index.ts\" ",
     "dev:ts2": "nodemon -- -r ts-node/register ./src/index.ts ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
