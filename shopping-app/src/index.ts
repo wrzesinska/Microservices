@@ -3,6 +3,7 @@ import { cartRoutes } from './routes/cartRoutes'
 import { productsRoutes } from './routes/products'
 import { usersRoutes } from './routes/users'
 import { blogRoutes } from './routes/blogRoutes'
+import { pagesRoutes } from './routes/pages'
 
 // console.log(process.cwd(),__dirname)
 
@@ -37,7 +38,7 @@ app.use('/blog', blogRoutes)
 // app.use('/newsletter', newsletterRoutes)
 
 // Julia
-// app.use('/pages', pagesRoutes)
+app.use('/pages', pagesRoutes)
 
 
 
@@ -50,4 +51,3 @@ app.listen(PORT, HOST, () => {
   console.log(`Listening on http://${HOST}:${PORT}`)
 })
 
-export { }
