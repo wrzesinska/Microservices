@@ -1,25 +1,26 @@
 import path from "path"
 
+const pages = [
+    {id: 1, name: 'O nas'},
+    {id: 2, name: 'Kontakt'},
+    {id: 3, name: 'Główna'},
+    {id: 4, name: 'Wishlist'},
+];
 
-
-export const getProducts = (filter) => {
-    const products = require('../../data/products.json')
-
-    return (products.filter(p => p.name.includes(filter)))
+export const savePages = async (payload) => {
+    pages.push(payload);
+    return pages
 }
 
-export const getProductById = (product_id) => {
-
-    const product = require('../../data/products/${product_id}/product.json')
-
-    // return product
+export const getPages = async () => {
+    return pages
 }
 
-export const productArticles = () => {
-    const articleObject = {
-        testObject: 'true',
-        testQuote: 'awesome'
-    }
-    return articleObject
-
-}
+// export const productArticles = () => {
+//     const articleObject = {
+//         testObject: 'true',
+//         testQuote: 'awesome'
+//     }
+//     return articleObject
+//
+// }
