@@ -19,3 +19,9 @@ productsRoutes.get('/:product_id', async (req, res) => {
 
   res.send(productsService.getProductById(product_id))
 })
+
+// Add new product
+productsRoutes.post('/',(req,res)=>{})
+
+// Update existing product
+productsRoutes.put('/:product_id',(req,res)=>{})

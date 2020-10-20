@@ -1,7 +1,7 @@
 import path from "path"
 
 export const getCarts = () => {
-    const carts = require(path.join(__dirname, './data/carts.json'))
+    const carts = require(path.join(__dirname, './data/products.json'))
     //cartId = getUserById()
     return carts;
 }
