@@ -1,4 +1,5 @@
 import express from 'express'
+import asert from 'assert'
 import { cartRoutes } from './routes/cartRoutes'
 import { productsRoutes } from './routes/products'
 import { addressesRoutes } from './routes/addresses'
@@ -46,15 +47,14 @@ app.use('/blog', blogRoutes)
 // Julia
 app.use('/pages', pagesRoutes)
 
+asert(process.env.PORT, 'Missing env PORT variable')
+asert(process.env.HOST, 'Missing env HOST variable')
 
-
-
-const PORT = parseInt('3000' || '8080')
-
-const HOST = process.env.HOST || 'localhost';
+const PORT = parseInt(process.env.PORT)
+const HOST = process.env.HOST;
 
 app.listen(PORT, HOST, () => {
   console.log(`Listening on http://${HOST}:${PORT}`)
 })
 
-export {}
+export { }
