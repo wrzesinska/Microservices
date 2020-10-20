@@ -1,7 +1,6 @@
 {
   "name": "shopping-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "example": "examples"
@@ -33,5 +32,6 @@
   },
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "description": ""
 }

@@ -4,6 +4,7 @@ import { productsRoutes } from './routes/products'
 import { usersRoutes } from './routes/users'
 import { blogRoutes } from './routes/blogRoutes'
 import { pagesRoutes } from './routes/pages'
+import { couponRoutes } from './routes/coupons'
 
 // console.log(process.cwd(),__dirname)
 
@@ -30,7 +31,7 @@ app.use('/cart', cartRoutes)
 // app.use('/addresses', addressesRoutes)
 
 // Bartek
-// app.use('/coupons', couponsRoutes)
+app.use('/coupons', couponRoutes)
 
 app.use('/blog', blogRoutes)
 
