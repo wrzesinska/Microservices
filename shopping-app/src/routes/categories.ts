@@ -1,9 +1,20 @@
 import * as express from 'express'
 import * as categoriesService from '../services/categories'
-import {body, validationResult} from "express-validator";
+import { body, validationResult } from "express-validator";
 import { CategoryCreatePayload } from "../interfaces/categories";
 
 export const categoriesRoutes = express.Router()
+
+// categoriesRoutes.param('category_id', async (req, res, next) => {
+//     const categoryId = req.params['category_id']
+//     const category = await categoriesService.getCategoryById(categoryId)
+//     if (category) {
+//         req.params['category'] = category
+//         next()
+//     } else {
+//         res.status(401).send({ error: 'Not Found' })
+//     }
+// })
 
 // List categories
 categoriesRoutes.get('/', async (req, res) => {

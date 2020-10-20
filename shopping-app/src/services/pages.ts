@@ -1,5 +1,15 @@
 import path from "path"
 
+const pages = [
+    { id: 123, name: 'O nas' },
+    { id: 234, name: 'Kontakt' }
+]
+
+export const getPages = async () => {
+
+    return pages
+}
+
 
 
 export const getProducts = (filter) => {
