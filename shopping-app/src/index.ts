@@ -2,8 +2,12 @@ import express from 'express'
 import { cartRoutes } from './routes/cartRoutes'
 import { productsRoutes } from './routes/products'
 import { usersRoutes } from './routes/users'
+<<<<<<< HEAD
 import { blogRoutes } from './routes/blogRoutes'
 import { pagesRoutes } from './routes/pages'
+=======
+import { orders } from './routes/orders'
+>>>>>>> 0c65169c7a61b54778beb97fd6d5860692581aaa
 
 // console.log(process.cwd(),__dirname)
 
@@ -15,7 +19,7 @@ app.use('/users', usersRoutes)
 // app.use('/categories', categoriesRoutes)
 
 // Jakub
-// app.use('/orders', ordersRoutes)
+app.use('/orders', orders)
 
 // Tomek
 app.use('/cart', cartRoutes)
