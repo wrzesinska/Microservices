@@ -13,6 +13,8 @@ const categories:Category[] = [
     desc: 'desc2'
   },
 ]
+// const index = categories.findIndex(c => c.id == id)
+// categories[index] = draft
 
 export const getCategories = () => {
   return Promise.resolve(categories)

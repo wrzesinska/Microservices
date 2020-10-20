@@ -35,7 +35,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\":\"nowy\"\r\n}",
+							"raw": "{   \r\n    \"name\":\"User\",\r\n    \"email\":\"nowy@mail.com\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -52,6 +52,84 @@
 							"path": [
 								"users",
 								""
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Payments",
+			"item": [
+				{
+					"name": "Create payments",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"userID\":\"123\",\r\n    \"productID\":\"123\",\r\n    \"value\":\"123\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/payments/newPayment",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"payments",
+								"newPayment"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetPayment",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/payments/status/1603203028583",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"payments",
+								"status",
+								"1603203028583"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Payment ",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/payments/1603203028583/status/success",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"payments",
+								"1603203028583",
+								"status",
+								"success"
 							]
 						}
 					},
