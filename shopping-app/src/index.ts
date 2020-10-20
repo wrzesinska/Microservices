@@ -1,19 +1,19 @@
 import express from 'express'
 import { cartRoutes } from './routes/cartRoutes'
 import { productsRoutes } from './routes/products'
+import { addressesRoutes } from './routes/addresses'
 import { usersRoutes } from './routes/users'
-<<<<<<< HEAD
 import { blogRoutes } from './routes/blogRoutes'
 import { pagesRoutes } from './routes/pages'
-=======
 import { orders } from './routes/orders'
->>>>>>> 0c65169c7a61b54778beb97fd6d5860692581aaa
 
 // console.log(process.cwd(),__dirname)
 
 const app = express()
 app.use('/products', productsRoutes)
 app.use('/users', usersRoutes)
+app.use('/addresses', addressesRoutes)
+
 
 // Pawel
 // app.use('/categories', categoriesRoutes)
@@ -31,8 +31,7 @@ app.use('/cart', cartRoutes)
 // app.use('/payments', paymentsRoutes)
 
 // Asia
-// app.use('/addresses', addressesRoutes)
-
+// 
 // Bartek
 // app.use('/coupons', couponsRoutes)
 
