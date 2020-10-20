@@ -51,3 +51,13 @@ tsc
 
 # 12 Factor Cloud app - Scaling
 https://12factor.net/
+
+
+# Validation
+https://joi.dev/
+https://github.com/sideway/joi
+https://github.com/arb/celebrate
+<!-- vs -->
+https://express-validator.github.io/docs/
+https://github.com/typestack/class-validator
+https://github.com/ajv-validator/ajv
