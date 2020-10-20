@@ -1,6 +1,7 @@
 import express from 'express'
 import { productsRoutes } from './routes/products'
 import { usersRoutes } from './routes/users'
+import { categoriesRoutes } from './routes/categories'
 
 // console.log(process.cwd(),__dirname)
 
@@ -9,7 +10,7 @@ app.use('/products', productsRoutes)
 app.use('/users', usersRoutes)
 
 // Pawel
-// app.use('/categories', categoriesRoutes)
+app.use('/categories', categoriesRoutes)
 
 // Jakub
 // app.use('/orders', ordersRoutes)
