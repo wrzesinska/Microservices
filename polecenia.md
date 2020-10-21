@@ -65,3 +65,36 @@ https://github.com/ajv-validator/ajv
 # Authorization
 https://github.com/expressjs/session
 + redis store
+
+
+# Docker 
+docker run
+--rm // remove after close
+-it // interactive terminal
+-d // detach terminal
+--name="nodeapp"
+--label="payments-ms"
+
+https://docs.docker.com/engine/reference/commandline/ps/
+
+docker inspect testapp --format "{{json .Config.Labels}}"
+
+docker inspect testapp --format "{{json .NetworkSettings.IPAddress}}"
+
+
+
+# Postgres
+docker run --name db-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres
+docker run -it --rm --network some-network postgres psql -h $(docker inspect db-postgres --format "{{json .NetworkSettings.IPAddress}}") -U postgres
+
+<!-- Private docker network -->
+docker network create postgres-net
+
+<!-- Database accesible only in private network -->
+docker run --name db-postgres --network postgres-net -e POSTGRES_PASSWORD=mysecretpassword -d postgres
+
+<!-- Run one time command in containr with private network -->
+docker run -it --rm --network postgres-net postgres psql -h db-postgres -U postgres
+
+<!-- Run one time web interface in containr with private network -->
+docker run --rm --network postgres-net -e PGADMIN_DEFAULT_EMAIL=admin -e PGADMIN_DEFAULT_PASSWORD=admin -p 8080:80 dpage/pgadmin4
