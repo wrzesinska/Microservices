@@ -1,4 +1,5 @@
 export interface Coupon {
-    couponID: number;
+    id: string;
+    name:string;
     couponDiscount: number;
   }

@@ -62,7 +62,7 @@ app.use((err, req, res, next) => {
   if (err instanceof NotFoundError) {
     return res.status(404).json({error:err.message})
   }
-  res.status(500).json({ error: err })
+  res.status(500).json({ error: err})
 })
 
 asert(process.env.PORT, 'Missing env PORT variable')
