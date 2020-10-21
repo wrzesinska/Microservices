@@ -38,6 +38,7 @@ categoriesRoutes.get('/:category_id', async (req, res) => {
 categoriesRoutes.post('/', [
     body('name').exists(),
     body('desc').exists(),
+    body('parentId').exists(),
 ], async (req, res) => {
 
     const errors = validationResult(req);
@@ -51,4 +52,30 @@ categoriesRoutes.post('/', [
     res.status(201).send({ ok: true, id: categoryId })
 })
 
-// categoriesRoutes.put('/:category_id',(req,res)=>{})
+// category details
+categoriesRoutes.get('/parent/:parent_id', async (req, res) => {
+    const parentId = req.params['parent_id']
+    const category = await categoriesService.getCategoriesByParent(parentId)
+    if (category) {
+        res.json(category)
+    } else {
+        res.status(404).json({ error: 'wrong category id' })
+    }
+})
+
+categoriesRoutes.put('/', [
+    body('id').exists(),
+], async (req, res) => {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+        return res.status(400).json({ errors: errors.array() });
+    }
+
+    const updatedCategory = req.body;
+    const category = await categoriesService.updateCategoryById(updatedCategory)
+    if (category) {
+        res.json(category)
+    } else {
+        res.status(404).json({ error: 'wrong category id' })
+    }
+})
