@@ -13,13 +13,14 @@ import { couponRoutes } from './routes/coupons'
 import cors from 'cors'
 import errorhandler from 'errorhandler'
 import morgan from 'morgan'
+import { NotFoundError } from './services/pages'
 // console.log(process.cwd(),__dirname)
 
 const app = express()
 
 app.use(express.json({}))
 app.use(cors())
-app.use(errorhandler())
+// app.use(errorhandler())
 app.use(morgan(':method :url :status :res[content-length] - :response-time ms'))
 
 
@@ -55,6 +56,14 @@ app.use('/blog', blogRoutes)
 
 // Julia
 app.use('/pages', pagesRoutes)
+
+
+app.use((err, req, res, next) => {
+  if (err instanceof NotFoundError) {
+    return res.status(404).json({error:err.message})
+  }
+  res.status(500).json({ error: err })
+})
 
 asert(process.env.PORT, 'Missing env PORT variable')
 asert(process.env.HOST, 'Missing env HOST variable')

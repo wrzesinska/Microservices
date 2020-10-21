@@ -1,35 +1,32 @@
+import { randomBytes } from "crypto";
 import path from "path"
 
 const pages = [
-    { id: 123, name: 'O nas' },
-    { id: 234, name: 'Kontakt' }
-]
+    { id: 1, name: 'O nas' },
+    { id: 2, name: 'Kontakt' },
+    { id: 3, name: 'Główna' },
+    { id: 4, name: 'Wishlist' },
+];
+
+export const savePages = async (payload) => {
+    payload.id = randomBytes(12).toString('hex')
+    pages.push(payload);
+    return payload
+}
 
 export const getPages = async () => {
-
     return pages
 }
 
+export const getPageById = async (pageId) => {
 
+    let filteredPages = pages.find(page => page.id == pageId);
 
-export const getProducts = (filter) => {
-    const products = require('../../data/products.json')
-
-    return (products.filter(p => p.name.includes(filter)))
-}
-
-export const getProductById = (product_id) => {
-
-    const product = require('../../data/products/${product_id}/product.json')
-
-    // return product
-}
-
-export const productArticles = () => {
-    const articleObject = {
-        testObject: 'true',
-        testQuote: 'awesome'
+    if (!filteredPages) {
+        throw new NotFoundError(`Sorry the page under ${pageId} id doesn't exist`)
     }
-    return articleObject
 
+    return filteredPages
 }
+
+export class NotFoundError extends Error{}
