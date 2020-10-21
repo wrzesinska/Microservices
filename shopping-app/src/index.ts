@@ -71,8 +71,13 @@ asert(process.env.HOST, 'Missing env HOST variable')
 const PORT = parseInt(process.env.PORT);
 const HOST = process.env.HOST;
 
-app.listen(PORT, HOST, () => {
+const server = app.listen(PORT, HOST, () => {
   console.log(`Listening on http://${HOST}:${PORT}`)
 })
 
-export { }
+process.on('SIGHUP',()=>{
+  console.log('Recieved SIGHUP. Stopping...');
+  server.close()
+  console.log('Stopped.');
+})
+// export {} // Force file to be module (TS)
