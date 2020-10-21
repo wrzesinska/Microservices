@@ -91,7 +91,7 @@ docker run -it --rm --network some-network postgres psql -h $(docker inspect db-
 docker network create postgres-net
 
 <!-- Database accesible only in private network -->
-docker run --name db-postgres --network postgres-net -e  POSTGRES_PASSWORD=mysecretpassword -p 5431:5432 -d postgres
+docker run --name db-postgres --network postgres-net -e  POSTGRES_PASSWORD=mysecretpassword -p 5432:5432 -d postgres
 
 <!-- If not connected -->
 docker network connect postgres-net db-postgres
