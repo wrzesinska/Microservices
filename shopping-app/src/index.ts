@@ -13,14 +13,18 @@ import { couponRoutes } from './routes/coupons'
 import cors from 'cors'
 import errorhandler from 'errorhandler'
 import morgan from 'morgan'
-import { NotFoundError } from './services/pages'
+import { NotFoundError } from "./middlewares/errors"
+import { userMiddleware } from './middlewares/usermiddleware'
 // console.log(process.cwd(),__dirname)
 
 const app = express()
 
 app.use(express.json({}))
-app.use(cors())
+app.use(cors({
+  // origin:['*']
+}))
 // app.use(errorhandler())
+app.use(userMiddleware)
 app.use(morgan(':method :url :status :res[content-length] - :response-time ms'))
 
 
@@ -62,7 +66,7 @@ app.use((err, req, res, next) => {
   if (err instanceof NotFoundError) {
     return res.status(404).json({error:err.message})
   }
-  res.status(500).json({ error: err})
+  res.status(500).json({ error: err.message})
 })
 
 asert(process.env.PORT, 'Missing env PORT variable')

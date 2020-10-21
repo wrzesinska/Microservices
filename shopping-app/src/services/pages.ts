@@ -1,5 +1,6 @@
 import { randomBytes } from "crypto";
 import path from "path"
+import { NotFoundError } from "../middlewares/errors";
 
 const pages = [
     { id: 1, name: 'O nas' },
@@ -29,4 +30,3 @@ export const getPageById = async (pageId) => {
     return filteredPages
 }
 
-export class NotFoundError extends Error{}

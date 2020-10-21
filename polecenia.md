@@ -61,3 +61,7 @@ https://github.com/arb/celebrate
 https://express-validator.github.io/docs/
 https://github.com/typestack/class-validator
 https://github.com/ajv-validator/ajv
+
+# Authorization
+https://github.com/expressjs/session
++ redis store

@@ -1,13 +1,16 @@
 import * as express from 'express'
 import { body, validationResult } from 'express-validator'
 import { CartPayload, CartItem } from '../interfaces/cart'
+import { authorizedOnly } from '../middlewares/usermiddleware'
+import { validate } from '../middlewares/validate'
 import * as cartServices from '../services/cartServices'
 
 export const cartRoutes = express.Router()
 
 // Get current user cart 
-cartRoutes.get('/my', async (req, res) => {
-    const currentUser = req.query.userId // FIXME: Auth middleware
+cartRoutes.get('/my', [authorizedOnly], async (req, res) => {
+    // const currentUser = req.user &&  req.user.id
+    const currentUser = req.user?.id
     const carts = await cartServices.getCartByUserId(currentUser)
     res.send(carts)
 })
@@ -24,16 +27,13 @@ cartRoutes.get('/:cart_id', async (req, res) => {
 });
 
 cartRoutes.post('/', [
-    // body('cartId').exists(),
+    authorizedOnly,
     body('itemId').exists(),
     body('desc').exists(),
     body('qty').exists(),
+    validate()
 ], async (req, res) => {
-    const errors = validationResult(req);
-    if (!errors.isEmpty()) {
-        return res.status(400).json({ errors: errors.array() });
-    }
-    
+
     const currentUser = req.query.userId // FIXME: Auth middleware
     const cart = await cartServices.getCartByUserId(currentUser)
 

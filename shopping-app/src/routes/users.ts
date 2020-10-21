@@ -1,9 +1,11 @@
 import * as express from "express";
-import { UserCreatePayload } from "../interfaces/users";
+import { User, UserCreatePayload, UserUpdatePayload } from "../interfaces/users";
 import * as usersService from "../services/users";
 import { body, validationResult } from 'express-validator'
+import { validate } from "../middlewares/validate";
+import Router from 'express-promise-router' // promise + errors
 
-export const usersRoutes = express.Router();
+export const usersRoutes = Router();
 
 // Middleware
 // usersRoutes.use((req, res, next) => {
@@ -16,6 +18,55 @@ usersRoutes.get('/', async (req, res) => {
   const users = await usersService.getUsers()
   res.json(users)
 })
+
+
+// Get Current User
+usersRoutes.get('/me', async (req, res) => {
+  // const [tokenType, token] = req.headers['authorization'].split(' ')
+  // const user = await usersService.getUserByToken(token)
+  res.send(req.user)
+})
+
+// Get Current User cart
+usersRoutes.get('/me/cart', (req, res) => { })
+
+
+/* Authorization */
+
+// Signup user
+usersRoutes.post('/signup', [
+  body('username').exists(),
+  body('email').isEmail().exists(),
+  body('password').exists(),
+  validate()
+], async (req, res) => {
+  const createUserPayload: UserCreatePayload = req.body
+  const user_id = await usersService.createUser(createUserPayload)
+  // TODO: Send activation email
+  res.status(201).send({ ok: true, id: user_id })
+})
+
+// Signin user
+usersRoutes.post('/signin', [
+  body('username').exists(),
+  body('password').exists(),
+  validate()
+], async (req, res) => {
+  const { username, password } = req.body
+
+  res.send({
+    access_token: await usersService.signinUser(username, password)
+  })
+})
+
+// Signout user
+usersRoutes.get('/signout', async (req, res) => {
+  const [tokenType, token] = req.headers['authorization'].split(' ')
+  res.json(await usersService.signoutUser(token))
+})
+
+
+
 
 
 // Get User by id
@@ -31,15 +82,10 @@ usersRoutes.get('/:user_id', async (req, res) => {
 
 // Add New Users
 usersRoutes.post('/', [
-  body('name').exists(),
+  body('username').exists(),
   body('email').isEmail().exists(),
+  validate()
 ], async (req, res) => {
-
-  const errors = validationResult(req);
-  if (!errors.isEmpty()) {
-    return res.status(400).json({ errors: errors.array() });
-  }
-
   const createUserPayload: UserCreatePayload = req.body
 
   const user_id = await usersService.createUser(createUserPayload)
@@ -47,25 +93,13 @@ usersRoutes.post('/', [
 })
 
 // Update existing User
-usersRoutes.put('/:user_id', (req, res) => { })
+usersRoutes.put('/:user_id', async (req, res) => {
+  const updateUserPayload: UserUpdatePayload = req.body
+
+  const user_id = await usersService.updateUser(updateUserPayload)
+  res.status(201).send({ ok: true, id: user_id })
+
+})
 
 // Update existing User
-usersRoutes.put('/:user_id', (req, res) => { })
-
-
-/* Authorization */
-
-// Get Current User
-usersRoutes.get('/me', (req, res) => { })
-
-// Get Current User cart
-usersRoutes.get('/me/cart', (req, res) => { })
-
-// Signup user
-usersRoutes.post('/signup', (req, res) => { })
-
-// Signin user
-usersRoutes.post('/signin', (req, res) => { })
-
-// Signout user
-usersRoutes.get('/signin', (req, res) => { })
+usersRoutes.put('/:user_id', async (req, res) => { })
