@@ -1,24 +1,26 @@
+import { randomBytes } from "crypto";
 import path from "path"
 import { CartItem } from "../interfaces/cart";
 
+
 const carts = [
     {
-        id: 1,
-        user_id: 1,
+        id: '1',
+        user_id: '234',
         items: [
-            { itemId: 1, desc: 'item1', qty: 3 },
-            { itemId: 2, desc: 'item2', qty: 1 },
-            { itemId: 3, desc: 'item3', qty: 2 }
+            { itemId: '1', desc: 'item1', qty: 3 },
+            { itemId: '2', desc: 'item2', qty: 1 },
+            { itemId: '3', desc: 'item3', qty: 2 }
         ]
     },
     {
-        id: 2,
-        user_id: 2,
+        id: '2',
+        user_id: '123',
         items: []
     },
     {
-        id: 3,
-        user_id: 3,
+        id: '3',
+        user_id: '345',
         items: []
     }
 ];
@@ -29,14 +31,18 @@ export const getCarts = async () => {
 
 export const getCartById = async (cartId) => {
     const cart = await getCarts();
-    const filteredCart = cart.find(c => c.id === parseInt(cartId))
+    const filteredCart = cart.find(c => c.id == (cartId))
     return filteredCart
 }
 
-export const getCartByUserId = async (userId) => {
+export const getCartByUserId = async (userId: string) => {
     const cart = await getCarts();
-    const filteredCart = cart.find(c => c.user_id === parseInt(userId))
-    return filteredCart
+    const filteredCart = cart.find(c => c.user_id == (userId))
+    return filteredCart || {
+        id: randomBytes(12).toString('hex'),
+        user_id: userId,
+        items: []
+    }
 }
 
 export const addToCart = async (cartId, product: CartItem) => {

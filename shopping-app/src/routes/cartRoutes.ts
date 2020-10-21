@@ -33,12 +33,11 @@ cartRoutes.post('/', [
     body('qty').exists(),
     validate()
 ], async (req, res) => {
-
-    const currentUser = req.query.userId // FIXME: Auth middleware
-    const cart = await cartServices.getCartByUserId(currentUser)
+    const currentUserId = req.user.id // FIXME: Auth middleware
+    const cart = await cartServices.getCartByUserId(currentUserId)
 
     const createNewItem: CartItem = {
-        itemId: parseInt(req.body.cartId),
+        itemId: req.body.itemId,
         desc: req.body.desc,
         qty: req.body.qty
     }

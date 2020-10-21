@@ -1,9 +1,12 @@
 import * as express from "express";
-import { User, UserCreatePayload, UserUpdatePayload } from "../interfaces/users";
 import * as usersService from "../services/users";
 import { body, validationResult } from 'express-validator'
 import { validate } from "../middlewares/validate";
+import { User, UserCreatePayload, UserUpdatePayload } from "../interfaces/users";
 import Router from 'express-promise-router' // promise + errors
+import { getCartByUserId } from "../services";
+import { authorizedOnly } from "../middlewares/usermiddleware";
+
 
 export const usersRoutes = Router();
 
@@ -28,7 +31,10 @@ usersRoutes.get('/me', async (req, res) => {
 })
 
 // Get Current User cart
-usersRoutes.get('/me/cart', (req, res) => { })
+usersRoutes.get('/me/cart', [authorizedOnly], async (req, res) => {
+  const cart = await getCartByUserId(req.user.id)
+  res.json(cart)
+})
 
 
 /* Authorization */

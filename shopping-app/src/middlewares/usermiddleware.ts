@@ -17,16 +17,16 @@ declare global {
 export const userMiddleware = (async (req, res, next) => {
   const authorization = req.headers['authorization'];
   // No token - Continue not Authenticated
-  if (!authorization) { next() }
+  if (!authorization) { next(); return; }
   // No token - Continue not Authenticated
   const [tokenType, token] = authorization.split(' ')
-  if (!token) { next() }
+  if (!token) { next(); return; }
   // Token - Try Authenticate
   try {
     const user = await usersService.getUserByToken(token)
     req.user = user;
     next()
-  } catch (err) { next(err) }
+  } catch (err) { next(err); return; }
 })
 
 
