@@ -6,31 +6,18 @@ export const couponRoutes = express.Router()
 
 // add new coupon
 
-// couponRoutes.get('/', async (req, res) => {
-//     const result = await couponService.getCouponById(req.params.id)
-//     res.json(result)
-//   })
-  
-// couponRoutes.post('/', [
-//     body('email').isEmail(),
-//   ], async (req, res) => {
-//     const createCoupon = req.body
-//     const newCoupon = await couponService.createCoupon(createCoupon)
-//     res.status(201).send({ ok: true, newCoupon})
-//   })
-  
-// couponRoutes.get('/:coupon-id', async (req, res) => {
-//     const coupon_id = req.params['coupon_id']
-  
-//     res.send(couponService.getCouponById(coupon_id))
-//   })
-
 couponRoutes.get('/', async (req, res) => {
-    const coupon = couponService.getCoupons()
-    res.send(coupon)
+    const result = await couponService.getCouponById(req.params.id)
+    res.json(result)
   })
   
-  couponRoutes.get('/:coupon-id', async (req, res) => {
+couponRoutes.post('/newCoupon', async (req, res) => {
+    const couponID = req.body['id']
+    const couponDiscount = req.body['discount']
+    res.send(await couponService.createCoupon(couponID, couponDiscount))
+  })
+  
+couponRoutes.get('/:coupon-id', async (req, res) => {
     const coupon_id = req.params['coupon_id']
   
     res.send(couponService.getCouponById(coupon_id))

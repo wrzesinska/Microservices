@@ -1,12 +1,13 @@
 import path from "path"
 import {randomBytes} from 'crypto'
+import { Coupon } from "../interfaces/coupons"
 
-const coupons = [ 
+const coupons:Coupon[] = [ 
     { 
-        id : 15012, discount : 0.2,
+        couponID : 15012, couponDiscount : 0.2,
     },
     { 
-        id : 15045, discount : 0.5,
+        couponID : 15045, couponDiscount : 0.5,
     }
 ] 
 
@@ -15,11 +16,15 @@ export const getCoupons = () => {
 }
 
 export const getCouponById = (coupon_id) => {
-    return (coupons.find(a => a.id == coupon_id))
+
+    return coupons
 }
 
-export const createCoupon = async (newCoupon) => {
-    newCoupon.id = randomBytes(12).toString('hex')
+export const createCoupon = async (couponID, couponDiscount) => {
+    let newCoupon: Coupon = {
+        couponID: couponID,
+        couponDiscount: couponDiscount,
+      }
     coupons.push(newCoupon)
   
     return (newCoupon)
