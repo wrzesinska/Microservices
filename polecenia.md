@@ -91,10 +91,24 @@ docker run -it --rm --network some-network postgres psql -h $(docker inspect db-
 docker network create postgres-net
 
 <!-- Database accesible only in private network -->
-docker run --name db-postgres --network postgres-net -e POSTGRES_PASSWORD=mysecretpassword -d postgres
+docker run --name db-postgres --network postgres-net -e  POSTGRES_PASSWORD=mysecretpassword -p 5431:5432 -d postgres
+
+<!-- If not connected -->
+docker network connect postgres-net db-postgres
 
 <!-- Run one time command in containr with private network -->
 docker run -it --rm --network postgres-net postgres psql -h db-postgres -U postgres
 
+<!-- https://www.pgadmin.org/docs/pgadmin4/latest/container_deployment.html -->
+<!-- Share -->
+docker volume create pgadmin-config
+
 <!-- Run one time web interface in containr with private network -->
-docker run --rm --network postgres-net -e PGADMIN_DEFAULT_EMAIL=admin -e PGADMIN_DEFAULT_PASSWORD=admin -p 8080:80 dpage/pgadmin4
+docker run --rm --network postgres-net --name="pgadmin" -e PGADMIN_DEFAULT_EMAIL=admin@admin.com -e PGADMIN_DEFAULT_PASSWORD=admin -p 8080:80 -v pgadmin-config:/var/lib/pgadmin/ dpage/pgadmin4
+
+<!-- New Connection:
+host: db-postgres
+user: postgres
+db: postrgres
+password: mysecretpassword
+ -->

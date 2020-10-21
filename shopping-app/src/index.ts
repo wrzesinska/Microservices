@@ -15,6 +15,8 @@ import errorhandler from 'errorhandler'
 import morgan from 'morgan'
 import { NotFoundError } from "./middlewares/errors"
 import { userMiddleware } from './middlewares/usermiddleware'
+import { sequelize } from './db'
+import { Server } from 'http'
 // console.log(process.cwd(),__dirname)
 
 const app = express()
@@ -64,9 +66,9 @@ app.use('/pages', pagesRoutes)
 
 app.use((err, req, res, next) => {
   if (err instanceof NotFoundError) {
-    return res.status(404).json({error:err.message})
+    return res.status(404).json({ error: err.message })
   }
-  res.status(500).json({ error: err.message})
+  res.status(500).json({ error: err.message })
 })
 
 asert(process.env.PORT, 'Missing env PORT variable')
@@ -75,13 +77,20 @@ asert(process.env.HOST, 'Missing env HOST variable')
 const PORT = parseInt(process.env.PORT);
 const HOST = process.env.HOST;
 
-const server = app.listen(PORT, HOST, () => {
-  console.log(`Listening on http://${HOST}:${PORT}`)
-})
+let server: Server
 
-process.on('SIGHUP',()=>{
+(async () => {
+  console.log('Connecting to DB')
+  await sequelize.authenticate()
+  server = app.listen(PORT, HOST, () => {
+    console.log(`Listening on http://${HOST}:${PORT}`)
+  })
+})()
+
+process.on('SIGHUP', () => {
   console.log('Recieved SIGHUP. Stopping...');
   server.close()
+  sequelize.close()
   console.log('Stopped.');
 })
 // export {} // Force file to be module (TS)
