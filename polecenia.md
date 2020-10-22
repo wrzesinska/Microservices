@@ -129,3 +129,10 @@ npm run db -- db:migrate:status
 npm run db -- db:migrate --from... --to..
 
 https://github.com/sequelize/umzug
+
+# New DB Model
+npm run db -- db:migrate:status
+
+https://sequelize.org/master/manual/model-basics.html#data-types
+
+npm run db -- model:generate --name Product --attributes name:string, price:string
