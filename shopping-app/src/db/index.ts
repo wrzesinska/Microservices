@@ -10,7 +10,7 @@ export const sequelize = new Sequelize({
 }) // Example for postgres
 
 
-if (process.env.NODE_ENV !== 'production') {
+if (process.env.NODE_ENV === 'development') {
   console.log('SYNCING DB STRUCTURE!!!')
-  sequelize.sync()
+  // sequelize.sync()
 }
