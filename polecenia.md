@@ -112,3 +112,9 @@ user: postgres
 db: postrgres
 password: mysecretpassword
  -->
+
+
+# Sequelize CLI
+npm run db -- model:generate --name User --attributes username:string,password:string
+
+seed:generate --name demo-user
