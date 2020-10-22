@@ -20,7 +20,7 @@ export const getUsers = async () => {
 }
 
 export const getUserById = async (id: string) => {
-  return (usersData.find(u => u.id == id))
+  return User.findByPk(id)
 }
 
 export const createUser = async (userPayload: UserCreatePayload) => {
@@ -54,18 +54,18 @@ export const createUser = async (userPayload: UserCreatePayload) => {
 // }
 
 export const updateUser = async (userPayload) => {
-  const existing = await (getUserById(userPayload.id))
-  const user = {
-    ...existing,
-    ...userPayload
-  }
-  const index = usersData.findIndex(u => u.id == existing.id)
-  if (index != -1) {
-    usersData[index] = user
-  } else {
+  const user = await User.findOne({
+    where: {
+      username: userPayload.username
+    }
+  })
+  if (!user) {
     throw new NotFoundError('User not found')
   }
-  return (user)
+  userPayload.username && user.set('username', userPayload.username)
+  userPayload.password && user.set('password', hashUserPassword(userPayload.password))
+
+  return (user.save())
 }
 
 
