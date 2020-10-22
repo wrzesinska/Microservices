@@ -19,7 +19,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "== Admin tasks ": "----------------------------------------",
     "inny_port": "cross-env PORT=3000 node ./dist/index.js",
-    "db":"tsc && sequelize"
+    "db": "ts-node ./node_modules/sequelize-cli/lib/sequelize"
   },
   "repository": {
     "type": "git",
@@ -50,7 +50,8 @@
     "morgan": "^1.10.0",
     "pg": "^8.4.1",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^6.3.5"
+    "sequelize": "^6.3.5",
+    "uuid-by-string": "^3.0.2"
   },
   "description": ""
 }

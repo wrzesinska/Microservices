@@ -115,6 +115,17 @@ password: mysecretpassword
 
 
 # Sequelize CLI
-npm run db -- model:generate --name User --attributes username:string,password:string
+// package.json > scripts:
+npm run db === ts-node ./node_modules/sequelize-cli/lib/sequelize 
 
-seed:generate --name demo-user
+npm run db -- init // creates directories
+
+https://khalilstemmler.com/articles/auto-increment-or-uuid/
+
+npm run db -- model:generate --name User --attributes username:string,password:string
+npm run db -- seed:generate --name demo-user
+
+npm run db -- db:migrate:status
+npm run db -- db:migrate --from... --to..
+
+https://github.com/sequelize/umzug

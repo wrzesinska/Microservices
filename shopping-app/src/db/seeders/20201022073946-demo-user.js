@@ -1,4 +1,5 @@
 'use strict';
+const uuid = require('uuid-by-string')
 
 module.exports = {
   up: async (queryInterface, Sequelize) => {
@@ -11,12 +12,21 @@ module.exports = {
      *   isBetaMember: false
      * }], {});
     */
-    queryInterface.bulkInsert('Users', [
+    return queryInterface.bulkInsert('Users', [
       {
-        id: '123', username: 'admin', password: 'be78bbf6b1e4056f3b5f19da7753880f'
+        // id: 'd17b7044-4ee6-459e-ala5-6362a37cf9b5',
+        id: uuid('admin'),
+        username: 'admin',
+        password: 'be78bbf6b1e4056f3b5f19da7753880f',
+        createdAt: '2020-10-22T08:10:48.742Z',
+        updatedAt: '2020-10-22T08:10:48.742Z',
       },
       {
-        id: '234', username: 'user', password: 'be78bbf6b1e4056f3b5f19da7753880f'
+        id: uuid('user'),
+        username: 'user',
+        password: 'be78bbf6b1e4056f3b5f19da7753880f',
+        createdAt: '2020-10-22T08:10:48.742Z',
+        updatedAt: '2020-10-22T08:10:48.742Z',
       },
     ])
   },
@@ -28,6 +38,6 @@ module.exports = {
      * Example:
      * await queryInterface.bulkDelete('People', null, {});
      */
-     await queryInterface.bulkDelete('Users', null, {});
+    return  queryInterface.bulkDelete('Users', null, {});
   }
 };

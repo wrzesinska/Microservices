@@ -86,7 +86,7 @@ export const getUserByToken = async (token: string) => {
 }
 
 export const signinUser = async (username: string, password: string) => {
-  const user = usersData.find(u => u.username == username)
+  const user = await User.findOne({ where: { username: username } })
   if (!user || user.password !== hashUserPassword(password)) {
     throw new Error('Incorrect username or password')
   }
